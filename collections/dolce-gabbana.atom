@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/dolce-gabbana.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-06-26T14:08:42-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6804774912189</id>
+    <published>2021-06-26T14:08:42-04:00</published>
+    <updated>2021-06-26T14:08:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/d-g-dolce-rose"/>
+    <title>D&amp;G Dolce Rose</title>
+    <s:type>Women</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/D_G-Dolce-Rose.png?v=1626101878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            94.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6804774912189</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">94.95</s:price>
+      <s:sku>DGDOLROS75TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6790203179197</id>
+    <published>2021-06-19T01:55:16-04:00</published>
+    <updated>2021-06-19T01:55:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/d-g-the-one-platinum-edition-2014"/>
+    <title>D&amp;G The One Platinum Edition 2014</title>
+    <s:type>Men</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/D_G-The-One-Platinum-Edition-2014.png?v=1626101630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            64.95 - 74.95
+            <a href="https://perfumeonline.ca/products/d-g-the-one-platinum-edition-2014">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="padding-left: 30px;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12JULYY2021</s:tag>
+    <s:tag>3JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6790203179197</id>
+      <title>50ML EDT TESTER</title>
+      <s:price currency="CAD">64.95</s:price>
+      <s:sku>TESDGONEPLA50M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6790203179197</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">74.95</s:price>
+      <s:sku>DGONEPLA50M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6735827206333</id>
+    <published>2021-05-28T10:45:48-04:00</published>
+    <updated>2021-05-28T10:45:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/d-g-light-blue-panarea"/>
+    <title>D&amp;G Light Blue Panarea</title>
+    <s:type>Women</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/D_G-Light-Blue-Panarea.png?v=1626101880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            90.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25MAYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6735827206333</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">90.95</s:price>
+      <s:sku>DGLIGPAN100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6731203969213</id>
+    <published>2021-05-26T05:31:53-04:00</published>
+    <updated>2021-05-26T05:31:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/d-g-21-le-fou"/>
+    <title>D&amp;G 21 Le Fou</title>
+    <s:type>Men</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/D_G21LeFou.jpg?v=1626101878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25MAYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6731203969213</id>
+      <title>100ML EDT UNBOXED</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>DG21LEFOU100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6129448878269</id>
+    <published>2020-12-17T08:24:54-05:00</published>
+    <updated>2020-12-17T08:24:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dolce-gabbana-king-edp"/>
+    <title>Dolce &amp; Gabbana King Edp</title>
+    <s:type>Men</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/dg-king-edp.png?v=1613493387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            79.95 - 140.95
+            <a href="https://perfumeonline.ca/products/dolce-gabbana-king-edp">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12DECC2020</s:tag>
+    <s:tag>3JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6129448878269</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">81.95</s:price>
+      <s:sku>DGKIN50PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6129448878269</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>TESDGKINPM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6129448878269</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">95.45</s:price>
+      <s:sku>DGKIN100PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6129448878269</id>
+      <title>150ML EDP</title>
+      <s:price currency="CAD">140.95</s:price>
+      <s:sku>DGKIN150PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6111632261309</id>
+    <published>2020-12-07T10:11:20-05:00</published>
+    <updated>2020-12-07T10:11:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dolce-gabbana-velvet-mimosa-bloom-edp"/>
+    <title>Dolce &amp; Gabbana Velvet Mimosa Bloom Edp</title>
+    <s:type>Men</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dolce_GabbanaVelvetMimosaBloomEdpMen.jpg?v=1626101901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            91.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6111632261309</id>
+      <title>50ML EDP TESTER</title>
+      <s:price currency="CAD">91.95</s:price>
+      <s:sku>TESDGVELMIMBLO50M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6111188320445</id>
+    <published>2020-12-07T07:53:29-05:00</published>
+    <updated>2020-12-07T07:53:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dolce-gabbana-velvet-sicily"/>
+    <title>Dolce &amp; Gabbana Velvet Sicily</title>
+    <s:type>Women</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dolce_GabbanaVelvetSicilyWomen.jpg?v=1626101900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            154.95 - 285.95
+            <a href="https://perfumeonline.ca/products/dolce-gabbana-velvet-sicily">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6111188320445</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">154.95</s:price>
+      <s:sku>DGVELSIC50W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6111188320445</id>
+      <title>150ML EDP</title>
+      <s:price currency="CAD">285.95</s:price>
+      <s:sku>DGVELSIC150W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6111179735229</id>
+    <published>2020-12-07T07:51:48-05:00</published>
+    <updated>2020-12-07T07:51:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dolce-gabbana-velvet-love"/>
+    <title>Dolce &amp; Gabbana Velvet Love</title>
+    <s:type>Women</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dolce-_-Gabbana-Velvet-Love-Women.jpg?v=1626101899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            199.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6111179735229</id>
+      <title>150ML EDP</title>
+      <s:price currency="CAD">199.95</s:price>
+      <s:sku>DGVELLOV150W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6089154429117</id>
+    <published>2020-11-22T02:08:36-05:00</published>
+    <updated>2020-11-22T02:08:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dg-light-blue-italian-zest"/>
+    <title>Dg Light Blue Italian Zest</title>
+    <s:type>Men</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dg-Light-Blue-Italian-Zest-Men.jpg?v=1626101889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            56.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6089154429117</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">56.95</s:price>
+      <s:sku>DGLIGITAZES75M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6078988779709</id>
+    <published>2020-11-17T05:58:05-05:00</published>
+    <updated>2020-11-17T05:58:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dolce-gabbana-velvet-mimosa-bloom-pour-femme"/>
+    <title>Dolce &amp; Gabbana Velvet Mimosa Bloom Pour Femme</title>
+    <s:type>Women</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_2ff71c28-36d8-41f3-bdef-140cafccc63c.png?v=1613493394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            129.95 - 209.95
+            <a href="https://perfumeonline.ca/products/dolce-gabbana-velvet-mimosa-bloom-pour-femme">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16NOVV2020</s:tag>
+    <s:tag>1DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6078988779709</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">129.95</s:price>
+      <s:sku>DGVELMIMBLO50W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6078988779709</id>
+      <title>150ML EDP</title>
+      <s:price currency="CAD">209.95</s:price>
+      <s:sku>DGVELMIMBLO150W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6078981832893</id>
+    <published>2020-11-17T05:56:30-05:00</published>
+    <updated>2020-11-17T05:56:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dolce-gabbana-velvet-ginestra"/>
+    <title>Dolce &amp; Gabbana Velvet Ginestra</title>
+    <s:type>Women</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dolce-_-Gabbana-Velvet-Ginestra-Women.jpg?v=1626101898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            101.95 - 194.95
+            <a href="https://perfumeonline.ca/products/dolce-gabbana-velvet-ginestra">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16NOVV2020</s:tag>
+    <s:tag>1DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6078981832893</id>
+      <title>50ML EDP TESTER</title>
+      <s:price currency="CAD">101.95</s:price>
+      <s:sku>TESDGVELGIN50W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6078981832893</id>
+      <title>150ML EDP</title>
+      <s:price currency="CAD">194.95</s:price>
+      <s:sku>DGVELGIN150W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6078977573053</id>
+    <published>2020-11-17T05:55:33-05:00</published>
+    <updated>2020-11-17T05:55:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dolce-gabbana-velvet-exotic-leather-pour-homme"/>
+    <title>Dolce &amp; Gabbana Velvet Exotic Leather Pour Homme</title>
+    <s:type>Men</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dolce-_-Gabbana-Velvet-Exotic-Leather-Pour-Homme-Men.jpg?v=1624277936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            165.75 - 249.95
+            <a href="https://perfumeonline.ca/products/dolce-gabbana-velvet-exotic-leather-pour-homme">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16NOVV2020</s:tag>
+    <s:tag>1DECC2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6078977573053</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">165.75</s:price>
+      <s:sku>DGVELEXOLEA50M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6078977573053</id>
+      <title>150ML EDP</title>
+      <s:price currency="CAD">249.95</s:price>
+      <s:sku>DGVELEXOLEA150PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4798736793697</id>
+    <published>2020-10-22T14:59:04-04:00</published>
+    <updated>2020-10-22T14:59:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/d-g-dolce-shine"/>
+    <title>D&amp;G Dolce Shine</title>
+    <s:type>Women</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/D_G-DOLCE-SHINE-75ML-EDP-WOMEN.png?v=1613493357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            72.95 - 82.95
+            <a href="https://perfumeonline.ca/products/d-g-dolce-shine">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>17MARR21</s:tag>
+    <s:tag>22OCCT2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4798736793697</id>
+      <title>75ML EDP TESTER</title>
+      <s:price currency="CAD">72.95</s:price>
+      <s:sku>TESDGDOLSHI75W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4798736793697</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">82.95</s:price>
+      <s:sku>DGDOLSHI75W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4741164957793</id>
+    <published>2020-08-25T14:07:46-04:00</published>
+    <updated>2020-08-25T14:07:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/d-g-light-blue-love-edt"/>
+    <title>D&amp;G Light Blue Love Is Love Edt</title>
+    <s:type>Women</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/D_GLightBlueLoveIsLoveEdtWomen.jpg?v=1624298082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            58.95 - 61.95
+            <a href="https://perfumeonline.ca/products/d-g-light-blue-love-edt">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1DECC2020</s:tag>
+    <s:tag>22AUG2020</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4741164957793</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">61.95</s:price>
+      <s:sku>DGLIGLOV50TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4741164957793</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">58.95</s:price>
+      <s:sku>DGLIGLOV100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4741163909217</id>
+    <published>2020-08-25T14:06:24-04:00</published>
+    <updated>2020-08-25T14:06:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/d-g-light-blue-love"/>
+    <title>D&amp;G Light Blue Love</title>
+    <s:type>Men</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/D_GLightBlueLoveMen_a7e30033-4c13-4494-9735-d2607ba5cfd1.jpg?v=1626101879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            73.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22AUG2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4741163909217</id>
+      <title>125ML EDT</title>
+      <s:price currency="CAD">73.95</s:price>
+      <s:sku>DGLIGLOV125M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4713314910305</id>
+    <published>2020-07-25T13:42:17-04:00</published>
+    <updated>2020-07-25T13:42:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dolce-gabbana-the-one-intense"/>
+    <title>Dolce &amp; Gabbana The One Intense</title>
+    <s:type>Men</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_2048x2048_99183c8c-200e-452a-b2b1-d9671c0b949e.png?v=1601289236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            73.95 - 96.95
+            <a href="https://perfumeonline.ca/products/dolce-gabbana-the-one-intense">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22OCCT2020</s:tag>
+    <s:tag>25JULY2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4713314910305</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">73.95</s:price>
+      <s:sku>TESDGONEINT100PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4713314910305</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">96.95</s:price>
+      <s:sku>DGONEINT100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4713311371361</id>
+    <published>2020-07-25T13:37:04-04:00</published>
+    <updated>2020-07-25T13:37:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dolce-gabbana-the-only-one-intesne"/>
+    <title>Dolce &amp; Gabbana The Only One Intesne</title>
+    <s:type>Women</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_2048x2048_d29a991d-87e8-4211-81c6-391572e6ca58.png?v=1606122694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            74.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JULY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4713311371361</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">74.95</s:price>
+      <s:sku>TESDGONLINT100PW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4651602804833</id>
+    <published>2020-05-31T02:40:24-04:00</published>
+    <updated>2020-05-31T02:40:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dolce-gabbana-velvet-patchouli"/>
+    <title>Dolce &amp; Gabbana Velvet Patchouli</title>
+    <s:type>Men</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dolce-_-Gabbana-Velvet-Patchouli.png?v=1600888890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            96.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>31MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4651602804833</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">96.45</s:price>
+      <s:sku>DGVELPAT50PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4651602739297</id>
+    <published>2020-05-31T02:40:21-04:00</published>
+    <updated>2020-05-31T02:40:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dolce-gabbana-velvet-amber-skin"/>
+    <title>Dolce &amp; Gabbana Velvet Amber Skin</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dolce-_-Gabbana-Velvet-Amber-Skin.png?v=1600888888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            159.95 - 397.95
+            <a href="https://perfumeonline.ca/products/dolce-gabbana-velvet-amber-skin">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1DECC2020</s:tag>
+    <s:tag>31MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4651602739297</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">159.95</s:price>
+      <s:sku>DGVELAMBSKI50U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4651602739297</id>
+      <title>150ML EDP</title>
+      <s:price currency="CAD">397.95</s:price>
+      <s:sku>DGVELAMBSKI150U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4651602706529</id>
+    <published>2020-05-31T02:40:20-04:00</published>
+    <updated>2020-05-31T02:40:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dolce-gabbana-velvet-amber-sun"/>
+    <title>Dolce &amp; Gabbana Velvet Amber Sun</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dolce-_-Gabbana-Velvet-Amber-Sun.png?v=1600888889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            155.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>31MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4651602706529</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">155.95</s:price>
+      <s:sku>DGVELAMBSUN50U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4651602640993</id>
+    <published>2020-05-31T02:40:20-04:00</published>
+    <updated>2020-05-31T02:40:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dolce-gabbana-velvet-desire"/>
+    <title>Dolce &amp; Gabbana Velvet Desire</title>
+    <s:type>Women</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dolce-_-Gabbana-Velvet-Desire.png?v=1601289237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            149.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>31MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4651602640993</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">149.95</s:price>
+      <s:sku>DGVELDES50W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4603342323809</id>
+    <published>2020-05-04T13:33:09-04:00</published>
+    <updated>2020-05-04T13:33:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dolce-peony"/>
+    <title>Dolce Peony</title>
+    <s:type>Women</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dolce-Peony.png?v=1600888891"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            49.95 - 96.95
+            <a href="https://perfumeonline.ca/products/dolce-peony">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>28sep2020</s:tag>
+    <s:tag>2NOVV2020</s:tag>
+    <s:tag>4MAY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4603342323809</id>
+      <title>30ML EDP</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>DGPEO30PW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4603342323809</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">57.95</s:price>
+      <s:sku>DGPEO50PW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4603342323809</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">96.95</s:price>
+      <s:sku>DGPEO75PW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4398801649761</id>
+    <published>2019-11-30T09:04:00-05:00</published>
+    <updated>2019-11-30T09:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dolce-gabbana-velvet-tender-oud"/>
+    <title>Dolce &amp; Gabbana Velvet Tender Oud</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dolce-_-Gabbana-Velvet-Tender-Oud.png?v=1575282543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            143.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>30novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4398801649761</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">143.95</s:price>
+      <s:sku>DGVELTENOUD50PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332544622689</id>
+    <published>2019-11-23T04:28:34-05:00</published>
+    <updated>2019-11-23T04:28:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/d-g-the-one-gift-set-women"/>
+    <title>D&amp;G The One Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_724e0792-44ac-41c1-9877-5f7056fcaac6.png?v=1572432950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            106.95 - 110.95
+            <a href="https://perfumeonline.ca/products/d-g-the-one-gift-set-women">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332544622689</id>
+      <title>75ML EDP + 50ML B/L + 50ML S/G</title>
+      <s:price currency="CAD">106.95</s:price>
+      <s:sku>SET-DGONE0860W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332544622689</id>
+      <title>75ML Edp + 7.5 ML Edp + 100ML B/L Hard Box</title>
+      <s:price currency="CAD">110.95</s:price>
+      <s:sku>SET-DGONE758W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332544458849</id>
+    <published>2019-11-23T04:28:33-05:00</published>
+    <updated>2019-11-23T04:28:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/d-g-pour-homme-gift-set-men"/>
+    <title>D&amp;G Pour Homme Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-DGM0357M_spo_6d6f4e38-cb58-4d14-a081-8affafbd04a0.jpg?v=1572432944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            92.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332544458849</id>
+      <title>125Ml Edt + 100Ml A/S + 50Ml S/G</title>
+      <s:price currency="CAD">92.95</s:price>
+      <s:sku>SET-DGM0357M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

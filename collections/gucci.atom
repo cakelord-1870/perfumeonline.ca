@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/gucci.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-08-06T06:05:01-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6882914599101</id>
+    <published>2021-08-06T06:05:01-04:00</published>
+    <updated>2021-08-06T06:05:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gucci-flora-gracious-tuerose"/>
+    <title>Gucci Flora Gracious Tuerose</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_37933013-a92f-4b03-b205-91360b249c85.png?v=1628244302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            87.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6882914599101</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">87.95</s:price>
+      <s:sku>TESGUCFLOGRATUB100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6882911649981</id>
+    <published>2021-08-06T06:03:39-04:00</published>
+    <updated>2021-08-06T06:03:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gucci-flora-glorious-mandarin"/>
+    <title>Gucci Flora Glorious Mandarin</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_8ec74b70-2196-4bde-a10a-2fb61be2a665.png?v=1628244220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            87.95 - 115.95
+            <a href="https://perfumeonline.ca/products/gucci-flora-glorious-mandarin">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6882911649981</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">87.95</s:price>
+      <s:sku>TESGUCFLOGLOMAN100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6882911649981</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">115.95</s:price>
+      <s:sku>GUCFLOGORMAN100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6804773961917</id>
+    <published>2021-06-26T14:07:47-04:00</published>
+    <updated>2021-06-26T14:07:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gucci-guilty-love-edition-edp"/>
+    <title>Gucci Guilty Love Edition Edp</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Gucci-Guilty-Love-Edition-Edp.png?v=1626101957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            94.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6804773961917</id>
+      <title>90ML EDP TESTER</title>
+      <s:price currency="CAD">94.95</s:price>
+      <s:sku>TESGUCGUILOV90W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6804773306557</id>
+    <published>2021-06-26T14:06:58-04:00</published>
+    <updated>2021-06-26T14:06:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gucci-guilty-love-edition"/>
+    <title>Gucci Guilty Love Edition</title>
+    <s:type>Men</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/51zrxRqjPJL._SL1000.jpg?v=1626101956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            94.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6804773306557</id>
+      <title>90ML EDT TESTER</title>
+      <s:price currency="CAD">94.95</s:price>
+      <s:sku>TESGUCGUILOV90M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6102529835197</id>
+    <published>2020-12-01T03:19:32-05:00</published>
+    <updated>2020-12-01T03:19:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gucci-bamboo-limited-edition"/>
+    <title>Gucci Bamboo Limited Edition</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Gucci-Bamboo-Limited-Edition-Women.jpg?v=1626101955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            58.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6102529835197</id>
+      <title>50ML EDP TESTER</title>
+      <s:price currency="CAD">58.95</s:price>
+      <s:sku>TESGUCBAMLE50W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4692896677985</id>
+    <published>2020-07-02T10:56:37-04:00</published>
+    <updated>2020-07-02T10:56:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gucci-guilty-edp"/>
+    <title>Gucci Guilty Edp</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Gucci-Guilty-Edp.png?v=1613493481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            77.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>02JULY2020</s:tag>
+    <s:tag>28jun2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4692896677985</id>
+      <title>150ML EDP TESTER</title>
+      <s:price currency="CAD">77.95</s:price>
+      <s:sku>TESGUCGUI150W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4687098282081</id>
+    <published>2020-06-29T00:12:36-04:00</published>
+    <updated>2020-06-29T00:12:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gucci-guilty-pour-homme"/>
+    <title>Gucci Guilty Pour Homme</title>
+    <s:type>Men</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Gucci-Guilty-Pour-Homme-edp.png?v=1606122770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            61.45 - 79.95
+            <a href="https://perfumeonline.ca/products/gucci-guilty-pour-homme">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>28JUN2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4687098282081</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">61.45</s:price>
+      <s:sku>GUCGUI50PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4687098282081</id>
+      <title>90ML EDP</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>GUCGUI90PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4685548585057</id>
+    <published>2020-06-27T06:38:19-04:00</published>
+    <updated>2020-06-27T06:38:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gucci-guilty-stud-limited-edition"/>
+    <title>Gucci Guilty Stud Limited Edition</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Gucci-Guilty-Stud-Limited-Edition.png?v=1613493482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            52.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27JUN2020</s:tag>
+    <s:tag>28JUN2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4685548585057</id>
+      <title>50ML EDT TESTER</title>
+      <s:price currency="CAD">52.95</s:price>
+      <s:sku>TESGUCGUISTU50TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4658841550945</id>
+    <published>2020-06-08T05:06:04-04:00</published>
+    <updated>2020-06-08T05:06:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gucci-guilty-pour-femme"/>
+    <title>Gucci Guilty Pour Femme</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Gucci-Guilty-Pour-Femme.png?v=1606122769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            85.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>31MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4658841550945</id>
+      <title>90ML EDP TESTER</title>
+      <s:price currency="CAD">85.95</s:price>
+      <s:sku>TESGUCGUIPOU90W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4385351532641</id>
+    <published>2019-11-25T06:03:25-05:00</published>
+    <updated>2019-11-25T06:03:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gucci-memoire-dune-odeur"/>
+    <title>Gucci Memoire D&apos;Une Odeur</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Gucci-Memoire-D_Une-Odeur.png?v=1574752251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            129.95 - 135.95
+            <a href="https://perfumeonline.ca/products/gucci-memoire-dune-odeur">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4385351532641</id>
+      <title>60ML EDP</title>
+      <s:price currency="CAD">129.95</s:price>
+      <s:sku>GUCMEM60PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4385351532641</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">135.95</s:price>
+      <s:sku>GUCMEM100PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4385351499873</id>
+    <published>2019-11-25T06:03:24-05:00</published>
+    <updated>2019-11-25T06:03:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gucci-bloom-nettare-di-fiori"/>
+    <title>Gucci Bloom Nettare Di Fiori</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Gucci-Bloom-Nettare-Di-Fiori.png?v=1574714584"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            87.95 - 114.95
+            <a href="https://perfumeonline.ca/products/gucci-bloom-nettare-di-fiori">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4385351499873</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">87.95</s:price>
+      <s:sku>GUCBLONEC90PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4385351499873</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">114.95</s:price>
+      <s:sku>GUCBLONEC50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4385351434337</id>
+    <published>2019-11-25T06:03:24-05:00</published>
+    <updated>2019-11-25T06:03:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gucci-bloom-gocce-di-fiori"/>
+    <title>Gucci Bloom Gocce Di Fiori</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Gucci-Bloom-Gocce-Di-Fiori.png?v=1574714481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            109.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4385351434337</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">109.95</s:price>
+      <s:sku>GUCBLOGLO100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332955893857</id>
+    <published>2019-11-23T04:29:20-05:00</published>
+    <updated>2019-11-23T04:29:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gucci-guilty-gift-set-women"/>
+    <title>Gucci Guilty Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_5c17b119-741d-4357-b53d-fc7b26c6018c.png?v=1572519264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            87.95 - 103.95
+            <a href="https://perfumeonline.ca/products/gucci-guilty-gift-set-women">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332955893857</id>
+      <title>75ML Edt + 7.4ML Edt</title>
+      <s:price currency="CAD">87.95</s:price>
+      <s:sku>SET-GUCGUI75TRAW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332955893857</id>
+      <title>75ML Edt + 90ML B/L + 50ML S/G</title>
+      <s:price currency="CAD">103.95</s:price>
+      <s:sku>SET-GUCGUI7269W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332955795553</id>
+    <published>2019-11-23T04:29:19-05:00</published>
+    <updated>2019-11-23T04:29:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gucci-bamboo-gift-set-women"/>
+    <title>Gucci Bamboo Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_5634c78e-6b07-4840-83fc-b5ad847295ae.png?v=1572519262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            115.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332955795553</id>
+      <title>75ML Edp + 100ML B/L + 7.5ML Edp</title>
+      <s:price currency="CAD">115.95</s:price>
+      <s:sku>SET-GUCBAM75PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332545376353</id>
+    <published>2019-11-23T04:29:12-05:00</published>
+    <updated>2019-11-23T04:29:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gucci-flora-gift-set-women"/>
+    <title>Gucci Flora Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-GUCFLO2577W_spo_e4d07687-03d8-4515-beb7-1e35b737e029.jpg?v=1572432968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            90.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332545376353</id>
+      <title>75ML Edt + 15ML Mini</title>
+      <s:price currency="CAD">90.95</s:price>
+      <s:sku>SET-GUCFLO2577W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332545343585</id>
+    <published>2019-11-23T04:29:12-05:00</published>
+    <updated>2019-11-23T04:29:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gucci-guilty-gift-set-men"/>
+    <title>Gucci Guilty Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-GUCGUI1566M_spo_5d2ad09a-da96-4f84-8c9d-18c4fdcbb1eb.jpg?v=1572432970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            86.95 - 96.95
+            <a href="https://perfumeonline.ca/products/gucci-guilty-gift-set-men">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>Vsets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332545343585</id>
+      <title>90ML EDT + 75ML DEO STICK + 50ML A/S</title>
+      <s:price currency="CAD">86.95</s:price>
+      <s:sku>SET-GUCGUI90M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332545343585</id>
+      <title>90ML Edt + 75GM Deo Stick</title>
+      <s:price currency="CAD">93.95</s:price>
+      <s:sku>SET-GUCGUIDEO90M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332545343585</id>
+      <title>90ML Edt + 50ML S/G + 75ML A/S</title>
+      <s:price currency="CAD">96.95</s:price>
+      <s:sku>SET-GUCGUI1566M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312167645281</id>
+    <published>2019-10-25T04:38:37-04:00</published>
+    <updated>2019-10-25T04:38:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gucci-oud"/>
+    <title>Gucci Oud</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Gucci-Oud.png?v=1572292684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            89.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312167645281</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">89.95</s:price>
+      <s:sku>GUCOUD50W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312167612513</id>
+    <published>2019-10-25T04:38:36-04:00</published>
+    <updated>2019-10-25T04:38:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gucci-guilty-oud"/>
+    <title>Gucci Guilty Oud</title>
+    <s:type>Men</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Gucci-Guilty-Oud.png?v=1572292623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            99.95 - 159.95
+            <a href="https://perfumeonline.ca/products/gucci-guilty-oud">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:tag>25novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312167612513</id>
+      <title>90ML EDP TESTER</title>
+      <s:price currency="CAD">99.95</s:price>
+      <s:sku>TESGUCGUI90PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312167612513</id>
+      <title>90ML EDP</title>
+      <s:price currency="CAD">159.95</s:price>
+      <s:sku>GUCGUIOUD90M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258976366689</id>
+    <published>2019-10-15T07:36:06-04:00</published>
+    <updated>2019-10-15T07:36:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gucci-guilty-cologne"/>
+    <title>Gucci Guilty Cologne</title>
+    <s:type>Men</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/GUCCI-GUILTY-COLOGNE-50ML-EDT-MEN.png?v=1571610020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            59.95 - 77.75
+            <a href="https://perfumeonline.ca/products/gucci-guilty-cologne">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258976366689</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku>GUCGUICOL50M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258976366689</id>
+      <title>90ML EDT</title>
+      <s:price currency="CAD">77.75</s:price>
+      <s:sku>GUCGUICOL90M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/2057240150113</id>
+    <published>2019-04-05T16:10:56-04:00</published>
+    <updated>2019-04-05T16:10:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gucci-intense-oud"/>
+    <title>Gucci Intense Oud</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Gucci-Intense-Oud.png?v=1571609995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            142.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2057240150113</id>
+      <title>90ML EDP</title>
+      <s:price currency="CAD">142.45</s:price>
+      <s:sku>GUCOUD90M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9838308043</id>
+    <published>2018-10-09T14:58:30-04:00</published>
+    <updated>2018-10-09T14:58:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gucci-guilty-diamond-men"/>
+    <title>Gucci Guilty Diamond</title>
+    <s:type>Men</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Gucci-Guilty-Diamond-Edt.png?v=1571609918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            63.95 - 80.95
+            <a href="https://perfumeonline.ca/products/gucci-guilty-diamond-men">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838308043</id>
+      <title>90ML EDT</title>
+      <s:price currency="CAD">80.95</s:price>
+      <s:sku>GUCGUIDIA90M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838308043</id>
+      <title>90ML EDT TESTER</title>
+      <s:price currency="CAD">63.95</s:price>
+      <s:sku>TESGUCGGUIDIA90TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9838184459</id>
+    <published>2018-10-09T14:58:30-04:00</published>
+    <updated>2018-10-09T14:58:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gucci-flora-fraiche"/>
+    <title>Gucci Flora Fraiche</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/GUCCI-FLORA-FRAICHE.png?v=1571609917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            58.95 - 79.95
+            <a href="https://perfumeonline.ca/products/gucci-flora-fraiche">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICESHEET1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838184459</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">58.95</s:price>
+      <s:sku>GUCFLOFRA50TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838184459</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>GUCFLOFRA75TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9838122571</id>
+    <published>2018-10-09T14:58:30-04:00</published>
+    <updated>2018-10-09T14:58:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gucci-by-gucci-pour-homme"/>
+    <title>Gucci Pour Homme</title>
+    <s:type>Men</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/207749_spo.jpg?v=1571609917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            72.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICESHEET1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838122571</id>
+      <title>90ML EDT TESTER</title>
+      <s:price currency="CAD">72.95</s:price>
+      <s:sku>TESGUCHOM90M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1405823484001</id>
+    <published>2018-08-03T08:14:12-04:00</published>
+    <updated>2018-08-03T08:14:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gucci-bloom-acqua-di-fiori"/>
+    <title>Gucci Bloom Acqua Di Fiori</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/3614226761484_01-o__4.jpg?v=1571609976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            77.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1405823484001</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">77.95</s:price>
+      <s:sku>GUCBLOACQ100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/786559205473</id>
+    <published>2018-07-20T12:50:17-04:00</published>
+    <updated>2018-07-20T12:50:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gucci-pour-homme-sport"/>
+    <title>Gucci Pour Homme Sport</title>
+    <s:type>Men</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/GUCCI-POUR-HOMME-SPORT-90ML-EDT-TESTER-MEN.jpg?v=1571609970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            73.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/786559205473</id>
+      <title>90ML EDT TESTER</title>
+      <s:price currency="CAD">73.95</s:price>
+      <s:sku>TESGUCPOUSPO90M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

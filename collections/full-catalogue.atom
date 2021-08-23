@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/full-catalogue.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-08-12T11:18:08-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6887815053501</id>
+    <published>2021-08-12T11:18:08-04:00</published>
+    <updated>2021-08-12T11:18:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/nishane-nanshe"/>
+    <title>Nishane Nanshe</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>NISHANE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_678c4856-d61b-413e-96aa-01f26623adee.png?v=1628507598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NISHANE<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            234.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6887815053501</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">234.95</s:price>
+      <s:sku>NISNAN100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6887835173053</id>
+    <published>2021-08-09T07:28:22-04:00</published>
+    <updated>2021-08-09T07:28:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/jill-sander-sun"/>
+    <title>Jill Sander Sun</title>
+    <s:type>Men</s:type>
+    <s:vendor>Jil Sander</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_05f0861c-b174-41c2-aac8-4d0a7769b3de.png?v=1628508503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jil Sander<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            53.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6887835173053</id>
+      <title>125ML EDT</title>
+      <s:price currency="CAD">53.95</s:price>
+      <s:sku>JSSUN125M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6887829930173</id>
+    <published>2021-08-09T07:24:55-04:00</published>
+    <updated>2021-08-09T07:24:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/jean-louis-scherrer-miss-scherrer"/>
+    <title>Jean Louis Scherrer Miss Scherrer</title>
+    <s:type>Women</s:type>
+    <s:vendor>Jean Louis Scherrer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_fc8256fe-760c-4b2c-87fa-9fbec977b29a.png?v=1628508275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jean Louis Scherrer<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            46.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6887829930173</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">46.95</s:price>
+      <s:sku>JEAMIS50W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883123495101</id>
+    <published>2021-08-06T07:29:14-04:00</published>
+    <updated>2021-08-06T07:29:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/demeter-tomato"/>
+    <title>Demeter Tomato</title>
+    <s:type>Women</s:type>
+    <s:vendor>Demeter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_325b3c22-c0e5-427f-b134-0ccbf56203ae.png?v=1628249355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Demeter<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883123495101</id>
+      <title>125ML EDC</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>DEMTOM125W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883123462333</id>
+    <published>2021-08-06T07:29:13-04:00</published>
+    <updated>2021-08-06T07:29:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/demeter-yuzu-marmalade"/>
+    <title>Demeter Yuzu Marmalade</title>
+    <s:type>Women</s:type>
+    <s:vendor>Demeter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_748ef078-3090-4e67-85bd-cb171ca63499.png?v=1628249355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Demeter<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883123462333</id>
+      <title>125ML EDC</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>DEMYUZU125W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883123429565</id>
+    <published>2021-08-06T07:29:13-04:00</published>
+    <updated>2021-08-06T07:29:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/demeter-thunderstrome"/>
+    <title>Demeter Thunderstrome</title>
+    <s:type>Women</s:type>
+    <s:vendor>Demeter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_6b8234f5-b5b3-4056-b437-390c9f3c0d06.png?v=1628249355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Demeter<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883123429565</id>
+      <title>125ML EDC</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>DEMTHU125W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883123396797</id>
+    <published>2021-08-06T07:29:12-04:00</published>
+    <updated>2021-08-06T07:29:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/demeter-sunshine"/>
+    <title>Demeter Sunshine</title>
+    <s:type>Women</s:type>
+    <s:vendor>Demeter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_af18eaaf-97ed-49c7-a7e3-18e43d7d2271.png?v=1628249354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Demeter<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883123396797</id>
+      <title>125ML EDC</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>DEMSUNSHINE125W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883123298493</id>
+    <published>2021-08-06T07:29:10-04:00</published>
+    <updated>2021-08-06T07:29:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/demeter-sugar-cane"/>
+    <title>Demeter Sugar Cane</title>
+    <s:type>Women</s:type>
+    <s:vendor>Demeter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_f00ac7f0-95d0-4aac-a6a6-ce2e4184825e.png?v=1628249351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Demeter<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883123298493</id>
+      <title>125ML EDC</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>DEMSUGCAN125W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883123232957</id>
+    <published>2021-08-06T07:29:09-04:00</published>
+    <updated>2021-08-06T07:29:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/demeter-strawberry-ice-cream"/>
+    <title>Demeter Strawberry Ice Cream</title>
+    <s:type>Women</s:type>
+    <s:vendor>Demeter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_9d03f840-b795-4a61-b0fa-d4ebedc1e447.png?v=1628249352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Demeter<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883123232957</id>
+      <title>125ML EDC</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>DEMSTAICE125W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883123200189</id>
+    <published>2021-08-06T07:29:09-04:00</published>
+    <updated>2021-08-06T07:29:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/demeter-rain"/>
+    <title>Demeter Rain</title>
+    <s:type>Women</s:type>
+    <s:vendor>Demeter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_6cf3b125-ee8b-4302-a595-454f76bf387c.png?v=1628249351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Demeter<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883123200189</id>
+      <title>125ML EDC</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>DEMRAI125W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883123167421</id>
+    <published>2021-08-06T07:29:09-04:00</published>
+    <updated>2021-08-06T07:29:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/demeter-saltair"/>
+    <title>Demeter Saltair</title>
+    <s:type>Women</s:type>
+    <s:vendor>Demeter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_963de42d-0cc6-4213-b714-b570efd7e55f.png?v=1628249351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Demeter<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883123167421</id>
+      <title>120ML EDC</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>DEMSAL120W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883123069117</id>
+    <published>2021-08-06T07:29:07-04:00</published>
+    <updated>2021-08-06T07:29:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/demeter-pomegrante"/>
+    <title>Demeter Pomegrante</title>
+    <s:type>Women</s:type>
+    <s:vendor>Demeter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_43c2112f-e108-41be-a72d-260131ee25a0.png?v=1628249349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Demeter<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883123069117</id>
+      <title>125ML EDC</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>DEMPOM125W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883123003581</id>
+    <published>2021-08-06T07:29:06-04:00</published>
+    <updated>2021-08-06T07:29:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/demeter-petrichor"/>
+    <title>Demeter Petrichor</title>
+    <s:type>Women</s:type>
+    <s:vendor>Demeter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_a79073ee-229a-461a-851f-726a99ebea6d.png?v=1628249348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Demeter<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883123003581</id>
+      <title>125ML EDC</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>DEMPET125W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883122970813</id>
+    <published>2021-08-06T07:29:06-04:00</published>
+    <updated>2021-08-06T07:29:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/demeter-mojito"/>
+    <title>Demeter Mojito</title>
+    <s:type>Women</s:type>
+    <s:vendor>Demeter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_a5d000cd-686e-44b4-9055-d6bd8804c287.png?v=1628249348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Demeter<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883122970813</id>
+      <title>125ML EDC</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>DEMMOJ125W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883122905277</id>
+    <published>2021-08-06T07:29:05-04:00</published>
+    <updated>2021-08-06T07:29:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/demeter-lilly-of-the-valley"/>
+    <title>Demeter Lilly Of The Valley</title>
+    <s:type>Women</s:type>
+    <s:vendor>Demeter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_2789ec1b-925c-4340-b642-a18b4c8b9353.png?v=1628249347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Demeter<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883122905277</id>
+      <title>120ML EDC</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>DEMLILOF120W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883122839741</id>
+    <published>2021-08-06T07:29:03-04:00</published>
+    <updated>2021-08-06T07:29:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/demeter-lilac"/>
+    <title>Demeter Lilac</title>
+    <s:type>Women</s:type>
+    <s:vendor>Demeter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_6b9eb017-9243-4e0f-9235-05e22b668595.png?v=1628249345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Demeter<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883122839741</id>
+      <title>125ML EDC</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>DEMLIL125W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883122806973</id>
+    <published>2021-08-06T07:29:03-04:00</published>
+    <updated>2021-08-06T07:29:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/demeter-jasmine"/>
+    <title>Demeter Jasmine</title>
+    <s:type>Women</s:type>
+    <s:vendor>Demeter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_31da4a64-2015-4a02-8551-a0576dfae1e1.png?v=1628249346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Demeter<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883122806973</id>
+      <title>125ML EDC</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>DEMJAS125W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883122741437</id>
+    <published>2021-08-06T07:29:03-04:00</published>
+    <updated>2021-08-06T07:29:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/demeter-leather"/>
+    <title>Demeter Leather</title>
+    <s:type>Women</s:type>
+    <s:vendor>Demeter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_9a64d1c0-53d9-4a99-89bb-ae59f0f6729b.png?v=1628249345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Demeter<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883122741437</id>
+      <title>120ML EDC</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>DEMLEA120W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883122675901</id>
+    <published>2021-08-06T07:29:02-04:00</published>
+    <updated>2021-08-06T07:29:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/demeter-laundromat"/>
+    <title>Demeter Laundromat</title>
+    <s:type>Women</s:type>
+    <s:vendor>Demeter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_779acd59-6089-4f18-b5f1-388d64353970.png?v=1628249344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Demeter<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883122675901</id>
+      <title>125ML EDC</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>DEMLAUND125W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883122544829</id>
+    <published>2021-08-06T07:29:00-04:00</published>
+    <updated>2021-08-06T07:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/demeter-gingerale"/>
+    <title>Demeter Gingerale</title>
+    <s:type>Women</s:type>
+    <s:vendor>Demeter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_796bbc75-a998-4533-a057-9f60bd974650.png?v=1628249342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Demeter<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883122544829</id>
+      <title>120ML EDC</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>DEMGINGER120W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883122512061</id>
+    <published>2021-08-06T07:29:00-04:00</published>
+    <updated>2021-08-06T07:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/demeter-ginger-cookie"/>
+    <title>Demeter Ginger Cookie</title>
+    <s:type>Women</s:type>
+    <s:vendor>Demeter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_faa0eb1c-1051-437c-b8a2-99baac68ea98.png?v=1628249342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Demeter<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883122512061</id>
+      <title>120ML EDC</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>DEMGINCOO125W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883122479293</id>
+    <published>2021-08-06T07:28:59-04:00</published>
+    <updated>2021-08-06T07:28:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/demeter-funeral"/>
+    <title>Demeter Funeral</title>
+    <s:type>Women</s:type>
+    <s:vendor>Demeter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_72db3b79-9423-4827-8718-72b3e79726f1.png?v=1628249341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Demeter<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883122479293</id>
+      <title>120ML EDC</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>DEMFIN120W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883122446525</id>
+    <published>2021-08-06T07:28:59-04:00</published>
+    <updated>2021-08-06T07:28:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/demeter-gin-tonic"/>
+    <title>Demeter Gin Tonic</title>
+    <s:type>Women</s:type>
+    <s:vendor>Demeter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_b4756e0a-61f2-4266-a0ac-48e5e3fe1394.png?v=1628249341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Demeter<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883122446525</id>
+      <title>125ML EDC</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>DEMGINTON125W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883122282685</id>
+    <published>2021-08-06T07:28:57-04:00</published>
+    <updated>2021-08-06T07:28:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/demeter-fresh-brewed-coffee"/>
+    <title>Demeter Fresh Brewed Coffee</title>
+    <s:type>Women</s:type>
+    <s:vendor>Demeter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_a0957cf3-3cf6-4f8c-a50a-2d63ca6e6bf9.png?v=1628249339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Demeter<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883122282685</id>
+      <title>120ML EDC</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>DEMFREBRE120W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883122249917</id>
+    <published>2021-08-06T07:28:57-04:00</published>
+    <updated>2021-08-06T07:28:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/demeter-firefly"/>
+    <title>Demeter Firefly</title>
+    <s:type>Women</s:type>
+    <s:vendor>Demeter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_7819614c-05c1-4d57-b08d-688fe0119ddb.png?v=1628249339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Demeter<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883122249917</id>
+      <title>125ML EDC</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>DEMFIR125W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

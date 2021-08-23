@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/bob-mackie.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2018-11-19T12:43:00-05:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/9852132939</id>
+    <published>2018-11-19T12:43:00-05:00</published>
+    <updated>2018-11-19T12:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/mackie-women"/>
+    <title>Mackie for Women</title>
+    <s:type>Women</s:type>
+    <s:vendor>BOB MACKIE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bob_Mackie_Perfume_for_Women.jpg?v=1571609946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOB MACKIE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            14.95 - 21.45
+            <a href="https://perfumeonline.ca/products/mackie-women">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9852132939</id>
+      <title>30ML EDT</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MAC30TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9852132939</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku>MAC50TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9852132939</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">17.25</s:price>
+      <s:sku>TESMAC100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9852132939</id>
+      <title>100ML EDT + 200 ML BODY LOTION</title>
+      <s:price currency="CAD">21.45</s:price>
+      <s:sku>MAC100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9852115403</id>
+    <published>2017-08-19T02:37:08-04:00</published>
+    <updated>2017-08-19T02:37:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/mackie"/>
+    <title>Mackie for Men</title>
+    <s:type>Men</s:type>
+    <s:vendor>BOB MACKIE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bob_Mackie_Cologne_for_Men.jpg?v=1571609946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOB MACKIE<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            19.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bob Mackie Perfume for Men. Introduced by design house of Bob Mackie in 1992. It is a woody, spicy and citrusy for the man who enjoys being outdoors. The intriguing aromatic scent starts with the popular notes of bergamot, basil, lavender, lime, nutmeg, grapefruit and mandarin orange. Heart notes of lily of the valley, violet and geranium with finishing notes of cedar, musk, amber, oakmoss, sandalwood and patchouli make this an excellent go-to scent.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9852115403</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">19.75</s:price>
+      <s:sku>MAC100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9851841995</id>
+    <published>2017-08-19T01:10:33-04:00</published>
+    <updated>2017-08-19T01:10:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/iridescence-bob-mackie"/>
+    <title>Bob Mackie Iridescence</title>
+    <s:type>Women</s:type>
+    <s:vendor>BOB MACKIE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/68709w.jpg?v=1571609942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOB MACKIE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            25.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Iridescence Perfume by Bob Mackie for women is floral and woody scent starts with opening notes of peach and cassia blended with flowery notes of rose, freesia and iris. Vanilla, musk, tonka bean and sandalwood creates a strong base of the scent.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9851841995</id>
+      <title>100ML EDT (No Cellophane)</title>
+      <s:price currency="CAD">25.95</s:price>
+      <s:sku>MACIRI100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

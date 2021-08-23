@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/bodycology.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-08-06T07:28:47-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883121660093</id>
+    <published>2021-08-06T07:28:47-04:00</published>
+    <updated>2021-08-06T07:28:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bodycology-truly-yours"/>
+    <title>Bodycology Truly Yours</title>
+    <s:type>Women</s:type>
+    <s:vendor>Bodycology</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bodycology-Truly-Yours.png?v=1629383607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bodycology<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883121660093</id>
+      <title>236ML FRAGRANCE MIST</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>BCTRUYOU236W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883121627325</id>
+    <published>2021-08-06T07:28:47-04:00</published>
+    <updated>2021-08-06T07:28:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bodycology-toasted-sugar"/>
+    <title>Bodycology Toasted Sugar</title>
+    <s:type>Women</s:type>
+    <s:vendor>Bodycology</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bodycology-Toasted-Sugar.png?v=1629383505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bodycology<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883121627325</id>
+      <title>236ML FRAGRANCE MIST</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>BCTOASUG236W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883121561789</id>
+    <published>2021-08-06T07:28:46-04:00</published>
+    <updated>2021-08-06T07:28:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bodycology-sweet-lover"/>
+    <title>Bodycology Sweet Lover</title>
+    <s:type>Women</s:type>
+    <s:vendor>Bodycology</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bodycology-Sweet-Lover.png?v=1629383378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bodycology<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883121561789</id>
+      <title>236ML FRAGRANCE MIST</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>BCSWELOV236W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883121430717</id>
+    <published>2021-08-06T07:28:44-04:00</published>
+    <updated>2021-08-06T07:28:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bodycology-scarlet-kiss"/>
+    <title>Bodycology Scarlet Kiss</title>
+    <s:type>Women</s:type>
+    <s:vendor>Bodycology</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/718QIHF4VcL._SL1500.jpg?v=1629383203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bodycology<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883121430717</id>
+      <title>236ML FRAGRANCE MIST</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>BCSCAKIS236W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883121397949</id>
+    <published>2021-08-06T07:28:44-04:00</published>
+    <updated>2021-08-06T07:28:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bodycology-sweet-cotton-candy"/>
+    <title>Bodycology Sweet Cotton Candy</title>
+    <s:type>Women</s:type>
+    <s:vendor>Bodycology</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bodycology-Sweet-Cotton-Candy.png?v=1629383297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bodycology<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883121397949</id>
+      <title>236ML FRAGRANCE MIST</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>BCSWECOT236W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883121365181</id>
+    <published>2021-08-06T07:28:44-04:00</published>
+    <updated>2021-08-06T07:28:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bodycology-pure-white-gardenia"/>
+    <title>Bodycology Pure White Gardenia</title>
+    <s:type>Women</s:type>
+    <s:vendor>Bodycology</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bodycology-Pure-White-Gardenia.png?v=1629383126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bodycology<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883121365181</id>
+      <title>236ML FRAGRANCE MIST</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>BCPURWHI236W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883121299645</id>
+    <published>2021-08-06T07:28:43-04:00</published>
+    <updated>2021-08-06T07:28:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bodycology-pink-vanilla-wish"/>
+    <title>Bodycology Pink Vanilla Wish</title>
+    <s:type>Women</s:type>
+    <s:vendor>Bodycology</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/51s-ZUzUbwL._SL1000.jpg?v=1629383039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bodycology<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883121299645</id>
+      <title>236ML FRAGRANCE MIST</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>BCPINVAN236W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883121234109</id>
+    <published>2021-08-06T07:28:41-04:00</published>
+    <updated>2021-08-06T07:28:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bodycology-coconut-hibiscus"/>
+    <title>Bodycology Coconut Hibiscus</title>
+    <s:type>Women</s:type>
+    <s:vendor>Bodycology</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bodycology-Coconut-Hibiscus.png?v=1629382879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bodycology<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883121234109</id>
+      <title>236ML FRAGRANCE MIST</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>BCCOCHIB236W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883121168573</id>
+    <published>2021-08-06T07:28:40-04:00</published>
+    <updated>2021-08-06T07:28:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bodycology-cucumber-melon"/>
+    <title>Bodycology Cucumber Melon</title>
+    <s:type>Women</s:type>
+    <s:vendor>Bodycology</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/51hzX_j2XuL._SL1000.jpg?v=1629382943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bodycology<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883121168573</id>
+      <title>236ML FRAGRANCE MIST</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>BCCUCMEL236W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883121135805</id>
+    <published>2021-08-06T07:28:40-04:00</published>
+    <updated>2021-08-06T07:28:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bodycology-cherry-blossom"/>
+    <title>Bodycology Cherry Blossom</title>
+    <s:type>Women</s:type>
+    <s:vendor>Bodycology</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/715E4pL9PFL._SL1500.jpg?v=1629382811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bodycology<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883121135805</id>
+      <title>236ML FRAGRANCE MIST</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>BCCHEBLO236W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883121103037</id>
+    <published>2021-08-06T07:28:40-04:00</published>
+    <updated>2021-08-06T07:28:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bodycology-beautiful-blossoms"/>
+    <title>Bodycology Beautiful Blossoms</title>
+    <s:type>Women</s:type>
+    <s:vendor>Bodycology</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/71aMqS1CYRL._SL1500.jpg?v=1629382782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bodycology<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883121103037</id>
+      <title>236ML FRAGRANCE MIST</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>BCBEABLO236W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/bill-blass.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2017-11-26T17:23:54-05:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/9843519691</id>
+    <published>2017-11-26T17:23:54-05:00</published>
+    <updated>2017-11-26T17:23:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/nude"/>
+    <title>Bill Blass Nude</title>
+    <s:type>Women</s:type>
+    <s:vendor>BILL BLASS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bill-Blass-Nude.png?v=1571609920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BILL BLASS<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            21.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bill Blass Nude Perfume for women is floral scent created by perfumer Sophia Grojsman and introduced by fashion house Bill Blass in 1991. Nude is a contemporary floral fragrance with bracing characteristics. The scent starts with top notes of rosemary, galbanum, aldehydes and bergamot. The middle notes are rose, ylang-ylang, jasmine, narcissus and oak moss. The base is made of vetiver, orris roots, sandalwood and musk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICESHEET1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9843519691</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">21.45</s:price>
+      <s:sku>NUDE100CW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836902539</id>
+    <published>2017-08-17T03:43:19-04:00</published>
+    <updated>2017-08-17T03:43:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amazing"/>
+    <title>Bill Blass Amazing</title>
+    <s:type>Women</s:type>
+    <s:vendor>BILL BLASS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bill_Blass_Amazing_Perfume_for_Women.jpg?v=1571609909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BILL BLASS<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Bill Blass Amazing Perfume by Bill Blass for women was introduced in 1999. Amazing perfume by Bill Blass creates a mystique that intoxicates all who come across it. The scent packed with peach and mandarin orange followed by the heart of rose, water lily, tuberose and lily of the valley. Musk, sandalwood and mimosa create the bases note of scent and a final lasting impression</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price170</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836902539</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">21.95</s:price>
+      <s:sku>BILAMA100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

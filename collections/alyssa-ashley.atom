@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/alyssa-ashley.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2020-11-08T20:59:01-05:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6068274102461</id>
+    <published>2020-11-08T20:59:01-05:00</published>
+    <updated>2020-11-08T20:59:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/alyssa-ashley-musk-parfume"/>
+    <title>Alyssa Ashley Musk Parfume</title>
+    <s:type>Women</s:type>
+    <s:vendor>Alyssa Ashley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_bdfebbfd-5ce2-4530-9d6f-132e87ee5e01.png?v=1606122405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alyssa Ashley<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6068274102461</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">21.95</s:price>
+      <s:sku>ALYASHMUS100PW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1398554361953</id>
+    <published>2018-07-25T10:21:06-04:00</published>
+    <updated>2018-07-25T10:21:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/alyssa-white-musk"/>
+    <title>ALYSSA WHITE MUSK</title>
+    <s:type>Women</s:type>
+    <s:vendor>Alyssa Ashley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ALYSSA-WHITE-MUSK.png?v=1571609975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alyssa Ashley<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            20.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1398554361953</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">20.45</s:price>
+      <s:sku>ALYWHI100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836787211</id>
+    <published>2017-11-23T13:09:01-05:00</published>
+    <updated>2017-11-23T13:09:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/alyssa-musk"/>
+    <title>Alyssa Ashley Musk</title>
+    <s:type>Women</s:type>
+    <s:vendor>Alyssa Ashley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Alyssa-Ashley-Musk.png?v=1571609909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alyssa Ashley<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            12.95 - 38.95
+            <a href="https://perfumeonline.ca/products/alyssa-musk">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9NOVV2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICESHEET1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836787211</id>
+      <title>50ML EDT TESTER</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>TESALYASH50TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836787211</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">17.45</s:price>
+      <s:sku>ALYASH50TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836787211</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">23.45</s:price>
+      <s:sku>ALYASH100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836787211</id>
+      <title>200ML EDT</title>
+      <s:price currency="CAD">38.95</s:price>
+      <s:sku>ALYASH200TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

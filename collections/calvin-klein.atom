@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/calvin-klein.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-07-12T07:52:19-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6829916586173</id>
+    <published>2021-07-12T07:52:19-04:00</published>
+    <updated>2021-07-12T07:52:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ck-euphoria-liquid-gold"/>
+    <title>Ck Euphoria Liquid Gold</title>
+    <s:type>Women</s:type>
+    <s:vendor>CALVIN KLEIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ck-Euphoria-Liquid-Gold.png?v=1626280316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALVIN KLEIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            86.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6829916586173</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">86.95</s:price>
+      <s:sku>TESCKEUPLIQGOL100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6155708432573</id>
+    <published>2021-01-08T09:31:14-05:00</published>
+    <updated>2021-01-08T09:31:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/euphoria-blush"/>
+    <title>Euphoria Blush</title>
+    <s:type>Women</s:type>
+    <s:vendor>CALVIN KLEIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_0dd127c0-110a-45f5-be54-aaf6cb79c85a.png?v=1613493420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALVIN KLEIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            53.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8JANN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6155708432573</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">53.95</s:price>
+      <s:sku>CKEUPBLU100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6102554804413</id>
+    <published>2020-12-01T04:22:33-05:00</published>
+    <updated>2020-12-01T04:22:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ck-euphoria-spring-temptation"/>
+    <title>Ck Euphoria Spring Temptation</title>
+    <s:type>Women</s:type>
+    <s:vendor>CALVIN KLEIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ck-Euphoria-Spring-Temptation-Women.jpg?v=1626101859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALVIN KLEIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6102554804413</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">54.95</s:price>
+      <s:sku>CKEUPSPRTEM50W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6102520758461</id>
+    <published>2020-12-01T03:04:10-05:00</published>
+    <updated>2020-12-01T03:04:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ck-one-gold-edt"/>
+    <title>Ck One Gold Edt</title>
+    <s:type>Women</s:type>
+    <s:vendor>CALVIN KLEIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_6089819b-2bb7-487b-81cf-1bf3e48ee025.png?v=1613493327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALVIN KLEIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6102520758461</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>CKONEGOL50TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6047421431997</id>
+    <published>2020-11-02T10:53:53-05:00</published>
+    <updated>2020-11-02T10:53:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ck-one-platinum"/>
+    <title>Ck One Platinum</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>CALVIN KLEIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/CK-ONE-PLATINUM-200ML-EDT-UNISEX.png?v=1613493328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALVIN KLEIN<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            49.95 - 62.95
+            <a href="https://perfumeonline.ca/products/ck-one-platinum">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:tag>2NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6047421431997</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>CKPLA100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6047421431997</id>
+      <title>200ML EDT</title>
+      <s:price currency="CAD">62.95</s:price>
+      <s:sku>CKONEPLA200U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4704880951393</id>
+    <published>2020-07-15T14:17:21-04:00</published>
+    <updated>2020-07-15T14:17:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ck-one-red-collectors-edition"/>
+    <title>Ck One Red Collectors Edition</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>CALVIN KLEIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_1645465c-b561-4f10-8707-bdfdfd6f1b96.png?v=1601289216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALVIN KLEIN<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15july2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4704880951393</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">34.95</s:price>
+      <s:sku>CKONEREDCOL100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4704831733857</id>
+    <published>2020-07-15T13:51:09-04:00</published>
+    <updated>2020-07-15T13:51:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ck-everyone"/>
+    <title>Ck Everyone</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>CALVIN KLEIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ck-Everyone.png?v=1626101858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALVIN KLEIN<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            32.95 - 41.95
+            <a href="https://perfumeonline.ca/products/ck-everyone">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15july2020</s:tag>
+    <s:tag>3MAYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4704831733857</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">32.95</s:price>
+      <s:sku>TESCKEVE100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4704831733857</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">41.95</s:price>
+      <s:sku>CKEVE100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4600022007905</id>
+    <published>2020-05-02T02:31:28-04:00</published>
+    <updated>2020-05-02T02:31:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ck-eternity-summer-edt"/>
+    <title>Ck Eternity Summer Edp</title>
+    <s:type>Women</s:type>
+    <s:vendor>CALVIN KLEIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_ded0ffad-9c33-4546-add2-30a87b2225c9.png?v=1600888840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALVIN KLEIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2MAY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4600022007905</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">26.95</s:price>
+      <s:sku>TESCKETESUM100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4600000413793</id>
+    <published>2020-05-02T02:08:55-04:00</published>
+    <updated>2020-05-02T02:08:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ck-one-collectiors-edition"/>
+    <title>Ck One Collectior&apos;S Edition</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>CALVIN KLEIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ck-One-Collectior_S-Edition.png?v=1600888845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALVIN KLEIN<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            32.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2MAY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4600000413793</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">32.95</s:price>
+      <s:sku>CKONECOLEDI100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4433281384545</id>
+    <published>2019-12-16T05:31:35-05:00</published>
+    <updated>2019-12-16T05:31:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ck-euphoria-pure-gold-w"/>
+    <title>Ck Euphoria Pure Gold W</title>
+    <s:type>Women</s:type>
+    <s:vendor>CALVIN KLEIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/CK-EUPHORIA-PURE-GOLD-100ML-EDP-TESTER-WOMEN.png?v=1576499239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALVIN KLEIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            40.95 - 44.95
+            <a href="https://perfumeonline.ca/products/ck-euphoria-pure-gold-w">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15DECC2019</s:tag>
+    <s:tag>3JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4433281384545</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">40.95</s:price>
+      <s:sku>TESCKEUPGOL100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4433281384545</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">44.95</s:price>
+      <s:sku>CKEUPGOL100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332955140193</id>
+    <published>2019-11-23T04:28:36-05:00</published>
+    <updated>2019-11-23T04:28:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/coffret-ck-gift-set-men"/>
+    <title>Coffret Ck Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>CALVIN KLEIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_ec15db03-248f-4673-ae3a-f20f87c34437.png?v=1572519230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALVIN KLEIN<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332955140193</id>
+      <title>10ML CK Free + 10ML Eternity + 10ML Euphoria + 10ML Encounter Fresh + 10ML Ck One</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>SET-CKMIN1833M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332955041889</id>
+    <published>2019-11-23T04:28:36-05:00</published>
+    <updated>2019-11-23T04:28:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ck-women-gift-set-women"/>
+    <title>Ck Women Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>CALVIN KLEIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_c0ac90ce-febc-45c6-9855-4f32ec7092c3.png?v=1572519230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALVIN KLEIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332955041889</id>
+      <title>100ML Edp + 100ML B/L + 10ML Edp Hard Box</title>
+      <s:price currency="CAD">69.95</s:price>
+      <s:sku>SET-CKWOMQ00W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1449458368609</id>
+    <published>2019-11-23T04:28:26-05:00</published>
+    <updated>2019-11-23T04:28:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ck-one-gift-set-women"/>
+    <title>Ck One Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>CALVIN KLEIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_88fa6258-5b67-4167-ab97-c4143a03c110.png?v=1571609991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALVIN KLEIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            65.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetReady</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>newgiftsets</s:tag>
+    <s:tag>OLDGIFTSETS</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1449458368609</id>
+      <title>200ML EDT + 200ML B/L + 100ML B/W + 15ML EDT</title>
+      <s:price currency="CAD">65.95</s:price>
+      <s:sku>SET-CKONE7878U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1427943293025</id>
+    <published>2019-11-23T04:28:25-05:00</published>
+    <updated>2019-11-23T04:28:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ck-one-gift-set-men"/>
+    <title>CK One Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>CALVIN KLEIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/3614224120443-ck-one-edt100-bw100-15723.jpg?v=1571609980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALVIN KLEIN<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            47.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetReady</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>OLDGIFTSETS</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1427943293025</id>
+      <title>100ML EDT + 100ML Body Wash</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku>SET-CKONE100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/12392350859</id>
+    <published>2019-11-23T04:28:23-05:00</published>
+    <updated>2019-11-23T04:28:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ck-euphoria-gift-set-men"/>
+    <title>CK Euphoria Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>CALVIN KLEIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-CKEUP3679M_spo.jpg?v=1571609955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALVIN KLEIN<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            57.95 - 65.95
+            <a href="https://perfumeonline.ca/products/ck-euphoria-gift-set-men">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>GiftSetReady</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>OLDGIFTSETS</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/12392350859</id>
+      <title>100ML EDT + 75ML Deo</title>
+      <s:price currency="CAD">57.95</s:price>
+      <s:sku>SET-CKEUP3679M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/12392350859</id>
+      <title>100ML EDT + 100ML After Shave</title>
+      <s:price currency="CAD">65.95</s:price>
+      <s:sku>SET-CKEUP4186M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/12392322571</id>
+    <published>2019-11-23T04:28:22-05:00</published>
+    <updated>2019-11-23T04:28:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ck-escape-gift-set-women"/>
+    <title>CK Escape Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>CALVIN KLEIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-CKESC1323W_3117b30d-6418-4812-87bd-f6449d33d104_spo.jpg?v=1571609955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALVIN KLEIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            44.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>GiftSetReady</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>OLDGIFTSETS</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/12392322571</id>
+      <title>100ML EDP + 100ML Body Lotion</title>
+      <s:price currency="CAD">44.95</s:price>
+      <s:sku>SET-CKESC1323W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9965068235</id>
+    <published>2019-11-23T04:28:19-05:00</published>
+    <updated>2019-11-23T04:28:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ck-eternity-gift-set-men"/>
+    <title>Ck Eternity Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>CALVIN KLEIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-CKETE5687M_4754abc8-0d12-4d87-8208-8713e6bb4353_spo.jpg?v=1571609952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALVIN KLEIN<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            58.95 - 65.95
+            <a href="https://perfumeonline.ca/products/ck-eternity-gift-set-men">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9965068235</id>
+      <title>100ML EDT + Deo Stick</title>
+      <s:price currency="CAD">58.95</s:price>
+      <s:sku>SET-CKETE5687M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9965068235</id>
+      <title>100ML Edt + 100ML A/S + 75ML Deodorant</title>
+      <s:price currency="CAD">65.95</s:price>
+      <s:sku>SET-CKETE8835M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9964993483</id>
+    <published>2019-11-23T04:28:19-05:00</published>
+    <updated>2019-11-23T04:28:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ck-escape-gift-set-men"/>
+    <title>Ck Escape Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>CALVIN KLEIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/cakescm_cset20-01__7_1_75bfd60e-c1b4-4b33-959d-4bd754b736da_spo.jpg?v=1571609952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALVIN KLEIN<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            44.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>GiftSetReady</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>OLDGIFTSETS</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9964993483</id>
+      <title>100ML EDT + 200ML After Shave</title>
+      <s:price currency="CAD">44.95</s:price>
+      <s:sku>SET-CKESC1286M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4367568339041</id>
+    <published>2019-11-15T14:52:07-05:00</published>
+    <updated>2019-11-15T14:52:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ck-eternity-flame-edt"/>
+    <title>Ck Eternity Flame Edt</title>
+    <s:type>Men</s:type>
+    <s:vendor>CALVIN KLEIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ck-Eternity-Flame-Edt.png?v=1573923756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALVIN KLEIN<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4367568339041</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>CKETEFLA100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4367568306273</id>
+    <published>2019-11-15T14:52:07-05:00</published>
+    <updated>2019-11-15T14:52:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ck-eternity-edp"/>
+    <title>Ck Eternity Edp</title>
+    <s:type>Men</s:type>
+    <s:vendor>CALVIN KLEIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ck-Eternity-Edp.png?v=1573923637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALVIN KLEIN<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            34.95 - 45.95
+            <a href="https://perfumeonline.ca/products/ck-eternity-edp">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15novv2019</s:tag>
+    <s:tag>25MAYY2021</s:tag>
+    <s:tag>3MAYY2021</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4367568306273</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">35.95</s:price>
+      <s:sku>CKETE50PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4367568306273</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">34.95</s:price>
+      <s:sku>TESCKETE100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4367568306273</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">45.95</s:price>
+      <s:sku>CKETE100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4367568404577</id>
+    <published>2019-11-15T14:52:06-05:00</published>
+    <updated>2019-11-15T14:52:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ck-one-summer-2019"/>
+    <title>Ck One Summer 2019</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>CALVIN KLEIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ck-One-Summer-2019.png?v=1573923841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALVIN KLEIN<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            21.45 - 23.45
+            <a href="https://perfumeonline.ca/products/ck-one-summer-2019">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20julyy2021aj</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4367568404577</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">21.45</s:price>
+      <s:sku>TESCKSUM2009M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4367568404577</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">23.45</s:price>
+      <s:sku>CKSUM2009M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4367568371809</id>
+    <published>2019-11-15T14:52:06-05:00</published>
+    <updated>2019-11-15T14:52:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ck-eternity-flame"/>
+    <title>Ck Eternity Flame</title>
+    <s:type>Women</s:type>
+    <s:vendor>CALVIN KLEIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ck-Eternity-Flame.png?v=1573923666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALVIN KLEIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            42.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15novv2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4367568371809</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">42.95</s:price>
+      <s:sku>CKETEFLA100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4341431009377</id>
+    <published>2019-11-04T10:04:58-05:00</published>
+    <updated>2019-11-04T10:04:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ck-woman-intense"/>
+    <title>Ck Woman Intense</title>
+    <s:type>Women</s:type>
+    <s:vendor>CALVIN KLEIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_ca59e92c-d4c9-412e-b8ad-795776ae5e56.png?v=1600888846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALVIN KLEIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            47.95 - 53.95
+            <a href="https://perfumeonline.ca/products/ck-woman-intense">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11JANN2021</s:tag>
+    <s:tag>3NOVV2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4341431009377</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku>CKWOMINT50W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4341431009377</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">53.95</s:price>
+      <s:sku>TESCKWOM100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4196883726433</id>
+    <published>2019-10-07T11:42:59-04:00</published>
+    <updated>2019-10-07T11:42:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ck-one-summer-2016"/>
+    <title>Ck One Summer 2016</title>
+    <s:type>Men</s:type>
+    <s:vendor>CALVIN KLEIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ck-One-Summer-2016.png?v=1571824691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALVIN KLEIN<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            64.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7OCT2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4196883726433</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">64.95</s:price>
+      <s:sku>CKONESUM2016M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3998950326369</id>
+    <published>2019-08-24T02:51:38-04:00</published>
+    <updated>2019-08-24T02:51:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ck-euphoria-amber-gold"/>
+    <title>Ck Euphoria Amber Gold</title>
+    <s:type>Women</s:type>
+    <s:vendor>CALVIN KLEIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/abmber-gold.png?v=1571945437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALVIN KLEIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            67.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20augg2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998950326369</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">67.45</s:price>
+      <s:sku>CKEUPAMB100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

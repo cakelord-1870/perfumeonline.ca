@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/bottega-veneta.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2020-11-22T02:39:25-05:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6089195913405</id>
+    <published>2020-11-22T02:39:25-05:00</published>
+    <updated>2020-11-22T02:39:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bottega-veneta-essence-aromatique"/>
+    <title>Bottega Veneta Essence Aromatique</title>
+    <s:type>Women</s:type>
+    <s:vendor>BOTTEGA VENETA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bottegavenetaessencearomatique.jpg?v=1626101810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOTTEGA VENETA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6089195913405</id>
+      <title>90ML EDC TESTER</title>
+      <s:price currency="CAD">69.95</s:price>
+      <s:sku>TESBVESSARO90W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6068268007613</id>
+    <published>2020-11-08T20:52:37-05:00</published>
+    <updated>2020-11-08T20:52:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bottega-veneta-parco-palladiano"/>
+    <title>Bottega Veneta Parco Palladiano</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOTTEGA VENETA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_7c306655-eb91-4d70-8374-763d73914a2b.png?v=1613493290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOTTEGA VENETA<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            303.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6068268007613</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">303.95</s:price>
+      <s:sku>BVPARPAL100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4787883147361</id>
+    <published>2020-10-10T12:08:27-04:00</published>
+    <updated>2020-10-10T12:08:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bottega-veneta-eau-extreme"/>
+    <title>Bottega Veneta Eau Extreme</title>
+    <s:type>Men</s:type>
+    <s:vendor>BOTTEGA VENETA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BOTTEGA-VENETA-EAU-EXTREME-50ML-EDT--MEN.png?v=1606122529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOTTEGA VENETA<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            109.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1OCT2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4787883147361</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">109.95</s:price>
+      <s:sku>BVEAUEXT50M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4787882492001</id>
+    <published>2020-10-10T12:07:12-04:00</published>
+    <updated>2020-10-10T12:07:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bottega-veneta-edp"/>
+    <title>Bottega Veneta Edp</title>
+    <s:type>Men</s:type>
+    <s:vendor>BOTTEGA VENETA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_810d46db-7c34-4074-b8cc-717ae9f2a37b.png?v=1613493286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOTTEGA VENETA<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            175.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1OCT2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4787882492001</id>
+      <title>90ML EDP</title>
+      <s:price currency="CAD">175.95</s:price>
+      <s:sku>BV90PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3988363509857</id>
+    <published>2019-08-15T07:07:18-04:00</published>
+    <updated>2019-08-15T07:07:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bottega-veneta-women"/>
+    <title>Bottega Veneta</title>
+    <s:type>Women</s:type>
+    <s:vendor>BOTTEGA VENETA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/y6zhyuxndqph4no7xtv7.jpg?v=1571610008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOTTEGA VENETA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            144.95 - 164.95
+            <a href="https://perfumeonline.ca/products/bottega-veneta-women">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 JULY 2020</s:tag>
+    <s:tag>15AUG</s:tag>
+    <s:tag>24octt2019</s:tag>
+    <s:tag>28jun2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3988363509857</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">147.95</s:price>
+      <s:sku>BV50W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3988363509857</id>
+      <title>75ML EDP TESTER</title>
+      <s:price currency="CAD">144.95</s:price>
+      <s:sku>TESBV75PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3988363509857</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">164.95</s:price>
+      <s:sku>BV75PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1448771092577</id>
+    <published>2018-11-03T14:09:46-04:00</published>
+    <updated>2018-11-03T14:09:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bottega-veneta-knot-eau-florale"/>
+    <title>Bottega Veneta Knot Eau Florale</title>
+    <s:type>Women</s:type>
+    <s:vendor>BOTTEGA VENETA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/s-l1600_745e6a65-8914-457e-9eee-3b8c15d5731a.jpg?v=1571609988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOTTEGA VENETA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            112.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1448771092577</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">112.95</s:price>
+      <s:sku>BVFLO50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1410578710625</id>
+    <published>2018-08-08T03:57:17-04:00</published>
+    <updated>2018-08-08T03:57:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bottega-veneta"/>
+    <title>BOTTEGA VENETA</title>
+    <s:type>Men</s:type>
+    <s:vendor>BOTTEGA VENETA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BOTTEGA-VENETA.png?v=1571609977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOTTEGA VENETA<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            97.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 JULY 2020</s:tag>
+    <s:tag>28jun2020</s:tag>
+    <s:tag>Black-Friday</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1410578710625</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">97.95</s:price>
+      <s:sku>BV50M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

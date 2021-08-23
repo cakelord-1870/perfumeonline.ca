@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/gwen-stefani.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2020-06-28T13:10:55-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/4686452916321</id>
+    <published>2020-06-28T13:10:55-04:00</published>
+    <updated>2020-06-28T13:10:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/hara-juku-wicked-love"/>
+    <title>Hara Juku Wicked Love</title>
+    <s:type>Women</s:type>
+    <s:vendor>GWEN STEFANI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Hara-Juku-Wicked-Love.png?v=1606122793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GWEN STEFANI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>28jun2020</s:tag>
+    <s:tag>PRICECHECk</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4686452916321</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>TESHJWICLOV100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4686451441761</id>
+    <published>2020-06-28T13:09:22-04:00</published>
+    <updated>2020-06-28T13:09:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/hara-juku-wicked-baby"/>
+    <title>Hara Juku Wicked Baby</title>
+    <s:type>Women</s:type>
+    <s:vendor>GWEN STEFANI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Hara-Juku-Wicked-Baby.png?v=1606122793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GWEN STEFANI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>28jun2020</s:tag>
+    <s:tag>PRICECHECk</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4686451441761</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>TESHJWICBAB100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4686450950241</id>
+    <published>2020-06-28T13:07:03-04:00</published>
+    <updated>2020-06-28T13:07:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/hara-juku-wicked-music"/>
+    <title>Hara Juku Wicked Music</title>
+    <s:type>Women</s:type>
+    <s:vendor>GWEN STEFANI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Hara-Juku-Wicked-Music.png?v=1606122793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GWEN STEFANI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>28jun2020</s:tag>
+    <s:tag>PRICECHECk</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4686450950241</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>TESHJWICMUS100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4679671808097</id>
+    <published>2020-06-22T09:49:08-04:00</published>
+    <updated>2020-06-22T09:49:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/hara-juku-lovers-love"/>
+    <title>Hara Juku Lovers Love</title>
+    <s:type>Women</s:type>
+    <s:vendor>GWEN STEFANI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Hara-Juku-Lovers-Love.png?v=1613493500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GWEN STEFANI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            30.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22JUN2020</s:tag>
+    <s:tag>28jun2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4679671808097</id>
+      <title>30ML EDT</title>
+      <s:price currency="CAD">30.95</s:price>
+      <s:sku>HJLOVLOV30TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4679668269153</id>
+    <published>2020-06-22T09:49:08-04:00</published>
+    <updated>2020-06-22T09:49:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/hara-juku-lovers-lilangel"/>
+    <title>Hara Juku Lovers Lil&apos;Angel</title>
+    <s:type>Women</s:type>
+    <s:vendor>GWEN STEFANI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Hara-Juku-Lovers-Lil_Angel.png?v=1613493499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GWEN STEFANI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            33.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22JUN2020</s:tag>
+    <s:tag>28jun2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4679668269153</id>
+      <title>30ML EDT</title>
+      <s:price currency="CAD">33.45</s:price>
+      <s:sku>HJLOVANG30TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9851973835</id>
+    <published>2018-10-29T12:06:11-04:00</published>
+    <updated>2018-10-29T12:06:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/lamb-gwen-stefani"/>
+    <title>L Lamb</title>
+    <s:type>Women</s:type>
+    <s:vendor>GWEN STEFANI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/LAMB-GWEN-STEFANI.png?v=1571609944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GWEN STEFANI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            65.95 - 95.95
+            <a href="https://perfumeonline.ca/products/lamb-gwen-stefani">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14aprr2021</s:tag>
+    <s:tag>7OCT2019</s:tag>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9851973835</id>
+      <title>50ML EDP UNBOXED WITH CAP</title>
+      <s:price currency="CAD">69.95</s:price>
+      <s:sku>GWELAM50W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9851973835</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">65.95</s:price>
+      <s:sku>LAM50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9851973835</id>
+      <title>100ML EDP Tester</title>
+      <s:price currency="CAD">75.95</s:price>
+      <s:sku>TESGSLAM100P</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9851973835</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">95.95</s:price>
+      <s:sku>LAM100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/786570838113</id>
+    <published>2018-07-20T13:06:48-04:00</published>
+    <updated>2018-07-20T13:06:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/harajuku-music"/>
+    <title>Harajuku Music</title>
+    <s:type>Women</s:type>
+    <s:vendor>GWEN STEFANI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/HARAJUKU-MUSIC--30ML-EDT-WOMEN.jpg?v=1571609970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GWEN STEFANI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/786570838113</id>
+      <title>30ML EDT</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>HARMUS30W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/786568085601</id>
+    <published>2018-07-20T13:00:49-04:00</published>
+    <updated>2018-07-20T13:00:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/harajuku-baby"/>
+    <title>Harajuku Baby</title>
+    <s:type>Women</s:type>
+    <s:vendor>GWEN STEFANI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/HARAJUKU-BABY.png?v=1571609970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GWEN STEFANI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            28.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/786568085601</id>
+      <title>30ML EDT</title>
+      <s:price currency="CAD">28.95</s:price>
+      <s:sku>HARBAB30TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/755657113697</id>
+    <published>2018-05-17T12:13:57-04:00</published>
+    <updated>2018-05-17T12:13:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/harajuku-lovers"/>
+    <title>Harajuku Lovers</title>
+    <s:type>Women</s:type>
+    <s:vendor>GWEN STEFANI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/64473w.jpg?v=1571609962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GWEN STEFANI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            30.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/755657113697</id>
+      <title>30ML EDT</title>
+      <s:price currency="CAD">30.95</s:price>
+      <s:sku>HJLOV30W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

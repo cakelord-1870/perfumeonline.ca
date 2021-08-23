@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/balmain.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2018-10-09T14:58:15-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/9851970763</id>
+    <published>2018-10-09T14:58:15-04:00</published>
+    <updated>2018-10-09T14:58:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ivoire-balmain"/>
+    <title>IVOIRE BALMAIN</title>
+    <s:type>Women</s:type>
+    <s:vendor>Balmain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/IVOIRE-BALMAIN.png?v=1571609944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Balmain<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            56.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ivoire Balmain perfume women was introduced in 2012 by Design house Balmain. The scent opens with citrusy and floral accords of violet leaf, mandarin orange and galbanum. The heart is beautiful with fresh and floral notes of iris, rose, ylang-ylang and jasmine blended with the base of cedar, vetiver, vanilla and patchouli. The nose behind this feminine scent is Jacques Flori and Michel Almairac.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9851970763</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">56.95</s:price>
+      <s:sku>IVORE100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/755320619105</id>
+    <published>2018-05-16T14:47:09-04:00</published>
+    <updated>2018-05-16T14:47:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/balmain-homme"/>
+    <title>Balmain Homme</title>
+    <s:type>Men</s:type>
+    <s:vendor>Balmain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BALMAIN-HOMME-100ML-MEN.jpg?v=1571609960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Balmain<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            55.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Balmain Homme cologne comes with a modern elegance and a rare sophistication. The masculine scent starts with the metallic freshness of bergamot combined with fresh saffron and spicy nutmeg blended with heart notes violet leaf and leather. The base of the scent is made of tonka bean, cedar and moss. Balmain Homme was created by perfumer Oliver Pescheux and introduced in 2015.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/755320619105</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">55.95</s:price>
+      <s:sku>BAL100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

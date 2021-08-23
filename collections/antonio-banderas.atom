@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/antonio-banderas.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-06-14T05:03:39-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6772892663997</id>
+    <published>2021-06-14T05:03:39-04:00</published>
+    <updated>2021-06-14T05:03:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/antonio-banderas-spirit"/>
+    <title>Antonio Banderas Spirit</title>
+    <s:type>Men</s:type>
+    <s:vendor>ANTONIO BANDERAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/71Lw5mUs5JL._SL1500.jpg?v=1626101727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANTONIO BANDERAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6772892663997</id>
+      <title>100ML EDT (Without Cellophene)</title>
+      <s:price currency="CAD">34.95</s:price>
+      <s:sku>ABSPI100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4775677329505</id>
+    <published>2020-09-28T06:03:29-04:00</published>
+    <updated>2020-09-28T06:03:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/antonio-banderas-king-of-seduction-world-havana"/>
+    <title>Antonio Banderas King Of Seduction World Havana</title>
+    <s:type>Men</s:type>
+    <s:vendor>ANTONIO BANDERAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/antonio-banderas-king-of-seduction_2.jpg?v=1626101633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANTONIO BANDERAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            25.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>28SEP2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4775677329505</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">25.95</s:price>
+      <s:sku>ABKINWOLHAV100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4742234538081</id>
+    <published>2020-08-26T13:24:33-04:00</published>
+    <updated>2020-08-26T13:24:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/the-secret-edt"/>
+    <title>The Secret Edt</title>
+    <s:type>Women</s:type>
+    <s:vendor>ANTONIO BANDERAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_9743fa6c-2fc8-4239-a46f-73f47f784a69.png?v=1606123185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANTONIO BANDERAS<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22AUG2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4742234538081</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>TESABSEC100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4742228279393</id>
+    <published>2020-08-26T13:16:47-04:00</published>
+    <updated>2020-08-26T13:16:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/queen-of-seduction"/>
+    <title>Queen Of Seduction</title>
+    <s:type>Women</s:type>
+    <s:vendor>ANTONIO BANDERAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Queen-Of-Seduction.png?v=1606123108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANTONIO BANDERAS<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22AUG2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4742228279393</id>
+      <title>80 ML EDT TESTER</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>TESABQUE100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4636869427297</id>
+    <published>2020-05-21T13:49:55-04:00</published>
+    <updated>2020-05-21T13:49:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/antonio-banderas-king-of-seduction"/>
+    <title>Antonio Banderas King Of Seduction</title>
+    <s:type>Men</s:type>
+    <s:vendor>ANTONIO BANDERAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Antonio-Banderas-King-Of-Seduction.png?v=1601289162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANTONIO BANDERAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            19.95 - 28.45
+            <a href="https://perfumeonline.ca/products/antonio-banderas-king-of-seduction">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:tag>22AUG2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4636869427297</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>TESABKIN100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4636869427297</id>
+      <title>200ML EDT</title>
+      <s:price currency="CAD">28.45</s:price>
+      <s:sku>ABKIN200M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4636867756129</id>
+    <published>2020-05-21T13:49:55-04:00</published>
+    <updated>2020-05-21T13:49:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/antonio-banderas-king-of-seduction-absolute"/>
+    <title>Antonio Banderas King Of Seduction Absolute</title>
+    <s:type>Men</s:type>
+    <s:vendor>ANTONIO BANDERAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Antonio-Banderas-King-Of-Seduction_882d909e-b8a6-4ad4-b71a-fd099c3a8c38.png?v=1600888765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANTONIO BANDERAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            22.95 - 31.95
+            <a href="https://perfumeonline.ca/products/antonio-banderas-king-of-seduction-absolute">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:tag>28sep2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4636867756129</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">22.95</s:price>
+      <s:sku>ABKINABS100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4636867756129</id>
+      <title>200ML EDT</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>ABKINABS200M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258970927201</id>
+    <published>2019-10-15T07:36:41-04:00</published>
+    <updated>2019-10-15T07:36:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/antonio-banderas-blue-seduction"/>
+    <title>Antonio Banderas Blue Seduction</title>
+    <s:type>Men</s:type>
+    <s:vendor>ANTONIO BANDERAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ANTONIO-BANDERA_S-BLUE-SEDUCTION-100ML-EDT-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANTONIO BANDERAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            19.95 - 31.95
+            <a href="https://perfumeonline.ca/products/antonio-banderas-blue-seduction">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>19MAYY2020</s:tag>
+    <s:tag>22AUG2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258970927201</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>TESABBLU100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258970927201</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">24.45</s:price>
+      <s:sku>ABBLU100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258970927201</id>
+      <title>200ML EDT</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>ABBLU200M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258970894433</id>
+    <published>2019-10-15T07:36:41-04:00</published>
+    <updated>2019-10-15T07:36:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/antonio-banderas-seduction-king"/>
+    <title>Antonio Banderas Seduction King</title>
+    <s:type>Men</s:type>
+    <s:vendor>ANTONIO BANDERAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ANTONIO-BANDERAS-SEDUCTION-KING-100ML-EDT-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANTONIO BANDERAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            23.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258970894433</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">23.45</s:price>
+      <s:sku>ABKIN100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972368993</id>
+    <published>2019-10-15T07:36:40-04:00</published>
+    <updated>2019-10-15T07:36:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/antonio-banderas-mediterraneo"/>
+    <title>Antonio Banderas Mediterraneo</title>
+    <s:type>Men</s:type>
+    <s:vendor>ANTONIO BANDERAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ANTONIO-BANDERA_S-MEDITERRANEO-200ML-EDT-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANTONIO BANDERAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972368993</id>
+      <title>200ML EDT</title>
+      <s:price currency="CAD">26.95</s:price>
+      <s:sku>ABMED200M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258992226401</id>
+    <published>2019-10-15T07:35:39-04:00</published>
+    <updated>2019-10-15T07:35:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/antonio-banderas-black-seductioin"/>
+    <title>Antonio Banderas Black Seduction</title>
+    <s:type>Men</s:type>
+    <s:vendor>ANTONIO BANDERAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ANTONIO-BANDERA_S-BLACK-SEDUCTIOIN-100ML-EDT-MEN.png?v=1571610023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANTONIO BANDERAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            24.95 - 29.95
+            <a href="https://perfumeonline.ca/products/antonio-banderas-black-seductioin">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258992226401</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>ABBLA100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258992226401</id>
+      <title>200ML EDT</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>ABBLA200M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1902244560993</id>
+    <published>2018-11-19T12:59:00-05:00</published>
+    <updated>2018-11-19T12:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/the-secret-temptation"/>
+    <title>The Secret Temptation</title>
+    <s:type>Men</s:type>
+    <s:vendor>ANTONIO BANDERAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Perfume-EDT-Antonio-Banderas-The-Secret-Temptation-100ml-21415.00.jpg?v=1571609992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANTONIO BANDERAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            25.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1902244560993</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">25.25</s:price>
+      <s:sku>ABSECTEM100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1902244462689</id>
+    <published>2018-11-19T12:58:57-05:00</published>
+    <updated>2018-11-19T12:58:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/power-of-seduction"/>
+    <title>Power Of Seduction</title>
+    <s:type>Men</s:type>
+    <s:vendor>ANTONIO BANDERAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AC8411061913024.jpg?v=1571609992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANTONIO BANDERAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            17.95 - 29.95
+            <a href="https://perfumeonline.ca/products/power-of-seduction">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1902244462689</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku>TESABPOWSED100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1902244462689</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">22.45</s:price>
+      <s:sku>ABPOWSED100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1902244462689</id>
+      <title>200ML EDT</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>ABPOWSED200M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1902244331617</id>
+    <published>2018-11-19T12:58:52-05:00</published>
+    <updated>2018-11-19T12:58:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/the-golden-secret"/>
+    <title>The Golden Secret</title>
+    <s:type>Men</s:type>
+    <s:vendor>ANTONIO BANDERAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/perfume-the-golden-secret-masculino-edt-100ml-antonio-bandera.jpg?v=1571609992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANTONIO BANDERAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            19.95 - 24.25
+            <a href="https://perfumeonline.ca/products/the-golden-secret">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1902244331617</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>TESABGOLSEC100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1902244331617</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">24.25</s:price>
+      <s:sku>ABGOLSEC100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1902244069473</id>
+    <published>2018-11-19T12:58:49-05:00</published>
+    <updated>2018-11-19T12:58:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/her-secret-antonio-banderas"/>
+    <title>Her Secret Antonio Banderas</title>
+    <s:type>Women</s:type>
+    <s:vendor>ANTONIO BANDERAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/8411061737996-box_d7719ba9-962c-4398-a623-15ff0d4c24bc.jpg?v=1571609992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANTONIO BANDERAS<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NOV</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1902244069473</id>
+      <title>80ML EDT</title>
+      <s:price currency="CAD">22.95</s:price>
+      <s:sku>ABHERSEC80W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1902243938401</id>
+    <published>2018-11-19T12:58:46-05:00</published>
+    <updated>2018-11-19T12:58:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/blue-seduction"/>
+    <title>Blue Seduction</title>
+    <s:type>Women</s:type>
+    <s:vendor>ANTONIO BANDERAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/antonio-banderas-blue-seduction-600x600_0.jpg?v=1571609992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANTONIO BANDERAS<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1902243938401</id>
+      <title>80ML EDT</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>ABBLUSED80W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1902243709025</id>
+    <published>2018-11-19T12:58:44-05:00</published>
+    <updated>2018-11-19T12:58:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/the-secret"/>
+    <title>The Secret</title>
+    <s:type>Men</s:type>
+    <s:vendor>ANTONIO BANDERAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/THE-SECRET.png?v=1571609992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANTONIO BANDERAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NOV</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1902243709025</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>ABSEC100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

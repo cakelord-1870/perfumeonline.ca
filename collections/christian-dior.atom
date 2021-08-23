@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/christian-dior.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2020-12-12T07:18:29-05:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6124174508221</id>
+    <published>2020-12-12T07:18:29-05:00</published>
+    <updated>2020-12-12T07:18:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/miss-dior-rose-nroses"/>
+    <title>Miss Dior Rose N&apos;roses</title>
+    <s:type>Women</s:type>
+    <s:vendor>CHRISTIAN DIOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/MissDiorRoseN_RosesWomen.jpg?v=1626102239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHRISTIAN DIOR<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            102.95 - 143.95
+            <a href="https://perfumeonline.ca/products/miss-dior-rose-nroses">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6124174508221</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">102.95</s:price>
+      <s:sku>CDMISROS50W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6124174508221</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">143.95</s:price>
+      <s:sku>CDMISROS100PW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6047413108925</id>
+    <published>2020-11-02T10:40:15-05:00</published>
+    <updated>2020-11-02T10:40:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dior-poison-girl-unexpected"/>
+    <title>Dior Poison Girl Unexpected</title>
+    <s:type>Women</s:type>
+    <s:vendor>CHRISTIAN DIOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/DIOR-POISON-GIRL-UNEXPECTED-100ML-EDT-WOMEN.png?v=1613493378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHRISTIAN DIOR<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            122.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6047413108925</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">122.95</s:price>
+      <s:sku>CDPOIGIRUNE100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4798696226913</id>
+    <published>2020-10-22T13:45:35-04:00</published>
+    <updated>2020-10-22T13:45:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/diorama"/>
+    <title>Diorama</title>
+    <s:type>Women</s:type>
+    <s:vendor>CHRISTIAN DIOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/DIORAMA-100ML-EDT-WOMEN.png?v=1613493379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHRISTIAN DIOR<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            134.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22occt2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4798696226913</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">134.95</s:price>
+      <s:sku>CDAMA100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4749161824353</id>
+    <published>2020-09-03T12:45:04-04:00</published>
+    <updated>2020-09-03T12:45:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dior-escale-portfino"/>
+    <title>Dior Escale Portfino</title>
+    <s:type>Women</s:type>
+    <s:vendor>CHRISTIAN DIOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dior-Escale-Portofino-Women.jpg?v=1626101890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHRISTIAN DIOR<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            101.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3SEP2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4749161824353</id>
+      <title>125ML EDT TESTER</title>
+      <s:price currency="CAD">101.95</s:price>
+      <s:sku>TESCDESCPOR125TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4616587313249</id>
+    <published>2020-05-13T00:45:22-04:00</published>
+    <updated>2020-05-13T00:45:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dior-higher-dior"/>
+    <title>Dior Higher Dior</title>
+    <s:type>Men</s:type>
+    <s:vendor>CHRISTIAN DIOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dior-Higher-Dior.png?v=1600888884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHRISTIAN DIOR<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            82.95 - 174.95
+            <a href="https://perfumeonline.ca/products/dior-higher-dior">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>13MAY2020</s:tag>
+    <s:tag>31MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4616587313249</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">82.95</s:price>
+      <s:sku>CDHIG50M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4616587313249</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">141.95</s:price>
+      <s:sku>TESCDHIG100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4616587313249</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">174.95</s:price>
+      <s:sku>CDHIG100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4512321765473</id>
+    <published>2020-02-20T12:48:42-05:00</published>
+    <updated>2020-02-20T12:48:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/sauvage-parfum-edition"/>
+    <title>Sauvage Parfum Edition</title>
+    <s:type>Men</s:type>
+    <s:vendor>CHRISTIAN DIOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Sauvage-Parfum-Edition.png?v=1582694947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHRISTIAN DIOR<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            128.95 - 143.95
+            <a href="https://perfumeonline.ca/products/sauvage-parfum-edition">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20FEB20</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4512321765473</id>
+      <title>60ML Parfum Edition</title>
+      <s:price currency="CAD">128.95</s:price>
+      <s:sku>CDSAUPER60</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4512321765473</id>
+      <title>100ML Parfum Edition</title>
+      <s:price currency="CAD">143.95</s:price>
+      <s:sku>CDSAUPER100</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4385351106657</id>
+    <published>2019-11-25T06:03:19-05:00</published>
+    <updated>2019-11-25T06:03:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dior-joy-intense"/>
+    <title>Dior Joy Intense</title>
+    <s:type>Women</s:type>
+    <s:vendor>CHRISTIAN DIOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dior-Joy-Intense.png?v=1574712387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHRISTIAN DIOR<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            119.95 - 139.95
+            <a href="https://perfumeonline.ca/products/dior-joy-intense">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4385351106657</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">119.95</s:price>
+      <s:sku>CDJOYINT50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4385351106657</id>
+      <title>90ML EDP</title>
+      <s:price currency="CAD">139.95</s:price>
+      <s:sku>CDJOYINT9PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4367568240737</id>
+    <published>2019-11-15T14:52:08-05:00</published>
+    <updated>2019-11-15T14:52:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dior-star"/>
+    <title>Dior Star</title>
+    <s:type>Women</s:type>
+    <s:vendor>CHRISTIAN DIOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dior-Star.png?v=1573923932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHRISTIAN DIOR<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4367568240737</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">69.95</s:price>
+      <s:sku>CDSTA50TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/2057223176289</id>
+    <published>2019-04-05T16:02:31-04:00</published>
+    <updated>2019-04-05T16:02:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dior-joy"/>
+    <title>Dior Joy</title>
+    <s:type>Women</s:type>
+    <s:vendor>CHRISTIAN DIOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dior-Joy.png?v=1571609995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHRISTIAN DIOR<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            97.95 - 133.75
+            <a href="https://perfumeonline.ca/products/dior-joy">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2057223176289</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">97.95</s:price>
+      <s:sku>CDJOY50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2057223176289</id>
+      <title>90ML EDP</title>
+      <s:price currency="CAD">133.75</s:price>
+      <s:sku>CDJOY90PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9829502987</id>
+    <published>2018-10-09T14:58:42-04:00</published>
+    <updated>2018-10-09T14:58:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dior-fahrenheit-absolute"/>
+    <title>Dior Fahrenheit Absolute</title>
+    <s:type>Men</s:type>
+    <s:vendor>CHRISTIAN DIOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dior-Fahrenheit-Absolute.png?v=1571609902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHRISTIAN DIOR<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9829502987</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>CDFAHABS50M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9829427979</id>
+    <published>2018-10-09T14:58:42-04:00</published>
+    <updated>2018-10-09T14:58:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dior-dioressence"/>
+    <title>Dior Dioressence</title>
+    <s:type>Women</s:type>
+    <s:vendor>CHRISTIAN DIOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dior-Dioressence.png?v=1571609902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHRISTIAN DIOR<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            92.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9829427979</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">92.95</s:price>
+      <s:sku>TESCDDIORE100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9829418827</id>
+    <published>2018-10-09T14:58:42-04:00</published>
+    <updated>2018-10-09T14:58:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/diorella"/>
+    <title>Dior Diorella</title>
+    <s:type>Women</s:type>
+    <s:vendor>CHRISTIAN DIOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dior-Diorella.png?v=1571609902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHRISTIAN DIOR<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            109.95 - 126.75
+            <a href="https://perfumeonline.ca/products/diorella">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>Price170</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9829418827</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">109.95</s:price>
+      <s:sku>TESCDDIOR100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9829418827</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">126.75</s:price>
+      <s:sku>CDDIOR100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9829253131</id>
+    <published>2018-10-09T14:58:42-04:00</published>
+    <updated>2018-10-09T14:58:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dior-addict-2"/>
+    <title>Dior Addict 2</title>
+    <s:type>Women</s:type>
+    <s:vendor>CHRISTIAN DIOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dior-Addict-2.png?v=1571609901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHRISTIAN DIOR<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            88.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICESHEET1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9829253131</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">88.95</s:price>
+      <s:sku>CDADD250TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9829507531</id>
+    <published>2018-10-09T14:58:41-04:00</published>
+    <updated>2018-10-09T14:58:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/fahrenheit-acqua"/>
+    <title>Fahrenheit Aqua</title>
+    <s:type>Men</s:type>
+    <s:vendor>CHRISTIAN DIOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Fahrenheit-Aqua.png?v=1571609902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHRISTIAN DIOR<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            84.95 - 89.95
+            <a href="https://perfumeonline.ca/products/fahrenheit-acqua">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9829507531</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">84.95</s:price>
+      <s:sku>CDFAHACQ75M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9829507531</id>
+      <title>125ML EDT TESTER</title>
+      <s:price currency="CAD">89.95</s:price>
+      <s:sku>TESCDFAHACQ125M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9835562315</id>
+    <published>2018-10-09T14:58:40-04:00</published>
+    <updated>2018-10-09T14:58:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dior-jadore-voile-de-parfum"/>
+    <title>Dior Jadore Voile De Parfum</title>
+    <s:type>Women</s:type>
+    <s:vendor>CHRISTIAN DIOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dior-Jadore-Voile-De-Parfum.png?v=1571609905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHRISTIAN DIOR<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            95.95 - 119.95
+            <a href="https://perfumeonline.ca/products/dior-jadore-voile-de-parfum">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9835562315</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">95.95</s:price>
+      <s:sku>CDJADVOI50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9835562315</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">119.95</s:price>
+      <s:sku>CDJADVOI100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9851980235</id>
+    <published>2018-10-09T14:58:15-04:00</published>
+    <updated>2018-10-09T14:58:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/jadore-summer-fragrance"/>
+    <title>Dior Jadore Summer</title>
+    <s:type>Women</s:type>
+    <s:vendor>CHRISTIAN DIOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_c264f4d5-28eb-45d0-85d1-2aa3313dffdd.png?v=1571609944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHRISTIAN DIOR<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            51.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9851980235</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">51.95</s:price>
+      <s:sku>TESCDJADSUM100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1434346389601</id>
+    <published>2018-09-27T15:10:57-04:00</published>
+    <updated>2018-09-27T15:10:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/christian-dior-pure-poison"/>
+    <title>Christian Dior Pure Poison Elixir</title>
+    <s:type>Women</s:type>
+    <s:vendor>CHRISTIAN DIOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/dior-pure-poison-elixir_1024x1024_608d7e99-1abd-4b9c-895a-9c7c698757b8.png?v=1571609985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHRISTIAN DIOR<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            64.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>newproducts</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1434346389601</id>
+      <title>30ML EDP</title>
+      <s:price currency="CAD">64.95</s:price>
+      <s:sku>CDPURELI30PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1427959119969</id>
+    <published>2018-09-06T15:58:21-04:00</published>
+    <updated>2018-09-06T15:58:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dior-homme-1"/>
+    <title>Dior Homme</title>
+    <s:type>Men</s:type>
+    <s:vendor>CHRISTIAN DIOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dior-Homme.png?v=1571609980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHRISTIAN DIOR<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            108.95 - 144.95
+            <a href="https://perfumeonline.ca/products/dior-homme-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1427959119969</id>
+      <title>75ML EDP TESTER</title>
+      <s:price currency="CAD">108.95</s:price>
+      <s:sku>TESCDHOM75PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1427959119969</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">144.95</s:price>
+      <s:sku>CDHOM75PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1427957383265</id>
+    <published>2018-09-06T15:42:01-04:00</published>
+    <updated>2018-09-06T15:42:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dior-fahrenheit-edp"/>
+    <title>Dior Fahrenheit Edp</title>
+    <s:type>Men</s:type>
+    <s:vendor>CHRISTIAN DIOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dior-Fahrenheit_6aee6e06-6856-4c10-afd4-8109247c6eef.png?v=1571609980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHRISTIAN DIOR<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            137.95 - 139.95
+            <a href="https://perfumeonline.ca/products/dior-fahrenheit-edp">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22AUG2020</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1427957383265</id>
+      <title>75ML EDP TESTER</title>
+      <s:price currency="CAD">139.95</s:price>
+      <s:sku>TESCDFAH75PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1427957383265</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">137.95</s:price>
+      <s:sku>CDFAH75PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1392483762273</id>
+    <published>2018-07-21T13:58:27-04:00</published>
+    <updated>2018-07-21T13:58:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dior-sauage-very-cool"/>
+    <title>Dior Sauvage Very Cool</title>
+    <s:type>Men</s:type>
+    <s:vendor>CHRISTIAN DIOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/DIOR-SAUAGE-VERY-COOL-100-ML-EDT-MEN.jpg?v=1571609974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHRISTIAN DIOR<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            88.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1392483762273</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">88.45</s:price>
+      <s:sku>CDSAUCOO100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1392482222177</id>
+    <published>2018-07-21T13:55:16-04:00</published>
+    <updated>2018-07-21T13:55:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dior-miss-dior-le-parfum"/>
+    <title>Miss Dior Le Parfum</title>
+    <s:type>Women</s:type>
+    <s:vendor>CHRISTIAN DIOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Miss-Dior-Le-Parfum_fa41027d-e996-4bda-99a8-526469ea74d2.png?v=1571609974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHRISTIAN DIOR<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            185.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1392482222177</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">185.95</s:price>
+      <s:sku>CDMISDIOLEP75PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1392479731809</id>
+    <published>2018-07-21T13:51:31-04:00</published>
+    <updated>2018-07-21T13:51:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dior-miss-dior-cherie-leau"/>
+    <title>Dior Miss Dior Cherie L&apos;eau</title>
+    <s:type>Women</s:type>
+    <s:vendor>CHRISTIAN DIOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/DIOR-MISS-DIOR-CHERIE-LEAU-100ML-EDT-WOMEN.jpg?v=1571609974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHRISTIAN DIOR<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            109.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1392479731809</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">109.95</s:price>
+      <s:sku>CDMISCHELEA100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1392477634657</id>
+    <published>2018-07-21T13:48:51-04:00</published>
+    <updated>2018-07-21T13:48:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dior-forever-and-ever"/>
+    <title>Dior Forever And Ever</title>
+    <s:type>Women</s:type>
+    <s:vendor>CHRISTIAN DIOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dior-Forever-And-Ever.png?v=1571609974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHRISTIAN DIOR<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            96.95 - 129.95
+            <a href="https://perfumeonline.ca/products/dior-forever-and-ever">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22AUG2020</s:tag>
+    <s:tag>Black-Friday</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1392477634657</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">96.95</s:price>
+      <s:sku>TESCDFOR100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1392477634657</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">129.95</s:price>
+      <s:sku>CDFOR100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1392476520545</id>
+    <published>2018-07-21T13:46:28-04:00</published>
+    <updated>2018-07-21T13:46:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dior-fahrenheit-cologne"/>
+    <title>Dior Fahrenheit Cologne</title>
+    <s:type>Men</s:type>
+    <s:vendor>CHRISTIAN DIOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/DIOR-FAHRENHEIT-COLOGNE-125ML-EDC-MEN.jpg?v=1571609974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHRISTIAN DIOR<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            115.95 - 124.95
+            <a href="https://perfumeonline.ca/products/dior-fahrenheit-cologne">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 JULY 2020</s:tag>
+    <s:tag>28jun2020</s:tag>
+    <s:tag>Black-Friday</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1392476520545</id>
+      <title>120ML EDC TESTER</title>
+      <s:price currency="CAD">115.95</s:price>
+      <s:sku>TESCDFAHCOL125M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1392476520545</id>
+      <title>125ML EDC</title>
+      <s:price currency="CAD">124.95</s:price>
+      <s:sku>CDFAHCOL125M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1392475865185</id>
+    <published>2018-07-21T13:41:44-04:00</published>
+    <updated>2018-07-21T13:41:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dior-fahrenheit-1"/>
+    <title>Dior Fahrenheit After Shave</title>
+    <s:type>AFTER SHAVE</s:type>
+    <s:vendor>CHRISTIAN DIOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dior-fahrenheit.png?v=1571609974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHRISTIAN DIOR<br>
+        <strong>Type: </strong>AFTER SHAVE<br>
+        <strong>Price: </strong>
+            74.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black-Friday</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1392475865185</id>
+      <title>100ML AFTER SHAVE</title>
+      <s:price currency="CAD">74.45</s:price>
+      <s:sku>CDFAHA/S100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

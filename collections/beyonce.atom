@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/beyonce.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2020-04-26T23:24:06-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/4591936766049</id>
+    <published>2020-04-26T23:24:06-04:00</published>
+    <updated>2020-04-26T23:24:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/beyonce-rise"/>
+    <title>Beyonce Rise</title>
+    <s:type>Women</s:type>
+    <s:vendor>BEYONCE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Beyonce-Rise.png?v=1600888791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEYONCE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            16.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>26APRIL20</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4591936766049</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">16.45</s:price>
+      <s:sku>BHRIS100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9843456203</id>
+    <published>2018-11-19T12:40:15-05:00</published>
+    <updated>2018-11-19T12:40:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/beyonce-pulse"/>
+    <title>BEYONCE PULSE</title>
+    <s:type>Women</s:type>
+    <s:vendor>BEYONCE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Beyonce_Pulse_Perfume_for_Women.jpg?v=1571609920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEYONCE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            13.95 - 15.75
+            <a href="https://perfumeonline.ca/products/beyonce-pulse">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20julyy2021aj</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9843456203</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>TESBHPUL100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9843456203</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">15.75</s:price>
+      <s:sku>BHPUL100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9843412043</id>
+    <published>2018-11-19T12:40:13-05:00</published>
+    <updated>2018-11-19T12:40:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/beyonce-heat-wild-orchid"/>
+    <title>Beyonce Heat Wild Orchid</title>
+    <s:type>Women</s:type>
+    <s:vendor>BEYONCE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Beyonce_Heat_Wild_Orchid_Perfume_Women.jpg?v=1571609920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEYONCE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            19.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beyonce Heat Wild Orchid perfume for women is a mouth-watering and enticing scent was created by perfumer Honorine Blanc in 2010. The scent starts off with fruity notes of boysenberry, coconut water and pomegranate blended with floral notes of honeysuckle, magnolia and butterfly orchid. amber, musk and white woods features as the base of the scent.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICESHEET1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9843412043</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">19.45</s:price>
+      <s:sku>BHWIL100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9843390027</id>
+    <published>2018-11-19T12:40:12-05:00</published>
+    <updated>2018-11-19T12:40:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/beyonce-heat-rush"/>
+    <title>Beyonce Heat Rush</title>
+    <s:type>Women</s:type>
+    <s:vendor>BEYONCE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Beyonce-Heat-Rush.png?v=1571609919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEYONCE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            15.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beyonce Heat Rush is a refreshing perfume for women introduced in 2010 and scent was developed by perfumer Honorine Blanc. The opening notes of the scent are passionfruit, cherry and blood orange. Middle notes are mango blossom, hibiscus and orchid with the base of musk, amber and teak wood.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price170</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9843390027</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">15.45</s:price>
+      <s:sku>BHRUS100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9843366795</id>
+    <published>2018-11-19T12:40:11-05:00</published>
+    <updated>2018-11-19T12:40:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/beyonce-heat-midnight"/>
+    <title>Beyonce Midnight Heat</title>
+    <s:type>Women</s:type>
+    <s:vendor>BEYONCE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Beyonce-Midnight-Heat.png?v=1571609919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEYONCE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            13.45 - 19.45
+            <a href="https://perfumeonline.ca/products/beyonce-heat-midnight">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20julyy2021aj</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9843366795</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">13.45</s:price>
+      <s:sku>BHMID50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9843366795</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku>TESBHMID100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9843366795</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">19.45</s:price>
+      <s:sku>BHMID100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9838493387</id>
+    <published>2018-11-19T12:40:10-05:00</published>
+    <updated>2018-11-19T12:40:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/beyonce-heat"/>
+    <title>Beyonce Heat</title>
+    <s:type>Women</s:type>
+    <s:vendor>BEYONCE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Beyonce_Heat_Perfume_for_Women.jpg?v=1571609919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEYONCE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            11.45 - 15.75
+            <a href="https://perfumeonline.ca/products/beyonce-heat">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:tag>Price170</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838493387</id>
+      <title>30ML EDP</title>
+      <s:price currency="CAD">11.45</s:price>
+      <s:sku>BH30PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838493387</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">13.75</s:price>
+      <s:sku>TESBH100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838493387</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">15.75</s:price>
+      <s:sku>BH100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1448770011233</id>
+    <published>2018-11-19T12:37:56-05:00</published>
+    <updated>2018-11-19T12:37:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/beyonce-heat-kissed"/>
+    <title>Beyonce Heat Kissed</title>
+    <s:type>Women</s:type>
+    <s:vendor>BEYONCE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Beyonce-Heat-Kissed-Eau-De-Parfum-100ml_1024x1024_db7a5201-461c-4657-b7d5-e14af95a2191.jpg?v=1571609988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEYONCE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            17.95 - 19.95
+            <a href="https://perfumeonline.ca/products/beyonce-heat-kissed">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4MAY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1448770011233</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku>TESBHKIS100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1448770011233</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>BHKIS100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

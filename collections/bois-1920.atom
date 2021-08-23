@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/bois-1920.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-07-30T03:23:00-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6867893813437</id>
+    <published>2021-07-30T03:23:00-04:00</published>
+    <updated>2021-07-30T03:23:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bois-1920-sushi-imperiale"/>
+    <title>Bois 1920 Sushi Imperiale</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOIS 1920</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bois-1920-Sushi-Imperiale.png?v=1628767670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOIS 1920<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            123.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6867893813437</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">123.95</s:price>
+      <s:sku>BOISUSIMP100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6867880476861</id>
+    <published>2021-07-30T03:01:27-04:00</published>
+    <updated>2021-07-30T03:01:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bois-1920-classic-1920-edp"/>
+    <title>Bois 1920 Classic 1920 Edp</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOIS 1920</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bois-1920-Classic-1920-Edp.png?v=1628758567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOIS 1920<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            88.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6867880476861</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">88.95</s:price>
+      <s:sku>BOI192050U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6867878543549</id>
+    <published>2021-07-30T02:59:42-04:00</published>
+    <updated>2021-07-30T02:59:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bois-1920-real-patchouly-edp"/>
+    <title>Bois 1920 Real Patchouly Edp</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOIS 1920</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bois-1920-Real-Patchouly-Edp.png?v=1628766896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOIS 1920<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            88.95 - 135.95
+            <a href="https://perfumeonline.ca/products/bois-1920-real-patchouly-edp">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6867878543549</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">88.95</s:price>
+      <s:sku>BOIREAPAT50U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6867878543549</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">135.95</s:price>
+      <s:sku>BOIREAPAT100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6616842272957</id>
+    <published>2021-03-29T02:10:58-04:00</published>
+    <updated>2021-03-29T02:10:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-eau-de-noho"/>
+    <title>Bond No.9 Eau De Noho</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOIS 1920</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_c13681fa-c130-4777-9a6a-af5d6157a1ca.png?v=1626101800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOIS 1920<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            199.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27MARR21</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6616842272957</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">199.95</s:price>
+      <s:sku>BOIEAUNOH100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6616839225533</id>
+    <published>2021-03-29T02:09:45-04:00</published>
+    <updated>2021-03-29T02:09:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-coney-island"/>
+    <title>Bond No.9 Coney Island</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOIS 1920</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_814f511e-9e28-4425-86e0-c72727025623.png?v=1626101799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOIS 1920<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            169.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27MARR21</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6616839225533</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">169.95</s:price>
+      <s:sku>TESBOICONISL100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6616836309181</id>
+    <published>2021-03-29T02:08:22-04:00</published>
+    <updated>2021-03-29T02:08:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-new-york-spring-fling"/>
+    <title>Bond No.9 New York Spring Fling</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOIS 1920</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_f6db3e9d-bd79-4ff0-a5c8-b926bfdac004.png?v=1626101802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOIS 1920<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            169.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27MARR21</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6616836309181</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">169.95</s:price>
+      <s:sku>TESBOISPIFLI100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6616835063997</id>
+    <published>2021-03-29T02:07:42-04:00</published>
+    <updated>2021-03-29T02:07:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bois-1920-spigo"/>
+    <title>Bois 1920 Spigo</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOIS 1920</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_51d4f963-af7e-4e5e-b588-e71bc883cee0.png?v=1626101793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOIS 1920<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            119.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27MARR21</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6616835063997</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">119.95</s:price>
+      <s:sku>BOISPI100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6616833851581</id>
+    <published>2021-03-29T02:07:12-04:00</published>
+    <updated>2021-03-29T02:07:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bois-1920-itruk"/>
+    <title>Bois 1920 Itruk</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOIS 1920</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_d6fbb4d1-c34e-4156-a777-3c50871caa99.png?v=1626101799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOIS 1920<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            144.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27MARR21</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6616833851581</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">144.95</s:price>
+      <s:sku>BOIITR100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6616827035837</id>
+    <published>2021-03-29T02:03:16-04:00</published>
+    <updated>2021-03-29T02:03:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bois-1920-nagud"/>
+    <title>Bois 1920 Nagud</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOIS 1920</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_82989249-e041-401b-9d46-7b07660c2fd8.png?v=1626101793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOIS 1920<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            224.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27MARR21</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6616827035837</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">224.95</s:price>
+      <s:sku>BOINAG100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4632040800353</id>
+    <published>2020-05-19T06:29:28-04:00</published>
+    <updated>2020-05-19T06:29:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bois-1920-oro-1920"/>
+    <title>Bois 1920 Oro 1920</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOIS 1920</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bois-1920-Oro-1920.png?v=1600888795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOIS 1920<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            177.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4632040800353</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">177.95</s:price>
+      <s:sku>BOIORO100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4632040767585</id>
+    <published>2020-05-19T06:29:28-04:00</published>
+    <updated>2020-05-19T06:29:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bois-1920-extreme-1920"/>
+    <title>Bois 1920 Extreme 1920</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOIS 1920</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bois-1920-Extreme-1920.png?v=1600888794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOIS 1920<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            169.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4632040767585</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">169.95</s:price>
+      <s:sku>BOIEXT100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3936742932577</id>
+    <published>2019-07-16T11:52:21-04:00</published>
+    <updated>2019-07-16T11:52:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bois-1920-classic-1920"/>
+    <title>Bois 1920 Classic 1920</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOIS 1920</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bois-1920-Classic-1920-100Ml-Edt-Unisex.png?v=1571610005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOIS 1920<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            96.45 - 149.95
+            <a href="https://perfumeonline.ca/products/bois-1920-classic-1920">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>13JULYY</s:tag>
+    <s:tag>19MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3936742932577</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">96.45</s:price>
+      <s:sku>BOICLA50U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3936742932577</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">149.95</s:price>
+      <s:sku>BOICLA100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3936742899809</id>
+    <published>2019-07-16T11:52:21-04:00</published>
+    <updated>2019-07-16T11:52:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bois-1920-oltremare"/>
+    <title>Bois 1920 Oltremare</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOIS 1920</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bois-1920-Oltremare-100Ml-Edp-Unisex.png?v=1571610004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOIS 1920<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            96.45 - 133.95
+            <a href="https://perfumeonline.ca/products/bois-1920-oltremare">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>13JULYY</s:tag>
+    <s:tag>19MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3936742899809</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">96.45</s:price>
+      <s:sku>BOIOLT50U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3936742899809</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">133.95</s:price>
+      <s:sku>BOIOLT100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3936742965345</id>
+    <published>2019-07-16T11:52:20-04:00</published>
+    <updated>2019-07-16T11:52:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bois-1920-agrumi-amari-di-sicilia"/>
+    <title>Bois 1920 Agrumi Amari Di Sicilia</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOIS 1920</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bois-1920-Agrumi-Amari-Di-Sicilia-100Ml-Edt-Unisex.png?v=1571610005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOIS 1920<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            129.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>13JULYY</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3936742965345</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">129.95</s:price>
+      <s:sku>BOIAGR100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3936743161953</id>
+    <published>2019-07-16T11:52:19-04:00</published>
+    <updated>2019-07-16T11:52:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bois-1920-real-patchouly"/>
+    <title>Bois 1920 Real Patchouly</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOIS 1920</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bois-1920-Real-Patchouly-100Ml-Edt-Unisex.png?v=1571610005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOIS 1920<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            96.45 - 136.95
+            <a href="https://perfumeonline.ca/products/bois-1920-real-patchouly">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>13JULYY</s:tag>
+    <s:tag>19MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3936743161953</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">96.45</s:price>
+      <s:sku>BOIPAT50U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3936743161953</id>
+      <title>100ML EDT (No Cellophane)</title>
+      <s:price currency="CAD">136.95</s:price>
+      <s:sku>BOIPAT100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3936743129185</id>
+    <published>2019-07-16T11:52:19-04:00</published>
+    <updated>2019-07-16T11:52:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bois-1920-sutra-ylang"/>
+    <title>Bois 1920 Sutra Ylang</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOIS 1920</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bois-1920-Sutra-Ylang-100Ml-Edt-Unisex.png?v=1571610005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOIS 1920<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            97.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>13JULYY</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3936743129185</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">97.95</s:price>
+      <s:sku>BOISUT100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3936743096417</id>
+    <published>2019-07-16T11:52:19-04:00</published>
+    <updated>2019-07-16T11:52:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bois-1920-vento-nel-vento"/>
+    <title>Bois 1920 Vento Nel Vento</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOIS 1920</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bois-1920-Vento-Nel-Vento-100Ml-Edp-Unisex.png?v=1571610005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOIS 1920<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            88.95 - 140.95
+            <a href="https://perfumeonline.ca/products/bois-1920-vento-nel-vento">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>13JULYY</s:tag>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3936743096417</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">88.95</s:price>
+      <s:sku>BOIVENNEL50U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3936743096417</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">140.95</s:price>
+      <s:sku>BOISVEN100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/2116919296097</id>
+    <published>2019-05-14T03:22:56-04:00</published>
+    <updated>2019-05-14T03:22:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bois-1920-shushi-imperiale"/>
+    <title>Bois 1920 Shushi Imperiale</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOIS 1920</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SUSHI-IMPERIALE1_spo.jpg?v=1571609996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOIS 1920<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            123.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2116919296097</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">123.95</s:price>
+      <s:sku>BOISUS100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

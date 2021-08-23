@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/boucheron.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-02-12T11:57:59-05:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6218657628349</id>
+    <published>2021-02-12T11:57:59-05:00</published>
+    <updated>2021-02-12T11:57:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/boucheron-jaipur-bouquet"/>
+    <title>Boucheron Jaipur Bouquet</title>
+    <s:type>Women</s:type>
+    <s:vendor>BOUCHERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BoucheronJaipurBouquetWomen.jpg?v=1626101814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOUCHERON<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12FEBB2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6218657628349</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">34.95</s:price>
+      <s:sku>BOUJAIBOU100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4616584691809</id>
+    <published>2020-05-13T00:45:22-04:00</published>
+    <updated>2020-05-13T00:45:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/boucheron-quatre-absolu-de-nuit-edp"/>
+    <title>Boucheron Quatre Absolu De Nuit Edp</title>
+    <s:type>Men</s:type>
+    <s:vendor>BOUCHERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Boucheron-Quatre-Absolu-De-Nuit-Edp.png?v=1600888805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOUCHERON<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            50.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>13MAY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4616584691809</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">50.95</s:price>
+      <s:sku>BOUQUAABS100PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332956581985</id>
+    <published>2019-11-23T04:29:23-05:00</published>
+    <updated>2019-11-23T04:29:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/jaipur-boucheron-gift-set-men"/>
+    <title>Jaipur Boucheron Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>BOUCHERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_bba2add4-3f23-4e99-a8f3-92741c2a7385.png?v=1572519274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOUCHERON<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            60.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332956581985</id>
+      <title>100ML Edp + 100ML A/S + 100ML S/G</title>
+      <s:price currency="CAD">60.95</s:price>
+      <s:sku>SET-BOUJAI100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9964737867</id>
+    <published>2019-11-23T04:27:47-05:00</published>
+    <updated>2019-11-23T04:27:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/boucheron-gift-set-men"/>
+    <title>Boucheron Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>BOUCHERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-BOU7348M_spo_grande_a5051ee7-233b-409c-b035-e3deafc8782f.jpg?v=1571609951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOUCHERON<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>GiftSetReady</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>OLDGIFTSETS</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9964737867</id>
+      <title>100ML EDP + 100ML A/S + 100ML S/G</title>
+      <s:price currency="CAD">69.95</s:price>
+      <s:sku>SET-BOU7348M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4367568175201</id>
+    <published>2019-11-15T14:52:09-05:00</published>
+    <updated>2019-11-15T14:52:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/boucheron-quatre-intense-homme"/>
+    <title>Boucheron Quatre Intense Homme</title>
+    <s:type>Men</s:type>
+    <s:vendor>BOUCHERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Boucheron-Quatre-Intense-Homme.png?v=1573923565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOUCHERON<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4367568175201</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>BOUQUAINT100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4367568207969</id>
+    <published>2019-11-15T14:52:08-05:00</published>
+    <updated>2019-11-15T14:52:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/boucheron-quatre-en-rose-florale"/>
+    <title>Boucheron Quatre En Rose Florale</title>
+    <s:type>Women</s:type>
+    <s:vendor>BOUCHERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Boucheron-Quatre-En-Rose-Florale.png?v=1573923527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOUCHERON<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4367568207969</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">54.95</s:price>
+      <s:sku>BOUQUROS100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4355924394081</id>
+    <published>2019-11-11T05:56:56-05:00</published>
+    <updated>2019-11-11T05:56:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/boucheron-quatre-absolu-de-nuit"/>
+    <title>Boucheron Quatre Absolu De Nuit</title>
+    <s:type>Women</s:type>
+    <s:vendor>BOUCHERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Boucheron-Quatre-Absolu-De-Nuit.png?v=1573500974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOUCHERON<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            50.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4355924394081</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">50.95</s:price>
+      <s:sku>BOUQUAABS100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312166203489</id>
+    <published>2019-10-25T04:38:18-04:00</published>
+    <updated>2019-10-25T04:38:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/boucheron-patchouli-dangkor"/>
+    <title>Boucheron Patchouli D&apos;Angkor</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOUCHERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Boucheron-Patchouli-D_Angkor.png?v=1572290333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOUCHERON<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            194.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312166203489</id>
+      <title>125ML EDP</title>
+      <s:price currency="CAD">194.95</s:price>
+      <s:sku>BOUPAT125U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312166170721</id>
+    <published>2019-10-25T04:38:18-04:00</published>
+    <updated>2019-10-25T04:38:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/boucheron-neroli-dispahan"/>
+    <title>Boucheron Neroli D&apos;Ispahan</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOUCHERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Boucheron-Neroli-D_Ispahan.png?v=1572290276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOUCHERON<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            155.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312166170721</id>
+      <title>125ML EDP</title>
+      <s:price currency="CAD">155.75</s:price>
+      <s:sku>BOUNER125U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258973188193</id>
+    <published>2019-10-15T07:36:29-04:00</published>
+    <updated>2019-10-15T07:36:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/boucheron-quatre"/>
+    <title>Boucheron Quatre</title>
+    <s:type>Men</s:type>
+    <s:vendor>BOUCHERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BOUCHERON-QUATRE-100ML-EDT-MEN.png?v=1571610019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOUCHERON<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            45.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973188193</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">45.95</s:price>
+      <s:sku>BOUQUA100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1414911230049</id>
+    <published>2018-08-13T13:35:08-04:00</published>
+    <updated>2018-08-13T13:35:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/miss-boucheron"/>
+    <title>MISS BOUCHERON</title>
+    <s:type>Women</s:type>
+    <s:vendor>BOUCHERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/152834.jpg?v=1571609978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOUCHERON<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            63.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1414911230049</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">63.95</s:price>
+      <s:sku>BOUMIS100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/755333234785</id>
+    <published>2018-05-16T15:38:01-04:00</published>
+    <updated>2018-05-16T15:38:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/jaipur-pour-homme"/>
+    <title>Boucheron Jaipur Homme Edp</title>
+    <s:type>Men</s:type>
+    <s:vendor>BOUCHERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Boucheron_Jaipur_Homme_Edp_Edition.jpg?v=1571609960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOUCHERON<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            33.95 - 43.45
+            <a href="https://perfumeonline.ca/products/jaipur-pour-homme">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Boucheron Jaipur Homme for men was introduced in 1998 by design house of Boucheron. The nose behind this scent is Annik Menardo. The scent classified as a woody, oriental, sharp fragrance. The masculine scent possesses a blend of fresh and spicy florals. This beautiful perfume could be the perfect aroma for summer or spring evening out.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>28sep2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/755333234785</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">33.95</s:price>
+      <s:sku>TESBOUJAI100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/755333234785</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">43.45</s:price>
+      <s:sku>BOUJAI100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9844219083</id>
+    <published>2017-08-18T01:54:01-04:00</published>
+    <updated>2017-08-18T01:54:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/boucheron-men-1"/>
+    <title>Boucheron Pour Homme Edp</title>
+    <s:type>Men</s:type>
+    <s:vendor>BOUCHERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Boucheron_Pour_Homme_Edp_Perfume_for_Men.jpg?v=1571609924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOUCHERON<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            37.95 - 42.95
+            <a href="https://perfumeonline.ca/products/boucheron-men-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:tag>PRICESHEET1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844219083</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>TESBOU100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844219083</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">42.95</s:price>
+      <s:sku>BOU100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9844214411</id>
+    <published>2017-08-18T01:51:25-04:00</published>
+    <updated>2017-08-18T01:51:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/boucheron-place-vendome"/>
+    <title>BOUCHERON PLACE VENDOME</title>
+    <s:type>Women</s:type>
+    <s:vendor>BOUCHERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/70426w.jpg?v=1571609924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOUCHERON<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            43.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Boucheron Place Vendome Perfume for women was launched in 2013 by Boucheron. The signature scent combined with notes tangerine, orange blossom, rose and pink pepper blended with heart notes of peony, honey, jasmine and praline. The base notes include cedar and benzoin. Boucheron Place Vendome works well during winter, autumn and spring days. The nose behind this feminine scent is Nathalie Lorson and Oliver Cresp.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICESHEET1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844214411</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">43.95</s:price>
+      <s:sku>BOUPLA100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9844208523</id>
+    <published>2017-08-18T01:48:15-04:00</published>
+    <updated>2017-08-18T01:48:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/boucheron-men"/>
+    <title>Boucheron Pour Homme Edt</title>
+    <s:type>Men</s:type>
+    <s:vendor>BOUCHERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Boucheron_Pour_Homme_for_Men.jpg?v=1571609924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOUCHERON<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            32.45 - 35.95
+            <a href="https://perfumeonline.ca/products/boucheron-men">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>Price170</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844208523</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">32.45</s:price>
+      <s:sku>BOU50TM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844208523</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">32.95</s:price>
+      <s:sku>TESBOU100TM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844208523</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">35.95</s:price>
+      <s:sku>BOU100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9844203979</id>
+    <published>2017-08-18T01:45:42-04:00</published>
+    <updated>2017-08-18T01:45:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/boucheron-women"/>
+    <title>Boucheron Edt</title>
+    <s:type>Women</s:type>
+    <s:vendor>BOUCHERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Boucheron-Edt-Edition.png?v=1571609924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOUCHERON<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            32.25 - 41.95
+            <a href="https://perfumeonline.ca/products/boucheron-women">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black-Friday</s:tag>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844203979</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">32.25</s:price>
+      <s:sku>BOU50TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844203979</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">41.95</s:price>
+      <s:sku>BOU100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9844197963</id>
+    <published>2017-08-18T01:43:15-04:00</published>
+    <updated>2017-08-18T01:43:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/boucheron"/>
+    <title>Boucheron Edp</title>
+    <s:type>Women</s:type>
+    <s:vendor>BOUCHERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Boucheron-Edp-Edition.png?v=1571609924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOUCHERON<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            38.95 - 48.95
+            <a href="https://perfumeonline.ca/products/boucheron">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICESHEET1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844197963</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">38.95</s:price>
+      <s:sku>BOU50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844197963</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">40.75</s:price>
+      <s:sku>TESBOU100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844197963</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">48.95</s:price>
+      <s:sku>BOU100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9844168395</id>
+    <published>2017-08-18T01:30:27-04:00</published>
+    <updated>2017-08-18T01:30:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/jaipur-pour-homme-men"/>
+    <title>Boucheron Jaipur Homme Edt</title>
+    <s:type>Men</s:type>
+    <s:vendor>BOUCHERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Boucheron_Jaipur_Homme_for_Men_EDT.jpg?v=1571609922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOUCHERON<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            27.25 - 37.95
+            <a href="https://perfumeonline.ca/products/jaipur-pour-homme-men">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>Price170</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844168395</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">31.45</s:price>
+      <s:sku>BOUJAI50M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844168395</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">27.25</s:price>
+      <s:sku>TESBOUJAI100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844168395</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>BOUJAI100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9844159819</id>
+    <published>2017-08-18T01:24:23-04:00</published>
+    <updated>2017-08-18T01:24:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/jaipur-boucheron-bracelet"/>
+    <title>Boucheron Jaipur Bracelet</title>
+    <s:type>Women</s:type>
+    <s:vendor>BOUCHERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Boucheron-Jaipur-Bracelet.png?v=1571609922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOUCHERON<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            41.95 - 51.95
+            <a href="https://perfumeonline.ca/products/jaipur-boucheron-bracelet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844159819</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">41.95</s:price>
+      <s:sku>TESBOUJAIBRA100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844159819</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">51.95</s:price>
+      <s:sku>BOUJAIBRA100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

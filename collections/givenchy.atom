@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/givenchy.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2020-11-26T09:22:22-05:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6097979932861</id>
+    <published>2020-11-26T09:22:22-05:00</published>
+    <updated>2020-11-26T09:22:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gentlemen-only-givenchy-fraiche-edition"/>
+    <title>Gentlemen Only Givenchy Fraiche Edition</title>
+    <s:type>Men</s:type>
+    <s:vendor>GIVENCHY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Gentlemenonlyfraiche.jpg?v=1613493473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GIVENCHY<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            81.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25NOVV2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6097979932861</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">81.95</s:price>
+      <s:sku>GIVGENONYFRA100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6079149015229</id>
+    <published>2020-11-17T06:30:11-05:00</published>
+    <updated>2020-11-17T06:30:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/givenchy-very-irresistible-fresh-attitude-summer-sorbet"/>
+    <title>Givenchy Very Irresistible Fresh Attitude Summer Sorbet</title>
+    <s:type>Men</s:type>
+    <s:vendor>GIVENCHY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_c3636ebf-7124-447d-98aa-2529ebad38f0.png?v=1613493477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GIVENCHY<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            116.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6079149015229</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">116.95</s:price>
+      <s:sku>GIVVERIRRFRE100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4741217615969</id>
+    <published>2020-08-25T14:40:00-04:00</published>
+    <updated>2020-08-25T14:40:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/so-givenchy"/>
+    <title>So Givenchy</title>
+    <s:type>Women</s:type>
+    <s:vendor>GIVENCHY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SoGivenchyWomen.jpg?v=1626102454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GIVENCHY<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            73.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22AUG2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4741217615969</id>
+      <title>50ML EDT (No Cellophane)</title>
+      <s:price currency="CAD">73.95</s:price>
+      <s:sku>GIVSO50TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4651603984481</id>
+    <published>2020-05-31T02:40:49-04:00</published>
+    <updated>2020-05-31T02:40:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/givenchy-ange-ou-etrange"/>
+    <title>Givenchy Ange Ou Etrange</title>
+    <s:type>Women</s:type>
+    <s:vendor>GIVENCHY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_83c8d53c-a7b8-4289-b749-8a2bece6f787.png?v=1590907252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GIVENCHY<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            84.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>31MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4651603984481</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">84.95</s:price>
+      <s:sku>GIVANGOUETR50W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4651603820641</id>
+    <published>2020-05-31T02:40:46-04:00</published>
+    <updated>2020-05-31T02:40:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/givenchy-songe-precieux"/>
+    <title>Givenchy Songe Precieux</title>
+    <s:type>Women</s:type>
+    <s:vendor>GIVENCHY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Givenchy-Songe-Precieux.png?v=1606122761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GIVENCHY<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            72.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>31MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4651603820641</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">72.95</s:price>
+      <s:sku>GIVSONPRE50TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4647827275873</id>
+    <published>2020-05-28T12:39:45-04:00</published>
+    <updated>2020-05-28T12:39:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/givenchy-pi-air-fraiche"/>
+    <title>Givenchy Pi Air Fraiche</title>
+    <s:type>Men</s:type>
+    <s:vendor>GIVENCHY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_53c44001-b68c-49c2-919e-90d935195b75.png?v=1600888944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GIVENCHY<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            82.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4647827275873</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">82.99</s:price>
+      <s:sku>GIVPIAIR100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4435292946529</id>
+    <published>2019-12-17T08:58:42-05:00</published>
+    <updated>2019-12-17T08:58:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/eau-de-givenchy-rosee"/>
+    <title>Eau De Givenchy Rosee</title>
+    <s:type>Women</s:type>
+    <s:vendor>GIVENCHY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Eau-De-Givenchy-Rosee.png?v=1576680848"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GIVENCHY<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            74.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15DECC2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4435292946529</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">74.95</s:price>
+      <s:sku>GIVEAUROS100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4407657463905</id>
+    <published>2019-12-04T00:10:28-05:00</published>
+    <updated>2019-12-04T00:10:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ange-ou-demon-le-secret-edt"/>
+    <title>Ange Ou Demon Le Secret Edt</title>
+    <s:type>Women</s:type>
+    <s:vendor>GIVENCHY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_c4c839e4-dd23-46c9-ae51-e215971bfb1f.png?v=1575443955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GIVENCHY<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            68.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4407657463905</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">68.45</s:price>
+      <s:sku>TESGIVANGSEC100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332551471201</id>
+    <published>2019-11-23T04:31:59-05:00</published>
+    <updated>2019-11-23T04:31:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/givenchy-very-irresistible-gift-set-women"/>
+    <title>Very Irresistible Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>GIVENCHY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_37c33687-7727-4a44-803f-f12b8448c9fd.png?v=1572519260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GIVENCHY<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            68.95 - 84.95
+            <a href="https://perfumeonline.ca/products/givenchy-very-irresistible-gift-set-women">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>Vsets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332551471201</id>
+      <title>50ML EDT + 75ML B/L + POUCH</title>
+      <s:price currency="CAD">68.95</s:price>
+      <s:sku>SET-GIVVEY50W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332551471201</id>
+      <title>50ML Edt + 15ML Mini</title>
+      <s:price currency="CAD">71.95</s:price>
+      <s:sku>SET-GIVVER502PCW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332551471201</id>
+      <title>50ML Edt + 75ML B/L + Noir Mascara</title>
+      <s:price currency="CAD">76.95</s:price>
+      <s:sku>SET-GIVVER5796W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332551471201</id>
+      <title>75ML Edt + 12.5ML Mini + 75ML B/S/G</title>
+      <s:price currency="CAD">84.95</s:price>
+      <s:sku>SET-GIVVER1954W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332549701729</id>
+    <published>2019-11-23T04:31:06-05:00</published>
+    <updated>2019-11-23T04:31:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/pi-givenchy-gift-set-men"/>
+    <title>Pi Givenchy Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>GIVENCHY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_48a9d4ef-02e9-4855-8bde-65fcbbdf83a1.png?v=1572519313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GIVENCHY<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            80.95 - 84.95
+            <a href="https://perfumeonline.ca/products/pi-givenchy-gift-set-men">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>Vsets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332549701729</id>
+      <title>100ML EDT + 15ML EDT + 75ML S/G</title>
+      <s:price currency="CAD">80.95</s:price>
+      <s:sku>SET-GIVPI100M3274872381735</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332549701729</id>
+      <title>100ML Edt + 75ML A/S + 75ML S/G</title>
+      <s:price currency="CAD">84.95</s:price>
+      <s:sku>SET-GIVPIE1248M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332549472353</id>
+    <published>2019-11-23T04:31:04-05:00</published>
+    <updated>2019-11-23T04:31:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/organza-gift-set-women"/>
+    <title>Organza Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>GIVENCHY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_1201389a-27cf-45b1-8b1c-0dada896cc62.png?v=1572433140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GIVENCHY<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            104.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>giftsetisdone</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332549472353</id>
+      <title>100ML Edp + 75ML B/L +75ML S/G</title>
+      <s:price currency="CAD">104.95</s:price>
+      <s:sku>SET-GIVORG4967W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332957270113</id>
+    <published>2019-11-23T04:30:31-05:00</published>
+    <updated>2019-11-23T04:30:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/linterdit-givenchy-gift-set-women"/>
+    <title>L&apos;Interdit Givenchy Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>GIVENCHY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_9c27060b-d24d-4d9a-a8f3-c2996b170ae2.png?v=1572519290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GIVENCHY<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            96.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332957270113</id>
+      <title>80ML Edp + 75ML B/L + 10ML Edp</title>
+      <s:price currency="CAD">96.95</s:price>
+      <s:sku>SET-GIVLIN80P</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332545114209</id>
+    <published>2019-11-23T04:30:16-05:00</published>
+    <updated>2019-11-23T04:30:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/givenchy-live-irresistible-gift-set-women"/>
+    <title>Live Irresistible Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>GIVENCHY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/86_spo_8de5dbc8-f13d-4a8a-9098-3b4936764c3f.jpg?v=1572432959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GIVENCHY<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            90.95 - 96.95
+            <a href="https://perfumeonline.ca/products/givenchy-live-irresistible-gift-set-women">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>Vsets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332545114209</id>
+      <title>75ML EDP + POUCH + 75ML BODY CREAM</title>
+      <s:price currency="CAD">90.95</s:price>
+      <s:sku>SET-GIVLIV75W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332545114209</id>
+      <title>75ML Edp + 150ML Body Cream</title>
+      <s:price currency="CAD">96.95</s:price>
+      <s:sku>SET-GIVVERLIV4885W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4333115637857</id>
+    <published>2019-11-23T04:29:24-05:00</published>
+    <updated>2019-11-23T04:29:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gentleman-givenchy-gift-set-men"/>
+    <title>Gentleman Givenchy Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>GIVENCHY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_4da86d41-b98d-497e-b33a-dac8e0dafb65.png?v=1572519253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GIVENCHY<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            88.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4333115637857</id>
+      <title>100ML Edp + 15ML Edp</title>
+      <s:price currency="CAD">88.95</s:price>
+      <s:sku>SET-GIVGEN100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332545605729</id>
+    <published>2019-11-23T04:29:14-05:00</published>
+    <updated>2019-11-23T04:29:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/hot-couture-gift-set-women"/>
+    <title>Hot Couture Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>GIVENCHY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-GIVHOT5110W_spo_9cc53bd2-1615-42c1-ab6d-317d4b8ca983.jpg?v=1572432974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GIVENCHY<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>Vsets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332545605729</id>
+      <title>100ML Edt + 75ML B/L + 75ML Bath Gel</title>
+      <s:price currency="CAD">99.95</s:price>
+      <s:sku>SET-GIVHOT5110W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332545605729</id>
+      <title>100ML EDT + 75ML B/L + BAG</title>
+      <s:price currency="CAD">99.95</s:price>
+      <s:sku>SET-GIVHOTBAG100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332545245281</id>
+    <published>2019-11-23T04:29:11-05:00</published>
+    <updated>2019-11-23T04:29:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/givenchy-very-irresistible-fresh-attitude-gift-set-men"/>
+    <title>Givenchy Very Irresistible Fresh Attitude Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>GIVENCHY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-GIVVERFRE0416M_spo_3a64a9ac-91b6-4c9b-9955-73b811671a29.jpg?v=1572432966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GIVENCHY<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            68.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332545245281</id>
+      <title>100ML Edt + 100ML After Shave</title>
+      <s:price currency="CAD">68.95</s:price>
+      <s:sku>SET-GIVVERFRE0416M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332545179745</id>
+    <published>2019-11-23T04:29:11-05:00</published>
+    <updated>2019-11-23T04:29:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/givenchy-play-intense-gift-set-men"/>
+    <title>Givenchy Play Intense Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>GIVENCHY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Givenchy-Play-Intense-3Pc-Set-100Ml-Edt-_-75Ml-Shower-Gel-_-75Ml-After-Shave_5a001886-bfbe-49c3-abc9-e96228a31dee.jpg?v=1572432964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GIVENCHY<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            92.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332545179745</id>
+      <title>100ML Edt + 75ML S/G + 75ML A/S</title>
+      <s:price currency="CAD">92.95</s:price>
+      <s:sku>SET-GIVPLAINT2364M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332545146977</id>
+    <published>2019-11-23T04:29:11-05:00</published>
+    <updated>2019-11-23T04:29:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/givenchy-play-gift-set-men"/>
+    <title>Givenchy Play Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>GIVENCHY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-GIVPLA2340M_spo_deb3ca9c-0c2c-4df0-b12d-79bfcecec21e.jpg?v=1572432963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GIVENCHY<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            149.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332545146977</id>
+      <title>100ML Edt + 75ML S/G + 75ML A/S</title>
+      <s:price currency="CAD">149.95</s:price>
+      <s:sku>SET-GIVPLA2340M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332545015905</id>
+    <published>2019-11-23T04:29:10-05:00</published>
+    <updated>2019-11-23T04:29:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/givenchy-blue-label-gift-set-men"/>
+    <title>Givenchy Blue Label Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>GIVENCHY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-GIVBLU1304M_spo_f0f0c3d5-cde3-4d46-b504-ac4071882cbe.jpg?v=1572432960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GIVENCHY<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            80.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332545015905</id>
+      <title>100ML Edt + 75ML S/G + 75ML A/S Balm</title>
+      <s:price currency="CAD">80.95</s:price>
+      <s:sku>SET-GIVBLU1304M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332544950369</id>
+    <published>2019-11-23T04:29:10-05:00</published>
+    <updated>2019-11-23T04:29:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gentlemen-only-intense-gift-set-men"/>
+    <title>Gentlemen Only Intense Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>GIVENCHY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_aedf6a6d-fac6-4f13-b94d-13eecad11cd4.png?v=1572432959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GIVENCHY<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            109.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332544950369</id>
+      <title>100ML Edt + 75ML A/S + 75ML S/G Travel</title>
+      <s:price currency="CAD">109.95</s:price>
+      <s:sku>SET-GIVGENINT100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332544950369</id>
+      <title>100ML Edt + 100ML S/G + 100ML A/S</title>
+      <s:price currency="CAD">109.95</s:price>
+      <s:sku>SET-GIVONLINT1254M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332544917601</id>
+    <published>2019-11-23T04:29:09-05:00</published>
+    <updated>2019-11-23T04:29:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gentleman-only-givenchy-gift-set-men"/>
+    <title>Gentleman Only Givenchy Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>GIVENCHY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_374bbccf-88e7-4d4a-a8d7-eee2ca166e7f.png?v=1572519255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GIVENCHY<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            80.95 - 84.95
+            <a href="https://perfumeonline.ca/products/gentleman-only-givenchy-gift-set-men">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332544917601</id>
+      <title>100ML Edt + 75ML Shower Gel</title>
+      <s:price currency="CAD">80.95</s:price>
+      <s:sku>SET-GIVGENONY100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332544917601</id>
+      <title>100ML Edt + 15ML Edt Travel Set</title>
+      <s:price currency="CAD">84.95</s:price>
+      <s:sku>SET-GIVGENONL100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332544852065</id>
+    <published>2019-11-23T04:29:09-05:00</published>
+    <updated>2019-11-23T04:29:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gentleman-givenchy-white-box-gift-set-men"/>
+    <title>Gentleman Givenchy White Box Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>GIVENCHY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_2cf7e471-3adc-4d51-b3bc-d32030d3946b.png?v=1572432956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GIVENCHY<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            87.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332544852065</id>
+      <title>100ML Edt + 15ML Edt</title>
+      <s:price currency="CAD">87.95</s:price>
+      <s:sku>SET-GIVGENWHI100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1449458303073</id>
+    <published>2019-11-23T04:27:57-05:00</published>
+    <updated>2019-11-23T04:27:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gicvenchy-ange-ou-demon-gift-set-women"/>
+    <title>Ange Ou Demon Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>GIVENCHY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_0489be21-3907-46d6-88f5-3ed8ae50e415.png?v=1571609991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GIVENCHY<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            81.95 - 104.95
+            <a href="https://perfumeonline.ca/products/gicvenchy-ange-ou-demon-gift-set-women">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetReady</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>newgiftsets</s:tag>
+    <s:tag>OLDGIFTSETS</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1449458303073</id>
+      <title>50ML EDP + 75ML B/L + 75ML S/G</title>
+      <s:price currency="CAD">81.95</s:price>
+      <s:sku>SET-GIVANG4598W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1449458303073</id>
+      <title>100ML + 15ML EDP + 75ML Body Lotion</title>
+      <s:price currency="CAD">104.95</s:price>
+      <s:sku>SET-GIVANG100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9965334859</id>
+    <published>2019-11-23T04:27:50-05:00</published>
+    <updated>2019-11-23T04:27:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ange-ou-demon-le-secret-gift-set-women"/>
+    <title>Ange Ou Demon Le Secret Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>GIVENCHY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ANGE_OU_DEMON_LE_SECRET_3PC_SET_100ML_EDP_75ML_BODY_LOTION_12.5ML_TRAVEL_SPRAY_WOMEN_spo.jpg?v=1571609953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GIVENCHY<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            88.95 - 103.95
+            <a href="https://perfumeonline.ca/products/ange-ou-demon-le-secret-gift-set-women">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>Vsets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9965334859</id>
+      <title>100ML EDP + 15ML EDP</title>
+      <s:price currency="CAD">88.95</s:price>
+      <s:sku>SET-GIVANGLEC50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9965334859</id>
+      <title>100ML Edp + 75ML B/L + 12.5ML T/S</title>
+      <s:price currency="CAD">103.95</s:price>
+      <s:sku>SET-GIVANG2159W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9964801291</id>
+    <published>2019-11-23T04:27:47-05:00</published>
+    <updated>2019-11-23T04:27:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amarige-gift-set-women"/>
+    <title>Amarige Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>GIVENCHY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/51pTz9aD4eL._SY355_spo.jpg?v=1571609951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GIVENCHY<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            95.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>GiftSetReady</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>OLDGIFTSETS</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9964801291</id>
+      <title>100ML EDT + 75ML B/L + 75ML S/L</title>
+      <s:price currency="CAD">95.95</s:price>
+      <s:sku>SET-GIVAMA5103W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

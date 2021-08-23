@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/ariana-grande.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-07-07T13:20:57-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6821169791165</id>
+    <published>2021-07-07T13:20:57-04:00</published>
+    <updated>2021-07-07T13:20:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ariana-grande-r-e-m"/>
+    <title>Ariana Grande R.E.M</title>
+    <s:type>Women</s:type>
+    <s:vendor>ARIANA GRANDE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ariana-Grande-R.E.M.png?v=1625678605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ARIANA GRANDE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            75.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6821169791165</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">75.95</s:price>
+      <s:sku>ARIREM100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4704915390561</id>
+    <published>2020-07-15T14:37:12-04:00</published>
+    <updated>2020-07-15T14:37:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ariana-grande-thank-you-next"/>
+    <title>Ariana Grande Thank You Next</title>
+    <s:type>Women</s:type>
+    <s:vendor>ARIANA GRANDE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ariana-Grande-Thank-You-Next.png?v=1629311143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ARIANA GRANDE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            18.95 - 58.25
+            <a href="https://perfumeonline.ca/products/ariana-grande-thank-you-next">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15july2020</s:tag>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4704915390561</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">52.95</s:price>
+      <s:sku>TESARITHA100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4704915390561</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">58.25</s:price>
+      <s:sku>ARITHA100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4704915390561</id>
+      <title>236ML BODY MIST</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku>ARITHA236W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332953600097</id>
+    <published>2019-11-23T04:27:59-05:00</published>
+    <updated>2019-11-23T04:27:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ariana-grande-ari-gift-set-women"/>
+    <title>Ariana Grande Ari Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>ARIANA GRANDE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_434e4408-7ffb-41dc-8f3a-4e93ba01af8c.png?v=1572519211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ARIANA GRANDE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            64.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332953600097</id>
+      <title>100ML Edp + 100 Body Souffle + 100 S/G (Clean)</title>
+      <s:price currency="CAD">64.95</s:price>
+      <s:sku>SET-ARI100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3998949507169</id>
+    <published>2019-08-24T02:51:48-04:00</published>
+    <updated>2019-08-24T02:51:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ariana-grande-cloud"/>
+    <title>Ariana Grande Cloud</title>
+    <s:type>Women</s:type>
+    <s:vendor>ARIANA GRANDE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ariana-Grande-Cloud.png?v=1571920530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ARIANA GRANDE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            19.95 - 73.95
+            <a href="https://perfumeonline.ca/products/ariana-grande-cloud">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20augg2019</s:tag>
+    <s:tag>22NOVV2020</s:tag>
+    <s:tag>25novv2019</s:tag>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998949507169</id>
+      <title>30ML EDP</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>ARICLO30W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998949507169</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">48.95</s:price>
+      <s:sku>ARICLO50W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998949507169</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku>TESARICLO100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998949507169</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">73.95</s:price>
+      <s:sku>ARICLO100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998949507169</id>
+      <title>236ML BODY MIST</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>ARICLO236W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9844214859</id>
+    <published>2018-06-21T16:53:07-04:00</published>
+    <updated>2018-06-21T16:53:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/sweet-like-candy-ariana-grande"/>
+    <title>Sweet like Candy Ariana Grande</title>
+    <s:type>Women</s:type>
+    <s:vendor>ARIANA GRANDE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Sweet-like-Candy-Ariana-Grande.png?v=1571609924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ARIANA GRANDE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            17.95 - 48.95
+            <a href="https://perfumeonline.ca/products/sweet-like-candy-ariana-grande">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet Like Candy perfume by Ariana Grande was introduced in 2016 by young American actress and singer Ariana Grande. Sweet like candy is a sweet and fresh fragrance for women. the scent combines top notes of bergamot, blackberry and pear. Mid notes are jasmine, whipped cream, black currant, marshmallow, honeysuckle and frangipani. The base combines cashmere wood and vanilla.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12DECC2020</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:tag>PRICESHEET1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844214859</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>ARISWE50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844214859</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">38.95</s:price>
+      <s:sku>TESARISWE100P</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844214859</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">48.95</s:price>
+      <s:sku>ARISWE100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844214859</id>
+      <title>236ML BODY MIST</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku>ARISWEBODW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/755308265569</id>
+    <published>2018-05-16T14:03:56-04:00</published>
+    <updated>2018-05-16T14:03:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/moon-light"/>
+    <title>Moon Light</title>
+    <s:type>Women</s:type>
+    <s:vendor>ARIANA GRANDE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Moon-Light.png?v=1571609960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ARIANA GRANDE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            16.95 - 48.95
+            <a href="https://perfumeonline.ca/products/moon-light">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Moon Light by Ariana Grande is a new fragrance for women introduced in 2017 by American actress-singer. This sensual and seductive scent opens with exquisite blast of juicy plum and black currant. Rose, lily of the valley and vanilla orchid sparkle as the scent’s heart notes. This scent’s base notes features sandalwood, vanilla and amber.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>3JUNN2021</s:tag>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/755308265569</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">40.95</s:price>
+      <s:sku>TESARIMOO100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/755308265569</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">48.95</s:price>
+      <s:sku>ARIMOO100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/755308265569</id>
+      <title>236ML BODY MIST</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>ARIMOO236BM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9837391563</id>
+    <published>2017-11-18T10:43:33-05:00</published>
+    <updated>2017-11-18T10:43:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ariana-grande"/>
+    <title>Ari Ariana Grande</title>
+    <s:type>Women</s:type>
+    <s:vendor>ARIANA GRANDE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ari-Ariana-Grande.png?v=1571609913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ARIANA GRANDE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            16.95 - 79.95
+            <a href="https://perfumeonline.ca/products/ariana-grande">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ari perfume by Ariana Grande was launched in 2015 by American pop singer and actress Ariana Grande. The sweet and soft scent opens with top notes of raspberry, pear and grapefruit. The heart is made up of floral notes rose, lily of the valley and vanilla orchid. The base consists of marshmallow, musk and woody notes. This fruity and sexy feminine scent comes in a beautiful pink cut glass bottle with a white pom-pom at top.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12DECC2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:tag>Price170</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837391563</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">38.45</s:price>
+      <s:sku>ARI50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837391563</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">38.45</s:price>
+      <s:sku>TESARI100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837391563</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>ARI100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837391563</id>
+      <title>236ML BODY MIST</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>ARIBODW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

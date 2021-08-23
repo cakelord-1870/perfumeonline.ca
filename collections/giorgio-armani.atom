@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/giorgio-armani.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-07-12T06:40:59-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6829859700925</id>
+    <published>2021-07-12T06:40:59-04:00</published>
+    <updated>2021-07-12T06:40:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/armani-emporio-stronger-with-you-freeze"/>
+    <title>Armani Emporio Stronger With You Freeze</title>
+    <s:type>Men</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Armani-Emporio-Stronger-With-You-Freeze.png?v=1626452834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            73.95 - 87.95
+            <a href="https://perfumeonline.ca/products/armani-emporio-stronger-with-you-freeze">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12JULYY2021</s:tag>
+    <s:tag>NEWITEMS15JULYY21</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6829859700925</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">73.95</s:price>
+      <s:sku>ARMEMPSTRFRE50M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6829859700925</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">87.95</s:price>
+      <s:sku>TESARMEMPSTROFRE100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794779820221</id>
+    <published>2021-06-22T00:54:28-04:00</published>
+    <updated>2021-06-22T00:54:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/armani-mania-vintage"/>
+    <title>Armani Mania</title>
+    <s:type>Men</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_0ac70f95-db45-4d05-8d9c-208074bb93ea.png?v=1624337669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            294.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794779820221</id>
+      <title>100ML EDT (SLIGHTLY DAMAGED BOX)</title>
+      <s:price currency="CAD">294.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6772985364669</id>
+    <published>2021-06-14T04:33:46-04:00</published>
+    <updated>2021-06-14T04:33:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/giorgio-armani-light-di-gioia"/>
+    <title>Giorgio Armani Light Di Gioia</title>
+    <s:type>Women</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/D_G-Light-Di-Gioia.png?v=1626101953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            96.95 - 118.95
+            <a href="https://perfumeonline.ca/products/giorgio-armani-light-di-gioia">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6772985364669</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">96.95</s:price>
+      <s:sku>ARMLIGDIGIO50W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6772985364669</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">118.95</s:price>
+      <s:sku>ARMLIGDIGIO100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6617582108861</id>
+    <published>2021-03-29T06:40:17-04:00</published>
+    <updated>2021-03-29T06:40:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/armani-code-absolu-w"/>
+    <title>Armani Code Absolu</title>
+    <s:type>Women</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_39ded83d-b9b9-4866-8e25-fbeb0e113780.png?v=1626101749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            100.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27MARR21</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6617582108861</id>
+      <title>75ML EDP TESTER</title>
+      <s:price currency="CAD">100.95</s:price>
+      <s:sku>TESARMCODABS75W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6125409730749</id>
+    <published>2020-12-14T02:15:35-05:00</published>
+    <updated>2020-12-14T02:15:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/armani-prive-rose-darabie-intense"/>
+    <title>Armani Prive Rose D&apos;Arabie Intense</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Armani-Prive-Rose-D_Arabie-Intense-Unisex.jpg?v=1613493254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            253.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6125409730749</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">253.95</s:price>
+      <s:sku>ARMPRIROSARA50U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6125409140925</id>
+    <published>2020-12-14T02:14:16-05:00</published>
+    <updated>2020-12-14T02:14:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/armani-prive-cedre-olympe"/>
+    <title>Armani Prive Cedre Olympe</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_49ac9d84-ab30-41af-bef3-923ac82f8252.png?v=1613493254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            308.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6125409140925</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">308.95</s:price>
+      <s:sku>ARMPRIOLY100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6124171755709</id>
+    <published>2020-12-12T07:02:34-05:00</published>
+    <updated>2020-12-12T07:02:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/armani-my-way"/>
+    <title>Armani My Way</title>
+    <s:type>Women</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Armani-My-way.png?v=1613493254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            117.95 - 159.95
+            <a href="https://perfumeonline.ca/products/armani-my-way">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6124171755709</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">117.95</s:price>
+      <s:sku>ARMMY50W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6124171755709</id>
+      <title>90ML EDP</title>
+      <s:price currency="CAD">159.95</s:price>
+      <s:sku>ARMMY100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6109016654013</id>
+    <published>2020-12-05T14:16:02-05:00</published>
+    <updated>2020-12-05T14:16:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/armani-si-nacre-edition"/>
+    <title>Armani Si Nacre Edition</title>
+    <s:type>Women</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ArmaniSiNacreEditionWomen.jpg?v=1613493255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            119.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6109016654013</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">119.95</s:price>
+      <s:sku>ARMSINACEDI50W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6109016228029</id>
+    <published>2020-12-05T14:14:55-05:00</published>
+    <updated>2020-12-05T14:14:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/armani-code-absolu-gold"/>
+    <title>Armani Code Absolu Gold</title>
+    <s:type>Men</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_e69ece18-080c-44a5-ad9c-1d9e5db5b8ba.png?v=1613493253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            159.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6109016228029</id>
+      <title>110ML EDP</title>
+      <s:price currency="CAD">159.95</s:price>
+      <s:sku>ARMCODABSGOL110PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4713329754209</id>
+    <published>2020-07-25T14:01:37-04:00</published>
+    <updated>2020-07-25T14:01:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/armani-in-love-with-you-freeze"/>
+    <title>Armani In Love With You Freeze</title>
+    <s:type>Women</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_2048x2048_335c93f0-efd3-4edd-97b5-243e799eb42f.png?v=1606122466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            102.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JULY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4713329754209</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">102.95</s:price>
+      <s:sku>TESARMINLOVFRE100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4713328410721</id>
+    <published>2020-07-25T13:59:47-04:00</published>
+    <updated>2020-07-25T13:59:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/armani-acqua-di-gio-profondo"/>
+    <title>Armani Acqua Di Gio Profondo</title>
+    <s:type>Men</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_2048x2048_62bec9bb-8b7f-4027-a711-99a712d9877b.png?v=1601289165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            109.95 - 154.95
+            <a href="https://perfumeonline.ca/products/armani-acqua-di-gio-profondo">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22AUG2020</s:tag>
+    <s:tag>25JULY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4713328410721</id>
+      <title>75ML EDP TESTER</title>
+      <s:price currency="CAD">109.95</s:price>
+      <s:sku>TESARMACQPROFO75PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4713328410721</id>
+      <title>125ML EDP</title>
+      <s:price currency="CAD">154.95</s:price>
+      <s:sku>ARMACQPROF125PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4713313304673</id>
+    <published>2020-07-25T13:39:57-04:00</published>
+    <updated>2020-07-25T13:39:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/armani-si-passione-intesne"/>
+    <title>Armani Si Passione Intesne</title>
+    <s:type>Women</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_2048x2048_d849b7bf-17c0-4b68-9755-b8712cbdd37b.png?v=1606122467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            86.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JULY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4713313304673</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">86.95</s:price>
+      <s:sku>TESARMSIPASINT100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4685516275809</id>
+    <published>2020-06-27T05:46:38-04:00</published>
+    <updated>2020-06-27T05:46:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/giorgio-armani-prive-oud-royal"/>
+    <title>Giorgio Armani Prive Oud Royal</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Giorgio-Armani-Prive-Oud-Royal.png?v=1600888943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            349.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27JUN2020</s:tag>
+    <s:tag>28JUN2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4685516275809</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">349.95</s:price>
+      <s:sku>ARMPRIOUDROY100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4657962516577</id>
+    <published>2020-06-06T13:47:28-04:00</published>
+    <updated>2020-06-06T13:47:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/acqua-di-gio-jasmine-edition"/>
+    <title>Acqua Di Gio Jasmine Edition</title>
+    <s:type>Women</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Acqua-Di-Gio-Jasmine-Edition.png?v=1601289150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            119.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>31MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4657962516577</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">119.95</s:price>
+      <s:sku>TESARMACQJAS100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4407674437729</id>
+    <published>2019-12-04T02:21:02-05:00</published>
+    <updated>2019-12-04T02:21:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/armani-si-fiori"/>
+    <title>Armani Si Fiori</title>
+    <s:type>Women</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Armani-Si-Fiori.png?v=1626112600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            85.95 - 134.95
+            <a href="https://perfumeonline.ca/products/armani-si-fiori">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4407674437729</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">85.95</s:price>
+      <s:sku>ARMSIFLO50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4407674437729</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">134.95</s:price>
+      <s:sku>ARMSIFIO100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312167448673</id>
+    <published>2019-10-25T04:38:34-04:00</published>
+    <updated>2019-10-25T04:38:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/giorgio-armani-emporio-armani-diamonds-rocks-pour-homme"/>
+    <title>Giorgio Armani Emporio Armani Diamonds Rocks Pour Homme</title>
+    <s:type>Men</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Giorgio-Armani-Emporio-Armani-Diamonds-Rocks-Pour-Homme.png?v=1572292467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            86.95 - 94.95
+            <a href="https://perfumeonline.ca/products/giorgio-armani-emporio-armani-diamonds-rocks-pour-homme">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:tag>30novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312167448673</id>
+      <title>75ML EDT TESTER</title>
+      <s:price currency="CAD">86.95</s:price>
+      <s:sku>TESARMDIAROC75M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312167448673</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">94.95</s:price>
+      <s:sku>EADROC75TM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312167415905</id>
+    <published>2019-10-25T04:38:34-04:00</published>
+    <updated>2019-10-25T04:38:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/giorgio-armani-armani-prive-cuir-amethyste"/>
+    <title>Giorgio Armani Prive Cuir Amethyste</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Giorgio-Armani-Armani-Prive-Cuir-Amethyste.png?v=1572292387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            209.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312167415905</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">209.95</s:price>
+      <s:sku>TESARMPRICUI100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312167350369</id>
+    <published>2019-10-25T04:38:33-04:00</published>
+    <updated>2019-10-25T04:38:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/giorgio-armani-acqua-di-gioia-essenza-intense"/>
+    <title>Giorgio Armani Acqua Di Gioia Essenza Intense</title>
+    <s:type>Women</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Giorgio-Armani-Acqua-Di-Gioia-Essenza-Intense.png?v=1572292324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            109.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312167350369</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">109.95</s:price>
+      <s:sku>ARMGIOESSINT50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312167284833</id>
+    <published>2019-10-25T04:38:32-04:00</published>
+    <updated>2019-10-25T04:38:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/giorgio-armani-acqua-di-gioia-eau-fraiche"/>
+    <title>Giorgio Armani Acqua Di Gioia Eau Fraiche</title>
+    <s:type>Women</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Giorgio-Armani-Acqua-Di-Gioia-Eau-Fraiche.png?v=1572292290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            84.95 - 124.95
+            <a href="https://perfumeonline.ca/products/giorgio-armani-acqua-di-gioia-eau-fraiche">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312167284833</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">84.95</s:price>
+      <s:sku>ARMGIOFRA50W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312167284833</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">124.95</s:price>
+      <s:sku>ARMGIOFRA100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972762209</id>
+    <published>2019-10-15T07:36:35-04:00</published>
+    <updated>2019-10-15T07:36:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/armani-diamond-rose"/>
+    <title>Armani Diamond Rose</title>
+    <s:type>Women</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ARMANI-DIAMOND-ROSE-50ML-EDT-WOMEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972762209</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>ARMDIAROS50W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3998956093537</id>
+    <published>2019-08-24T02:50:56-04:00</published>
+    <updated>2019-08-24T02:50:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/sky-acqua-di-gioia"/>
+    <title>Sky Di Gioia</title>
+    <s:type>Women</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Sky-Acqua-Di-Gioia.png?v=1571825688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            74.95 - 114.95
+            <a href="https://perfumeonline.ca/products/sky-acqua-di-gioia">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:tag>20augg2019</s:tag>
+    <s:tag>31MAYY2020</s:tag>
+    <s:tag>3NOVV2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998956093537</id>
+      <title>30ML EDP</title>
+      <s:price currency="CAD">74.95</s:price>
+      <s:sku>ARMGIOIASKY30PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998956093537</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">80.75</s:price>
+      <s:sku>ARMGIOIASKY50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998956093537</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">106.95</s:price>
+      <s:sku>TESARMGIOIASKY100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998956093537</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">114.95</s:price>
+      <s:sku>ARMGIOSKY100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3988381499489</id>
+    <published>2019-08-15T08:18:51-04:00</published>
+    <updated>2019-08-15T08:18:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/emporio-armani-stronger-with-you-intensely"/>
+    <title>Emporio Armani Stronger With you Intensely</title>
+    <s:type>Men</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Emporio-Armani-Stronger-With-you-Intensely_grande_ca85417a-8d39-4f88-85de-f84a69a81d7f.png?v=1571610008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            102.95 - 126.95
+            <a href="https://perfumeonline.ca/products/emporio-armani-stronger-with-you-intensely">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20julyy2021aj</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3988381499489</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">102.95</s:price>
+      <s:sku>ARMSTRINT50M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3988381499489</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">102.95</s:price>
+      <s:sku>TESARMSTOINT100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3988381499489</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">126.95</s:price>
+      <s:sku>ARMSTRINT100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3962541047905</id>
+    <published>2019-08-02T11:36:05-04:00</published>
+    <updated>2019-08-02T11:36:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/because-its-you-intense-emporio"/>
+    <title>Emporio Armani In Love With You</title>
+    <s:type>Women</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Emporio-Armani-In-Love-With-You.png?v=1571610007"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            83.95 - 94.45
+            <a href="https://perfumeonline.ca/products/because-its-you-intense-emporio">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1augg2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3962541047905</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">83.95</s:price>
+      <s:sku>ARMBEAINT50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3962541047905</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">94.45</s:price>
+      <s:sku>ARMBECINT100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3962541015137</id>
+    <published>2019-08-02T11:36:05-04:00</published>
+    <updated>2019-08-02T11:36:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/armani-code-sport-absolu"/>
+    <title>Armani Code Sport Absolu</title>
+    <s:type>Men</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_7a0a3b1e-99c6-4ae2-bfb0-57b466da05fa.png?v=1571610007"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            104.95 - 134.95
+            <a href="https://perfumeonline.ca/products/armani-code-sport-absolu">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1augg2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3962541015137</id>
+      <title>125ML MEN</title>
+      <s:price currency="CAD">134.95</s:price>
+      <s:sku>ARMCODSPOABS125M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3962541015137</id>
+      <title>75ML MEN</title>
+      <s:price currency="CAD">104.95</s:price>
+      <s:sku>ARMCODSPOABS75M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3962541080673</id>
+    <published>2019-08-02T11:36:04-04:00</published>
+    <updated>2019-08-02T11:36:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/armani-code-absolu"/>
+    <title>Armani Code Absolu</title>
+    <s:type>Men</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ARMANI-CODE-ABSOLU-110ML-EDP-MEN.png?v=1571824434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            75.75 - 125.45
+            <a href="https://perfumeonline.ca/products/armani-code-absolu">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1augg2019</s:tag>
+    <s:tag>22OCCT2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3962541080673</id>
+      <title>60ML EDP TESTER</title>
+      <s:price currency="CAD">75.75</s:price>
+      <s:sku>TESARMCODABS60PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3962541080673</id>
+      <title>60ML EDP</title>
+      <s:price currency="CAD">102.45</s:price>
+      <s:sku>ARMCODABS60P</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3962541080673</id>
+      <title>110ML EDP</title>
+      <s:price currency="CAD">125.45</s:price>
+      <s:sku>ARMCODABS110PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

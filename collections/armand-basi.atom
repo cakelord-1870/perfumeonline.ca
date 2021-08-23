@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/armand-basi.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2020-06-22T07:21:04-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/4679556333665</id>
+    <published>2020-06-22T07:21:04-04:00</published>
+    <updated>2020-06-22T07:21:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/armand-basi-in-me"/>
+    <title>Armand Basi In Me</title>
+    <s:type>Women</s:type>
+    <s:vendor>Armand Basi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Armand-Basi-In-Me.png?v=1601289164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Armand Basi<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            48.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22JUN2020</s:tag>
+    <s:tag>28jun2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4679556333665</id>
+      <title>80ML EDP</title>
+      <s:price currency="CAD">48.95</s:price>
+      <s:sku>ABINME75W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

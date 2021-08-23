@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/agonist.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-07-29T15:05:57-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6867065110717</id>
+    <published>2021-07-29T15:05:57-04:00</published>
+    <updated>2021-07-29T15:05:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/agonist-isis"/>
+    <title>Agonist Isis</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Agonist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Agonist-Isis.png?v=1628669028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Agonist<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            123.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6867065110717</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">123.95</s:price>
+      <s:sku>AGOISI50U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6867063996605</id>
+    <published>2021-07-29T15:05:03-04:00</published>
+    <updated>2021-07-29T15:05:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/agonist-vanilla-marble"/>
+    <title>Agonist Vanilla Marble</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Agonist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Agonist-Vanilla-Marble.png?v=1628679598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Agonist<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            123.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6867063996605</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">123.95</s:price>
+      <s:sku>AGOVANMAR50U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

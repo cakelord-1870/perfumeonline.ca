@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/bijan.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2018-07-21T14:00:42-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/1392485564513</id>
+    <published>2018-07-21T14:00:42-04:00</published>
+    <updated>2018-07-21T14:00:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dna-bijan"/>
+    <title>DNA BIJAN</title>
+    <s:type>Men</s:type>
+    <s:vendor>Bijan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/DNA-BIJAN-100ML-EDT-MEN.jpg?v=1571609974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bijan<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            33.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1392485564513</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">33.95</s:price>
+      <s:sku>BIJDNA100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1392355606625</id>
+    <published>2018-07-21T10:32:09-04:00</published>
+    <updated>2018-07-21T10:32:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bijan-black"/>
+    <title>BIJAN BLACK</title>
+    <s:type>Men</s:type>
+    <s:vendor>Bijan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BIJAN-BLACK-75ML-EDT-MEN.jpg?v=1571609972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bijan<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1392355606625</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">26.95</s:price>
+      <s:sku>BIJBLA75M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9843507211</id>
+    <published>2018-06-21T16:47:16-04:00</published>
+    <updated>2018-06-21T16:47:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bijan-women"/>
+    <title>BIJAN</title>
+    <s:type>Women</s:type>
+    <s:vendor>Bijan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BIJAN.png?v=1571609920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bijan<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            27.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>Price170</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9843507211</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">27.45</s:price>
+      <s:sku>BIJ75TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9843492875</id>
+    <published>2017-08-17T23:57:08-04:00</published>
+    <updated>2017-08-17T23:57:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bijan"/>
+    <title>Bijan</title>
+    <s:type>Men</s:type>
+    <s:vendor>Bijan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bijan.jpg?v=1571609920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bijan<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            21.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICESHEET1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9843492875</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">21.25</s:price>
+      <s:sku>BIJ75M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

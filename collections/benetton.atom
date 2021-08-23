@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/benetton.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-06-29T13:30:07-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6809382748349</id>
+    <published>2021-06-29T13:30:07-04:00</published>
+    <updated>2021-06-29T13:30:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/paradiso-inferno-blue"/>
+    <title>Paradiso Inferno Blue</title>
+    <s:type>Men</s:type>
+    <s:vendor>BENETTON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/51clntmoUDS._SL1000.jpg?v=1626102330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BENETTON<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            27.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6809382748349</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>BENPARINFBLU100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6693568446653</id>
+    <published>2021-05-03T15:06:50-04:00</published>
+    <updated>2021-05-03T15:06:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/tribu-by-benetton"/>
+    <title>Tribu By Benetton</title>
+    <s:type>Women</s:type>
+    <s:vendor>BENETTON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Tribu-By-Benetton.png?v=1626101678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BENETTON<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            60.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3MAYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6693568446653</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">60.95</s:price>
+      <s:sku>BENTRI100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4690259705953</id>
+    <published>2020-06-30T01:16:49-04:00</published>
+    <updated>2020-06-30T01:16:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/benetton-united-dreams-go-far"/>
+    <title>Benetton United Dreams Go Far</title>
+    <s:type>Men</s:type>
+    <s:vendor>BENETTON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Benetton-United-Dreams-Go-Far.png?v=1601289172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BENETTON<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            25.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020-06-30 00:00:00 -0400</s:tag>
+    <s:tag>28jun2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4690259705953</id>
+      <title>200ML EDT</title>
+      <s:price currency="CAD">25.95</s:price>
+      <s:sku>BENDREGO200M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9866010827</id>
+    <published>2019-10-16T17:10:12-04:00</published>
+    <updated>2019-10-16T17:10:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/color-men"/>
+    <title>Color De Benetton Blue</title>
+    <s:type>Men</s:type>
+    <s:vendor>BENETTON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Color-De-Benetton-Blue.png?v=1571609951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BENETTON<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9866010827</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>BENCOL100TM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972827745</id>
+    <published>2019-10-15T07:36:33-04:00</published>
+    <updated>2019-10-15T07:36:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/benetton-cold"/>
+    <title>Benetton Cold</title>
+    <s:type>Men</s:type>
+    <s:vendor>BENETTON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/COLD-100ML-EDT-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BENETTON<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            14.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972827745</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">14.25</s:price>
+      <s:sku>BENCOL100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972860513</id>
+    <published>2019-10-15T07:36:32-04:00</published>
+    <updated>2019-10-15T07:36:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/benetton-colors-blue"/>
+    <title>Benetton Colors Blue</title>
+    <s:type>Women</s:type>
+    <s:vendor>BENETTON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BENETON-COLORS-BLUE-80ML-EDT-WOMEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BENETTON<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972860513</id>
+      <title>80ML EDT</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku>BENCOL80W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972893281</id>
+    <published>2019-10-15T07:36:31-04:00</published>
+    <updated>2019-10-15T07:36:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/benetton-colors-green"/>
+    <title>Benetton Colors Green</title>
+    <s:type>Men</s:type>
+    <s:vendor>BENETTON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BENETON-COLORS-GREEN-100ML-EDT-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BENETTON<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            25.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972893281</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">25.95</s:price>
+      <s:sku>BENCOLGRE100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972958817</id>
+    <published>2019-10-15T07:36:30-04:00</published>
+    <updated>2019-10-15T07:36:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/benetton-united-dream-big"/>
+    <title>Benetton United Dream Big</title>
+    <s:type>Men</s:type>
+    <s:vendor>BENETTON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BENETON-UNITED-DREAM-BIG-100ML-EDT-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BENETTON<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            20.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972958817</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku>BENDRE100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258973089889</id>
+    <published>2019-10-15T07:36:29-04:00</published>
+    <updated>2019-10-15T07:36:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/benetton-united-be-strong"/>
+    <title>Benetton United Be Strong</title>
+    <s:type>Men</s:type>
+    <s:vendor>BENETTON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BENETON-UNITED-BE-STRONG-100ML-EDT-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BENETTON<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973089889</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku>BENSTR100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4259817586785</id>
+    <published>2019-10-15T07:35:38-04:00</published>
+    <updated>2019-10-15T07:35:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/benetton-united-dream-big-w"/>
+    <title>Benetton United Dream Big</title>
+    <s:type>Women</s:type>
+    <s:vendor>BENETTON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Benetton-United-Dream-Big.png?v=1571610023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BENETTON<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4259817586785</id>
+      <title>80ML EDT</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku>BENDRE80W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/786584698977</id>
+    <published>2018-11-19T12:38:25-05:00</published>
+    <updated>2018-11-19T12:38:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/hot-benetton"/>
+    <title>Benetton Hot</title>
+    <s:type>Women</s:type>
+    <s:vendor>BENETTON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Benetton-Hot.png?v=1571609970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BENETTON<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            16.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Benetton Hot Perfume for Women by Benetton was launched in 1997. Hot is a sophisticated fragrance for women that starts with citrus and fresh notes of lemon, bergamot, mandarin orange and Brazilian rosewood. The heart is floral with essences of water jasmine, apricot, lily of the valley and iris. Cedar, musk, amber, oakmoss, sandalwood and vanilla features as the base the scent.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/786584698977</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">16.45</s:price>
+      <s:sku>BENHOT100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1392310288481</id>
+    <published>2018-07-21T09:22:41-04:00</published>
+    <updated>2018-07-21T09:22:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/benetton-sport"/>
+    <title>Benetton Sport</title>
+    <s:type>Men</s:type>
+    <s:vendor>BENETTON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BENETTON-SPORT-100ML-EDT-MEN.jpg?v=1571609972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BENETTON<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            30.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1392310288481</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">30.95</s:price>
+      <s:sku>BENSPO100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9844264011</id>
+    <published>2018-06-18T16:49:31-04:00</published>
+    <updated>2018-06-18T16:49:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/color-women"/>
+    <title>Color De Benetton Green</title>
+    <s:type>Women</s:type>
+    <s:vendor>BENETTON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Color-De-Benetton-Green.png?v=1571609925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BENETTON<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            42.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Color de Benetton by Benetton for Women is intoxicating scent with top notes of Israeli basil, neroli, Egyptian sage and French Hyacinth while the heart notes are Bulgarian rose, pineapple, passionfruit, jasmine, tuberose and peach. The base is made up of oak moss, cedar, Chinese patchouli, civet, opoponax and Madagascar vanilla.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844264011</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">42.95</s:price>
+      <s:sku>BENCOL100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

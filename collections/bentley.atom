@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/bentley.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2020-05-19T06:29:28-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/4632040734817</id>
+    <published>2020-05-19T06:29:28-04:00</published>
+    <updated>2020-05-19T06:29:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bentley-absolute"/>
+    <title>Bentley Absolute</title>
+    <s:type>Men</s:type>
+    <s:vendor>Bentley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bentley-Absolute.png?v=1600888788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bentley<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            37.95 - 44.45
+            <a href="https://perfumeonline.ca/products/bentley-absolute">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:tag>25JULY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4632040734817</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>TESBENABS100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4632040734817</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">44.45</s:price>
+      <s:sku>BENABS100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4599991926881</id>
+    <published>2020-05-02T01:49:12-04:00</published>
+    <updated>2020-05-02T01:49:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bentley-intense"/>
+    <title>Bentley Intense</title>
+    <s:type>Men</s:type>
+    <s:vendor>Bentley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bentley-Intense.png?v=1600888789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bentley<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            36.95 - 42.95
+            <a href="https://perfumeonline.ca/products/bentley-intense">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2MAY2020</s:tag>
+    <s:tag>31MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4599991926881</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">36.95</s:price>
+      <s:sku>TESBENINTE100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4599991926881</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">42.95</s:price>
+      <s:sku>BENINT100EDPM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972794977</id>
+    <published>2019-10-15T07:36:34-04:00</published>
+    <updated>2019-10-15T07:36:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bentley-black-edition"/>
+    <title>Bentley Black Edition</title>
+    <s:type>Men</s:type>
+    <s:vendor>Bentley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BENTLEY-BLACK-EDITION-100ML-EDP-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bentley<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            37.45 - 41.95
+            <a href="https://perfumeonline.ca/products/bentley-black-edition">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>19MAYY2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972794977</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">37.45</s:price>
+      <s:sku>TESBENBLA100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972794977</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">41.95</s:price>
+      <s:sku>BENBLA100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972926049</id>
+    <published>2019-10-15T07:36:31-04:00</published>
+    <updated>2019-10-15T07:36:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bentley-momentum"/>
+    <title>Bentley Momentum</title>
+    <s:type>Men</s:type>
+    <s:vendor>Bentley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BENTLEY-MOMENTUM-100ML-EDT-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bentley<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            38.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972926049</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">38.45</s:price>
+      <s:sku>BENMOM100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972991585</id>
+    <published>2019-10-15T07:36:30-04:00</published>
+    <updated>2019-10-15T07:36:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bentley-momentum-unlimited"/>
+    <title>Bentley Momentum Unlimited</title>
+    <s:type>Men</s:type>
+    <s:vendor>Bentley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BENTLEY-MOMENTUM-UNLIMITED-100ML-EDT-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bentley<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            39.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972991585</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">39.25</s:price>
+      <s:sku>BENMOMUNL100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/2001761599585</id>
+    <published>2019-03-10T08:46:28-04:00</published>
+    <updated>2019-03-10T08:46:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bentley-momentum-intense"/>
+    <title>Bentley Momentum Intense</title>
+    <s:type>Men</s:type>
+    <s:vendor>Bentley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bentley-Momentum-Intense.png?v=1571609994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bentley<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            30.95 - 38.95
+            <a href="https://perfumeonline.ca/products/bentley-momentum-intense">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2MAY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2001761599585</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">30.95</s:price>
+      <s:sku>TESBENMOM100PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2001761599585</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">38.95</s:price>
+      <s:sku>BENMOM100PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/2001617453153</id>
+    <published>2019-03-10T08:09:24-04:00</published>
+    <updated>2019-03-10T08:09:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bentley-infinite-rush"/>
+    <title>Bentley Infinite Rush</title>
+    <s:type>Men</s:type>
+    <s:vendor>Bentley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/s-l1600_bd7cc476-1c5c-4ed0-933e-f6cc1ecee389.jpg?v=1571609994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bentley<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            29.95 - 37.75
+            <a href="https://perfumeonline.ca/products/bentley-infinite-rush">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2001617453153</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>TESBENINFRUS100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2001617453153</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">37.75</s:price>
+      <s:sku>BENINFRUS100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/755331301473</id>
+    <published>2018-05-16T15:30:08-04:00</published>
+    <updated>2018-05-16T15:30:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bentley-intense-infinite"/>
+    <title>BENTLEY INTENSE INFINITE</title>
+    <s:type>Men</s:type>
+    <s:vendor>Bentley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AC7640163970029.jpg?v=1571609960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bentley<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            31.25 - 43.95
+            <a href="https://perfumeonline.ca/products/bentley-intense-infinite">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/755331301473</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>TESBENINT100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/755331301473</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">43.95</s:price>
+      <s:sku>BENINT100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/755322323041</id>
+    <published>2018-05-16T14:52:06-04:00</published>
+    <updated>2018-05-16T14:52:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bentley"/>
+    <title>BENTLEY</title>
+    <s:type>Men</s:type>
+    <s:vendor>Bentley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ambent34s.jpg?v=1571609960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bentley<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            29.95 - 32.95
+            <a href="https://perfumeonline.ca/products/bentley">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black-Friday</s:tag>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/755322323041</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>TESBEN100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/755322323041</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">32.95</s:price>
+      <s:sku>BEN100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

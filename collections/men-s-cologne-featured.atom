@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/men-s-cologne-featured.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2019-11-30T09:57:32-05:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258977120353</id>
+    <published>2019-11-30T09:57:32-05:00</published>
+    <updated>2019-11-30T09:57:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/issey-miyake-nuit-pulse-of-the-night"/>
+    <title>Issey Miyake Nuit Pulse Of The Night</title>
+    <s:type>Men</s:type>
+    <s:vendor>ISSEY MIYAKE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ISSEY-MIYAKE-NUIT-PULSE-OF-THE-NIGHT-100ML-EDP-MEN.png?v=1571610021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ISSEY MIYAKE<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            87.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258977120353</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">87.95</s:price>
+      <s:sku>IMNUIPUL100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9866010827</id>
+    <published>2019-10-16T17:10:12-04:00</published>
+    <updated>2019-10-16T17:10:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/color-men"/>
+    <title>Color De Benetton Blue</title>
+    <s:type>Men</s:type>
+    <s:vendor>BENETTON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Color-De-Benetton-Blue.png?v=1571609951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BENETTON<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9866010827</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>BENCOL100TM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258970861665</id>
+    <published>2019-10-15T07:36:42-04:00</published>
+    <updated>2019-10-15T07:36:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/paco-by-paco-rabanne"/>
+    <title>Paco By Paco Rabanne</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/PACO-BY-PACO-RABANNE-100ML-EDT-UNISEX.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258970861665</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>PRPAC100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258970927201</id>
+    <published>2019-10-15T07:36:41-04:00</published>
+    <updated>2019-10-15T07:36:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/antonio-banderas-blue-seduction"/>
+    <title>Antonio Banderas Blue Seduction</title>
+    <s:type>Men</s:type>
+    <s:vendor>ANTONIO BANDERAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ANTONIO-BANDERA_S-BLUE-SEDUCTION-100ML-EDT-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANTONIO BANDERAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            19.95 - 31.95
+            <a href="https://perfumeonline.ca/products/antonio-banderas-blue-seduction">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>19MAYY2020</s:tag>
+    <s:tag>22AUG2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258970927201</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>TESABBLU100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258970927201</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">24.45</s:price>
+      <s:sku>ABBLU100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258970927201</id>
+      <title>200ML EDT</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>ABBLU200M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258970894433</id>
+    <published>2019-10-15T07:36:41-04:00</published>
+    <updated>2019-10-15T07:36:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/antonio-banderas-seduction-king"/>
+    <title>Antonio Banderas Seduction King</title>
+    <s:type>Men</s:type>
+    <s:vendor>ANTONIO BANDERAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ANTONIO-BANDERAS-SEDUCTION-KING-100ML-EDT-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANTONIO BANDERAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            23.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258970894433</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">23.45</s:price>
+      <s:sku>ABKIN100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972368993</id>
+    <published>2019-10-15T07:36:40-04:00</published>
+    <updated>2019-10-15T07:36:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/antonio-banderas-mediterraneo"/>
+    <title>Antonio Banderas Mediterraneo</title>
+    <s:type>Men</s:type>
+    <s:vendor>ANTONIO BANDERAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ANTONIO-BANDERA_S-MEDITERRANEO-200ML-EDT-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANTONIO BANDERAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972368993</id>
+      <title>200ML EDT</title>
+      <s:price currency="CAD">26.95</s:price>
+      <s:sku>ABMED200M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972401761</id>
+    <published>2019-10-15T07:36:39-04:00</published>
+    <updated>2019-10-15T07:36:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/armaf-shades"/>
+    <title>Armaf Shades</title>
+    <s:type>Men</s:type>
+    <s:vendor>ARMAF</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ARMAF-SHADES--100ML-EDT-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ARMAF<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            25.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972401761</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">25.95</s:price>
+      <s:sku>AFSHAD100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972631137</id>
+    <published>2019-10-15T07:36:38-04:00</published>
+    <updated>2019-10-15T07:36:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/al-haramain-laventure"/>
+    <title>Al Haramain L&apos;Aventure</title>
+    <s:type>Men</s:type>
+    <s:vendor>AL HARAMAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AL-HARAMAIN-L_AVENTURE-100ML-EDP-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AL HARAMAIN<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            24.25 - 63.45
+            <a href="https://perfumeonline.ca/products/al-haramain-laventure">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12DECC2020</s:tag>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>25novv2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972631137</id>
+      <title>30ML EDP</title>
+      <s:price currency="CAD">24.25</s:price>
+      <s:sku>ALHLAVE30PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972631137</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">32.25</s:price>
+      <s:sku>TESALHLAV100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972631137</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">40.75</s:price>
+      <s:sku>ALHLAV100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972631137</id>
+      <title>200ML EDP</title>
+      <s:price currency="CAD">63.45</s:price>
+      <s:sku>ALHLAV200PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972598369</id>
+    <published>2019-10-15T07:36:38-04:00</published>
+    <updated>2019-10-15T07:36:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/al-haramain-knight"/>
+    <title>Al Haramain Knight</title>
+    <s:type>Men</s:type>
+    <s:vendor>AL HARAMAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AL-HARAMAIN-KNIGHT-100ML-EDP-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AL HARAMAIN<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            36.95 - 42.95
+            <a href="https://perfumeonline.ca/products/al-haramain-knight">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>25novv2019</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972598369</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">36.95</s:price>
+      <s:sku>TESALHLAVKNI100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972598369</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">42.95</s:price>
+      <s:sku>ALHKNI100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972532833</id>
+    <published>2019-10-15T07:36:38-04:00</published>
+    <updated>2019-10-15T07:36:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/al-haramain-laventure-blanche"/>
+    <title>Al Haramain L&apos;Aventure Blanche</title>
+    <s:type>Men</s:type>
+    <s:vendor>AL HARAMAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AL-HARAMAIN-L_AVENTURE-BLANCHE-100ML-EDP-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AL HARAMAIN<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            23.45 - 43.95
+            <a href="https://perfumeonline.ca/products/al-haramain-laventure-blanche">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>02JULY2020</s:tag>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>1JULYY2021</s:tag>
+    <s:tag>28jun2020</s:tag>
+    <s:tag>NEWITEMS15JULYY21</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972532833</id>
+      <title>30ML EDP</title>
+      <s:price currency="CAD">23.45</s:price>
+      <s:sku>ALHALVBLA30PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972532833</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">39.45</s:price>
+      <s:sku>TESALHALVBLA100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972532833</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">43.95</s:price>
+      <s:sku>ALHALVBLA100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972696673</id>
+    <published>2019-10-15T07:36:37-04:00</published>
+    <updated>2019-10-15T07:36:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/acqua-di-parma-cedro"/>
+    <title>Acqua Di Parma Cedro</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>ACQUA DI PARMA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ACQUA-DI-PARMA-CEDRO-75ML-EDT-UNISEX.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ACQUA DI PARMA<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            96.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972696673</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">96.95</s:price>
+      <s:sku>APCED75U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972663905</id>
+    <published>2019-10-15T07:36:37-04:00</published>
+    <updated>2019-10-15T07:36:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amouage-journey-men"/>
+    <title>Amouage Journey</title>
+    <s:type>Men</s:type>
+    <s:vendor>AMOUAGE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AMOUAGE-JOURNEY-100ML-EDP-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AMOUAGE<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            219.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972663905</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">219.95</s:price>
+      <s:sku>AMOJOU100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972729441</id>
+    <published>2019-10-15T07:36:35-04:00</published>
+    <updated>2019-10-15T07:36:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aramis-havana"/>
+    <title>Aramis Havana</title>
+    <s:type>Men</s:type>
+    <s:vendor>Aramis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ARAMIS-HAVANA-100ML-EDT-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aramis<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            32.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972729441</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">32.95</s:price>
+      <s:sku>ARAHAV100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972794977</id>
+    <published>2019-10-15T07:36:34-04:00</published>
+    <updated>2019-10-15T07:36:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bentley-black-edition"/>
+    <title>Bentley Black Edition</title>
+    <s:type>Men</s:type>
+    <s:vendor>Bentley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BENTLEY-BLACK-EDITION-100ML-EDP-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bentley<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            37.45 - 41.95
+            <a href="https://perfumeonline.ca/products/bentley-black-edition">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>19MAYY2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972794977</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">37.45</s:price>
+      <s:sku>TESBENBLA100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972794977</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">41.95</s:price>
+      <s:sku>BENBLA100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972827745</id>
+    <published>2019-10-15T07:36:33-04:00</published>
+    <updated>2019-10-15T07:36:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/benetton-cold"/>
+    <title>Benetton Cold</title>
+    <s:type>Men</s:type>
+    <s:vendor>BENETTON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/COLD-100ML-EDT-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BENETTON<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            14.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972827745</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">14.25</s:price>
+      <s:sku>BENCOL100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972926049</id>
+    <published>2019-10-15T07:36:31-04:00</published>
+    <updated>2019-10-15T07:36:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bentley-momentum"/>
+    <title>Bentley Momentum</title>
+    <s:type>Men</s:type>
+    <s:vendor>Bentley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BENTLEY-MOMENTUM-100ML-EDT-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bentley<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            38.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972926049</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">38.45</s:price>
+      <s:sku>BENMOM100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972893281</id>
+    <published>2019-10-15T07:36:31-04:00</published>
+    <updated>2019-10-15T07:36:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/benetton-colors-green"/>
+    <title>Benetton Colors Green</title>
+    <s:type>Men</s:type>
+    <s:vendor>BENETTON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BENETON-COLORS-GREEN-100ML-EDT-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BENETTON<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            25.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972893281</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">25.95</s:price>
+      <s:sku>BENCOLGRE100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972991585</id>
+    <published>2019-10-15T07:36:30-04:00</published>
+    <updated>2019-10-15T07:36:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bentley-momentum-unlimited"/>
+    <title>Bentley Momentum Unlimited</title>
+    <s:type>Men</s:type>
+    <s:vendor>Bentley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BENTLEY-MOMENTUM-UNLIMITED-100ML-EDT-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bentley<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            39.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972991585</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">39.25</s:price>
+      <s:sku>BENMOMUNL100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972958817</id>
+    <published>2019-10-15T07:36:30-04:00</published>
+    <updated>2019-10-15T07:36:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/benetton-united-dream-big"/>
+    <title>Benetton United Dream Big</title>
+    <s:type>Men</s:type>
+    <s:vendor>BENETTON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BENETON-UNITED-DREAM-BIG-100ML-EDT-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BENETTON<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            20.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972958817</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku>BENDRE100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258973188193</id>
+    <published>2019-10-15T07:36:29-04:00</published>
+    <updated>2019-10-15T07:36:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/boucheron-quatre"/>
+    <title>Boucheron Quatre</title>
+    <s:type>Men</s:type>
+    <s:vendor>BOUCHERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BOUCHERON-QUATRE-100ML-EDT-MEN.png?v=1571610019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOUCHERON<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            45.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973188193</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">45.95</s:price>
+      <s:sku>BOUQUA100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258973089889</id>
+    <published>2019-10-15T07:36:29-04:00</published>
+    <updated>2019-10-15T07:36:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/benetton-united-be-strong"/>
+    <title>Benetton United Be Strong</title>
+    <s:type>Men</s:type>
+    <s:vendor>BENETTON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BENETON-UNITED-BE-STRONG-100ML-EDT-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BENETTON<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973089889</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku>BENSTR100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258973220961</id>
+    <published>2019-10-15T07:36:28-04:00</published>
+    <updated>2019-10-15T07:36:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic"/>
+    <title>Banana Republic</title>
+    <s:type>Men</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_d746b6b6-4a2d-43f6-9ae5-8812e1b58d57.png?v=1571610019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            28.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973220961</id>
+      <title>125ML EDT</title>
+      <s:price currency="CAD">28.95</s:price>
+      <s:sku>BR125M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258973286497</id>
+    <published>2019-10-15T07:36:27-04:00</published>
+    <updated>2019-10-15T07:36:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-black-walnut"/>
+    <title>Banana Republic Black Walnut</title>
+    <s:type>Men</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BANANA-REPUBLIC-BLACK-WALNUT-100ML-EDT-MEN.png?v=1571610019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            27.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973286497</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">27.25</s:price>
+      <s:sku>BRBLA100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258973384801</id>
+    <published>2019-10-15T07:36:26-04:00</published>
+    <updated>2019-10-15T07:36:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-moderen-man"/>
+    <title>Banana Republic Modern Man</title>
+    <s:type>Men</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BANANA-REPUBLIC-MORDEN-MAN-100ML-EDT-MEN.png?v=1571610019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            27.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973384801</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">27.25</s:price>
+      <s:sku>BRMOR100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258973352033</id>
+    <published>2019-10-15T07:36:26-04:00</published>
+    <updated>2019-10-15T07:36:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-cordovan"/>
+    <title>Banana Republic Cordovan</title>
+    <s:type>Men</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BANANA-REPUBLIC-CORDOVAN-100ML-EDT-MEN.png?v=1571610019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            27.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973352033</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">27.75</s:price>
+      <s:sku>BRCOR100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

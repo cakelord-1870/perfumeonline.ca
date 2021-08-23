@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/anucci.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2019-11-02T10:13:18-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/4338909806689</id>
+    <published>2019-11-02T10:13:18-04:00</published>
+    <updated>2019-11-02T10:13:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/anucci"/>
+    <title>Anucci</title>
+    <s:type>Men</s:type>
+    <s:vendor>Anucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ANUCCI-100ML-EDT-MEN.png?v=1572705293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anucci<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            42.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4338909806689</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">42.95</s:price>
+      <s:sku>ANU100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4338909773921</id>
+    <published>2019-11-02T10:13:18-04:00</published>
+    <updated>2019-11-02T10:13:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/anucci-oud"/>
+    <title>Anucci Oud</title>
+    <s:type>Women</s:type>
+    <s:vendor>Anucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ANUCCI-OUD-100ML-EDP-WOMEN.png?v=1572705350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anucci<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4338909773921</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>ANUOUD100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

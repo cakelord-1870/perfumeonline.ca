@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/aubusson.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-08-06T05:10:57-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6882764980413</id>
+    <published>2021-08-06T05:10:57-04:00</published>
+    <updated>2021-08-06T05:10:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/histoire-damour-cherie-by-aubusson"/>
+    <title>Histoire D&apos;Amour Cherie By Aubusson</title>
+    <s:type>Women</s:type>
+    <s:vendor>Aubusson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_2e506f83-433a-48a3-9aba-7ebbdbd106dc.png?v=1628241058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aubusson<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6882764980413</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">26.95</s:price>
+      <s:sku>AUBHISAMOCHE100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6882608251069</id>
+    <published>2021-08-06T04:09:05-04:00</published>
+    <updated>2021-08-06T04:09:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/histoire-damour-by-aubusson"/>
+    <title>Histoire D&apos;Amour By Aubusson</title>
+    <s:type>Women</s:type>
+    <s:vendor>Aubusson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_967009ed-9027-496c-bc30-8aebd6af2586.png?v=1628237347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aubusson<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            25.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6882608251069</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">25.95</s:price>
+      <s:sku>AUBHISAMO100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6882606055613</id>
+    <published>2021-08-06T04:08:23-04:00</published>
+    <updated>2021-08-06T04:08:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/histoire-damour-2-by-aubusson"/>
+    <title>Histoire D&apos;Amour-2 By Aubusson</title>
+    <s:type>Women</s:type>
+    <s:vendor>Aubusson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_5769234f-6426-4c5c-b6c6-045fbd551c5f.png?v=1628237304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aubusson<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            25.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6882606055613</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">25.95</s:price>
+      <s:sku>AUBHISAMO2100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

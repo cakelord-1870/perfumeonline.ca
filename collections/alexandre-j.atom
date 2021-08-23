@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/alexandre-j.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-07-29T10:58:43-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6866597740733</id>
+    <published>2021-07-29T10:58:43-04:00</published>
+    <updated>2021-07-29T10:58:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/alexander-j-morning-musc"/>
+    <title>Alexander J Morning Musc</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Alexandre J</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/61ijE8EpmpL._SL1000.jpg?v=1628679716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alexandre J<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            71.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6866597740733</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">71.95</s:price>
+      <s:sku>TESALEJMOR100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6161478779069</id>
+    <published>2021-01-11T15:31:46-05:00</published>
+    <updated>2021-01-11T15:31:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/alexandre-mcqueen-eau-blanche"/>
+    <title>Alexandre Mcqueen Eau Blanche</title>
+    <s:type>Women</s:type>
+    <s:vendor>Alexandre J</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_f496ea91-fb2b-4448-88fa-b37cd998054f.png?v=1613493198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alexandre J<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            85.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11JANN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6161478779069</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">85.95</s:price>
+      <s:sku>AELXMCQEAU75W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6110384521405</id>
+    <published>2020-12-07T04:19:33-05:00</published>
+    <updated>2020-12-07T04:19:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/alexandre-mcqueen-pink"/>
+    <title>Alexandre Mcqueen Pink</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Alexandre J</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Alexander-Mcqueen-Pink-Unisex.jpg?v=1613493199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alexandre J<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            36.95 - 49.95
+            <a href="https://perfumeonline.ca/products/alexandre-mcqueen-pink">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6110384521405</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">36.95</s:price>
+      <s:sku>ALEXMCQPIN50U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6110384521405</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>ALEXMCQPIN75U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6110382227645</id>
+    <published>2020-12-07T04:18:52-05:00</published>
+    <updated>2020-12-07T04:18:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/alexandre-j-silver-ombre"/>
+    <title>Alexandre J Silver Ombre</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Alexandre J</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Alexandre-J-Silver-Ombre-Unisex.jpg?v=1613493198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alexandre J<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6110382227645</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>ALEXSILOMB100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6110379868349</id>
+    <published>2020-12-07T04:18:14-05:00</published>
+    <updated>2020-12-07T04:18:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/alexandre-j-rose-oud"/>
+    <title>Alexandre J Rose Oud</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Alexandre J</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Alexandre-J-Rose-Oud-Unisex.jpg?v=1613493198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alexandre J<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            101.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6110379868349</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">101.95</s:price>
+      <s:sku>ALEXROSOUD100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6110378000573</id>
+    <published>2020-12-07T04:17:30-05:00</published>
+    <updated>2020-12-07T04:17:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/alexandre-j-rose-alba"/>
+    <title>Alexandre J Rose Alba</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Alexandre J</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_2ebfc62e-77a9-4777-a47e-7fe48c837d46.png?v=1613493198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alexandre J<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            96.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6110378000573</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">96.95</s:price>
+      <s:sku>AELXROSALB100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6110375870653</id>
+    <published>2020-12-07T04:16:53-05:00</published>
+    <updated>2020-12-07T04:16:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/alexandre-j-iris-violet"/>
+    <title>Alexandre J Iris Violet</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Alexandre J</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AlexandreJIrisVioletUnisex.jpg?v=1613493197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alexandre J<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            91.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6110375870653</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">91.95</s:price>
+      <s:sku>AELXIRIVIO100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6110372626621</id>
+    <published>2020-12-07T04:15:46-05:00</published>
+    <updated>2020-12-07T04:15:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/alexandre-j-golden-oud"/>
+    <title>Alexandre J Golden Oud</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Alexandre J</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_c43422c2-e6cc-47ac-bb62-73286ce8ccf1.png?v=1613493197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alexandre J<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            89.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6110372626621</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">89.95</s:price>
+      <s:sku>AELXGOLOUD100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4367567749217</id>
+    <published>2019-11-15T14:52:13-05:00</published>
+    <updated>2019-11-15T14:52:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/alexandre-j-mandarine-sultne"/>
+    <title>Alexandre J Mandarine Sultne</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Alexandre J</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Alexandre-J-Mandarine-Sultne.png?v=1573923288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alexandre J<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            94.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4367567749217</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">94.95</s:price>
+      <s:sku>ALEXMAN100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4367567781985</id>
+    <published>2019-11-15T14:52:12-05:00</published>
+    <updated>2019-11-15T14:52:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/alexandre-j-zafeer-oud-vanille"/>
+    <title>Alexandre J Zafeer Oud Vanille</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Alexandre J</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Alexandre-J-Zafeer-Oud-Vanille.png?v=1573923306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alexandre J<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            94.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4367567781985</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">94.95</s:price>
+      <s:sku>ALEXZAFEOUD100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312165220449</id>
+    <published>2019-10-25T04:38:08-04:00</published>
+    <updated>2019-10-25T04:38:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/alexandre-j-western-leather"/>
+    <title>Alexandre J Western Leather</title>
+    <s:type>Women</s:type>
+    <s:vendor>Alexandre J</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Alexandre-J-Western-Leather.png?v=1572289186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alexandre J<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            102.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312165220449</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">102.95</s:price>
+      <s:sku>ALEXWEST100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312165187681</id>
+    <published>2019-10-25T04:38:08-04:00</published>
+    <updated>2019-10-25T04:38:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/alexandre-j-the-collector-morning-muscs"/>
+    <title>Alexandre J The Collector Morning Muscs</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Alexandre J</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Alexandre-J-The-Collector-Morning-Muscs.png?v=1572289091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alexandre J<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            88.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312165187681</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">88.95</s:price>
+      <s:sku>ALEXMOR100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312165122145</id>
+    <published>2019-10-25T04:38:06-04:00</published>
+    <updated>2019-10-25T04:38:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/alexandre-j-the-collector-black-muscs"/>
+    <title>Alexandre J The Collector Black Muscs</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Alexandre J</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Alexandre-J-The-Collector-Black-Muscs.png?v=1572289040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alexandre J<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            119.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312165122145</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">119.95</s:price>
+      <s:sku>ALEXBLA100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312165089377</id>
+    <published>2019-10-25T04:38:06-04:00</published>
+    <updated>2019-10-25T04:38:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/alexandre-j-the-collector-altesse-mysore"/>
+    <title>Alexandre J The Collector Altesse Mysore</title>
+    <s:type>Women</s:type>
+    <s:vendor>Alexandre J</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Alexandre-J-The-Collector-Altesse-Mysore.png?v=1572289010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alexandre J<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            84.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312165089377</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">84.95</s:price>
+      <s:sku>ALEXALT100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

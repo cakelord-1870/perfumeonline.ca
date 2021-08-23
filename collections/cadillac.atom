@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/cadillac.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-05-28T10:45:24-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6735826452669</id>
+    <published>2021-05-28T10:45:24-04:00</published>
+    <updated>2021-05-28T10:45:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/cadillac"/>
+    <title>Cadillac</title>
+    <s:type>Men</s:type>
+    <s:vendor>Cadillac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Cadillac.png?v=1626101826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadillac<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25MAYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6735826452669</id>
+      <title>100ML EDT TESTER (70% Full)</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>TESCAD100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9845414603</id>
+    <published>2017-08-18T06:08:10-04:00</published>
+    <updated>2017-08-18T06:08:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/cadillac-black-limited-edition"/>
+    <title>Cadillac Black Limited Edition</title>
+    <s:type>Men</s:type>
+    <s:vendor>Cadillac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/6-2_spo.jpg?v=1571609933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadillac<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cadillac Black Limited Edition Cologne by Cadillac was introduced in 2009. The masculine scent opens with sparkling notes of mint and bergamot blended with heart notes of orange blossom and chamomile. Finishing notes are Olibanum and cedar.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9845414603</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>CADBLA100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

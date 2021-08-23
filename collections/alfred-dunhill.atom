@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/alfred-dunhill.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2020-12-07T10:21:42-05:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6111689801917</id>
+    <published>2020-12-07T10:21:42-05:00</published>
+    <updated>2020-12-07T10:21:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dunhill-pure"/>
+    <title>Dunhill Pure</title>
+    <s:type>Men</s:type>
+    <s:vendor>Alfred Dunhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dunhill-Pure-Men.jpg?v=1624277943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alfred Dunhill<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            31.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1DECC2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6111689801917</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>DUNPUR75M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6109015802045</id>
+    <published>2020-12-05T14:13:05-05:00</published>
+    <updated>2020-12-05T14:13:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dunhil-desire-gold"/>
+    <title>Dunhil Desire Gold</title>
+    <s:type>Men</s:type>
+    <s:vendor>Alfred Dunhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/DunhillDesireGoldMen.jpg?v=1626101904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alfred Dunhill<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            50.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6109015802045</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">50.95</s:price>
+      <s:sku>DUNDESGOL100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4637771530337</id>
+    <published>2020-05-22T00:09:04-04:00</published>
+    <updated>2020-05-22T00:09:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/desire-london-blue-ocean"/>
+    <title>Desire London Blue Ocean</title>
+    <s:type>Men</s:type>
+    <s:vendor>Alfred Dunhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Desire-London-Blue-Ocean.png?v=1600888880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alfred Dunhill<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            37.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4637771530337</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>DUNBLUOCE100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4433177182305</id>
+    <published>2019-12-16T03:37:48-05:00</published>
+    <updated>2019-12-16T03:37:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dunhil-desire-silver"/>
+    <title>Dunhil Desire Silver</title>
+    <s:type>Men</s:type>
+    <s:vendor>Alfred Dunhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/DUNHIL-DESIRE-SILVER-100ML-EDT-MEN.png?v=1576499613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alfred Dunhill<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            27.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15DECC2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4433177182305</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>DUNSIL100TM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4424423604321</id>
+    <published>2019-12-10T04:40:09-05:00</published>
+    <updated>2019-12-10T04:40:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dunhil-century-blue"/>
+    <title>Dunhil Century Blue</title>
+    <s:type>Men</s:type>
+    <s:vendor>Alfred Dunhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/DUNHIL-CENTURY-BLUE-135ML-EDP-MEN.png?v=1600888893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alfred Dunhill<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            37.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10DECC2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4424423604321</id>
+      <title>135ML EDP</title>
+      <s:price currency="CAD">37.75</s:price>
+      <s:sku>DUNCENBLU135PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332955402337</id>
+    <published>2019-11-23T04:29:17-05:00</published>
+    <updated>2019-11-23T04:29:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dunhil-icon-gift-set-men"/>
+    <title>Dunhil Icon Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>Alfred Dunhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_00c64ca6-dd8f-4c18-95e3-af37f8afcd29.png?v=1572519247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alfred Dunhill<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            81.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332955402337</id>
+      <title>100ML Edp + 90ML S/G + 90ML A/S Balm + Pouch</title>
+      <s:price currency="CAD">81.95</s:price>
+      <s:sku>SET-DUNICOM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312166727777</id>
+    <published>2019-10-25T04:38:26-04:00</published>
+    <updated>2019-10-25T04:38:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dunhill-signature-collection-moroccan-amber"/>
+    <title>Dunhill Signature Collection Moroccan Amber</title>
+    <s:type>Men</s:type>
+    <s:vendor>Alfred Dunhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dunhill-Signature-Collection-Moroccan-Amber.png?v=1572291564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alfred Dunhill<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            133.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312166727777</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">133.95</s:price>
+      <s:sku>TESDUNMOR100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312166662241</id>
+    <published>2019-10-25T04:38:25-04:00</published>
+    <updated>2019-10-25T04:38:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dunhill-signature-collection-arabian-desert"/>
+    <title>Dunhill Signature Collection Arabian Desert</title>
+    <s:type>Men</s:type>
+    <s:vendor>Alfred Dunhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dunhill-Signature-Collection-Arabian-Desert.png?v=1572291526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alfred Dunhill<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            133.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312166662241</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">133.95</s:price>
+      <s:sku>TESDUNARA100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258975809633</id>
+    <published>2019-10-15T07:36:13-04:00</published>
+    <updated>2019-10-15T07:36:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/desire-red-extreme"/>
+    <title>Desire Red Extreme</title>
+    <s:type>Men</s:type>
+    <s:vendor>Alfred Dunhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/DESIRE-RED-EXTREME-100ML-EDT-MEN.png?v=1571610020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alfred Dunhill<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            33.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258975809633</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">33.95</s:price>
+      <s:sku>DUNREDEXT100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258975776865</id>
+    <published>2019-10-15T07:36:13-04:00</published>
+    <updated>2019-10-15T07:36:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dunhil-icon-racing-green"/>
+    <title>Dunhill Icon Racing Green</title>
+    <s:type>Men</s:type>
+    <s:vendor>Alfred Dunhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/DUNHIL-ICON-RACING-GREEN-100ML-EDP-MEN.png?v=1571610020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alfred Dunhill<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            47.95 - 53.95
+            <a href="https://perfumeonline.ca/products/dunhil-icon-racing-green">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258975776865</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku>TESDUNICORAC100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258975776865</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">53.95</s:price>
+      <s:sku>DUNICORAC100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258975711329</id>
+    <published>2019-10-15T07:36:13-04:00</published>
+    <updated>2019-10-15T07:36:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dunhil-century"/>
+    <title>Dunhill Century</title>
+    <s:type>Men</s:type>
+    <s:vendor>Alfred Dunhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/DUNHIL-CENTURY-125ML-EDP-MEN.png?v=1571610020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alfred Dunhill<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            38.95 - 44.95
+            <a href="https://perfumeonline.ca/products/dunhil-century">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20julyy2021aj</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258975711329</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>DUNCEN75M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258975711329</id>
+      <title>135ML EDP TESTER</title>
+      <s:price currency="CAD">38.95</s:price>
+      <s:sku>TESDUNCEN135M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258975711329</id>
+      <title>135ML EDP</title>
+      <s:price currency="CAD">44.95</s:price>
+      <s:sku>DUNCEN125M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3998952456289</id>
+    <published>2019-08-24T02:51:23-04:00</published>
+    <updated>2019-08-24T02:51:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dunhill-london-icon"/>
+    <title>Dunhill London Icon</title>
+    <s:type>Men</s:type>
+    <s:vendor>Alfred Dunhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dunhill-London-Icon.png?v=1571824852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alfred Dunhill<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            47.95 - 53.95
+            <a href="https://perfumeonline.ca/products/dunhill-london-icon">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20augg2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998952456289</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku>TESDUNICO100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998952456289</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">53.95</s:price>
+      <s:sku>DUNICO100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3998952423521</id>
+    <published>2019-08-24T02:51:23-04:00</published>
+    <updated>2019-08-24T02:51:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dunhill-london-icon-absolute"/>
+    <title>Dunhill London Icon Absolute</title>
+    <s:type>Men</s:type>
+    <s:vendor>Alfred Dunhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dunhill-London-Icon-Absolute.png?v=1571824852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alfred Dunhill<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            48.75 - 63.45
+            <a href="https://perfumeonline.ca/products/dunhill-london-icon-absolute">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20augg2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998952423521</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">48.75</s:price>
+      <s:sku>TESDUNICOABS100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998952423521</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">63.45</s:price>
+      <s:sku>DUNICOABS100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836653835</id>
+    <published>2018-10-09T14:58:36-04:00</published>
+    <updated>2018-10-09T14:58:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dunhill-desire"/>
+    <title>Dunhill Desire</title>
+    <s:type>Women</s:type>
+    <s:vendor>Alfred Dunhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/190w.jpg?v=1571609908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alfred Dunhill<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            62.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836653835</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">62.95</s:price>
+      <s:sku>DUNDES75W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836579339</id>
+    <published>2017-11-23T13:09:53-05:00</published>
+    <updated>2017-11-23T13:09:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dunhill-brown"/>
+    <title>Dunhill Brown</title>
+    <s:type>Men</s:type>
+    <s:vendor>Alfred Dunhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/DUNBRO75M.jpg?v=1571609907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alfred Dunhill<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            28.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dunhill Brown by Alfred Dunhill is a fresh and woody fragrance that form a subtle yet powerfully masculine fragrance. The nose behind this perfume is Michel Almairac and It was launched in 2003. The main notes of Dunhill brown contain geranium, lavender and lemon; middle notes are combined with rose, cedar, oris root, carnation and jasmine. The base is beautiful with leather, sandalwood, Tonka bean, musk, cedar, vetiver and oakmoss</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICESHEET1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836579339</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">28.25</s:price>
+      <s:sku>DUNBRO75M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836848075</id>
+    <published>2017-11-10T15:41:52-05:00</published>
+    <updated>2017-11-10T15:41:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dunhill-edition"/>
+    <title>Dunhill Edition</title>
+    <s:type>Men</s:type>
+    <s:vendor>Alfred Dunhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dunhill_Edition_for_men_edt.jpg?v=1571609909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alfred Dunhill<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            30.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dunhill Edition by Alfred Dunhill for men was introduced by acclaimed perfumer Alain Astori in 1984. Dunhill Edition is a fresh and masculine scent that combined with top notes of bergamot, lavender, Amalfi lemon and nutmeg; heart notes contain jasmine, clary sage, geranium, lily of the valley, carnation and cyclamen; base notes are fir, amber, Tonka bean, vetiver, Virginia cedar and oakmoss. Dunhill edition is the perfect fragrance for summer day wear and due to great longevity, it will keep you refreshed and confident for a long time.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836848075</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">30.45</s:price>
+      <s:sku>DUNEDI100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836937803</id>
+    <published>2017-08-17T03:45:45-04:00</published>
+    <updated>2017-08-17T03:45:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dunhill-xcentric"/>
+    <title>Dunhill X&apos;Centric</title>
+    <s:type>Men</s:type>
+    <s:vendor>Alfred Dunhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dunhill_X_Centric_men.jpg?v=1571609909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alfred Dunhill<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            28.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">X Centric by Alfred Dunhill is a fresh and modern fragrance for men was introduced by perfumer Maurice Roucel and Volke Frank in 2001. This contemporary masculine fragrance opens with top notes of cypress, green leaves, nutmeg, cinnamon, clary sage, cardamom and grapefruit while heart notes contain freesia, cedar, rose and lotus base notes are musk, patchouli, sandalwood, musk, guaiac wood and ambergris. Dunhill Xcentric is the perfume for men who likes to express his individuality.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836937803</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">28.95</s:price>
+      <s:sku>DUNXENM100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836902731</id>
+    <published>2017-08-17T03:42:44-04:00</published>
+    <updated>2017-08-17T03:42:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dunhill-london-icon-elite"/>
+    <title>Dunhill London Icon Elite</title>
+    <s:type>Men</s:type>
+    <s:vendor>Alfred Dunhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/dunhill_icon_elite_men.jpg?v=1571609909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alfred Dunhill<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            46.95 - 48.95
+            <a href="https://perfumeonline.ca/products/dunhill-london-icon-elite">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The house of Alfred Dunhill introduced Dunhill London Icon elite for men in 2016. This woody and masculine fragrance features top notes of cardamom, bergamot, bitter orange and lime while middle notes are black pepper, vetiver, juniper and blue sage, the base of Dunhill London icon elite is very attractive with ebony, sandalwood, suede and labdanum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICESHEET1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836902731</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">46.95</s:price>
+      <s:sku>TESDUNELIICO100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836902731</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">48.95</s:price>
+      <s:sku>DUNELIICO100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836873419</id>
+    <published>2017-08-17T03:39:59-04:00</published>
+    <updated>2017-08-17T03:39:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dunhill-london"/>
+    <title>Dunhill London</title>
+    <s:type>Men</s:type>
+    <s:vendor>Alfred Dunhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/10310_StockZoomed.jpg?v=1571609909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alfred Dunhill<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            28.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dunhill London by Alfred Dunhill is an aromatic fragrance for men introduced in 2008. This scent features jasmine, red apple, musk, vanilla, Tonka bean, sandalwood and patchouli. Dunhill London possesses a masculine scent which is guaranteed to please any man.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836873419</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">28.95</s:price>
+      <s:sku>DUNLON100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836823691</id>
+    <published>2017-08-17T03:32:52-04:00</published>
+    <updated>2017-08-17T03:32:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dunhill-desire-red"/>
+    <title>Dunhill Desire Red</title>
+    <s:type>Men</s:type>
+    <s:vendor>Alfred Dunhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dunhill_Desire_Red_Men.jpg?v=1571609909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alfred Dunhill<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            10.45 - 42.95
+            <a href="https://perfumeonline.ca/products/dunhill-desire-red">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICESHEET1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836823691</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>TESDUNRED100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836823691</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">32.25</s:price>
+      <s:sku>DUNRED100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836823691</id>
+      <title>150ML EDT</title>
+      <s:price currency="CAD">42.95</s:price>
+      <s:sku>DUNRED150M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836823691</id>
+      <title>195ML BODY SPRAY</title>
+      <s:price currency="CAD">10.45</s:price>
+      <s:sku>DUNREDDEOM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836780939</id>
+    <published>2017-08-17T03:28:32-04:00</published>
+    <updated>2017-08-17T03:28:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dunhill-desire-blue"/>
+    <title>Dunhill Desire Blue</title>
+    <s:type>Men</s:type>
+    <s:vendor>Alfred Dunhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Desire_blue_alfred_dunhill_men.jpg?v=1571609908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alfred Dunhill<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            26.95 - 44.95
+            <a href="https://perfumeonline.ca/products/dunhill-desire-blue">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>Price170</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836780939</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">26.95</s:price>
+      <s:sku>DUNBLU50M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836780939</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">32.75</s:price>
+      <s:sku>DUNBLU100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836780939</id>
+      <title>150ML EDT</title>
+      <s:price currency="CAD">44.95</s:price>
+      <s:sku>DUNBLU150M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836717131</id>
+    <published>2017-08-17T03:22:01-04:00</published>
+    <updated>2017-08-17T03:22:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dunhill-desire-black"/>
+    <title>Dunhill Desire Black</title>
+    <s:type>Men</s:type>
+    <s:vendor>Alfred Dunhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/dunhill_desire_black_men_edt.jpg?v=1571609908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alfred Dunhill<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The house of Alfred Dunhill introduced Dunhill Desire Black Eau De Toilette in 2014, created by perfumer Irina Burlakove. Desire Black is a woody and spicy fragrance for man. The opening notes are grapefruit, black pepper and bergamot; heart notes are rose, cypress and saffron; the base is smoky haze of vetiver, Persian amber and olibanum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black-Friday</s:tag>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836717131</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>DUNBLA100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836616203</id>
+    <published>2017-08-17T03:11:43-04:00</published>
+    <updated>2017-08-17T03:11:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dunhill-custom"/>
+    <title>Dunhill Custom</title>
+    <s:type>Men</s:type>
+    <s:vendor>Alfred Dunhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/dunhill_custom_men_edt.jpg?v=1571609908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alfred Dunhill<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dunhill Custom was introduced in 2011 by the house of Alfred Dunhill. This masculine fragrance was created appeal younger audience while not leaving its classic heritage. This unique woody spicy scent combined with notes of pippins apple, Virginia cedar, incense and black pepper.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black-Friday</s:tag>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836616203</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>DUNCUS100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

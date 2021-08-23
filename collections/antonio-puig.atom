@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/antonio-puig.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2019-11-23T04:31:08-05:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332549996641</id>
+    <published>2019-11-23T04:31:08-05:00</published>
+    <updated>2019-11-23T04:31:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/quorum-gift-set-men"/>
+    <title>Quorum Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>Antonio Puig</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-QUO1200M_spo_ae58e4b7-6151-402a-b67b-4195075b2e39.jpg?v=1572433150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Antonio Puig<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            33.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>giftsetisdone</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332549996641</id>
+      <title>100ML Edt + 100ML A/S Glass</title>
+      <s:price currency="CAD">33.95</s:price>
+      <s:sku>SET-QUO1200M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9845547083</id>
+    <published>2018-11-19T12:41:45-05:00</published>
+    <updated>2018-11-19T12:41:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/quorum-silver"/>
+    <title>Quorum Silver</title>
+    <s:type>Men</s:type>
+    <s:vendor>Antonio Puig</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/quorum_silver_antonio_puig_men.jpg?v=1571609934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Antonio Puig<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Design House Antonio Puig launched Quorum Silver for men in 2005. It is a versatile scent that makes others to feel your presence. The masculine scent starts with refreshing notes of mandarin, orange, lavender, cardamom, ginger and bergamot while the heart is made of cinnamon, nutmeg and pink pepper. Virginia cedar, patchouli, amber and Guaiac wood features as the base of the scent</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9845547083</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku>QUOSIL100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9845536523</id>
+    <published>2018-11-19T12:41:44-05:00</published>
+    <updated>2018-11-19T12:41:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/quorum"/>
+    <title>Quorum</title>
+    <s:type>Men</s:type>
+    <s:vendor>Antonio Puig</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Qurum_Antonio_Puig_Men.jpg?v=1571609934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Antonio Puig<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            15.95 - 17.45
+            <a href="https://perfumeonline.ca/products/quorum">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20julyy2021aj</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9845536523</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku>TESQUO100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9845536523</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">17.45</s:price>
+      <s:sku>QUO100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9837265099</id>
+    <published>2018-11-19T12:39:34-05:00</published>
+    <updated>2018-11-19T12:39:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aqua-quorum"/>
+    <title>Aqua Quorum</title>
+    <s:type>Men</s:type>
+    <s:vendor>Antonio Puig</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/aqua_quorum_antonio_puig_men.jpg?v=1571609912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Antonio Puig<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Design house Antonio Puig introduced this masculine perfume Aqua quorum in 1994. It was created by perfumer Rosendo Mateu, Alberto Morillas and Harry Fremont. This fragrance opens with top notes of freesia and lavender while heart notes include grapefruit and geranium with base notes of amber, oak mass and leather. Aqua Quorum perfume is an aromatic fougere scent was created to appeal younger audience.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICESHEET1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837265099</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku>QUOAQU100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836597195</id>
+    <published>2018-11-19T12:39:11-05:00</published>
+    <updated>2018-11-19T12:39:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/agua-brava"/>
+    <title>Agua Brava</title>
+    <s:type>Men</s:type>
+    <s:vendor>Antonio Puig</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Agua_Brava_Antonio_Puig_Men.jpg?v=1571609908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Antonio Puig<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            18.45 - 25.95
+            <a href="https://perfumeonline.ca/products/agua-brava">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Agua Brava by Antonio Puig is an aromatic fougere fragrance for men that was launched in 1968. This masculine fragrance was created by perfumer Rosendo Mateu and Marcel Carles. This woody and mossy scent opens with the blend of lavender, lemon, juniper, bay leaf, pine, lemon, patchouli, vetiver, sage, sandalwood, carnation, moss, clave and leather notes.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20julyy2021aj</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836597195</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku>AGUBRA100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836597195</id>
+      <title>200ML EDC</title>
+      <s:price currency="CAD">25.95</s:price>
+      <s:sku>AGUBRA200M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

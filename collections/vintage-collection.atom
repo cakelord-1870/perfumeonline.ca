@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/vintage-collection.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-06-22T00:54:28-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794779820221</id>
+    <published>2021-06-22T00:54:28-04:00</published>
+    <updated>2021-06-22T00:54:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/armani-mania-vintage"/>
+    <title>Armani Mania</title>
+    <s:type>Men</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_0ac70f95-db45-4d05-8d9c-208074bb93ea.png?v=1624337669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            294.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794779820221</id>
+      <title>100ML EDT (SLIGHTLY DAMAGED BOX)</title>
+      <s:price currency="CAD">294.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794777690301</id>
+    <published>2021-06-22T00:51:01-04:00</published>
+    <updated>2021-06-22T00:51:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/beverly-hills-giorgio-aire"/>
+    <title>Beverly Hills Giorgio Aire</title>
+    <s:type>Women</s:type>
+    <s:vendor>Giorgio Beverly Hills</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_95c2a102-d902-4aae-a105-88b6808dbfb8.png?v=1624337466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Beverly Hills<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            75.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794777690301</id>
+      <title>90ML EDT (WITHOUT CELLOPHANE)</title>
+      <s:price currency="CAD">75.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794777657533</id>
+    <published>2021-06-22T00:50:59-04:00</published>
+    <updated>2021-06-22T00:50:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/beverly-hills-delicious"/>
+    <title>Beverly Hills Delicious</title>
+    <s:type>Women</s:type>
+    <s:vendor>Giorgio Beverly Hills</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_ccbe7f68-969e-4ba1-aa61-850da9f337d1.png?v=1624337465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Beverly Hills<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            34.95 - 44.95
+            <a href="https://perfumeonline.ca/products/beverly-hills-delicious">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794777657533</id>
+      <title>100ML EDT(SLIGHTLY DAMAGED BOX)</title>
+      <s:price currency="CAD">44.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794777657533</id>
+      <title>50ML EDT (SLIGHTLY DAMAGED BOX)</title>
+      <s:price currency="CAD">34.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794777493693</id>
+    <published>2021-06-22T00:50:48-04:00</published>
+    <updated>2021-06-22T00:50:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/beverly-hills-hollywood"/>
+    <title>Beverly Hills Hollywood</title>
+    <s:type>Men</s:type>
+    <s:vendor>Giorgio Beverly Hills</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_43aa4e78-6769-4696-a99a-fc34db6ce864.png?v=1624337452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Beverly Hills<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794777493693</id>
+      <title>100ML EDP(WITHOUT CELLOPHANE)</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794777395389</id>
+    <published>2021-06-22T00:50:41-04:00</published>
+    <updated>2021-06-22T00:50:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/beverly-hills-delicious-feelings"/>
+    <title>Beverly Hills Delicious Feelings</title>
+    <s:type>Women</s:type>
+    <s:vendor>Giorgio Beverly Hills</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_884ac846-0e84-4fd4-b2bd-7b5f9b625e6c.png?v=1624337446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Beverly Hills<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            19.95 - 37.95
+            <a href="https://perfumeonline.ca/products/beverly-hills-delicious-feelings">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794777395389</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794777395389</id>
+      <title>30ML EDT ( WITHOUT CELLOPHANE)</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794777362621</id>
+    <published>2021-06-22T00:50:40-04:00</published>
+    <updated>2021-06-22T00:50:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bcbg-max-azria-bcbgirls"/>
+    <title>Bcbg Max Azria Bcbgirls</title>
+    <s:type>Women</s:type>
+    <s:vendor>BCBG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_2011ac54-28dc-4476-b88c-80b9ac1144fd.png?v=1624337510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BCBG<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            109.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794777362621</id>
+      <title>50ML EDT (SLIGHTLY DAMAGED BOX)</title>
+      <s:price currency="CAD">109.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794777329853</id>
+    <published>2021-06-22T00:50:39-04:00</published>
+    <updated>2021-06-22T00:50:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-slightly-damaged-box"/>
+    <title>Banana Republic Slightly Damaged Box</title>
+    <s:type>Men</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_7e6dd206-2c40-4c56-a520-c1b66e45f7b6.png?v=1624337443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            199.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794777329853</id>
+      <title>100ML COLOGNE (WITHOUT CELLOPHANE)</title>
+      <s:price currency="CAD">199.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794777297085</id>
+    <published>2021-06-22T00:50:39-04:00</published>
+    <updated>2021-06-22T00:50:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/baryshnikov"/>
+    <title>Baryshnikov</title>
+    <s:type>Women</s:type>
+    <s:vendor>Perfumeonline.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_e681f7ed-5ce4-4c70-b200-19aae5cc7b11.png?v=1624337444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfumeonline.ca<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            39.95 - 69.95
+            <a href="https://perfumeonline.ca/products/baryshnikov">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794777297085</id>
+      <title>100ML EDT (WITHOUT CELLOPHANE)</title>
+      <s:price currency="CAD">69.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794777297085</id>
+      <title>50ML EDT (WITHOUT CELLOPHANE)</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794777198781</id>
+    <published>2021-06-22T00:50:36-04:00</published>
+    <updated>2021-06-22T00:50:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/barbie-sirena"/>
+    <title>Barbie Sirena</title>
+    <s:type>Women</s:type>
+    <s:vendor>Perfumeonline.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_bbc5d351-704d-4f70-a285-5d82735f1721.png?v=1624337439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfumeonline.ca<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794777198781</id>
+      <title>75ML EDT (WITHOUT CELLOPHANE)</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794777133245</id>
+    <published>2021-06-22T00:50:33-04:00</published>
+    <updated>2021-06-22T00:50:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/barbie-aventura"/>
+    <title>Barbie Aventura</title>
+    <s:type>Women</s:type>
+    <s:vendor>Perfumeonline.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_a81a66a2-5c5c-4adf-8dbc-84e7853f3224.png?v=1624337437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfumeonline.ca<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794777133245</id>
+      <title>75ML EDT (WITHOUT CELLOPHANE)</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794777100477</id>
+    <published>2021-06-22T00:50:31-04:00</published>
+    <updated>2021-06-22T00:50:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/balenciaga-talisman"/>
+    <title>Balenciaga Talisman</title>
+    <s:type>Women</s:type>
+    <s:vendor>BALENCIAGA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_2cc9576e-f392-4ea6-9971-0c6dd5fa4a9a.png?v=1624337435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BALENCIAGA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            124.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794777100477</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">124.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794777067709</id>
+    <published>2021-06-22T00:50:27-04:00</published>
+    <updated>2021-06-22T00:50:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/avon-rare-pearls"/>
+    <title>Avon Rare Pearls</title>
+    <s:type>Women</s:type>
+    <s:vendor>Perfumeonline.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_7df82d0e-21f4-4278-92e8-f63593ab0799.png?v=1624337433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfumeonline.ca<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794777067709</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794777034941</id>
+    <published>2021-06-22T00:50:26-04:00</published>
+    <updated>2021-06-22T00:50:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/avon-his-story"/>
+    <title>Avon His Story</title>
+    <s:type>Men</s:type>
+    <s:vendor>Perfumeonline.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_629abc94-e13f-4631-8770-b7f54a6eff34.png?v=1624337430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfumeonline.ca<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794777034941</id>
+      <title>100ML EDT (SLIGHTLY DAMAGED BOX)</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794776936637</id>
+    <published>2021-06-22T00:50:21-04:00</published>
+    <updated>2021-06-22T00:50:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aramis-havana-pour-elle-vintage-packaging"/>
+    <title>Aramis Havana Pour Elle Vintage Packaging</title>
+    <s:type>Women</s:type>
+    <s:vendor>Aramis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_9f776ab2-2ae4-493e-83e7-970678fcfbce.png?v=1624337426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aramis<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            94.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794776936637</id>
+      <title>50ML EDP (WITHOUT CELLOPHANE)</title>
+      <s:price currency="CAD">94.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794776903869</id>
+    <published>2021-06-22T00:50:20-04:00</published>
+    <updated>2021-06-22T00:50:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aramis-havana-vintage-packaging"/>
+    <title>Aramis Havana Vintage Packaging</title>
+    <s:type>Men</s:type>
+    <s:vendor>Aramis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_221adcea-b946-437e-bedb-9844473a3fc1.png?v=1624337425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aramis<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            84.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794776903869</id>
+      <title>50ML EDT (WITHOUT CELLOPHANE)</title>
+      <s:price currency="CAD">84.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794776871101</id>
+    <published>2021-06-22T00:50:18-04:00</published>
+    <updated>2021-06-22T00:50:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/anne-de-cassignac"/>
+    <title>Anne De Cassignac</title>
+    <s:type>Women</s:type>
+    <s:vendor>Perfumeonline.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_42401ab9-2e0c-4cfb-851e-6b2d58e698d5.png?v=1624337423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfumeonline.ca<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794776871101</id>
+      <title>100ML EDT (WITHOUT CELLOPHANE)</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794776838333</id>
+    <published>2021-06-22T00:50:15-04:00</published>
+    <updated>2021-06-22T00:50:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/anna-sui"/>
+    <title>Anna Sui</title>
+    <s:type>Women</s:type>
+    <s:vendor>ANNA SUI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_d77c8d5b-0a56-4790-a4b7-266e78a19e59.png?v=1624337419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANNA SUI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            164.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794776838333</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">164.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794776772797</id>
+    <published>2021-06-22T00:50:13-04:00</published>
+    <updated>2021-06-22T00:50:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/american-dream-her"/>
+    <title>American Dream Her</title>
+    <s:type>Women</s:type>
+    <s:vendor>Perfumeonline.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_a25084b8-d19f-4abe-b89a-b5c5188253c6.png?v=1624337417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfumeonline.ca<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            48.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794776772797</id>
+      <title>100ML EDP (WITHOUT CELLOPHANE)</title>
+      <s:price currency="CAD">48.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794776740029</id>
+    <published>2021-06-22T00:50:11-04:00</published>
+    <updated>2021-06-22T00:50:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/alexander-julian"/>
+    <title>Alexander Julian</title>
+    <s:type>Women</s:type>
+    <s:vendor>Perfumeonline.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_9e18418d-5879-4ece-843b-46704fdaabbe.png?v=1624337415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfumeonline.ca<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            48.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794776740029</id>
+      <title>60ML EDP (WITHOUT CELLOPHANE)</title>
+      <s:price currency="CAD">48.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794776707261</id>
+    <published>2021-06-22T00:50:10-04:00</published>
+    <updated>2021-06-22T00:50:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/alfred-sung-sha"/>
+    <title>Alfred Sung Sha</title>
+    <s:type>Women</s:type>
+    <s:vendor>ALFRED SUNG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_6eb7c1e7-386e-4166-bf6f-505f84081793.png?v=1624337419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALFRED SUNG<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794776707261</id>
+      <title>100ML EDT (SLIGHTLY DAMAGED BOX)</title>
+      <s:price currency="CAD">69.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794776608957</id>
+    <published>2021-06-22T00:50:06-04:00</published>
+    <updated>2021-06-22T00:50:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adolfo-couture"/>
+    <title>Adolfo Couture</title>
+    <s:type>Women</s:type>
+    <s:vendor>Perfumeonline.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_fe5726e9-8256-42e7-ba13-d599e2344ad6.png?v=1624337412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfumeonline.ca<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            124.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794776608957</id>
+      <title>118ML COLOGNE (WITHOUT CELLOPHANE)</title>
+      <s:price currency="CAD">124.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794776576189</id>
+    <published>2021-06-22T00:50:06-04:00</published>
+    <updated>2021-06-22T00:50:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-moves-for-her"/>
+    <title>Adidas Moves For Her</title>
+    <s:type>Women</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_f8b8363a-6012-4201-b5a6-363e1589dfda.png?v=1624337409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794776576189</id>
+      <title>30ML EDT</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794776543421</id>
+    <published>2021-06-22T00:50:06-04:00</published>
+    <updated>2021-06-22T00:50:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-sport-fever-vintage-packaging"/>
+    <title>Adidas Sport Fever Vintage Packaging</title>
+    <s:type>Men</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_5bcdb876-6bfa-45e2-9940-c539226bdac7.png?v=1624337440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794776543421</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">34.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794776510653</id>
+    <published>2021-06-22T00:50:04-04:00</published>
+    <updated>2021-06-22T00:50:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-sport-field-vintage-packaging"/>
+    <title>Adidas Sport Field Vintage Packaging</title>
+    <s:type>Men</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_a0842537-b22a-4256-908c-ccb31cc8ffec.png?v=1624337409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794776510653</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">34.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

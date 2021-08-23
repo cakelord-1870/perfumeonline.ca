@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/atkinsons.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-08-06T04:45:34-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6882694824125</id>
+    <published>2021-08-06T04:45:34-04:00</published>
+    <updated>2021-08-06T04:45:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atkinsons-the-nuptial-bouquet"/>
+    <title>Atkinsons The Nuptial Bouquet</title>
+    <s:type>Women</s:type>
+    <s:vendor>ATKINSONS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Atkinsons-The-Nuptial-Bouquet.png?v=1629382388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ATKINSONS<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            116.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6882694824125</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">116.95</s:price>
+      <s:sku>TESATKNUPBOU100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6882693152957</id>
+    <published>2021-08-06T04:45:01-04:00</published>
+    <updated>2021-08-06T04:45:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atkinsons-the-british-bouquet"/>
+    <title>Atkinsons The British Bouquet</title>
+    <s:type>Women</s:type>
+    <s:vendor>ATKINSONS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Atkinsons-The-British-Bouquet.png?v=1629313476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ATKINSONS<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            116.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6882693152957</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">116.95</s:price>
+      <s:sku>TESATKBRIBOU100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6882688598205</id>
+    <published>2021-08-06T04:43:33-04:00</published>
+    <updated>2021-08-06T04:43:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atkinsons-fashion-decree"/>
+    <title>Atkinsons Fashion Decree</title>
+    <s:type>Women</s:type>
+    <s:vendor>ATKINSONS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Atkinsons-Fashion-Decree.png?v=1629313283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ATKINSONS<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            116.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6882688598205</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">116.95</s:price>
+      <s:sku>TESATKFASDEC100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6866579783869</id>
+    <published>2021-07-29T10:46:17-04:00</published>
+    <updated>2021-07-29T10:46:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atkinsons-tulip-noir"/>
+    <title>Atkinsons Tulip Noir</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>ATKINSONS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Atkinsons-Tulip-Noir.png?v=1628705234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ATKINSONS<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            142.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6866579783869</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">142.95</s:price>
+      <s:sku>ATKTUL100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6866579390653</id>
+    <published>2021-07-29T10:45:34-04:00</published>
+    <updated>2021-07-29T10:45:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atkinsons-white-rose-de-alix"/>
+    <title>Atkinsons White Rose De Alix</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>ATKINSONS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Atkinsons-White-Rose-De-Alix.png?v=1628706368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ATKINSONS<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            142.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6866579390653</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">142.95</s:price>
+      <s:sku>ATKWHIROS100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6866570051773</id>
+    <published>2021-07-29T10:39:29-04:00</published>
+    <updated>2021-07-29T10:39:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atkinsons-pirates-grand-reserve"/>
+    <title>Atkinsons Pirates Grand Reserve</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>ATKINSONS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Atkinsons-Pirates-Grand-Reserve.png?v=1628703644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ATKINSONS<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            142.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6866570051773</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">142.95</s:price>
+      <s:sku>ATKPRIGRA100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6866562252989</id>
+    <published>2021-07-29T10:36:46-04:00</published>
+    <updated>2021-07-29T10:36:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atkinsons-the-big-bad-cedar"/>
+    <title>Atkinsons The Big Bad Cedar</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>ATKINSONS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Atkinsons-The-Big-Bad-Cedar.png?v=1628704005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ATKINSONS<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            142.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6866562252989</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">142.95</s:price>
+      <s:sku>ATKBIGBAD100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6866472009917</id>
+    <published>2021-07-29T08:52:07-04:00</published>
+    <updated>2021-07-29T08:52:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atkinsons-love-in-idleness"/>
+    <title>Atkinsons Love In Idleness</title>
+    <s:type>Women</s:type>
+    <s:vendor>ATKINSONS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Atkinsons-Love-In-Idleness.png?v=1628700429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ATKINSONS<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            99.95 - 118.95
+            <a href="https://perfumeonline.ca/products/atkinsons-love-in-idleness">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6866472009917</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">99.95</s:price>
+      <s:sku>TESATKLOVIN100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6866472009917</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">118.95</s:price>
+      <s:sku>ATKLOVIN100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4743893188705</id>
+    <published>2020-08-28T15:55:17-04:00</published>
+    <updated>2020-08-28T15:55:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atkinsons-california-poppy"/>
+    <title>Atkinsons California Poppy</title>
+    <s:type>Women</s:type>
+    <s:vendor>ATKINSONS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Atkinsons-California-Poppy.png?v=1606122472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ATKINSONS<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            130.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22AUG2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4743893188705</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">130.95</s:price>
+      <s:sku>ATKCALPOP100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/2116921852001</id>
+    <published>2019-05-14T03:23:04-04:00</published>
+    <updated>2019-05-14T03:23:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atkinsons-oud-save-the-king-1"/>
+    <title>Atkinsons Oud Save The King</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>ATKINSONS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/OUSSAVK3.jpg?v=1571609998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ATKINSONS<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            115.95 - 136.95
+            <a href="https://perfumeonline.ca/products/atkinsons-oud-save-the-king-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAYPRODUCT</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2116921852001</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">115.95</s:price>
+      <s:sku>TESATKINOUDSA100</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2116921852001</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">136.95</s:price>
+      <s:sku>ATKINOUDSA100</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/2116918968417</id>
+    <published>2019-05-14T03:22:52-04:00</published>
+    <updated>2019-05-14T03:22:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atkinsons-lavender-on-the-rocks"/>
+    <title>Atkinsons Lavender On The Rocks</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>ATKINSONS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/atkinsons-lavender.jpg?v=1571609995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ATKINSONS<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            143.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAYPRODUCT</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2116918968417</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">143.95</s:price>
+      <s:sku>ATKLAV100</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/2116918935649</id>
+    <published>2019-05-14T03:22:52-04:00</published>
+    <updated>2019-05-14T03:22:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atkinsons-posh-on-the-green"/>
+    <title>Atkinsons Posh On The Green</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>ATKINSONS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Atkinsons-Posh-On-The-Green.png?v=1571609995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ATKINSONS<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            116.95 - 149.95
+            <a href="https://perfumeonline.ca/products/atkinsons-posh-on-the-green">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:tag>MAYPRODUCT</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2116918935649</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">116.95</s:price>
+      <s:sku>TESATKPOSON100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2116918935649</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">149.95</s:price>
+      <s:sku>ATKINPOS100</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/2116918837345</id>
+    <published>2019-05-14T03:22:51-04:00</published>
+    <updated>2019-05-14T03:22:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atkinsons-the-nupital-bouquet"/>
+    <title>Atkinsons The Nupital Bouquet</title>
+    <s:type>Women</s:type>
+    <s:vendor>ATKINSONS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Atkinsons-The-Nupital-Bouquet.png?v=1571609995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ATKINSONS<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            149.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAYPRODUCT</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2116918837345</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">149.95</s:price>
+      <s:sku>ATKINNUP100</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/2116918771809</id>
+    <published>2019-05-14T03:22:51-04:00</published>
+    <updated>2019-05-14T03:22:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atkinsons-the-odd-fellows-bouquet"/>
+    <title>Atkinsons The Odd Fellow&apos;S Bouquet</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>ATKINSONS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/TOFBOU33W.jpg?v=1571609995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ATKINSONS<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            116.95 - 147.95
+            <a href="https://perfumeonline.ca/products/atkinsons-the-odd-fellows-bouquet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:tag>MAYPRODUCT</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2116918771809</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">116.95</s:price>
+      <s:sku>TESATKTHEOD100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2116918771809</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">147.95</s:price>
+      <s:sku>ATKINFELLQ00</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/2116918739041</id>
+    <published>2019-05-14T03:22:50-04:00</published>
+    <updated>2019-05-14T03:22:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atkinsons-the-brtish-bouquet"/>
+    <title>Atkinsons The Brtish Bouquet</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>ATKINSONS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Atkinsons-The-Brtish-Bouquet.png?v=1571609995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ATKINSONS<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            149.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAYPRODUCT</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2116918739041</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">149.95</s:price>
+      <s:sku>ATKBRT100</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/2116918706273</id>
+    <published>2019-05-14T03:22:50-04:00</published>
+    <updated>2019-05-14T03:22:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atkinsons-24-old-bond-street-edc"/>
+    <title>Atkinsons 24 Old Bond Street Edc</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>ATKINSONS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Atkinsons-24-Old-Bond-Street-Edc.png?v=1599059377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ATKINSONS<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            105.95 - 113.95
+            <a href="https://perfumeonline.ca/products/atkinsons-24-old-bond-street-edc">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2116918706273</id>
+      <title>100ML EDC TESTER</title>
+      <s:price currency="CAD">105.95</s:price>
+      <s:sku>TESATK24OLDBON100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2116918706273</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">113.95</s:price>
+      <s:sku>ATKIN24100</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1436458483809</id>
+    <published>2018-09-29T10:58:23-04:00</published>
+    <updated>2018-09-29T10:58:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atkinsons-my-fair-lily"/>
+    <title>Atkinsons My Fair Lily</title>
+    <s:type>Women</s:type>
+    <s:vendor>ATKINSONS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/535848_1400x_3fac01fe-262c-4223-ba31-21f9785b1117.jpg?v=1571609987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ATKINSONS<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            126.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J1</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1436458483809</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">126.95</s:price>
+      <s:sku>ATKMYF100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1399222009953</id>
+    <published>2017-08-16T03:33:28-04:00</published>
+    <updated>2017-08-16T03:33:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atkinsons-his-majesty-the-oud"/>
+    <title>ATKINSONS HIS MAJESTY THE OUD</title>
+    <s:type>Men</s:type>
+    <s:vendor>ATKINSONS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/o.40667.jpg?v=1571609976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ATKINSONS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            107.95 - 143.95
+            <a href="https://perfumeonline.ca/products/atkinsons-his-majesty-the-oud">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1399222009953</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">107.95</s:price>
+      <s:sku>TESATKMAJOUD100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1399222009953</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">143.95</s:price>
+      <s:sku>ATKMAJOUD100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1399221485665</id>
+    <published>2017-08-16T03:33:28-04:00</published>
+    <updated>2017-08-16T03:33:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atkinsons-oud-save-the-queen"/>
+    <title>ATKINSONS OUD SAVE THE QUEEN</title>
+    <s:type>Women</s:type>
+    <s:vendor>ATKINSONS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/0.jpg?v=1571609976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ATKINSONS<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            103.95 - 138.95
+            <a href="https://perfumeonline.ca/products/atkinsons-oud-save-the-queen">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1399221485665</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">103.95</s:price>
+      <s:sku>TESATKQUEOUD100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1399221485665</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">138.95</s:price>
+      <s:sku>ATKQUEOUD100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1399220338785</id>
+    <published>2017-08-16T03:33:28-04:00</published>
+    <updated>2017-08-16T03:33:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atkinsons-her-majesty-the-oud"/>
+    <title>ATKINSONS HER MAJESTY THE OUD</title>
+    <s:type>Women</s:type>
+    <s:vendor>ATKINSONS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ATKINSONS-HER-MAJESTY-THE-OUD.png?v=1571609976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ATKINSONS<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            167.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1399220338785</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">167.95</s:price>
+      <s:sku>ATKMAJOUD100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

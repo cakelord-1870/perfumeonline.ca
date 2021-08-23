@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/animale.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2020-05-19T06:29:22-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/4632040112225</id>
+    <published>2020-05-19T06:29:22-04:00</published>
+    <updated>2020-05-19T06:29:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/animal-edt"/>
+    <title>Animal Edt</title>
+    <s:type>Men</s:type>
+    <s:vendor>ANIMALE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Animal-Edt.png?v=1600888762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANIMALE<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            31.25 - 48.95
+            <a href="https://perfumeonline.ca/products/animal-edt">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:tag>3JUNN2021</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4632040112225</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>ANI100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4632040112225</id>
+      <title>200ML EDT</title>
+      <s:price currency="CAD">48.95</s:price>
+      <s:sku>ANI200M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4591970320481</id>
+    <published>2020-04-26T23:24:06-04:00</published>
+    <updated>2020-04-26T23:24:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/animal"/>
+    <title>Animal</title>
+    <s:type>Women</s:type>
+    <s:vendor>ANIMALE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Animal.png?v=1600888762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANIMALE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            36.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>26APRIL20</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4591970320481</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">36.95</s:price>
+      <s:sku>ANI100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4433185210465</id>
+    <published>2019-12-16T03:47:14-05:00</published>
+    <updated>2019-12-16T03:47:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/animal-animal"/>
+    <title>Animal Animal</title>
+    <s:type>Women</s:type>
+    <s:vendor>ANIMALE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_dffb9003-5e08-478b-a9b4-cab3db759e5c.png?v=1576499043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANIMALE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            28.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15DECC2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4433185210465</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">28.25</s:price>
+      <s:sku>ANIM100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1431646863457</id>
+    <published>2018-09-17T08:13:19-04:00</published>
+    <updated>2018-09-17T08:13:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/animale"/>
+    <title>Animale</title>
+    <s:type>Women</s:type>
+    <s:vendor>ANIMALE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ca1b13da29a35673aaf08b0db08474d2_1024x1024_f6f787a7-c3d4-46bf-839e-ea2d72717e5b.jpg?v=1571609981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANIMALE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            48.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1431646863457</id>
+      <title>200ML EDP</title>
+      <s:price currency="CAD">48.45</s:price>
+      <s:sku>ANIM200WP</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/bond-no-9.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-06-19T01:50:26-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6790197444797</id>
+    <published>2021-06-19T01:50:26-04:00</published>
+    <updated>2021-06-19T01:50:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-new-york-perfumista-avenue"/>
+    <title>Bond No.9 New York Perfumista Avenue</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOND NO. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/81qbCwEOU7L._SL1500.jpg?v=1626101614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOND NO. 9<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            254.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="padding-left: 30px;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6790197444797</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">254.95</s:price>
+      <s:sku>BONPER50U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6790197051581</id>
+    <published>2021-06-19T01:49:55-04:00</published>
+    <updated>2021-06-19T01:49:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-new-york-bryant-park"/>
+    <title>Bond No.9 New York Bryant Park</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOND NO. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bond-No.9-New-York-Bryant-Park.png?v=1626101613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOND NO. 9<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            154.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="padding-left: 30px;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6790197051581</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">154.95</s:price>
+      <s:sku>BONBRY50U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6790196527293</id>
+    <published>2021-06-19T01:49:27-04:00</published>
+    <updated>2021-06-19T01:49:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-new-york-nouveau-bowery"/>
+    <title>Bond No.9 New York Nouveau Bowery</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOND NO. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/81CTbNtIdJL._SL1500.jpg?v=1626101613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOND NO. 9<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            217.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="padding-left: 30px;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6790196527293</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">217.95</s:price>
+      <s:sku>BONNOU100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6790195904701</id>
+    <published>2021-06-19T01:48:46-04:00</published>
+    <updated>2021-06-19T01:48:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-jones-beach"/>
+    <title>Bond No.9 Jones Beach</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOND NO. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/51ITWKEbIvL._SL1000.jpg?v=1626101612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOND NO. 9<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            245.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="padding-left: 30px;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6790195904701</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">245.95</s:price>
+      <s:sku>BONJON100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6773057814717</id>
+    <published>2021-06-14T04:52:13-04:00</published>
+    <updated>2021-06-14T04:52:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-so-new-york"/>
+    <title>Bond No. 9 So New York</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOND NO. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bond-No.-9-So-New-York.png?v=1626101794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOND NO. 9<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            171.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6773057814717</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">171.95</s:price>
+      <s:sku>BONSONEW50W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6773052965053</id>
+    <published>2021-06-14T04:51:27-04:00</published>
+    <updated>2021-06-14T04:51:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-signature"/>
+    <title>Bond No.9 Signature</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOND NO. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bond-No.9-Signature.png?v=1626101804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOND NO. 9<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            171.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6773052965053</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">171.95</s:price>
+      <s:sku>BONSIG100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6773046378685</id>
+    <published>2021-06-14T04:50:21-04:00</published>
+    <updated>2021-06-14T04:50:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-gold-coast"/>
+    <title>Bond No. 9 Gold Coast</title>
+    <s:type>Women</s:type>
+    <s:vendor>BOND NO. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bond-No.-9-Gold-Coast.png?v=1626101795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOND NO. 9<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            171.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6773046378685</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">171.95</s:price>
+      <s:sku>BOIGOLCOA100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6703976775869</id>
+    <published>2021-05-12T07:39:44-04:00</published>
+    <updated>2021-05-12T07:39:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-new-york-gold"/>
+    <title>Bond No.9 New York Gold</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOND NO. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bond-No.9-New-York-Gold.png?v=1626101648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOND NO. 9<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            335.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3MAYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6703976775869</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">335.95</s:price>
+      <s:sku>BONDGOL100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4686447706209</id>
+    <published>2020-06-28T12:57:25-04:00</published>
+    <updated>2020-06-28T12:57:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-new-bond-street"/>
+    <title>Bond No.9 New Bond Street</title>
+    <s:type>Women</s:type>
+    <s:vendor>BOND NO. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BOND-NO.9-NEW-BOND-STREET-100ML-EDP-UNISEX.png?v=1613493277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOND NO. 9<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            169.95 - 195.75
+            <a href="https://perfumeonline.ca/products/bond-no-9-new-bond-street">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20julyy2021aj</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4686447706209</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">169.95</s:price>
+      <s:sku>BOINEWBONSTR50U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4686447706209</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">171.95</s:price>
+      <s:sku>TESBONNEWBONSTR100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4686447706209</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">195.75</s:price>
+      <s:sku>BONNEWBONSTR100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4686447476833</id>
+    <published>2020-06-28T12:54:52-04:00</published>
+    <updated>2020-06-28T12:54:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-astor-place"/>
+    <title>Bond No.9 Astor Place</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOND NO. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_6385d929-4a98-43e5-904b-443cbb1e8a17.png?v=1593879706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOND NO. 9<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            171.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>28jun2020</s:tag>
+    <s:tag>PRICECHECk</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4686447476833</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">171.95</s:price>
+      <s:sku>BONAST100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4686445543521</id>
+    <published>2020-06-28T12:50:50-04:00</published>
+    <updated>2020-06-28T12:50:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-nolita"/>
+    <title>Bond No.9 Nolita</title>
+    <s:type>Women</s:type>
+    <s:vendor>BOND NO. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_1e47dbcd-86d6-4850-a6a5-0e476281afb4.png?v=1593879709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOND NO. 9<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            250.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>28jun2020</s:tag>
+    <s:tag>PRICECHECk</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4686445543521</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">250.95</s:price>
+      <s:sku>BONNOL100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4686444920929</id>
+    <published>2020-06-28T12:49:08-04:00</published>
+    <updated>2020-06-28T12:49:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-hamptons"/>
+    <title>Bond No.9 Hamptons</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOND NO. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_679bd0f9-1a26-4788-ad08-b4f0dcb5e8e4.png?v=1593879707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOND NO. 9<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            210.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>28jun2020</s:tag>
+    <s:tag>PRICECHECk</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4686444920929</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">210.95</s:price>
+      <s:sku>BONHAM100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4686444101729</id>
+    <published>2020-06-28T12:43:49-04:00</published>
+    <updated>2020-06-28T12:43:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-chez-bond"/>
+    <title>Bond No.9 Chez Bond</title>
+    <s:type>Men</s:type>
+    <s:vendor>BOND NO. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_4de6b7c8-abf5-4c0e-b497-942a90bb2b5f.png?v=1593879707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOND NO. 9<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            215.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>28jun2020</s:tag>
+    <s:tag>PRICECHECk</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4686444101729</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">215.95</s:price>
+      <s:sku>BONCHE100PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4370227134561</id>
+    <published>2019-11-18T05:10:57-05:00</published>
+    <updated>2019-11-18T05:10:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-gramercy-park"/>
+    <title>Bond No.9 Gramercy Park</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOND NO. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bond-No.9-Gramercy-Park.png?v=1574176412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOND NO. 9<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            114.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>18novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4370227134561</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">114.95</s:price>
+      <s:sku>BONGRAPAR50PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4370227069025</id>
+    <published>2019-11-18T05:10:57-05:00</published>
+    <updated>2019-11-18T05:10:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-west-success-is-the-essence"/>
+    <title>Bond No.9 West Success Is The Essence</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOND NO. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_38ab51ab-c188-424d-9c49-18ec175b703e.png?v=1612782016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOND NO. 9<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            119.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>18novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4370227069025</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">119.95</s:price>
+      <s:sku>BONDWESSUCESS50PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4370227167329</id>
+    <published>2019-11-18T05:10:56-05:00</published>
+    <updated>2019-11-18T05:10:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-new-york-musk"/>
+    <title>Bond No.9 New York Musk</title>
+    <s:type>Women</s:type>
+    <s:vendor>BOND NO. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bond-No.9-New-York-Musk.png?v=1574176564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOND NO. 9<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            119.95 - 174.95
+            <a href="https://perfumeonline.ca/products/bond-no-9-new-york-musk">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>18novv2019</s:tag>
+    <s:tag>27MARR21</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4370227167329</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">119.95</s:price>
+      <s:sku>BONNEWYORMUS50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4370227167329</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">174.95</s:price>
+      <s:sku>TESBOINEWYORMUS100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4367567945825</id>
+    <published>2019-11-15T14:52:11-05:00</published>
+    <updated>2019-11-15T14:52:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-new-york-oud"/>
+    <title>Bond No.9 New York Oud</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOND NO. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bond-No.9-New-York-Oud.png?v=1573923419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOND NO. 9<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            264.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4367567945825</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">264.95</s:price>
+      <s:sku>BONOUD100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312886181985</id>
+    <published>2019-10-25T09:06:17-04:00</published>
+    <updated>2019-10-25T09:06:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-bleecker-street"/>
+    <title>Bond No.9 Bleecker Street</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOND NO. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bond-No.9-Bleecker-Street.png?v=1572289743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOND NO. 9<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            149.95 - 239.95
+            <a href="https://perfumeonline.ca/products/bond-no-9-bleecker-street">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312886181985</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">149.95</s:price>
+      <s:sku>TESBONBLE100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312886181985</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">239.95</s:price>
+      <s:sku>BONBLE100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312166137953</id>
+    <published>2019-10-25T04:38:17-04:00</published>
+    <updated>2019-10-25T04:38:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-wall-street"/>
+    <title>Bond No.9 Wall Street</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOND NO. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bond-No.9-Wall-Street.png?v=1572290235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOND NO. 9<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            137.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312166137953</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">137.45</s:price>
+      <s:sku>TESBONWALLU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312166072417</id>
+    <published>2019-10-25T04:38:17-04:00</published>
+    <updated>2019-10-25T04:38:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-the-scent-of-peace"/>
+    <title>Bond No.9 The Scent Of Peace</title>
+    <s:type>Women</s:type>
+    <s:vendor>BOND NO. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bond-No.9-The-Scent-Of-Peace.png?v=1572290192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOND NO. 9<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            164.95 - 189.95
+            <a href="https://perfumeonline.ca/products/bond-no-9-the-scent-of-peace">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>28jun2020</s:tag>
+    <s:tag>PRICECHECk</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312166072417</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">164.95</s:price>
+      <s:sku>TESBONSCE100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312166072417</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">189.95</s:price>
+      <s:sku>BONSCE100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312166039649</id>
+    <published>2019-10-25T04:38:16-04:00</published>
+    <updated>2019-10-25T04:38:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-sutton-place"/>
+    <title>Bond No.9 Sutton Place</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOND NO. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bond-No.9-Sutton-Place.png?v=1572290134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOND NO. 9<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            149.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312166039649</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">149.95</s:price>
+      <s:sku>TESBONSUT100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312166006881</id>
+    <published>2019-10-25T04:38:16-04:00</published>
+    <updated>2019-10-25T04:38:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-new-york-nights"/>
+    <title>Bond No.9 New York Nights</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOND NO. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bond-No.9-New-York-Nights.png?v=1572290090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOND NO. 9<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            149.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312166006881</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">149.95</s:price>
+      <s:sku>TESBONNIG100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312165941345</id>
+    <published>2019-10-25T04:38:15-04:00</published>
+    <updated>2019-10-25T04:38:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-new-york-amber"/>
+    <title>Bond No.9 New York Amber</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BOND NO. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bond-No.9-New-York-Amber.png?v=1572289993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOND NO. 9<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            149.95 - 159.95
+            <a href="https://perfumeonline.ca/products/bond-no-9-new-york-amber">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1OCT2020</s:tag>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312165941345</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">149.95</s:price>
+      <s:sku>BONAMB50U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312165941345</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">159.95</s:price>
+      <s:sku>TESBONAMB100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312165875809</id>
+    <published>2019-10-25T04:38:14-04:00</published>
+    <updated>2019-10-25T04:38:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-madison-square-park"/>
+    <title>Bond No.9 Madison Square Park</title>
+    <s:type>Women</s:type>
+    <s:vendor>BOND NO. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bond-No.9-Madison-Square-Park.png?v=1572289932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOND NO. 9<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            239.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312165875809</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">239.95</s:price>
+      <s:sku>BONSQU100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312165843041</id>
+    <published>2019-10-25T04:38:14-04:00</published>
+    <updated>2019-10-25T04:38:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bond-no-9-madison-avenue"/>
+    <title>Bond No.9 Madison Avenue</title>
+    <s:type>Women</s:type>
+    <s:vendor>BOND NO. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bond-No.9-Madison-Avenue.png?v=1572289808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOND NO. 9<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            159.95 - 292.95
+            <a href="https://perfumeonline.ca/products/bond-no-9-madison-avenue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:tag>3MAYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312165843041</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">159.95</s:price>
+      <s:sku>TESBONAVE100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312165843041</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">292.95</s:price>
+      <s:sku>BONDMAD100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

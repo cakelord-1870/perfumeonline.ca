@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/affinessence.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-07-29T10:50:24-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6866582962365</id>
+    <published>2021-07-29T10:50:24-04:00</published>
+    <updated>2021-07-29T10:50:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/affinessence-cuir-curcuma"/>
+    <title>Affinessence Cuir Curcuma</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Affinessence</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Affinessence-Cuir-Curcuma.png?v=1628666556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Affinessence<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            337.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6866582962365</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">337.95</s:price>
+      <s:sku>AFFCUICUR100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6866582601917</id>
+    <published>2021-07-29T10:50:02-04:00</published>
+    <updated>2021-07-29T10:50:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/affinessence-musc-ambre-gris"/>
+    <title>Affinessence Musc Ambre Gris</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Affinessence</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Affinessence-Musc-Ambre-Gris.png?v=1628667359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Affinessence<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            337.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6866582601917</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">337.95</s:price>
+      <s:sku>AFFMUSAMB100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6866582208701</id>
+    <published>2021-07-29T10:49:32-04:00</published>
+    <updated>2021-07-29T10:49:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/affinessence-patchouli-oud"/>
+    <title>Affinessence Patchouli Oud</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Affinessence</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Affinessence-Patchouli-Oud.png?v=1628667543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Affinessence<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            337.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6866582208701</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">337.95</s:price>
+      <s:sku>AFFPAT100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6866581192893</id>
+    <published>2021-07-29T10:47:58-04:00</published>
+    <updated>2021-07-29T10:47:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/affinessence-cedre-iris"/>
+    <title>Affinessence Cedre Iris</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Affinessence</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Affinessence-Cedre-Iris.png?v=1628666165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Affinessence<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            337.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6866581192893</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">337.95</s:price>
+      <s:sku>AFFPATT100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6866580144317</id>
+    <published>2021-07-29T10:47:06-04:00</published>
+    <updated>2021-07-29T10:47:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/affinessence-vanille-benjoin"/>
+    <title>Affinessence Vanille Benjoin</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Affinessence</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Affinessence-Vanille-Benjoin.png?v=1628667781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Affinessence<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            337.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6866580144317</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">337.95</s:price>
+      <s:sku>AFFVAN100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

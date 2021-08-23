@@ -1,0 +1,1054 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/paco-rabanne.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-06-16T11:42:24-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6783393923261</id>
+    <published>2021-06-16T11:42:24-04:00</published>
+    <updated>2021-06-16T11:42:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/paco-ultrared-edt"/>
+    <title>Paco Ultrared Edt</title>
+    <s:type>Men</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Paco-Ultrared-Edt.png?v=1626101642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            60.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3JUNN2021</s:tag>
+    <s:tag>NEWITEMS15JULYY21</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6783393923261</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">60.75</s:price>
+      <s:sku>PRULTRED100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6703808086205</id>
+    <published>2021-05-12T04:37:10-04:00</published>
+    <updated>2021-05-12T04:37:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/paco-rabanne-ultrared"/>
+    <title>Paco Rabanne Ultrared</title>
+    <s:type>Women</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Paco-Rabanne-Ultrared.png?v=1626101674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            61.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3MAYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6703808086205</id>
+      <title>80ML EDP</title>
+      <s:price currency="CAD">61.95</s:price>
+      <s:sku>PRULTRE80W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4749184008289</id>
+    <published>2020-09-03T13:05:45-04:00</published>
+    <updated>2020-09-03T13:05:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/paco-rabanne-black-xs-potion-edt"/>
+    <title>Paco Rabanne Black Xs Potion Edt</title>
+    <s:type>Women</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Paco-Rabanne-Black-Xs-Potion-Edt-Women.jpg?v=1626102327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            61.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3SEP2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4749184008289</id>
+      <title>80ML EDT TESTER</title>
+      <s:price currency="CAD">61.95</s:price>
+      <s:sku>TESPRXSBLAPOT80TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4749182926945</id>
+    <published>2020-09-03T13:04:33-04:00</published>
+    <updated>2020-09-03T13:04:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/paco-rabanne-black-xs-potion"/>
+    <title>Paco Rabanne Black Xs Potion</title>
+    <s:type>Men</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Paco-Rabanne-Black-Xs-Potion-Men.jpg?v=1626102326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            61.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3SEP2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4749182926945</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">61.95</s:price>
+      <s:sku>TESPRXSBLAPOT100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4692745420897</id>
+    <published>2020-07-02T04:12:19-04:00</published>
+    <updated>2020-07-02T04:12:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/paco-rabanne-legend"/>
+    <title>Paco Rabanne Legend</title>
+    <s:type>Men</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Paco-Rabanne-Legend.png?v=1600889076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            60.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>02JULY2020</s:tag>
+    <s:tag>28jun2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4692745420897</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">60.95</s:price>
+      <s:sku>TESPRLEG100PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4690261278817</id>
+    <published>2020-06-30T01:17:24-04:00</published>
+    <updated>2020-06-30T01:17:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/paco-rabanne-pure-xs-night"/>
+    <title>Paco Rabanne Pure Xs Night</title>
+    <s:type>Men</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Paco-Rabanne-Pure-Xs-Night.png?v=1600889078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            66.95 - 69.95
+            <a href="https://perfumeonline.ca/products/paco-rabanne-pure-xs-night">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>02JULY2020</s:tag>
+    <s:tag>2020-06-30 00:00:00 -0400</s:tag>
+    <s:tag>28jun2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4690261278817</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">69.95</s:price>
+      <s:sku>TESPRPURXSNIG100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4690261278817</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">66.95</s:price>
+      <s:sku>PRPURXSNIG100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4686236713057</id>
+    <published>2020-06-28T07:41:52-04:00</published>
+    <updated>2020-06-28T07:41:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/one-million-parfum"/>
+    <title>One Million Parfum</title>
+    <s:type>Men</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/One-Million-Parfum.png?v=1593879722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            76.95 - 134.95
+            <a href="https://perfumeonline.ca/products/one-million-parfum">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12DECC2020</s:tag>
+    <s:tag>28jun2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICECHECk</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4686236713057</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">76.95</s:price>
+      <s:sku>TESPRMILPAR100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4686236713057</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">92.95</s:price>
+      <s:sku>PRMILPAR100PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4686236713057</id>
+      <title>200ML EDP</title>
+      <s:price currency="CAD">134.95</s:price>
+      <s:sku>PRMILPAR200PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4680385265761</id>
+    <published>2020-06-23T05:34:11-04:00</published>
+    <updated>2020-06-23T05:34:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/black-xs-los-anngles"/>
+    <title>Black Xs Los Angles</title>
+    <s:type>Women</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Black-Xs-Los-Angles.png?v=1606122508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22JUN2020</s:tag>
+    <s:tag>28jun2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4680385265761</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>PRXSBLLOS50W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4647830913121</id>
+    <published>2020-05-28T12:44:01-04:00</published>
+    <updated>2020-05-28T12:44:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/paco-rabanne-lady-million-empire"/>
+    <title>Paco Rabanne Lady Million Empire</title>
+    <s:type>Women</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Paco-Rabanne-Lady-Million-Empire.png?v=1600889076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            80.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4647830913121</id>
+      <title>80ML EDP</title>
+      <s:price currency="CAD">80.75</s:price>
+      <s:sku>PRMILEMP80PW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4632045453409</id>
+    <published>2020-05-19T06:30:39-04:00</published>
+    <updated>2020-05-19T06:30:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/pure-million"/>
+    <title>Pure Million</title>
+    <s:type>Men</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Pure-Million.png?v=1600889103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            27.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4632045453409</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>PURMIL100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332549537889</id>
+    <published>2019-11-23T04:31:05-05:00</published>
+    <updated>2019-11-23T04:31:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/paco-black-xs-gift-set-women"/>
+    <title>Paco Black Xs Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/279197_eb904967-c956-480e-8ce9-547bb48ad4be.jpg?v=1572433142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            60.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>giftsetisdone</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332549537889</id>
+      <title>50ML Edt + 100ML B/L</title>
+      <s:price currency="CAD">60.95</s:price>
+      <s:sku>SET-PRBLXS0374W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332549406817</id>
+    <published>2019-11-23T04:31:04-05:00</published>
+    <updated>2019-11-23T04:31:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/one-million-lucky-gift-set-men"/>
+    <title>One Million Lucky Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_c7f74b46-ed85-430d-9aa8-f38d49cd1a04.png?v=1572433138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            115.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>giftsetisdone</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332549406817</id>
+      <title>100ML Edt Set</title>
+      <s:price currency="CAD">115.95</s:price>
+      <s:sku>SET-PRMILLUC100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332549374049</id>
+    <published>2019-11-23T04:31:03-05:00</published>
+    <updated>2019-11-23T04:31:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/one-million-gift-set-men"/>
+    <title>One Million Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-PRMIL5088M_spo_2e68f340-1cd7-4dad-9a21-0cf259183670.jpg?v=1572433138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            92.95 - 97.95
+            <a href="https://perfumeonline.ca/products/one-million-gift-set-men">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>Vsets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332549374049</id>
+      <title>100ML EDT + 20ML EDT</title>
+      <s:price currency="CAD">92.95</s:price>
+      <s:sku>SET-PRMIL1002M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332549374049</id>
+      <title>100ML Edt + 10ML Mini + 100ML S/G</title>
+      <s:price currency="CAD">97.95</s:price>
+      <s:sku>SET-PRMIL5088M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332549275745</id>
+    <published>2019-11-23T04:31:02-05:00</published>
+    <updated>2019-11-23T04:31:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/olympea-by-paco-rabanne-gift-set-women"/>
+    <title>Paco Rabanne Olympea Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-PROLY9055W_spo_ded53dc7-81fe-4ec7-abbb-d8d7064cf28c.jpg?v=1572433136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            107.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>giftsetisdone</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332549275745</id>
+      <title>80ML Edp + 100ML Body Lotion</title>
+      <s:price currency="CAD">107.95</s:price>
+      <s:sku>SET-PROLY9055W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332548391009</id>
+    <published>2019-11-23T04:30:22-05:00</published>
+    <updated>2019-11-23T04:30:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/lady-million-gift-set-women"/>
+    <title>Lady Million Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/LADY_MILLION_3PC_TRAVEL_SET_80ML_EDP_10ML_MINI_BODY_LOTION_WOMEN_spo_0c6134f1-1f51-431c-8a42-b158e2cb7251.jpg?v=1572433121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            101.95 - 109.95
+            <a href="https://perfumeonline.ca/products/lady-million-gift-set-women">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>Vsets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332548391009</id>
+      <title>80ML EDP + 20ML EDP</title>
+      <s:price currency="CAD">101.95</s:price>
+      <s:sku>SET-PRMIL802W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332548391009</id>
+      <title>80ML Edp + 5ML Mini + Body Lotion</title>
+      <s:price currency="CAD">109.95</s:price>
+      <s:sku>SET-PRMIL5101W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332545867873</id>
+    <published>2019-11-23T04:29:16-05:00</published>
+    <updated>2019-11-23T04:29:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/invictus-gift-set-men"/>
+    <title>Invictus Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-PRINV5095M_spo_853d2ad4-57e5-409a-bc7e-98568927ec48.jpg?v=1572432981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            97.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332545867873</id>
+      <title>100ML Edt + 10ML + 100ML Shampoo</title>
+      <s:price currency="CAD">97.95</s:price>
+      <s:sku>SET-PRINV5095M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/12392542603</id>
+    <published>2019-11-23T04:27:52-05:00</published>
+    <updated>2019-11-23T04:27:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/black-xs-gift-set-men"/>
+    <title>Black Xs Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-PRXSBLA6048M_fc0a6544-f054-48f2-830e-791c59970b4c_spo.jpg?v=1571609955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>GiftSetReady</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>OLDGIFTSETS</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/12392542603</id>
+      <title>100ML EDT + 75ML Deo</title>
+      <s:price currency="CAD">99.95</s:price>
+      <s:sku>SET-PRXSBLA6048M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9964668875</id>
+    <published>2019-11-23T04:27:46-05:00</published>
+    <updated>2019-11-23T04:27:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/black-xs-gift-set-women"/>
+    <title>Black XS Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-PRBLXS5134W_4cec47f2-d802-4264-bff5-809775897371_spo.jpg?v=1571609951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            73.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>GiftSetReady</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>OLDGIFTSETS</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9964668875</id>
+      <title>80ML EDT + BRACELET</title>
+      <s:price currency="CAD">73.95</s:price>
+      <s:sku>SET-PRBLXS5134W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258970861665</id>
+    <published>2019-10-15T07:36:42-04:00</published>
+    <updated>2019-10-15T07:36:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/paco-by-paco-rabanne"/>
+    <title>Paco By Paco Rabanne</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/PACO-BY-PACO-RABANNE-100ML-EDT-UNISEX.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258970861665</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>PRPAC100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3984524050529</id>
+    <published>2019-08-12T14:38:46-04:00</published>
+    <updated>2019-08-12T14:38:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/olympea-legend"/>
+    <title>Olympea Legend</title>
+    <s:type>Women</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Olympea-Legend.png?v=1571610008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            74.95 - 99.95
+            <a href="https://perfumeonline.ca/products/olympea-legend">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JULY2020</s:tag>
+    <s:tag>31MAYY2020</s:tag>
+    <s:tag>AUG12</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3984524050529</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">74.95</s:price>
+      <s:sku>PROLYLEG50PW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3984524050529</id>
+      <title>80ML EDP TESTER</title>
+      <s:price currency="CAD">86.95</s:price>
+      <s:sku>TESPROLYLEG80PW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3984524050529</id>
+      <title>80ML EDP</title>
+      <s:price currency="CAD">99.95</s:price>
+      <s:sku>PROLYLEG80PW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3962541998177</id>
+    <published>2019-08-02T11:35:52-04:00</published>
+    <updated>2019-08-02T11:35:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/black-xs-los-angeles"/>
+    <title>Black Xs Los Angeles</title>
+    <s:type>Men</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BLACK-XS-LOS-ANGELES-50ML-EDT-MEN.png?v=1571824514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            49.95 - 73.95
+            <a href="https://perfumeonline.ca/products/black-xs-los-angeles">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1augg2019</s:tag>
+    <s:tag>22AUG2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3962541998177</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>PRXSBLAANF50M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3962541998177</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">73.95</s:price>
+      <s:sku>PRXSBLAANF100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/2147665018977</id>
+    <published>2019-06-08T12:30:14-04:00</published>
+    <updated>2019-06-08T12:30:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/invictus-legand"/>
+    <title>Invictus Legend</title>
+    <s:type>Men</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/01042800002-2.jpg?v=1571610002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            86.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JUNE</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2147665018977</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">86.75</s:price>
+      <s:sku>PRINVLEG100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/2116934860897</id>
+    <published>2019-05-12T22:04:13-04:00</published>
+    <updated>2019-05-12T22:04:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/paco-rabanne-pure-xs-edp"/>
+    <title>Paco Rabanne Pure Xs</title>
+    <s:type>Women</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/s-l1000_d673f071-b5a8-40a2-a597-17233f04c3a5.jpg?v=1571609999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            68.45 - 72.45
+            <a href="https://perfumeonline.ca/products/paco-rabanne-pure-xs-edp">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>02JULY2020</s:tag>
+    <s:tag>1augg2019</s:tag>
+    <s:tag>28jun2020</s:tag>
+    <s:tag>MAYPRODUCT</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2116934860897</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">72.45</s:price>
+      <s:sku>PRPUR50PW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2116934860897</id>
+      <title>80ML EDP TESTER</title>
+      <s:price currency="CAD">69.95</s:price>
+      <s:sku>TESPRPURXS80PW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2116934860897</id>
+      <title>80ML EDP</title>
+      <s:price currency="CAD">68.45</s:price>
+      <s:sku>PRPURXS80PW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/2057293594721</id>
+    <published>2019-04-05T16:36:26-04:00</published>
+    <updated>2019-04-05T16:36:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/one-million-after-shave"/>
+    <title>One Million After Shave</title>
+    <s:type>After Shave</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/One-Million-After-Shave.png?v=1571609995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>After Shave<br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2057293594721</id>
+      <title>100ML AFTER SHAVE</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku>PRMILA/S100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1905352999009</id>
+    <published>2018-11-25T11:40:25-05:00</published>
+    <updated>2018-11-25T11:40:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/paco-rabanne-pure-xs"/>
+    <title>Paco Rabanne Pure XS</title>
+    <s:type>Men</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/301134.jpg?v=1571609993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            56.95 - 64.95
+            <a href="https://perfumeonline.ca/products/paco-rabanne-pure-xs">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J1</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1905352999009</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">56.95</s:price>
+      <s:sku>TESPRPUR100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1905352999009</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">64.95</s:price>
+      <s:sku>PRPUR100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

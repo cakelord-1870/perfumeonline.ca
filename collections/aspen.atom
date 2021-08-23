@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/aspen.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2020-05-13T00:42:41-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/4616582627425</id>
+    <published>2020-05-13T00:42:41-04:00</published>
+    <updated>2020-05-13T00:42:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aspen-edc"/>
+    <title>Aspen Edc</title>
+    <s:type>Women</s:type>
+    <s:vendor>Aspen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Aspen-Edc.png?v=1613493255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aspen<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            19.95 - 24.95
+            <a href="https://perfumeonline.ca/products/aspen-edc">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>13MAY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4616582627425</id>
+      <title>29.5ML EDC</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>ASP30W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4616582627425</id>
+      <title>50ML EDC</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>ASP50W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9838043659</id>
+    <published>2018-11-19T12:39:52-05:00</published>
+    <updated>2018-11-19T12:39:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aspen"/>
+    <title>Aspen</title>
+    <s:type>Men</s:type>
+    <s:vendor>Aspen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/120585_spo.jpg?v=1571609916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aspen<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            11.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICESHEET1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838043659</id>
+      <title>118ML EDC</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>ASP118M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

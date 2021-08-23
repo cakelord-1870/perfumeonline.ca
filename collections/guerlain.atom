@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/guerlain.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-08-06T04:53:09-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6882715664573</id>
+    <published>2021-08-06T04:53:09-04:00</published>
+    <updated>2021-08-06T04:53:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/guerlain-eau-de-fleurs-de-cedrat"/>
+    <title>Guerlain Eau De Fleurs De Cedrat</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUERLAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_6f303a75-cea8-47ca-91e5-f7fbc1554b7f.png?v=1628239990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUERLAIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            82.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6882715664573</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">82.95</s:price>
+      <s:sku>GUECED100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6882712780989</id>
+    <published>2021-08-06T04:52:07-04:00</published>
+    <updated>2021-08-06T04:52:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/guerlain-aqua-allegoria-bergamo-calabria"/>
+    <title>Guerlain Aqua Allegoria Bergamo Calabria</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUERLAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_ca0a76b1-0658-4b25-8262-264f640dff43.png?v=1628239928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUERLAIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6882712780989</id>
+      <title>125ML EDT</title>
+      <s:price currency="CAD">99.95</s:price>
+      <s:sku>GUEAQUALL125W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6809406701757</id>
+    <published>2021-06-29T13:56:17-04:00</published>
+    <updated>2021-06-29T13:56:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/guerlain-la-petite-robe-noir-ma-robe-coctail"/>
+    <title>Guerlain La Petite Robe Noir Ma Robe Coctail</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUERLAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Guerlain-La-Petite-Robe-Noir-Ma-Robe-Coctail.png?v=1626101962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUERLAIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            94.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6809406701757</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">94.95</s:price>
+      <s:sku>GUELAPETROBNOIMA100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6809399001277</id>
+    <published>2021-06-29T13:47:18-04:00</published>
+    <updated>2021-06-29T13:47:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/guerlain-love-is-all"/>
+    <title>Guerlain Love Is All</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUERLAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Loveisall.jpg?v=1626101962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUERLAIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            58.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6809399001277</id>
+      <title>50ML EDT (No Cellophane)</title>
+      <s:price currency="CAD">58.95</s:price>
+      <s:sku>GUELOVIS50TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6731193385149</id>
+    <published>2021-05-26T05:16:39-04:00</published>
+    <updated>2021-05-26T05:16:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/guerlain-la-petit-robe-noir"/>
+    <title>Guerlain La Petit Robe Noir</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUERLAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_aa4e70f3-4a7b-470a-8627-feb9722d3623.png?v=1626101960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUERLAIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            65.95 - 87.95
+            <a href="https://perfumeonline.ca/products/guerlain-la-petit-robe-noir">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25MAYY2021</s:tag>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6731193385149</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">65.95</s:price>
+      <s:sku>GUELAPETNOI50TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6731193385149</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">87.95</s:price>
+      <s:sku>GUELAPETROB100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6703819096253</id>
+    <published>2021-05-12T05:06:42-04:00</published>
+    <updated>2021-05-12T05:06:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/guerlain-lui"/>
+    <title>Guerlain Lui</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>GUERLAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Guerlain-Lui.png?v=1626101658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUERLAIN<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            93.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3MAYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6703819096253</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">93.95</s:price>
+      <s:sku>GUELUI50U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6693549277373</id>
+    <published>2021-05-03T14:24:45-04:00</published>
+    <updated>2021-05-03T14:24:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/shalimar-souffle-intense"/>
+    <title>Shalimar Souffle Intense</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUERLAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Shalimar-Souffle-Intense.png?v=1626102449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUERLAIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            66.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3MAYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6693549277373</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">66.95</s:price>
+      <s:sku>GUESHASOUINT50W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6693548720317</id>
+    <published>2021-05-03T14:23:36-04:00</published>
+    <updated>2021-05-03T14:23:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/shalimar-souffle-parfum"/>
+    <title>Shalimar Souffle Parfum</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUERLAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Shalimar-Souffle-Parfum.png?v=1626102456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUERLAIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            66.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3MAYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6693548720317</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">66.95</s:price>
+      <s:sku>GUESHASOU50W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6068268892349</id>
+    <published>2020-11-08T20:53:25-05:00</published>
+    <updated>2020-11-08T20:53:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/guerlain-jicky"/>
+    <title>Guerlain Jicky</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUERLAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_c89c58f9-c220-44ea-abcc-0da762179bfc.png?v=1606122775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUERLAIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            61.95 - 79.95
+            <a href="https://perfumeonline.ca/products/guerlain-jicky">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22NOVV2020</s:tag>
+    <s:tag>9NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6068268892349</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">61.95</s:price>
+      <s:sku>TESGUEJIC100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6068268892349</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>GUEJIC100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6047368085693</id>
+    <published>2020-11-02T10:10:34-05:00</published>
+    <updated>2020-11-02T10:10:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aqua-allegoria-bergamote"/>
+    <title>Aqua Allegoria Bergamote</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUERLAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AQUA-ALLEGORIA-BERGAMOTE-75ML-EDT-WOMEN.png?v=1613493232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUERLAIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            48.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6047368085693</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">48.95</s:price>
+      <s:sku>GUEAQUBER75TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6047361040573</id>
+    <published>2020-11-02T10:01:01-05:00</published>
+    <updated>2020-11-02T10:01:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aqua-allegoria-passiflora"/>
+    <title>Aqua Allegoria Passiflora</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUERLAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AQUA-ALLEGORIA-PASSIFLORA-125ML-EDT-WOMEN.png?v=1613493234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUERLAIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6047361040573</id>
+      <title>125ML EDT</title>
+      <s:price currency="CAD">99.95</s:price>
+      <s:sku>GUEAQUPAS125TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6047360516285</id>
+    <published>2020-11-02T10:00:24-05:00</published>
+    <updated>2020-11-02T10:00:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aqua-allegoria-limon-verde"/>
+    <title>Aqua Allegoria Limon Verde</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUERLAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_3a8b8fb5-8307-49d5-9a6f-e84a30339648.png?v=1606122422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUERLAIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            44.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6047360516285</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">44.95</s:price>
+      <s:sku>GUEAQULIM75TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4798739710049</id>
+    <published>2020-10-22T15:04:36-04:00</published>
+    <updated>2020-10-22T15:04:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/guerlain-la-petit-robe-noir-legere"/>
+    <title>Guerlain La Petit Robe Noir Legere</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUERLAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_83a0217a-5faa-4b09-9baa-1c090f209f43.png?v=1606122775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUERLAIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            58.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22OCCT2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4798739710049</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">58.95</s:price>
+      <s:sku>TESGUELAPETNOILEG100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4741173739617</id>
+    <published>2020-08-25T14:10:42-04:00</published>
+    <updated>2020-08-25T14:10:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/guerlain-imperiale"/>
+    <title>Guerlain Imperiale</title>
+    <s:type>Men</s:type>
+    <s:vendor>GUERLAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/GuerlainImperialeMen.jpg?v=1626101960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUERLAIN<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            53.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22AUG2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4741173739617</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">53.45</s:price>
+      <s:sku>GUEIMP100CM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4686389149793</id>
+    <published>2020-06-28T11:04:23-04:00</published>
+    <updated>2020-06-28T11:04:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/mitsouko"/>
+    <title>Guerlain Mitsouko Edt</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUERLAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Mitsouko.png?v=1601289377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUERLAIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            34.95 - 39.95
+            <a href="https://perfumeonline.ca/products/mitsouko">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>28jun2020</s:tag>
+    <s:tag>PRICECHECk</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4686389149793</id>
+      <title>50ML EDT TESTER</title>
+      <s:price currency="CAD">34.95</s:price>
+      <s:sku>GUEMIT50TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4686389149793</id>
+      <title>93ML EDT REFIL</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>GUEMITREF93TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4679647494241</id>
+    <published>2020-06-22T09:49:08-04:00</published>
+    <updated>2020-06-22T09:49:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/eau-de-fleurs-de-cedrat"/>
+    <title>Eau De Fleurs De Cedrat</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUERLAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Eau-De-Fleurs-De-Cedrat.png?v=1600888898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUERLAIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            53.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22JUN2020</s:tag>
+    <s:tag>28jun2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4679647494241</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">53.95</s:price>
+      <s:sku>GUEEAUFLE100CW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4652939247713</id>
+    <published>2020-06-01T07:20:07-04:00</published>
+    <updated>2020-06-01T07:20:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/mon-guerlain-1"/>
+    <title>Mon Guerlain</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUERLAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Mon-Guerlain_cc4b0b6b-e6bb-429e-bba5-a3d934f0dbea.png?v=1600889045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUERLAIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            50.95 - 58.95
+            <a href="https://perfumeonline.ca/products/mon-guerlain-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>31MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4652939247713</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">50.95</s:price>
+      <s:sku>TESGUEMON100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4652939247713</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">58.95</s:price>
+      <s:sku>GUEMON100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4651603853409</id>
+    <published>2020-05-31T02:40:46-04:00</published>
+    <updated>2020-05-31T02:40:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/guerlain-lhomme-ideal-cool"/>
+    <title>Guerlain L&apos;Homme Ideal Cool</title>
+    <s:type>Men</s:type>
+    <s:vendor>GUERLAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Guerlain-L_Homme-Ideal-Cool.png?v=1600888949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUERLAIN<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            83.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>31MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4651603853409</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">83.95</s:price>
+      <s:sku>GUEIDECOO100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4651603624033</id>
+    <published>2020-05-31T02:40:42-04:00</published>
+    <updated>2020-05-31T02:40:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/guerlain-lhomme-ideal-lintense"/>
+    <title>Guerlain L&apos;Homme Ideal L&apos;Intense</title>
+    <s:type>Men</s:type>
+    <s:vendor>GUERLAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Guerlain-L_Homme-Ideal-L_Intense.png?v=1600888949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUERLAIN<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            75.95 - 77.95
+            <a href="https://perfumeonline.ca/products/guerlain-lhomme-ideal-lintense">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22OCCT2020</s:tag>
+    <s:tag>31MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4651603624033</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">75.95</s:price>
+      <s:sku>TESGUEIDEINT100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4651603624033</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">77.95</s:price>
+      <s:sku>GUEIDEINT100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4604148154465</id>
+    <published>2020-05-05T00:00:26-04:00</published>
+    <updated>2020-05-05T00:00:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/guerlain-boisee"/>
+    <title>Guerlain Boisee</title>
+    <s:type>Men</s:type>
+    <s:vendor>GUERLAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Guerlain-Boisee.png?v=1600888947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUERLAIN<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            52.95 - 58.95
+            <a href="https://perfumeonline.ca/products/guerlain-boisee">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20julyy2021aj</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4604148154465</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">52.95</s:price>
+      <s:sku>TESGUEBOI100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4604148154465</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">58.95</s:price>
+      <s:sku>GUEBOI100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4600002347105</id>
+    <published>2020-05-02T02:08:55-04:00</published>
+    <updated>2020-05-02T02:08:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/guerlain-mon-bloom-of-rose"/>
+    <title>Guerlain Mon Bloom Of Rose</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUERLAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Guerlain-Mon-Bloom-Of-Rose.png?v=1600888950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUERLAIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            64.95 - 84.95
+            <a href="https://perfumeonline.ca/products/guerlain-mon-bloom-of-rose">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11JANN2021</s:tag>
+    <s:tag>2MAY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4600002347105</id>
+      <title>30ML EDT</title>
+      <s:price currency="CAD">64.95</s:price>
+      <s:sku>GUEMONBLO30TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4600002347105</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">84.95</s:price>
+      <s:sku>GUEMONBLO100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4600001757281</id>
+    <published>2020-05-02T02:08:55-04:00</published>
+    <updated>2020-05-02T02:08:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/guerlain-petit-robe-noire-plissee"/>
+    <title>Guerlain Petit Robe Noire Plissee</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUERLAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Guerlain-Petit-Robe-Noire-Plissee.png?v=1600888951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUERLAIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            74.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2MAY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4600001757281</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">74.95</s:price>
+      <s:sku>GUELAPETPLI100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4433267621985</id>
+    <published>2019-12-16T04:10:15-05:00</published>
+    <updated>2019-12-16T04:10:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/guerlain-lhomme-ideal-edp"/>
+    <title>Guerlain L&apos;Homme Ideal Edp</title>
+    <s:type>Men</s:type>
+    <s:vendor>GUERLAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/L_homme-ideal-edp.png?v=1578321124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUERLAIN<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            71.45 - 81.45
+            <a href="https://perfumeonline.ca/products/guerlain-lhomme-ideal-edp">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15DECC2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4433267621985</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">81.45</s:price>
+      <s:sku>GUEIDE100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4433267621985</id>
+      <title>100 ML EDP (NO CELLOPHANE)</title>
+      <s:price currency="CAD">71.45</s:price>
+      <s:sku>RET-NCA</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332545474657</id>
+    <published>2019-11-23T04:29:13-05:00</published>
+    <updated>2019-11-23T04:29:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/guerlain-lhomme-ideal-gift-set-men"/>
+    <title>Guerlain L&apos;Homme Ideal Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>GUERLAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-GUEIDE2082M_spo_a67e5cba-2240-4b94-b510-25bc65d1ee16.jpg?v=1572432970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUERLAIN<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            92.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332545474657</id>
+      <title>100ML Edt + 75ML Shower Gel</title>
+      <s:price currency="CAD">92.95</s:price>
+      <s:sku>SET-GUEIDE2082M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/12289721419</id>
+    <published>2019-11-23T04:28:22-05:00</published>
+    <updated>2019-11-23T04:28:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/coffret-guerlain-4pc-la-petite-robe-noir"/>
+    <title>Coffret Guerlain 4PC La Petite Robe Noir</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUERLAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-GUELAPMIN6207W_spo.jpg?v=1571609954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUERLAIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            55.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>GiftSetReady</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>Issue GIft Set</s:tag>
+    <s:tag>OLDGIFTSETS</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/12289721419</id>
+      <title>2PC 5ML Edp + 2PC 5ML Edt</title>
+      <s:price currency="CAD">55.95</s:price>
+      <s:sku>SET-GUELAPMIN6207W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

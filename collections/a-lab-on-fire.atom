@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/a-lab-on-fire.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-07-29T15:13:47-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6867073564861</id>
+    <published>2021-07-29T15:13:47-04:00</published>
+    <updated>2021-07-29T15:13:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/a-lab-on-fire-hossegor"/>
+    <title>A Lab On Fire Hossegor</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>A Lab On Fire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/A-Lab-On-Fire-Hossegor.png?v=1628659625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Lab On Fire<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            111.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6867073564861</id>
+      <title>60ML EDP</title>
+      <s:price currency="CAD">111.95</s:price>
+      <s:sku>ALABHOS60U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6867073171645</id>
+    <published>2021-07-29T15:13:23-04:00</published>
+    <updated>2021-07-29T15:13:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/a-lab-on-fire-hallucinogenic-pearl"/>
+    <title>A Lab On Fire Hallucinogenic Pearl</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>A Lab On Fire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/A-Lab-On-Fire-Hallucinogenic-Pearl.png?v=1628659206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Lab On Fire<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            111.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6867073171645</id>
+      <title>60ML EDP</title>
+      <s:price currency="CAD">111.95</s:price>
+      <s:sku>ALABHAL60U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6867072417981</id>
+    <published>2021-07-29T15:12:57-04:00</published>
+    <updated>2021-07-29T15:12:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/a-lab-on-fire-california-snow"/>
+    <title>A Lab On Fire California Snow</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>A Lab On Fire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/A-Lab-On-Fire-California-Snow.png?v=1628658646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Lab On Fire<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            111.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6867072417981</id>
+      <title>60ML EDP</title>
+      <s:price currency="CAD">111.95</s:price>
+      <s:sku>ALABCALSNO60U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6867072123069</id>
+    <published>2021-07-29T15:12:34-04:00</published>
+    <updated>2021-07-29T15:12:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/a-lab-on-fire-rose-rebelle-respawn"/>
+    <title>A Lab On Fire Rose Rebelle Respawn</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>A Lab On Fire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/A-Lab-On-Fire-Rose-Rebelle-Respawn.png?v=1628666012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Lab On Fire<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            111.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6867072123069</id>
+      <title>60ML EDP</title>
+      <s:price currency="CAD">111.95</s:price>
+      <s:sku>ALABROSREB60U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6867071795389</id>
+    <published>2021-07-29T15:12:10-04:00</published>
+    <updated>2021-07-29T15:12:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/a-lab-on-fire-sweet-dreams-2003"/>
+    <title>A Lab On Fire Sweet Dreams 2003</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>A Lab On Fire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/A-Lab-On-Fire-Sweet-Dreams-2003.png?v=1628666051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Lab On Fire<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            111.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6867071795389</id>
+      <title>60ML EDP</title>
+      <s:price currency="CAD">111.95</s:price>
+      <s:sku>ALABSWE60U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6867071434941</id>
+    <published>2021-07-29T15:11:45-04:00</published>
+    <updated>2021-07-29T15:11:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/a-lab-on-fire-paris-l-a"/>
+    <title>A Lab On Fire Paris L.A</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>A Lab On Fire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/A-Lab-On-Fire-Paris-LA.png?v=1628665598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Lab On Fire<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            111.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6867071434941</id>
+      <title>60ML EDP</title>
+      <s:price currency="CAD">111.95</s:price>
+      <s:sku>ALABPAR60U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6867069927613</id>
+    <published>2021-07-29T15:10:13-04:00</published>
+    <updated>2021-07-29T15:10:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/a-lab-on-fire-liquid-night"/>
+    <title>A Lab On Fire Liquid Night</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>A Lab On Fire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/A-Lab-On-Fire-Liquid-Night.png?v=1628660008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Lab On Fire<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            111.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6867069927613</id>
+      <title>60ML EDP</title>
+      <s:price currency="CAD">111.95</s:price>
+      <s:sku>ALABLIQ60U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6867069501629</id>
+    <published>2021-07-29T15:09:49-04:00</published>
+    <updated>2021-07-29T15:09:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/a-lab-on-fire-my-own-private-teahupo"/>
+    <title>A Lab On Fire My Own Private Teahupo</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>A Lab On Fire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/A-Lab-On-Fire-My-Own-Private-Teahupo.png?v=1628660417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Lab On Fire<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            111.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6867069501629</id>
+      <title>60ML EDP</title>
+      <s:price currency="CAD">111.95</s:price>
+      <s:sku>ALABFIRMY60U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6867069010109</id>
+    <published>2021-07-29T15:09:22-04:00</published>
+    <updated>2021-07-29T15:09:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/a-lab-on-fire-d-ipanema"/>
+    <title>A Lab On Fire D Ipanema</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>A Lab On Fire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/A-Lab-On-Fire-D-Ipanema.png?v=1628658921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Lab On Fire<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            111.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6867069010109</id>
+      <title>60ML EDP</title>
+      <s:price currency="CAD">111.95</s:price>
+      <s:sku>ALABDIPA60U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6867066093757</id>
+    <published>2021-07-29T15:06:47-04:00</published>
+    <updated>2021-07-29T15:06:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/a-lab-on-fire-made-in-heaven"/>
+    <title>A Lab On Fire Made In Heaven</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>A Lab On Fire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/A-Lab-On-Fire-Made-In-Heaven.png?v=1628660218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Lab On Fire<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            111.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6867066093757</id>
+      <title>60ML EDP</title>
+      <s:price currency="CAD">111.95</s:price>
+      <s:sku>ALABMADIN60U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

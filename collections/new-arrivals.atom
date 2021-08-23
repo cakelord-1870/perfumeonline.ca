@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/new-arrivals.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-06-29T13:56:17-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6809406701757</id>
+    <published>2021-06-29T13:56:17-04:00</published>
+    <updated>2021-06-29T13:56:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/guerlain-la-petite-robe-noir-ma-robe-coctail"/>
+    <title>Guerlain La Petite Robe Noir Ma Robe Coctail</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUERLAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Guerlain-La-Petite-Robe-Noir-Ma-Robe-Coctail.png?v=1626101962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUERLAIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            94.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6809406701757</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">94.95</s:price>
+      <s:sku>GUELAPETROBNOIMA100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6809404080317</id>
+    <published>2021-06-29T13:52:53-04:00</published>
+    <updated>2021-06-29T13:52:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/cacharel-catch-me"/>
+    <title>Cacharel Catch Me</title>
+    <s:type>Women</s:type>
+    <s:vendor>CACHAREL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/61IG2o_2BrdAL._SL1000.jpg?v=1626101826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CACHAREL<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            63.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6809404080317</id>
+      <title>80ML EDP TESTER</title>
+      <s:price currency="CAD">63.95</s:price>
+      <s:sku>TESCACHCAT80W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6809399001277</id>
+    <published>2021-06-29T13:47:18-04:00</published>
+    <updated>2021-06-29T13:47:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/guerlain-love-is-all"/>
+    <title>Guerlain Love Is All</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUERLAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Loveisall.jpg?v=1626101962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUERLAIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            58.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6809399001277</id>
+      <title>50ML EDT (No Cellophane)</title>
+      <s:price currency="CAD">58.95</s:price>
+      <s:sku>GUELOVIS50TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6809397657789</id>
+    <published>2021-06-29T13:45:41-04:00</published>
+    <updated>2021-06-29T13:45:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/elie-saab-rose-couture"/>
+    <title>Elie Saab Rose Couture</title>
+    <s:type>Women</s:type>
+    <s:vendor>Elie Saab</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Elie-Saab-Rose-Couture.png?v=1626101912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elie Saab<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            48.95 - 66.95
+            <a href="https://perfumeonline.ca/products/elie-saab-rose-couture">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:tag>NEWITEMS15JULYY21</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6809397657789</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">48.95</s:price>
+      <s:sku>ESROSCOU50W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6809397657789</id>
+      <title>90ML EDT</title>
+      <s:price currency="CAD">66.95</s:price>
+      <s:sku>ESROSCOU100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6809395724477</id>
+    <published>2021-06-29T13:44:16-04:00</published>
+    <updated>2021-06-29T13:44:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/sunflower-dream-petals"/>
+    <title>Sunflower Dream Petals</title>
+    <s:type>Women</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Sunflower-Dream-Petals.png?v=1626102459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6809395724477</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">26.95</s:price>
+      <s:sku>EASUNDRE100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6809393823933</id>
+    <published>2021-06-29T13:42:18-04:00</published>
+    <updated>2021-06-29T13:42:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ch-212-vip-red-rose"/>
+    <title>Ch 212 Vip Red Rose</title>
+    <s:type>Women</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ch-212-Vip-Red-Rose.png?v=1626101844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            104.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6809393823933</id>
+      <title>80ML EDP</title>
+      <s:price currency="CAD">104.95</s:price>
+      <s:sku>CH212VIPRED80W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6809392840893</id>
+    <published>2021-06-29T13:41:39-04:00</published>
+    <updated>2021-06-29T13:41:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/lagerfeld-bois-de-vetiver"/>
+    <title>Lagerfeld Bois De Vetiver</title>
+    <s:type>Men</s:type>
+    <s:vendor>KARL LAGERFELD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Lagerfeld-Bois-De-Vetiver.png?v=1626102095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KARL LAGERFELD<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            34.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:tag>NEWITEMS15JULYY21</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6809392840893</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">34.45</s:price>
+      <s:sku>LAGBOI100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6809390022845</id>
+    <published>2021-06-29T13:38:29-04:00</published>
+    <updated>2021-06-29T13:38:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/lacoste-challenge-refresh"/>
+    <title>Lacoste Challenge Refresh</title>
+    <s:type>Men</s:type>
+    <s:vendor>LACOSTE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Lacoste-Challenge-Refresh.png?v=1626102090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LACOSTE<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            51.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6809390022845</id>
+      <title>90ML EDT</title>
+      <s:price currency="CAD">51.95</s:price>
+      <s:sku>LACCHAREF90M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6809388843197</id>
+    <published>2021-06-29T13:36:07-04:00</published>
+    <updated>2021-06-29T13:36:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/jovan-musk-platinum"/>
+    <title>Jovan Musk Platinum</title>
+    <s:type>Men</s:type>
+    <s:vendor>Jovan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/51nxCPrA_2BNL._SL1000.jpg?v=1626102018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovan<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6809388843197</id>
+      <title>90ML EDC</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku>JOVMUSPLA90M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6809385631933</id>
+    <published>2021-06-29T13:33:53-04:00</published>
+    <updated>2021-06-29T13:33:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ch-212-summer"/>
+    <title>Ch 212 Summer</title>
+    <s:type>Men</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ch-212-Summer.png?v=1626101844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            82.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6809385631933</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">82.95</s:price>
+      <s:sku>CH212SUM100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6809385173181</id>
+    <published>2021-06-29T13:33:17-04:00</published>
+    <updated>2021-06-29T13:33:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/cafe-puro"/>
+    <title>Café Puro</title>
+    <s:type>Men</s:type>
+    <s:vendor>Cofinluxe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Cafe-Puro.png?v=1626101828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cofinluxe<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6809385173181</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">21.95</s:price>
+      <s:sku>CAFPUR100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6809384616125</id>
+    <published>2021-06-29T13:32:35-04:00</published>
+    <updated>2021-06-29T13:32:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/cafe-cafe"/>
+    <title>Café-Café</title>
+    <s:type>Men</s:type>
+    <s:vendor>Cofinluxe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/cafe-cafe.png?v=1626101827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cofinluxe<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6809384616125</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>CAF100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6809382748349</id>
+    <published>2021-06-29T13:30:07-04:00</published>
+    <updated>2021-06-29T13:30:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/paradiso-inferno-blue"/>
+    <title>Paradiso Inferno Blue</title>
+    <s:type>Men</s:type>
+    <s:vendor>BENETTON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/51clntmoUDS._SL1000.jpg?v=1626102330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BENETTON<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            27.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6809382748349</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>BENPARINFBLU100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6808311300285</id>
+    <published>2021-06-28T23:51:49-04:00</published>
+    <updated>2021-06-28T23:51:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/jean-paul-gaultier-la-belle-intense"/>
+    <title>Jean Paul Gaultier La Belle Intense</title>
+    <s:type>Women</s:type>
+    <s:vendor>JEAN PAUL GAULTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Jean-Paul-Gaultier-La-Belle-Intense.png?v=1626102004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JEAN PAUL GAULTIER<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            78.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:tag>28jun2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICECHECk</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6808311300285</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">78.95</s:price>
+      <s:sku>TESJPGBELINT100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6804791558333</id>
+    <published>2021-06-26T14:30:17-04:00</published>
+    <updated>2021-06-26T14:30:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/clive-christian-xxi-art-deco-cypress"/>
+    <title>Clive Christian Xxi Art Deco Cypress</title>
+    <s:type>Men</s:type>
+    <s:vendor>CLIVE CHRISTIAN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Clive-Christian-Xxi-Art-Deco-Cypress.png?v=1626101866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CLIVE CHRISTIAN<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            401.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6804791558333</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">401.95</s:price>
+      <s:sku>CCXXI50PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6804785758397</id>
+    <published>2021-06-26T14:22:26-04:00</published>
+    <updated>2021-06-26T14:22:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/mont-blanc-explorer-ultra-blue"/>
+    <title>Mont Blanc Explorer Ultra Blue</title>
+    <s:type>Men</s:type>
+    <s:vendor>MONT BLANC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Mont-Blanc-Explorer-Ultra-Blue.png?v=1626102250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MONT BLANC<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            66.95 - 93.95
+            <a href="https://perfumeonline.ca/products/mont-blanc-explorer-ultra-blue">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6804785758397</id>
+      <title>60ML EDP</title>
+      <s:price currency="CAD">66.95</s:price>
+      <s:sku>MBEXPULTBLU60PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6804785758397</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">69.95</s:price>
+      <s:sku>MBEXPULTBLU100PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6804785758397</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">93.95</s:price>
+      <s:sku>MBEXPULT100PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6804784152765</id>
+    <published>2021-06-26T14:20:18-04:00</published>
+    <updated>2021-06-26T14:20:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/lacoste-rose"/>
+    <title>Lacoste Rose</title>
+    <s:type>Women</s:type>
+    <s:vendor>LACOSTE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Lacoste-Rose.png?v=1626102096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LACOSTE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            50.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6804784152765</id>
+      <title>35ML EDP</title>
+      <s:price currency="CAD">50.95</s:price>
+      <s:sku>LACROS30W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6804777173181</id>
+    <published>2021-06-26T14:11:01-04:00</published>
+    <updated>2021-06-26T14:11:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/hugo-boss-bottled-edp"/>
+    <title>Hugo Boss Bottled Edp</title>
+    <s:type>Men</s:type>
+    <s:vendor>HUGO BOSS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Hugo-Boss-Bottled-Edp.png?v=1626101975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HUGO BOSS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            140.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6804777173181</id>
+      <title>200ML EDP</title>
+      <s:price currency="CAD">140.95</s:price>
+      <s:sku>HBBOT200PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6804774912189</id>
+    <published>2021-06-26T14:08:42-04:00</published>
+    <updated>2021-06-26T14:08:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/d-g-dolce-rose"/>
+    <title>D&amp;G Dolce Rose</title>
+    <s:type>Women</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/D_G-Dolce-Rose.png?v=1626101878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            94.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6804774912189</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">94.95</s:price>
+      <s:sku>DGDOLROS75TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6804773961917</id>
+    <published>2021-06-26T14:07:47-04:00</published>
+    <updated>2021-06-26T14:07:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gucci-guilty-love-edition-edp"/>
+    <title>Gucci Guilty Love Edition Edp</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Gucci-Guilty-Love-Edition-Edp.png?v=1626101957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            94.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6804773961917</id>
+      <title>90ML EDP TESTER</title>
+      <s:price currency="CAD">94.95</s:price>
+      <s:sku>TESGUCGUILOV90W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6804773306557</id>
+    <published>2021-06-26T14:06:58-04:00</published>
+    <updated>2021-06-26T14:06:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gucci-guilty-love-edition"/>
+    <title>Gucci Guilty Love Edition</title>
+    <s:type>Men</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/51zrxRqjPJL._SL1000.jpg?v=1626101956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            94.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6804773306557</id>
+      <title>90ML EDT TESTER</title>
+      <s:price currency="CAD">94.95</s:price>
+      <s:sku>TESGUCGUILOV90M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6804752695485</id>
+    <published>2021-06-26T13:45:05-04:00</published>
+    <updated>2021-06-26T13:45:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/juliette-has-a-gun-into-the-void"/>
+    <title>Juliette Has A Gun Into The Void</title>
+    <s:type>Women</s:type>
+    <s:vendor>JULIETTE HAS A GUN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/into-the-void-perfume.jpg?v=1626102017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JULIETTE HAS A GUN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            172.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6804752695485</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">172.95</s:price>
+      <s:sku>JULINTVOI100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6804751024317</id>
+    <published>2021-06-26T13:42:48-04:00</published>
+    <updated>2021-06-26T13:42:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/juliette-has-a-gun-lady-vengeance-extreme"/>
+    <title>Juliette Has A Gun Lady Vengeance Extreme</title>
+    <s:type>Women</s:type>
+    <s:vendor>JULIETTE HAS A GUN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Juliette-Has-A-Gun-Lady-Vengeance-Extreme.png?v=1626102019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JULIETTE HAS A GUN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            108.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6804751024317</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">108.95</s:price>
+      <s:sku>JULVENEXT100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6804747583677</id>
+    <published>2021-06-26T13:38:04-04:00</published>
+    <updated>2021-06-26T13:38:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/acqua-di-parma-colonia-futura"/>
+    <title>Acqua Di Parma Colonia Futura</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>ACQUA DI PARMA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Acqua-Di-Parma-Colonia-Futura.png?v=1626101696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ACQUA DI PARMA<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            101.95 - 114.95
+            <a href="https://perfumeonline.ca/products/acqua-di-parma-colonia-futura">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6804747583677</id>
+      <title>100ML EDC TESTER</title>
+      <s:price currency="CAD">101.95</s:price>
+      <s:sku>TESAPCOLFUT100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6804747583677</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">114.95</s:price>
+      <s:sku>APCOLFUT100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6804745945277</id>
+    <published>2021-06-26T13:34:52-04:00</published>
+    <updated>2021-06-26T13:34:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/issey-miyake-a-drop"/>
+    <title>Issey Miyake A Drop</title>
+    <s:type>Women</s:type>
+    <s:vendor>ISSEY MIYAKE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Issey-Miyake-A-Drop.png?v=1626101982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ISSEY MIYAKE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            74.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6804745945277</id>
+      <title>90ML EDP TESTER</title>
+      <s:price currency="CAD">74.95</s:price>
+      <s:sku>TESIMADRO90W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

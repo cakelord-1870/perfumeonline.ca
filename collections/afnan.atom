@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/afnan.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2020-07-19T06:26:45-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/4708174233697</id>
+    <published>2020-07-19T06:26:45-04:00</published>
+    <updated>2020-07-19T06:26:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/afnan-supermacy-incense"/>
+    <title>Afnan Supermacy Incense</title>
+    <s:type>Men</s:type>
+    <s:vendor>Afnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_93cf3fd0-0188-428b-9b50-2e4aa8df355c.png?v=1601289154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afnan<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            32.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19JULY2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4708174233697</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">32.25</s:price>
+      <s:sku>AFNSUPINC100PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4708174004321</id>
+    <published>2020-07-19T06:25:32-04:00</published>
+    <updated>2020-07-19T06:25:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/afnan-rui-broca-r-u-serious"/>
+    <title>Afnan Rui Broca &quot;R U Serious&quot;</title>
+    <s:type>Men</s:type>
+    <s:vendor>Afnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_dfc4dd6d-0f54-4627-8bfe-2d214bf332fc.png?v=1601289152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afnan<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            36.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19JULY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4708174004321</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">36.95</s:price>
+      <s:sku>AFNRUIBRO100PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4685564477537</id>
+    <published>2020-06-27T07:01:59-04:00</published>
+    <updated>2020-06-27T07:01:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/afnan-9-pm"/>
+    <title>Afnan 9 Pm</title>
+    <s:type>Women</s:type>
+    <s:vendor>Afnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Afnan-9-Pm.png?v=1600888745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afnan<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27JUN2020</s:tag>
+    <s:tag>28JUN2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4685564477537</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">34.95</s:price>
+      <s:sku>AFN9PM100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4685541048417</id>
+    <published>2020-06-27T06:22:52-04:00</published>
+    <updated>2020-06-27T06:22:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/afnan-supermacy-purple"/>
+    <title>Afnan Supermacy Purple</title>
+    <s:type>Women</s:type>
+    <s:vendor>Afnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Afnan-Supermacy-Purple.png?v=1601289154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afnan<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            43.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27JUN2020</s:tag>
+    <s:tag>28JUN2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4685541048417</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">43.95</s:price>
+      <s:sku>AFNPUR100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4685538525281</id>
+    <published>2020-06-27T06:20:40-04:00</published>
+    <updated>2020-06-27T06:20:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/afnan-supermacy-black-noir"/>
+    <title>Afnan Supermacy Black Noir</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Afnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Afnan-Supermacy-Black-Noir.png?v=1601289152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afnan<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            51.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27JUN2020</s:tag>
+    <s:tag>28JUN2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4685538525281</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">51.95</s:price>
+      <s:sku>AFNSUPBLA100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4685531119713</id>
+    <published>2020-06-27T06:07:38-04:00</published>
+    <updated>2020-06-27T06:07:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/afnan-9-am"/>
+    <title>Afnan 9 Am</title>
+    <s:type>Women</s:type>
+    <s:vendor>Afnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Afnan-9-Am.png?v=1601289152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afnan<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27JUN2020</s:tag>
+    <s:tag>28JUN2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4685531119713</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">34.95</s:price>
+      <s:sku>AFN9AM100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4632040079457</id>
+    <published>2020-05-19T06:29:22-04:00</published>
+    <updated>2020-05-19T06:29:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/afnan-tribute-white"/>
+    <title>Afnan Tribute White</title>
+    <s:type>Men</s:type>
+    <s:vendor>Afnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Afnan-Tribute-White.png?v=1606122390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afnan<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            114.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4632040079457</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">114.95</s:price>
+      <s:sku>AFNTRIWHI100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4632040046689</id>
+    <published>2020-05-19T06:29:22-04:00</published>
+    <updated>2020-05-19T06:29:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/afnan-tribute-blue"/>
+    <title>Afnan Tribute Blue</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Afnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Afnan-Tribute-Blue.png?v=1601289154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afnan<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4632040046689</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>AFNTRIBLU100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4632039981153</id>
+    <published>2020-05-19T06:29:21-04:00</published>
+    <updated>2020-05-19T06:29:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/afnan-tribute-black"/>
+    <title>Afnan Tribute Black</title>
+    <s:type>Men</s:type>
+    <s:vendor>Afnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_39d4f27a-4fd8-4e48-aca1-0a8c270f727f.png?v=1589884163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afnan<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            94.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4632039981153</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">94.95</s:price>
+      <s:sku>AFNTRIBLA100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4632039751777</id>
+    <published>2020-05-19T06:29:18-04:00</published>
+    <updated>2020-05-19T06:29:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/afnan-supermacy-gold"/>
+    <title>Afnan Supermacy Gold</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Afnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Afnan-Supermacy-Gold.png?v=1601289153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afnan<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            42.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4632039751777</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">42.95</s:price>
+      <s:sku>AFNSUPGOL100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312165023841</id>
+    <published>2019-10-25T04:38:05-04:00</published>
+    <updated>2019-10-25T04:38:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/afnan-supremacy-pour-homme"/>
+    <title>Afnan Supremacy Pour Homme</title>
+    <s:type>Men</s:type>
+    <s:vendor>Afnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Afnan-Supremacy-Pour-Homme.png?v=1572288977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afnan<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            36.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312165023841</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">36.95</s:price>
+      <s:sku>AFNSUP100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312164958305</id>
+    <published>2019-10-25T04:38:05-04:00</published>
+    <updated>2019-10-25T04:38:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/afnan-supremacy-pink-pour-femme"/>
+    <title>Afnan Supremacy Pink Pour Femme</title>
+    <s:type>Women</s:type>
+    <s:vendor>Afnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Afnan-Supremacy-Pink-Pour-Femme.png?v=1572288899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afnan<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312164958305</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>AFNSUPPIN100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312164860001</id>
+    <published>2019-10-25T04:38:04-04:00</published>
+    <updated>2019-10-25T04:38:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/afnan-supremacy-noir"/>
+    <title>Afnan Supremacy Noir</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Afnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Afnan-Supremacy-Noir.png?v=1572288775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afnan<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            52.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312164860001</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">52.95</s:price>
+      <s:sku>AFNSUPNOI100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312164827233</id>
+    <published>2019-10-25T04:38:04-04:00</published>
+    <updated>2019-10-25T04:38:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/afnan-supremacy-in-heaven-pour-homme"/>
+    <title>Afnan Supremacy In Heaven Pour Homme</title>
+    <s:type>Men</s:type>
+    <s:vendor>Afnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Afnan-Supremacy-In-Heaven-Pour-Homme.png?v=1572288746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afnan<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312164827233</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>AFNSUPHEA100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312164794465</id>
+    <published>2019-10-25T04:38:03-04:00</published>
+    <updated>2019-10-25T04:38:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/afnan-rare-tiffany"/>
+    <title>Afnan Rare Tiffany</title>
+    <s:type>Women</s:type>
+    <s:vendor>Afnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Afnan-Rare-Tiffany.png?v=1572288717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afnan<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312164794465</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>AFNRARTIF100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312164761697</id>
+    <published>2019-10-25T04:38:03-04:00</published>
+    <updated>2019-10-25T04:38:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/afnan-rare-carbon"/>
+    <title>Afnan Rare Carbon</title>
+    <s:type>Men</s:type>
+    <s:vendor>Afnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Afnan-Rare-Carbon.png?v=1589884472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afnan<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            32.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312164761697</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">32.45</s:price>
+      <s:sku>AFNRARCAR100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312164302945</id>
+    <published>2019-10-25T04:37:55-04:00</published>
+    <updated>2019-10-25T04:37:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/afnan-pure-musk"/>
+    <title>Afnan Pure Musk</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Afnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Afnan-Pure-Musk.png?v=1572288646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afnan<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312164302945</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">34.95</s:price>
+      <s:sku>AFNPUR100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312164270177</id>
+    <published>2019-10-25T04:37:55-04:00</published>
+    <updated>2019-10-25T04:37:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/afnan-ornament-pour-homme"/>
+    <title>Afnan Ornament Pour Homme</title>
+    <s:type>Men</s:type>
+    <s:vendor>Afnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Afnan-Ornament-Pour-Homme.png?v=1572288619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afnan<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            44.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312164270177</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">44.45</s:price>
+      <s:sku>AFNNOR100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312164237409</id>
+    <published>2019-10-25T04:37:55-04:00</published>
+    <updated>2019-10-25T04:37:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/afnan-ornament-pour-femme"/>
+    <title>Afnan Ornament Pour Femme</title>
+    <s:type>Women</s:type>
+    <s:vendor>Afnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Afnan-Ornament-Pour-Femme.png?v=1572288482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afnan<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            44.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312164237409</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">44.95</s:price>
+      <s:sku>AFNORN100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

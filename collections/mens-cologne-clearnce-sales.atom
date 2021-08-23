@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/mens-cologne-clearnce-sales.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2019-10-14T19:31:50-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/9843833099</id>
+    <published>2019-10-14T19:31:50-04:00</published>
+    <updated>2019-10-14T19:31:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bora-bora"/>
+    <title>Bora Bora</title>
+    <s:type>Men</s:type>
+    <s:vendor>Liz Claiborne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bora-Bora.jpg?v=1571609920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liz Claiborne<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            24.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICESHEET1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9843833099</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">24.75</s:price>
+      <s:sku>BORA100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9844352715</id>
+    <published>2019-10-14T19:31:23-04:00</published>
+    <updated>2019-10-14T19:31:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/jimmy-choo-ice"/>
+    <title>Jimmy Choo Ice</title>
+    <s:type>Men</s:type>
+    <s:vendor>JIMMY CHOO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Jimmy-Choo-Ice-Men.jpg?v=1571609927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JIMMY CHOO<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            36.95 - 46.95
+            <a href="https://perfumeonline.ca/products/jimmy-choo-ice">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844352715</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">36.95</s:price>
+      <s:sku>JCHICE50M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844352715</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">36.95</s:price>
+      <s:sku>TESJCHICE100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844352715</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">46.95</s:price>
+      <s:sku>JCHICE100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9845589707</id>
+    <published>2019-07-31T07:46:23-04:00</published>
+    <updated>2019-07-31T07:46:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/hollister-wave"/>
+    <title>Hollister Wave</title>
+    <s:type>Men</s:type>
+    <s:vendor>Hollister</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Hollister-Wave.png?v=1571609934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hollister<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9845589707</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>HOLWAV100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836556555</id>
+    <published>2018-12-01T09:19:30-05:00</published>
+    <updated>2018-12-01T09:19:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-victory-league"/>
+    <title>Adidas Victory League</title>
+    <s:type>Men</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/142088_spo.jpg?v=1571609907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            6.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836556555</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">6.45</s:price>
+      <s:sku>ADIVIC100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836532427</id>
+    <published>2018-12-01T09:19:29-05:00</published>
+    <updated>2018-12-01T09:19:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-team-force"/>
+    <title>Adidas Team Force</title>
+    <s:type>Men</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/128802_spo.jpg?v=1571609907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            6.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836532427</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">6.45</s:price>
+      <s:sku>ADITEA100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836483275</id>
+    <published>2018-12-01T09:19:29-05:00</published>
+    <updated>2018-12-01T09:19:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-pure-game"/>
+    <title>Adidas Pure Game</title>
+    <s:type>Men</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/210907_spo.jpg?v=1571609907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836483275</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>ADIPUR100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836424267</id>
+    <published>2018-12-01T09:19:28-05:00</published>
+    <updated>2018-12-01T09:19:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-intense-touch"/>
+    <title>Adidas Intense Touch</title>
+    <s:type>Men</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Adidas-Intense-Touch.png?v=1571609907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836424267</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>ADIINT100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836392843</id>
+    <published>2018-12-01T09:19:28-05:00</published>
+    <updated>2018-12-01T09:19:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-ice-dive"/>
+    <title>Adidas Ice Dive</title>
+    <s:type>Men</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/127840_spo.jpg?v=1571609907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836392843</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>ADIICE100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836297291</id>
+    <published>2018-12-01T09:19:27-05:00</published>
+    <updated>2018-12-01T09:19:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-fresh-impact"/>
+    <title>Adidas Fresh Impact</title>
+    <s:type>Men</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Adidas-Fresh-Impact.png?v=1571609907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836297291</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>ADIFRE100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836205579</id>
+    <published>2018-12-01T09:19:26-05:00</published>
+    <updated>2018-12-01T09:19:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-fair-play"/>
+    <title>Adidas Fair Play</title>
+    <s:type>Men</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ADIFAI100M_spo.jpg?v=1571609906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836205579</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>ADIFAI100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9835471051</id>
+    <published>2018-12-01T09:19:26-05:00</published>
+    <updated>2018-12-01T09:19:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-extreme-power"/>
+    <title>Adidas Extreme Power</title>
+    <s:type>Men</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/adidas_extreme_power_1024x1024_7896bfd6-2609-48c1-bcfe-9fe2f3379a4a.jpg?v=1571609905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9835471051</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">6.75</s:price>
+      <s:sku>ADIEXT100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9835406411</id>
+    <published>2018-12-01T09:19:26-05:00</published>
+    <updated>2018-12-01T09:19:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-dynamic-pulse"/>
+    <title>Adidas Dynamic Pulse</title>
+    <s:type>Men</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/128803_spo.jpg?v=1571609904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            7.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9835406411</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">7.45</s:price>
+      <s:sku>ADIDYN100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9835371083</id>
+    <published>2018-12-01T09:19:25-05:00</published>
+    <updated>2018-12-01T09:19:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-deep-energy"/>
+    <title>Adidas Deep Energy</title>
+    <s:type>Men</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/158523_spo.jpg?v=1571609904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            39.99 - 59.99
+            <a href="https://perfumeonline.ca/products/adidas-deep-energy">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22OCCT2020</s:tag>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9835371083</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>TESADIDEE100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9835371083</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>ADIDEE100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9852095499</id>
+    <published>2018-11-19T12:42:59-05:00</published>
+    <updated>2018-11-19T12:42:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/lomani-pour-homme"/>
+    <title>Lomani Pour Homme</title>
+    <s:type>Men</s:type>
+    <s:vendor>Lomani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/original_spo.jpg?v=1571609946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lomani<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            10.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9852095499</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">10.45</s:price>
+      <s:sku>LOM100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9852030859</id>
+    <published>2018-11-19T12:42:52-05:00</published>
+    <updated>2018-11-19T12:42:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/jaguar-performance"/>
+    <title>Jaguar Performance</title>
+    <s:type>Men</s:type>
+    <s:vendor>Jaguar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Jaguar-Performance.png?v=1571609945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jaguar<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9852030859</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku>JAGPER100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9852027723</id>
+    <published>2018-11-19T12:42:50-05:00</published>
+    <updated>2018-11-19T12:42:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/jaguar-green"/>
+    <title>Jaguar Green</title>
+    <s:type>Men</s:type>
+    <s:vendor>Jaguar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Jaguar-Green.jpg?v=1571609945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jaguar<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            10.45 - 17.95
+            <a href="https://perfumeonline.ca/products/jaguar-green">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9852027723</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">10.45</s:price>
+      <s:sku>TESJAGGRE100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9852027723</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku>JAGGRE100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9852023627</id>
+    <published>2018-11-19T12:42:46-05:00</published>
+    <updated>2018-11-19T12:42:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/jaguar-fresh-verve"/>
+    <title>Jaguar Fresh Verve</title>
+    <s:type>Men</s:type>
+    <s:vendor>Jaguar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Jaguar_Fresh_Verve_34_Men_Retail_500X500-500x500.jpg?v=1571609945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jaguar<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9852023627</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">22.95</s:price>
+      <s:sku>JAGFRE100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9852015819</id>
+    <published>2018-11-19T12:42:44-05:00</published>
+    <updated>2018-11-19T12:42:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/jaguar-classic-motion"/>
+    <title>Jaguar Classic Motion</title>
+    <s:type>Men</s:type>
+    <s:vendor>Jaguar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Jaguar-Classic-Motion.jpg?v=1571609945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jaguar<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9852015819</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku>JAGMOT100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9852010123</id>
+    <published>2018-11-19T12:42:43-05:00</published>
+    <updated>2018-11-19T12:42:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/jaguar-gold"/>
+    <title>Jaguar Gold</title>
+    <s:type>Men</s:type>
+    <s:vendor>Jaguar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Jaguar-Gold.jpg?v=1571609945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jaguar<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            14.45 - 17.95
+            <a href="https://perfumeonline.ca/products/jaguar-gold">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9852010123</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">14.45</s:price>
+      <s:sku>TESJAGGOL100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9852010123</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku>JAGGOL100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9852004619</id>
+    <published>2018-11-19T12:42:42-05:00</published>
+    <updated>2018-11-19T12:42:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/jaguar-blue"/>
+    <title>Jaguar Classic Blue</title>
+    <s:type>Men</s:type>
+    <s:vendor>Jaguar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Jaguar--Blue.jpg?v=1571609944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jaguar<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            14.45 - 17.45
+            <a href="https://perfumeonline.ca/products/jaguar-blue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9852004619</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">14.45</s:price>
+      <s:sku>TESJAGBLU100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9852004619</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">17.45</s:price>
+      <s:sku>JAGBLU100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9852000907</id>
+    <published>2018-11-19T12:42:41-05:00</published>
+    <updated>2018-11-19T12:42:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/jaguar-black"/>
+    <title>Jaguar Black</title>
+    <s:type>Men</s:type>
+    <s:vendor>Jaguar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Jaguar--Black.png?v=1571609944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jaguar<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            16.45 - 18.45
+            <a href="https://perfumeonline.ca/products/jaguar-black">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9852000907</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">16.45</s:price>
+      <s:sku>TESJAGBLA100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9852000907</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku>JAGBLA100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9851990539</id>
+    <published>2018-11-19T12:42:40-05:00</published>
+    <updated>2018-11-19T12:42:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/jaguar-amber"/>
+    <title>Jaguar Amber</title>
+    <s:type>Men</s:type>
+    <s:vendor>Jaguar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Jaguar-Amber-Men.jpg?v=1571609944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jaguar<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            14.95 - 18.95
+            <a href="https://perfumeonline.ca/products/jaguar-amber">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9851990539</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>TESJAGAMB100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9851990539</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku>JAGAMB100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9851161803</id>
+    <published>2018-11-19T12:42:28-05:00</published>
+    <updated>2018-11-19T12:42:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/iceberg-twice"/>
+    <title>Iceberg Twice</title>
+    <s:type>Men</s:type>
+    <s:vendor>Iceberg</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Iceberg-Twice.jpg?v=1571609940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Iceberg<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            20.95 - 23.45
+            <a href="https://perfumeonline.ca/products/iceberg-twice">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9851161803</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku>ICETWI100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9851161803</id>
+      <title>125ML EDT</title>
+      <s:price currency="CAD">23.45</s:price>
+      <s:sku>ICETWI125M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9847144523</id>
+    <published>2018-11-19T12:42:24-05:00</published>
+    <updated>2018-11-19T12:42:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/iceberg-man"/>
+    <title>Iceberg Man</title>
+    <s:type>Men</s:type>
+    <s:vendor>Iceberg</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Iceberg-Man-Men.jpg?v=1571609939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Iceberg<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            24.95 - 32.95
+            <a href="https://perfumeonline.ca/products/iceberg-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9847144523</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>TESICE100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9847144523</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">32.95</s:price>
+      <s:sku>ICEMAN100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9846560011</id>
+    <published>2018-11-19T12:42:14-05:00</published>
+    <updated>2018-11-19T12:42:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/hummer"/>
+    <title>Hummer</title>
+    <s:type>Men</s:type>
+    <s:vendor>Hummer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/hummer-125ml.jpg?v=1571609938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hummer<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            12.95 - 20.95
+            <a href="https://perfumeonline.ca/products/hummer">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22NOVV2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9846560011</id>
+      <title>40ML EDT</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>HUM40M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9846560011</id>
+      <title>75ML EDT TESTER</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>TESHUM75M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9846560011</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">15.75</s:price>
+      <s:sku>HUM75M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9846560011</id>
+      <title>125ML EDT TESTER</title>
+      <s:price currency="CAD">17.45</s:price>
+      <s:sku>TESHUM125M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9846560011</id>
+      <title>125ML EDT</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku>HUM125M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9846560011</id>
+      <title>200ML DEODORANT</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>HUM200DEOM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

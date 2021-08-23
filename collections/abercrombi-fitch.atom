@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/abercrombi-fitch.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-06-17T15:35:09-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6787592388797</id>
+    <published>2021-06-17T15:35:09-04:00</published>
+    <updated>2021-06-17T15:35:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/abercrombie-fitch-authentic"/>
+    <title>Abercrombie &amp; Fitch Authentic</title>
+    <s:type>Men</s:type>
+    <s:vendor>Abercrombi &amp; Fitch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/91k8fmrAKTS._SL1500.jpg?v=1626101691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Abercrombi &amp; Fitch<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            40.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3JUNN2021</s:tag>
+    <s:tag>NEWITEMS15JULYY21</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6787592388797</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">40.75</s:price>
+      <s:sku>AFAUT100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6617596166333</id>
+    <published>2021-03-29T06:51:26-04:00</published>
+    <updated>2021-03-29T06:51:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/af-first-instinct-together"/>
+    <title>Af First Instinct Together</title>
+    <s:type>Men</s:type>
+    <s:vendor>Abercrombi &amp; Fitch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_46f3c502-6e78-4c21-8545-c80540feeaff.png?v=1626101702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Abercrombi &amp; Fitch<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27MARR21</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6617596166333</id>
+      <title>50ML EDT TESTER</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>TESAFFIRINSTOG50M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4433178886241</id>
+    <published>2019-12-16T03:40:48-05:00</published>
+    <updated>2019-12-16T03:40:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/af-first-instinct-extreme"/>
+    <title>Abercrombie First Instinct Extreme</title>
+    <s:type>Men</s:type>
+    <s:vendor>Abercrombi &amp; Fitch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AF-FIRST-INSTINCT-EXTREME-100ML-EDP-TESTER-MEN.png?v=1576498958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Abercrombi &amp; Fitch<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15DECC2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4433178886241</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">34.95</s:price>
+      <s:sku>TESAFINSEXT100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/12392288651</id>
+    <published>2019-11-23T04:29:07-05:00</published>
+    <updated>2019-11-23T04:29:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/fitch-first-instinct-gift-set-women"/>
+    <title>First Instinct Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Abercrombi &amp; Fitch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_fa8654c8-720a-4d5b-86b8-65bfb03fc723.png?v=1612782761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Abercrombi &amp; Fitch<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            46.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/12392288651</id>
+      <title>100ML EDP + 15ML MINI</title>
+      <s:price currency="CAD">46.95</s:price>
+      <s:sku>SET-AFINS5423W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4338909839457</id>
+    <published>2019-11-02T10:13:19-04:00</published>
+    <updated>2019-11-02T10:13:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/abercrombi-fitch-first-instinct-blue"/>
+    <title>Abercrombi &amp; Fitch First Instinct Blue</title>
+    <s:type>Men</s:type>
+    <s:vendor>Abercrombi &amp; Fitch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/A_F-FIRST-INSTINCT-BLUE-100ML-EDT-MEN.png?v=1572705185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Abercrombi &amp; Fitch<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            43.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4338909839457</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">43.95</s:price>
+      <s:sku>AFINSBLU100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/2147541581921</id>
+    <published>2019-06-08T09:41:56-04:00</published>
+    <updated>2019-06-08T09:41:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/abercrombie-feirce"/>
+    <title>Abercrombie &amp; Fitch Fierce</title>
+    <s:type>Men</s:type>
+    <s:vendor>Abercrombi &amp; Fitch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/abercrombie__fitch_fierce_cologne_200ml_1538321533_d718790f.jpg?v=1571610002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Abercrombi &amp; Fitch<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            83.95 - 153.95
+            <a href="https://perfumeonline.ca/products/abercrombie-feirce">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3JUNN2021</s:tag>
+    <s:tag>JUNE</s:tag>
+    <s:tag>June23</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2147541581921</id>
+      <title>50ML EDC</title>
+      <s:price currency="CAD">83.95</s:price>
+      <s:sku>AFFIR50M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2147541581921</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">92.95</s:price>
+      <s:sku>AFF100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2147541581921</id>
+      <title>200ML EDC</title>
+      <s:price currency="CAD">153.95</s:price>
+      <s:sku>AFF200M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9829493259</id>
+    <published>2017-08-16T07:41:23-04:00</published>
+    <updated>2017-08-16T07:41:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/abercrombie-fitch-instict-women"/>
+    <title>Abercrombie &amp; Fitch First Instinct</title>
+    <s:type>Women</s:type>
+    <s:vendor>Abercrombi &amp; Fitch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Abercrombi-_-Fitch-First-Instinct.png?v=1571609902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Abercrombi &amp; Fitch<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            37.95 - 42.95
+            <a href="https://perfumeonline.ca/products/abercrombie-fitch-instict-women">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>In 2017, American fashion brand Abercrombie and Fitch introduced first instinct for her, this is a fruity and floral scent for women’s. First instinct offers top notes of magnolia, passionfruit and grapefruit; base notes are amber and Tonka bean; mid notes include butterfly orchid and orange blossom.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J1</s:tag>
+    <s:tag>Price170</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9829493259</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">42.95</s:price>
+      <s:sku>AF100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9829493259</id>
+      <title>100ML EDP SLIGHTLY DAMAGED BOX</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>MISMATCHITEM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9829479051</id>
+    <published>2017-08-16T07:31:18-04:00</published>
+    <updated>2017-08-16T07:31:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/abercrombie-fitch-instict"/>
+    <title>Abercrombie &amp; Fitch First Instinct</title>
+    <s:type>Men</s:type>
+    <s:vendor>Abercrombi &amp; Fitch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/First_instinct_edt_for_men_by_abercombie_and_fitch.jpg?v=1571609902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Abercrombi &amp; Fitch<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            32.95 - 44.45
+            <a href="https://perfumeonline.ca/products/abercrombie-fitch-instict">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J1</s:tag>
+    <s:tag>Price170</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9829479051</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">32.95</s:price>
+      <s:sku>AF50M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9829479051</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">44.45</s:price>
+      <s:sku>AF100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

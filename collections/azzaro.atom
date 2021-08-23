@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/azzaro.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-07-01T10:28:30-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6812391211197</id>
+    <published>2021-07-01T10:28:30-04:00</published>
+    <updated>2021-07-01T10:28:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/azzaro-mademoiselle"/>
+    <title>Azzaro Mademoiselle</title>
+    <s:type>Women</s:type>
+    <s:vendor>AZZARO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Azzaro-Mademoiselle.png?v=1626101762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AZZARO<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6812391211197</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku>AZZMAD50W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6703975301309</id>
+    <published>2021-05-12T07:38:07-04:00</published>
+    <updated>2021-05-12T07:38:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/azzaro-pour-elle-edt"/>
+    <title>Azzaro Pour Elle Edt</title>
+    <s:type>Women</s:type>
+    <s:vendor>AZZARO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Azzaro-Pour-Elle-Edt.png?v=1626101648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AZZARO<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3MAYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6703975301309</id>
+      <title>75ML EDT TESTER</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>TESAZZELL75TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6108315844797</id>
+    <published>2020-12-04T13:47:32-05:00</published>
+    <updated>2020-12-04T13:47:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/azzaro-solarissimo-levanzo"/>
+    <title>Azzaro Solarissimo Levanzo</title>
+    <s:type>Men</s:type>
+    <s:vendor>AZZARO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Azzaro-Solarissimo-Levanzo-Men.jpg?v=1613493260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AZZARO<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            31.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1DECC2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6108315844797</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>AZZSOLLEV75M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6102539567293</id>
+    <published>2020-12-01T03:45:18-05:00</published>
+    <updated>2020-12-01T03:45:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/azzaro-shine-splash"/>
+    <title>Azzaro Shine Splash</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>AZZARO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_56671400-b53a-46e3-9996-10c61036a709.png?v=1613493260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AZZARO<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6102539567293</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>AZZSHISPL100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4741149032545</id>
+    <published>2020-08-25T13:44:38-04:00</published>
+    <updated>2020-08-25T13:44:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/azzaro-elixir-special-edition"/>
+    <title>Azzaro Elixir Special Edition</title>
+    <s:type>Men</s:type>
+    <s:vendor>AZZARO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_e2200c6c-7124-4b7d-8793-5971383a95c9.png?v=1606122476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AZZARO<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            57.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22AUG2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4741149032545</id>
+      <title>125ML EDT</title>
+      <s:price currency="CAD">57.95</s:price>
+      <s:sku>AZZELISPC125M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4679574093921</id>
+    <published>2020-06-22T07:32:27-04:00</published>
+    <updated>2020-06-22T07:32:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/azzaro-wild-mint"/>
+    <title>Azzaro Wild Mint</title>
+    <s:type>Men</s:type>
+    <s:vendor>AZZARO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Azzaro-Wild-Mint.png?v=1600888783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AZZARO<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            36.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22JUN2020</s:tag>
+    <s:tag>28jun2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4679574093921</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">36.45</s:price>
+      <s:sku>AZZWIL100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4658846335073</id>
+    <published>2020-06-08T05:09:45-04:00</published>
+    <updated>2020-06-08T05:09:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/azzaro-sport"/>
+    <title>Azzaro Sport</title>
+    <s:type>Men</s:type>
+    <s:vendor>AZZARO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Azzaro-Sport.png?v=1600888781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AZZARO<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            27.95 - 31.95
+            <a href="https://perfumeonline.ca/products/azzaro-sport">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22JUN2020</s:tag>
+    <s:tag>28jun2020</s:tag>
+    <s:tag>31MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4658846335073</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>TESAZZCHRSPO100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4658846335073</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>AZZSPO100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4658843123809</id>
+    <published>2020-06-08T05:07:44-04:00</published>
+    <updated>2020-06-08T05:07:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/azzaro-chrome-extreme"/>
+    <title>Azzaro Chrome Extreme</title>
+    <s:type>Men</s:type>
+    <s:vendor>AZZARO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Azzaro-Chrome-Extreme.png?v=1600888777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AZZARO<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            36.95 - 53.75
+            <a href="https://perfumeonline.ca/products/azzaro-chrome-extreme">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1DECC2020</s:tag>
+    <s:tag>31MAYY2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4658843123809</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">36.95</s:price>
+      <s:sku>TESAZZCHREXT100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4658843123809</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">53.75</s:price>
+      <s:sku>AZZCHREXT100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4636879323233</id>
+    <published>2020-05-21T13:55:26-04:00</published>
+    <updated>2020-05-21T13:55:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/azzaro-naughty-leather"/>
+    <title>Azzaro Naughty Leather</title>
+    <s:type>Men</s:type>
+    <s:vendor>AZZARO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Azzaro-Naughty-Leather.png?v=1600888779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AZZARO<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            38.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4636879323233</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">38.95</s:price>
+      <s:sku>AZZNAULEA100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4636875194465</id>
+    <published>2020-05-21T13:55:26-04:00</published>
+    <updated>2020-05-21T13:55:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/azzaro-hot-pepper"/>
+    <title>Azzaro Hot Pepper</title>
+    <s:type>Men</s:type>
+    <s:vendor>AZZARO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Azzaro-Hot-Pepper.png?v=1600888779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AZZARO<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            35.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4636875194465</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">35.75</s:price>
+      <s:sku>AZZHOTPEP100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4636874178657</id>
+    <published>2020-05-21T13:55:26-04:00</published>
+    <updated>2020-05-21T13:55:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/azzaro-ginger-lover"/>
+    <title>Azzaro Ginger Lover</title>
+    <s:type>Men</s:type>
+    <s:vendor>AZZARO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Azzaro-Ginger-Lover.png?v=1600888778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AZZARO<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            41.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4636874178657</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">41.95</s:price>
+      <s:sku>AZZGINLOV100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4636872867937</id>
+    <published>2020-05-21T13:55:26-04:00</published>
+    <updated>2020-05-21T13:55:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/azzaro-amber-fever"/>
+    <title>Azzaro Amber Fever</title>
+    <s:type>Men</s:type>
+    <s:vendor>AZZARO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Azzaro-Amber-Fever.png?v=1600888776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AZZARO<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4636872867937</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>AZZAMBFEV100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4632040407137</id>
+    <published>2020-05-19T06:29:25-04:00</published>
+    <updated>2020-05-19T06:29:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/azzaro-pour-elle-extreme"/>
+    <title>Azzaro Pour Elle Extreme</title>
+    <s:type>Women</s:type>
+    <s:vendor>AZZARO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Azzaro-Pour-Elle-Extreme.png?v=1600888780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AZZARO<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            46.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4632040407137</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">46.95</s:price>
+      <s:sku>AZZELLEXT75W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4604084355169</id>
+    <published>2020-05-04T23:50:51-04:00</published>
+    <updated>2020-05-04T23:50:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/azzaro-chrome-acqua"/>
+    <title>Azzaro Chrome Acqua</title>
+    <s:type>Men</s:type>
+    <s:vendor>AZZARO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Azzaro-Chrome-Acqua.png?v=1600888776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AZZARO<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            37.75 - 45.75
+            <a href="https://perfumeonline.ca/products/azzaro-chrome-acqua">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1DECC2020</s:tag>
+    <s:tag>4MAY2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4604084355169</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">37.75</s:price>
+      <s:sku>AZZCHRACQ50M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4604084355169</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">45.75</s:price>
+      <s:sku>AZZCHRACQ100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4603333148769</id>
+    <published>2020-05-04T13:29:23-04:00</published>
+    <updated>2020-05-04T13:29:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/azzaro-pour-homme-intense"/>
+    <title>Azzaro Pour Homme Intense</title>
+    <s:type>Men</s:type>
+    <s:vendor>AZZARO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Azzaro-Pour-Homme-Intense.png?v=1600888781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AZZARO<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            42.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4MAY2020</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4603333148769</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">42.95</s:price>
+      <s:sku>AZZINT100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4452386504801</id>
+    <published>2020-01-02T11:10:30-05:00</published>
+    <updated>2020-01-02T11:10:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/azzaro-chrome-limited-edition"/>
+    <title>Azzaro Chrome Limited Edition</title>
+    <s:type>Men</s:type>
+    <s:vendor>AZZARO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/s-l1600_a00940d2-07c2-4ec9-9387-45179d580fec.jpg?v=1577981562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AZZARO<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            37.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4452386504801</id>
+      <title>100ML EDT LIMITED EDITION</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>AZZCHSPL100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4424345682017</id>
+    <published>2019-12-10T04:30:01-05:00</published>
+    <updated>2019-12-10T04:30:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/azzaro-wanted-girl"/>
+    <title>Azzaro Wanted Girl</title>
+    <s:type>Women</s:type>
+    <s:vendor>AZZARO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AZZARO-WANTED-GIRL-80ML-EDP-WOMEN.png?v=1575970354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AZZARO<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            53.75 - 64.75
+            <a href="https://perfumeonline.ca/products/azzaro-wanted-girl">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10DECC2019</s:tag>
+    <s:tag>1OCT2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4424345682017</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">54.95</s:price>
+      <s:sku>AZZWANGIRL50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4424345682017</id>
+      <title>80ML EDP TESTER</title>
+      <s:price currency="CAD">53.75</s:price>
+      <s:sku>TESAZZWANGIRL80PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4424345682017</id>
+      <title>80ML EDP</title>
+      <s:price currency="CAD">64.75</s:price>
+      <s:sku>AZZWANGIRL80PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4424329330785</id>
+    <published>2019-12-10T04:22:22-05:00</published>
+    <updated>2019-12-10T04:22:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/azzaro-visit-w"/>
+    <title>Azzaro Visit</title>
+    <s:type>Women</s:type>
+    <s:vendor>AZZARO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AZZARO-VISIT-25ML-EDP-WOMEN.png?v=1606122481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AZZARO<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10DECC2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4424329330785</id>
+      <title>25ML EDP</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>AZZVIS25PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4385351073889</id>
+    <published>2019-11-25T06:03:18-05:00</published>
+    <updated>2019-11-25T06:03:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/azzaro-now"/>
+    <title>Azzaro Now</title>
+    <s:type>Men</s:type>
+    <s:vendor>AZZARO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_80920446-6474-422d-8ce5-c74eba16a7eb.png?v=1600888779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AZZARO<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4385351073889</id>
+      <title>100ML AFTER SHAVE</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>AZZNOW100A/S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332954157153</id>
+    <published>2019-11-23T04:28:02-05:00</published>
+    <updated>2019-11-23T04:28:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/azzaro-wanted-by-night-gift-set-momen"/>
+    <title>Azzaro Wanted By Night Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>AZZARO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_c463c779-0f45-4bcb-9cc9-b78f17f7de8e.png?v=1572519215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AZZARO<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            67.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332954157153</id>
+      <title>100ML Edp  + MINI</title>
+      <s:price currency="CAD">67.95</s:price>
+      <s:sku>SET-AZZWANNIG100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332954124385</id>
+    <published>2019-11-23T04:28:02-05:00</published>
+    <updated>2019-11-23T04:28:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/azzaro-wanted-gift-set-momen"/>
+    <title>Azzaro Wanted Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>AZZARO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_e7c543cf-793d-4af2-9ab2-1391c7461404.png?v=1572519215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AZZARO<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            66.95 - 68.95
+            <a href="https://perfumeonline.ca/products/azzaro-wanted-gift-set-momen">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332954124385</id>
+      <title>100ML Edt + H&amp;B Shampoo</title>
+      <s:price currency="CAD">66.95</s:price>
+      <s:sku>SET-AZZWAN100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332954124385</id>
+      <title>100ML Edt + 150ML Deodorant</title>
+      <s:price currency="CAD">68.95</s:price>
+      <s:sku>SET-AZZWANTRAM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/12392561931</id>
+    <published>2019-11-23T04:27:52-05:00</published>
+    <updated>2019-11-23T04:27:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/azzaro-chrome-united-gift-set-men"/>
+    <title>Azzaro Chrome United Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>AZZARO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-AZZCHRUNI8344M_d587768c-9804-404e-ac14-568ab09ec1f1_spo.jpg?v=1571609955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AZZARO<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>GiftSetReady</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>OLDGIFTSETS</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/12392561931</id>
+      <title>100ML EDT + 75ML Deo Travel</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>SET-AZZCHRUNI8344M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9965382539</id>
+    <published>2019-11-23T04:27:50-05:00</published>
+    <updated>2019-11-23T04:27:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/azzaro-chrome-gift-set-men"/>
+    <title>Azzaro Chrome Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>AZZARO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-AZZCHR9815M_b3d7c002-e1ae-4dd8-ad7b-774c7bc1082a_spo.jpg?v=1571609953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AZZARO<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            38.95 - 57.95
+            <a href="https://perfumeonline.ca/products/azzaro-chrome-gift-set-men">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>GiftSetReady</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>OLDGIFTSETS</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9965382539</id>
+      <title>50ML EDT + 75ML Deo Stick</title>
+      <s:price currency="CAD">38.95</s:price>
+      <s:sku>SET-AZZCHR9815M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9965382539</id>
+      <title>100ML EDT + 75ML Deostick</title>
+      <s:price currency="CAD">57.95</s:price>
+      <s:sku>SET-AZZCHR9876M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9965209483</id>
+    <published>2019-11-23T04:27:49-05:00</published>
+    <updated>2019-11-23T04:27:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/azzaro-pour-homme-gift-set-men"/>
+    <title>Azzaro Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>AZZARO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Azzaro-Pour-Homme-2Pc-100Ml-Edt-_-30Ml-Mini-Travel.jpg?v=1571609952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AZZARO<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            47.95 - 58.95
+            <a href="https://perfumeonline.ca/products/azzaro-pour-homme-gift-set-men">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>Vsets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9965209483</id>
+      <title>50Ml EDT + 75ML Deodrant</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku>SET-AZZ2836M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9965209483</id>
+      <title>100ML EDT + 150ML DEO SPRAY</title>
+      <s:price currency="CAD">52.95</s:price>
+      <s:sku>SET-AZZ4587Mx</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9965209483</id>
+      <title>100ML EDT + 30ML Mini Travel</title>
+      <s:price currency="CAD">55.95</s:price>
+      <s:sku>SET-AZZ4171M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9965209483</id>
+      <title>100Ml EDT + 75ML B/S + 75ML A/S Balm</title>
+      <s:price currency="CAD">58.95</s:price>
+      <s:sku>SET-AZZ1224M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312165646433</id>
+    <published>2019-10-25T04:38:12-04:00</published>
+    <updated>2019-10-25T04:38:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/azzaro-twin-women"/>
+    <title>Azzaro Twin</title>
+    <s:type>Women</s:type>
+    <s:vendor>AZZARO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Azzaro-Twin-Women.png?v=1572289533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AZZARO<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            33.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312165646433</id>
+      <title>80ML EDT</title>
+      <s:price currency="CAD">33.25</s:price>
+      <s:sku>AZZTWI80W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

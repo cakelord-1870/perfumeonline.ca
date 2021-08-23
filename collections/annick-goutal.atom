@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/annick-goutal.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2020-08-26T15:24:29-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/4742344802401</id>
+    <published>2020-08-26T15:24:29-04:00</published>
+    <updated>2020-08-26T15:24:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/vetiver"/>
+    <title>Vetiver</title>
+    <s:type>Women</s:type>
+    <s:vendor>Annick Goutal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_22d3709c-3625-4553-bddb-6b4aaebfaa91.png?v=1601289487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Annick Goutal<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22AUG2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4742344802401</id>
+      <title>200ML EDC</title>
+      <s:price currency="CAD">26.95</s:price>
+      <s:sku>AGVET200CW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4611179741281</id>
+    <published>2020-05-10T00:30:33-04:00</published>
+    <updated>2020-05-10T00:30:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/annick-goutal-eau-dhadrien-edt"/>
+    <title>Annick Goutal Eau D&apos;Hadrien Edt</title>
+    <s:type>Women</s:type>
+    <s:vendor>Annick Goutal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Annick-Goutal-Eau-D_Hadrien-Edt.png?v=1600888763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Annick Goutal<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            109.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10MAY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4611179741281</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">109.95</s:price>
+      <s:sku>AGHAD100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312165548129</id>
+    <published>2019-10-25T04:38:11-04:00</published>
+    <updated>2019-10-25T04:38:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/annick-goutal-songes"/>
+    <title>Annick Goutal Songes</title>
+    <s:type>Women</s:type>
+    <s:vendor>Annick Goutal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_0bde9866-96a3-4bc7-9b44-416e295caf84.png?v=1612781858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Annick Goutal<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            86.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312165548129</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">86.95</s:price>
+      <s:sku>AGSON50W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312165515361</id>
+    <published>2019-10-25T04:38:11-04:00</published>
+    <updated>2019-10-25T04:38:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/annick-goutal-passion"/>
+    <title>Annick Goutal Passion</title>
+    <s:type>Women</s:type>
+    <s:vendor>Annick Goutal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Annick-Goutal-Passion.png?v=1572289440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Annick Goutal<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            169.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312165515361</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">169.95</s:price>
+      <s:sku>AGPAS100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312165482593</id>
+    <published>2019-10-25T04:38:10-04:00</published>
+    <updated>2019-10-25T04:38:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/annick-goutal-mandragore-pourpre"/>
+    <title>Annick Goutal Mandragore Pourpre</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Annick Goutal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Annick-Goutal-Mandragore-Pourpre.png?v=1572289397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Annick Goutal<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            139.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312165482593</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">139.95</s:price>
+      <s:sku>AGMAN100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312165417057</id>
+    <published>2019-10-25T04:38:10-04:00</published>
+    <updated>2019-10-25T04:38:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/annick-goutal-les-nuits-dhadrien"/>
+    <title>Annick Goutal Les Nuits D&apos;Hadrien</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Annick Goutal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Annick-Goutal-Les-Nuits-D_Hadrien.png?v=1572289356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Annick Goutal<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            139.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312165417057</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">139.95</s:price>
+      <s:sku>AGLES100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312165318753</id>
+    <published>2019-10-25T04:38:09-04:00</published>
+    <updated>2019-10-25T04:38:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/annick-goutal-eau-dhadrien"/>
+    <title>Annick Goutal Eau D&apos;Hadrien</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Annick Goutal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Annick-Goutal-Eau-D_Hadrien.png?v=1572289259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Annick Goutal<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            129.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312165318753</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">129.95</s:price>
+      <s:sku>AGHAD100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312165253217</id>
+    <published>2019-10-25T04:38:08-04:00</published>
+    <updated>2019-10-25T04:38:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/annick-goutal-eau-de-monsieur"/>
+    <title>Annick Goutal Eau De Monsieur</title>
+    <s:type>Men</s:type>
+    <s:vendor>Annick Goutal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Annick-Goutal-Eau-De-Monsieur.png?v=1572289315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Annick Goutal<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            97.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312165253217</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">97.95</s:price>
+      <s:sku>AGMON100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3936742015073</id>
+    <published>2019-07-16T11:52:33-04:00</published>
+    <updated>2019-07-16T11:52:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/annick-goutal-un-matin-dorage"/>
+    <title>Annick Goutal Un Matin D&apos;Orage</title>
+    <s:type>Women</s:type>
+    <s:vendor>Annick Goutal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Annick-Goutal-Un-Matin-D_Orage-100Ml-Edt-Women.png?v=1571610004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Annick Goutal<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            91.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>13JULYY</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3936742015073</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">91.45</s:price>
+      <s:sku>AGUMO100</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/bvlgari.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-01-11T15:39:24-05:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6161494900925</id>
+    <published>2021-01-11T15:39:24-05:00</published>
+    <updated>2021-01-11T15:39:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bvlgari-splendia-tuberuse-mystique"/>
+    <title>Bvlgari Splendia Tuberuse Mystique</title>
+    <s:type>Women</s:type>
+    <s:vendor>BVLGARI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_141d7f71-b5b8-4647-b8c4-98d31440e7c0.png?v=1613493299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BVLGARI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            114.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11JANN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6161494900925</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">114.95</s:price>
+      <s:sku>BVLSPLTUB100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6161492508861</id>
+    <published>2021-01-11T15:37:55-05:00</published>
+    <updated>2021-01-11T15:37:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bvlgari-splendia-magnolia-sensuel"/>
+    <title>Bvlgari Splendia Magnolia Sensuel</title>
+    <s:type>Women</s:type>
+    <s:vendor>BVLGARI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_1cc19795-85f5-4522-8ebc-93719f59a8bc.png?v=1613493298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BVLGARI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11JANN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6161492508861</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">99.95</s:price>
+      <s:sku>BVLSPLMAG50W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6161491329213</id>
+    <published>2021-01-11T15:37:06-05:00</published>
+    <updated>2021-01-11T15:37:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bvlgari-splendia-iris-dor"/>
+    <title>Bvlgari Splendia Iris D&apos;Or</title>
+    <s:type>Women</s:type>
+    <s:vendor>BVLGARI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_621ffce9-64eb-48f8-abce-ddf29733797d.png?v=1613493298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BVLGARI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11JANN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6161491329213</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">99.95</s:price>
+      <s:sku>BVLSPLIRI100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6089297395901</id>
+    <published>2020-11-22T03:34:37-05:00</published>
+    <updated>2020-11-22T03:34:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bvlgari-rose-goldea-blossom-delight"/>
+    <title>Bvlgari Rose Goldea Blossom Delight</title>
+    <s:type>Women</s:type>
+    <s:vendor>BVLGARI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_0469c04d-8fce-4ac2-a7dd-7359551978cd.png?v=1613493298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BVLGARI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            65.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6089297395901</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">65.95</s:price>
+      <s:sku>BVLROSBLO50PW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6089237430461</id>
+    <published>2020-11-22T03:02:05-05:00</published>
+    <updated>2020-11-22T03:02:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bvlgari-omnia-pink-sapphire-candy-shop"/>
+    <title>Bvlgari Omnia Pink Sapphire Candy Shop</title>
+    <s:type>Women</s:type>
+    <s:vendor>BVLGARI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bvlgari-Omnia-Pink-Sapphire-Candy-Shop-Women.jpg?v=1613493297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BVLGARI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6089237430461</id>
+      <title>65ML EDT</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>BVLOMNPINCAN65TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4686383120481</id>
+    <published>2020-06-28T10:55:08-04:00</published>
+    <updated>2020-06-28T10:55:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/crystalline-jewel-leau"/>
+    <title>Crystalline Jewel L&apos;Eau</title>
+    <s:type>Women</s:type>
+    <s:vendor>BVLGARI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_e8c318c0-70bb-41cb-94d6-9cf58877c8f7.png?v=1593879711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BVLGARI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            64.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>28jun2020</s:tag>
+    <s:tag>PRICECHECk</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4686383120481</id>
+      <title>25ML EDP</title>
+      <s:price currency="CAD">64.95</s:price>
+      <s:sku>BVLCRYJEW25W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4679581368417</id>
+    <published>2020-06-22T07:32:27-04:00</published>
+    <updated>2020-06-22T07:32:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bvlgari-goldea-the-roman-night-absolute"/>
+    <title>Bvlgari Goldea The Roman Night Absolute</title>
+    <s:type>Women</s:type>
+    <s:vendor>BVLGARI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_2048x2048_77bedb06-8f3f-48b7-8741-2f010e5fa1f0.png?v=1601289193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BVLGARI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            67.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22JUN2020</s:tag>
+    <s:tag>28jun2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4679581368417</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">67.95</s:price>
+      <s:sku>BVLGOLROMABS75W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4604101492833</id>
+    <published>2020-05-04T23:50:51-04:00</published>
+    <updated>2020-05-04T23:50:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bvlgari-man-wood-neroli"/>
+    <title>Bvlgari Man Wood Neroli</title>
+    <s:type>Men</s:type>
+    <s:vendor>BVLGARI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bvlgari-Man-Wood-Neroli.png?v=1600888813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BVLGARI<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            75.45 - 88.45
+            <a href="https://perfumeonline.ca/products/bvlgari-man-wood-neroli">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>21AUG2020</s:tag>
+    <s:tag>4MAY2020</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4604101492833</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">75.45</s:price>
+      <s:sku>TESBVLMANWOONER100PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4604101492833</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">88.45</s:price>
+      <s:sku>BVLMANWOONER100PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4424366948449</id>
+    <published>2019-12-10T04:35:49-05:00</published>
+    <updated>2019-12-10T04:35:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bvlgari-man-in-black-essence"/>
+    <title>Bvlgari Man In Black Essence</title>
+    <s:type>Men</s:type>
+    <s:vendor>BVLGARI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BVLGARI-MAN-IN-BLACK-ESSENCE-100ML-EDP-MEN.png?v=1606122553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BVLGARI<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            66.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10DECC2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4424366948449</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">66.75</s:price>
+      <s:sku>BVLMANBLAESS100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332549308513</id>
+    <published>2019-11-23T04:31:03-05:00</published>
+    <updated>2019-11-23T04:31:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/omnia-indian-garnet-gift-set-women"/>
+    <title>Omnia Indian Garnet Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>BVLGARI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-BVLIND6308W_spo_d2837b1c-bba7-43b6-81a6-b17444113f39.jpg?v=1572433138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BVLGARI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            60.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>giftsetisdone</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332549308513</id>
+      <title>65ML Edt + 75ML B/L + 75G Soap</title>
+      <s:price currency="CAD">60.95</s:price>
+      <s:sku>SET-BVLIND6308W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332954779745</id>
+    <published>2019-11-23T04:28:05-05:00</published>
+    <updated>2019-11-23T04:28:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bvlgari-omnia-pink-sapphire-gift-set-women"/>
+    <title>Bvlgari Omnia Pink Sapphire Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>BVLGARI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_3aff5b45-f04f-4572-9742-b25d82861a72.png?v=1572519220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BVLGARI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            77.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332954779745</id>
+      <title>65ML Edt + 75ML B/L + 100ML S/G</title>
+      <s:price currency="CAD">77.95</s:price>
+      <s:sku>SET-BVLOMNSAP65W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332954714209</id>
+    <published>2019-11-23T04:28:05-05:00</published>
+    <updated>2019-11-23T04:28:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bvlgari-goldea-the-roman-night-gift-set-women"/>
+    <title>Bvlgari Goldea The Roman Night Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>BVLGARI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_7fa72691-40a3-482a-b1b8-5455df728d7c.png?v=1572519219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BVLGARI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            74.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332954714209</id>
+      <title>50ML Edp + 40ML B/L + 40ML S/G</title>
+      <s:price currency="CAD">74.95</s:price>
+      <s:sku>SET-BVLGOLROM50W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/12817513995</id>
+    <published>2019-11-23T04:27:55-05:00</published>
+    <updated>2019-11-23T04:27:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bvlgari-blv-gift-set-men"/>
+    <title>Bvlgari BLV Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>BVLGARI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-BLV8978M_spo.jpg?v=1571609959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BVLGARI<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            92.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>GiftSetReady</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>OLDGIFTSETS</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/12817513995</id>
+      <title>100ML EDT + A/S+ S/G + POUCH</title>
+      <s:price currency="CAD">92.95</s:price>
+      <s:sku>SET-BLV8978M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9965020043</id>
+    <published>2019-11-23T04:27:48-05:00</published>
+    <updated>2019-11-23T04:27:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bvlgari-omnia-crystalline-gift-set-women"/>
+    <title>Bvl Omnia Crystalline Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>BVLGARI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-BVLCRY2541W_spo.jpg?v=1571609952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BVLGARI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>GiftSetReady</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>OLDGIFTSETS</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9965020043</id>
+      <title>65ML EDT + 15ML</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>SET-BVLCRY2541W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9964995211</id>
+    <published>2019-11-23T04:27:48-05:00</published>
+    <updated>2019-11-23T04:27:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bvlgari-bvl-roma-aqva-gift-set-men"/>
+    <title>Bvlgari BVL Roma Aqva Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>BVLGARI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-BVLAQU2545M_spo.jpg?v=1571609952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BVLGARI<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>GiftSetReady</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>OLDGIFTSETS</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9964995211</id>
+      <title>100Ml EDT + 75ML A/S +75ML S/G + Pouch</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>SET-BVLAQU2545M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9964850187</id>
+    <published>2019-11-23T04:27:47-05:00</published>
+    <updated>2019-11-23T04:27:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bvlgari-man-in-black-gift-set-men"/>
+    <title>Bvlgari Man In Black Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>BVLGARI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-BVLMANBLA3254M_spo.jpg?v=1571609951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BVLGARI<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            97.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>GiftSetReady</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>OLDGIFTSETS</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9964850187</id>
+      <title>100ML EDP + 75ML A/S + 75ML S/G + Pouch</title>
+      <s:price currency="CAD">97.95</s:price>
+      <s:sku>SET-BVLMANBLA3254M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3998949539937</id>
+    <published>2019-08-24T02:51:48-04:00</published>
+    <updated>2019-08-24T02:51:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bvlgari-le-gemme-orientali-lazulia"/>
+    <title>Bvlgari Le Gemme Orientali Lazulia</title>
+    <s:type>Women</s:type>
+    <s:vendor>BVLGARI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bvlgari-Le-Gemme-Orientali-Lazulia-pic.png?v=1571824594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BVLGARI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            334.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20augg2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998949539937</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">334.95</s:price>
+      <s:sku>BVLLAZ100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3998949605473</id>
+    <published>2019-08-24T02:51:47-04:00</published>
+    <updated>2019-08-24T02:51:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bvlgari-le-gemme-malakeos"/>
+    <title>Bvlgari Le Gemme Malakeos</title>
+    <s:type>Men</s:type>
+    <s:vendor>BVLGARI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bvlgari-Le-Gemme-Malakeos.png?v=1571610009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BVLGARI<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            334.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20augg2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998949605473</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">334.95</s:price>
+      <s:sku>BVLMAL100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3998949671009</id>
+    <published>2019-08-24T02:51:46-04:00</published>
+    <updated>2019-08-24T02:51:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bvlgari-le-gemme-orientali-selima"/>
+    <title>Bvlgari Le Gemme Orientali Selima</title>
+    <s:type>Women</s:type>
+    <s:vendor>BVLGARI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Selima.png?v=1571824595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BVLGARI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            334.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20augg2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998949671009</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">334.95</s:price>
+      <s:sku>BVLSEL100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3998949638241</id>
+    <published>2019-08-24T02:51:46-04:00</published>
+    <updated>2019-08-24T02:51:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bvlgari-le-gemme-imperiali-desiria"/>
+    <title>Bvlgari Le Gemme Imperiali Desiria</title>
+    <s:type>Women</s:type>
+    <s:vendor>BVLGARI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bvlgari-Le-Gemme-Imperiali-Desiria.png?v=1571824593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BVLGARI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            334.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20augg2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998949638241</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">334.95</s:price>
+      <s:sku>BVLIMP100P</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3998949769313</id>
+    <published>2019-08-24T02:51:44-04:00</published>
+    <updated>2019-08-24T02:51:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bvlgari-le-gemme-reali-nylaia"/>
+    <title>Bvlgari Le Gemme Reali Nylaia</title>
+    <s:type>Women</s:type>
+    <s:vendor>BVLGARI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/nylaia.png?v=1571824596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BVLGARI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            339.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20augg2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998949769313</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">339.95</s:price>
+      <s:sku>BVLNYL100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3998949736545</id>
+    <published>2019-08-24T02:51:44-04:00</published>
+    <updated>2019-08-24T02:51:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bvlgari-le-gemme-orientali-zahira"/>
+    <title>Bvlgari Le Gemme Orientali Zahira</title>
+    <s:type>Women</s:type>
+    <s:vendor>BVLGARI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/zahira.png?v=1571824595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BVLGARI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            339.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20augg2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998949736545</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">339.95</s:price>
+      <s:sku>BVLZAH100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3998949802081</id>
+    <published>2019-08-24T02:51:43-04:00</published>
+    <updated>2019-08-24T02:51:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bvlgari-le-gemme-reali-rubinia"/>
+    <title>Bvlgari Le Gemme Reali Rubinia</title>
+    <s:type>Women</s:type>
+    <s:vendor>BVLGARI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Rubina.png?v=1571824597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BVLGARI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            339.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20augg2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998949802081</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">339.95</s:price>
+      <s:sku>BVLRUB100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3998949834849</id>
+    <published>2019-08-24T02:51:42-04:00</published>
+    <updated>2019-08-24T02:51:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bvlgari-le-gemme-reali-veridia"/>
+    <title>Bvlgari Le Gemme Reali Veridia</title>
+    <s:type>Women</s:type>
+    <s:vendor>BVLGARI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Virdia.png?v=1571824597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BVLGARI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            339.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20augg2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998949834849</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">339.95</s:price>
+      <s:sku>BVLVER100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3878528057441</id>
+    <published>2019-06-23T02:56:42-04:00</published>
+    <updated>2019-06-23T02:56:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bvlgari-man-in-black-cologne"/>
+    <title>Bvlgari Man in Black Cologne</title>
+    <s:type>Men</s:type>
+    <s:vendor>BVLGARI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/COLOGNE.png?v=1571610002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BVLGARI<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            96.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>June23</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3878528057441</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">96.95</s:price>
+      <s:sku>BVLMANCOL100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

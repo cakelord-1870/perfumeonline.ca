@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/banana-republic.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-06-22T00:50:39-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794777329853</id>
+    <published>2021-06-22T00:50:39-04:00</published>
+    <updated>2021-06-22T00:50:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-slightly-damaged-box"/>
+    <title>Banana Republic Slightly Damaged Box</title>
+    <s:type>Men</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_7e6dd206-2c40-4c56-a520-c1b66e45f7b6.png?v=1624337443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            199.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794777329853</id>
+      <title>100ML COLOGNE (WITHOUT CELLOPHANE)</title>
+      <s:price currency="CAD">199.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6068293271741</id>
+    <published>2020-11-08T21:18:34-05:00</published>
+    <updated>2020-11-08T21:18:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-icon-collection-grassland"/>
+    <title>Banana Republic Icon Collection Grassland</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BANANA-REPUBLIC-ICON-COLLECTION-GRASSLAND-75ML-EDP-UNISEX.png?v=1613493267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            58.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9NOVV2020</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6068293271741</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">58.95</s:price>
+      <s:sku>BRICOCOLGRA75U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6068292550845</id>
+    <published>2020-11-08T21:17:55-05:00</published>
+    <updated>2020-11-08T21:17:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-icon-collection-metal-rain"/>
+    <title>Banana Republic Icon Collection Metal Rain</title>
+    <s:type>Women</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BANANA-REPUBLIC-ICON-COLLECTION-METAL-RAIN-75ML-EDP-WOMEN.png?v=1613493268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            68.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9NOVV2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6068292550845</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">68.75</s:price>
+      <s:sku>BRICOCOLMETRAI75W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6068291076285</id>
+    <published>2020-11-08T21:16:29-05:00</published>
+    <updated>2020-11-08T21:16:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-icon-collection-neroli-woods"/>
+    <title>Banana Republic Icon Collection Neroli Woods</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BANANA-REPUBLIC-ICON-COLLECTION-NEROLI-WOODS-75ML-EDP-UNISEX.png?v=1613493268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            42.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6068291076285</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">42.25</s:price>
+      <s:sku>BRICOCOLNER75U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6068290584765</id>
+    <published>2020-11-08T21:15:56-05:00</published>
+    <updated>2020-11-08T21:15:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-icon-collection-linen-vetiver"/>
+    <title>Banana Republic Icon Collection Linen Vetiver</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BANANA-REPUBLIC-ICON-COLLECTION-LINEN-VETIVER-75ML-EDP-UNISEX.png?v=1613493267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9NOVV2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6068290584765</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>BRICOCOLLINVET75U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6068289962173</id>
+    <published>2020-11-08T21:15:21-05:00</published>
+    <updated>2020-11-08T21:15:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-icon-collection-oud-mosaic-17"/>
+    <title>Banana Republic Icon Collection Oud Mosaic 17</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BANANA-REPUBLIC-ICON-COLLECTION-OUD-MOSAIC-17-75ML-EDP-UNISEX.png?v=1613493268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9NOVV2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6068289962173</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>BRICOCOLOUD75U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6068289339581</id>
+    <published>2020-11-08T21:14:45-05:00</published>
+    <updated>2020-11-08T21:14:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-icon-collection-vintage-green-78"/>
+    <title>Banana Republic Icon Collection Vintage Green 78</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_917d5124-a54e-4afc-ad52-938482492574.png?v=1606122493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            38.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6068289339581</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">38.95</s:price>
+      <s:sku>BRICOCOLVINGRE75U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6068288880829</id>
+    <published>2020-11-08T21:14:11-05:00</published>
+    <updated>2020-11-08T21:14:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-icon-collection-black-platinum"/>
+    <title>Banana Republic Icon Collection Black Platinum</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BANANA-REPUBLIC-ICON-COLLECTION-BLACK-PLATINUM-06-75ML-EDP-UNISEX.png?v=1613493267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            40.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9NOVV2020</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6068288880829</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">40.95</s:price>
+      <s:sku>BRICOCOLBLAPLA75U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6068288389309</id>
+    <published>2020-11-08T21:13:41-05:00</published>
+    <updated>2020-11-08T21:13:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-icon-collection-pure-white-90"/>
+    <title>Banana Republic Icon Collection Pure White 90</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BANANA-REPUBLIC-ICON-COLLECTION-PURE-WHITE-90-75ML-EDP-UNISEX.png?v=1613493269"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            42.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6068288389309</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">42.95</s:price>
+      <s:sku>BRICOCOLPURWHI75U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6068287537341</id>
+    <published>2020-11-08T21:12:50-05:00</published>
+    <updated>2020-11-08T21:12:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-tobacco-tonka-bean"/>
+    <title>Banana Republic Tobacco &amp; Tonka Bean</title>
+    <s:type>Men</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BANANA-REPUBLIC-TOBACCO-_-TONKA-BEAN-75ML-EDP-MEN.png?v=1613493271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            41.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6068287537341</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">41.25</s:price>
+      <s:sku>BRTOBTON75M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6068287078589</id>
+    <published>2020-11-08T21:12:15-05:00</published>
+    <updated>2020-11-08T21:12:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-peony-peppercorn"/>
+    <title>Banana Republic Peony &amp; Peppercorn</title>
+    <s:type>Women</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BANANA-REPUBLIC-PEONY-_-PEPPERCORN-75ML-EDP-WOMEN.png?v=1613493270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            40.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9NOVV2020</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6068287078589</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">40.95</s:price>
+      <s:sku>BRPEOPER75W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6068286357693</id>
+    <published>2020-11-08T21:11:25-05:00</published>
+    <updated>2020-11-08T21:11:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-dark-cherry-amber"/>
+    <title>Banana Republic Dark Cherry &amp; Amber</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BANANA-REPUBLIC-DARK-CHERRY-_-AMBER-75ML-EDP-UNISEX.png?v=1613493266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            39.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6068286357693</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">39.45</s:price>
+      <s:sku>BRDARCHE75U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6068285276349</id>
+    <published>2020-11-08T21:10:37-05:00</published>
+    <updated>2020-11-08T21:10:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-classic-wildbloom-rouge"/>
+    <title>Banana Republic Classic Wildbloom Rouge</title>
+    <s:type>Women</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BANANA-REPUBLIC-CLASSIC-WILDBLOOM-ROUGE-100ML-EDP-WOMEN.png?v=1613493265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            25.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9NOVV2020</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6068285276349</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">25.25</s:price>
+      <s:sku>BRWILROU100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6068284195005</id>
+    <published>2020-11-08T21:09:52-05:00</published>
+    <updated>2020-11-08T21:09:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-classic-acqua"/>
+    <title>Banana Republic Classic Acqua</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BANANA-REPUBLIC-CLASSIC-ACQUA-125ML-EDP-UNISEX.png?v=1613493263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6068284195005</id>
+      <title>125ML EDP</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>BRACQ125U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6068283736253</id>
+    <published>2020-11-08T21:09:18-05:00</published>
+    <updated>2020-11-08T21:09:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-classic-citrus"/>
+    <title>Banana Republic Classic Citrus</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BANANA-REPUBLIC-CLASSIC-CITRUS-125ML-EDP-UNISEX.png?v=1613493264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6068283736253</id>
+      <title>125ML EDP</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>BRCIT125U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6068282982589</id>
+    <published>2020-11-08T21:08:31-05:00</published>
+    <updated>2020-11-08T21:08:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-classic-green"/>
+    <title>Banana Republic Classic Green</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BANANA-REPUBLIC-CLASSIC-GREEN-125ML-EDP-UNISEX.png?v=1613493264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            32.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6068282982589</id>
+      <title>125ML EDP</title>
+      <s:price currency="CAD">32.95</s:price>
+      <s:sku>BRGRE125U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6068282196157</id>
+    <published>2020-11-08T21:07:40-05:00</published>
+    <updated>2020-11-08T21:07:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-classic-red"/>
+    <title>Banana Republic Classic Red</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BANANA-REPUBLIC-CLASSIC-RED-125ML-EDP-UNISEX.png?v=1613493265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6068282196157</id>
+      <title>125ML EDP</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>BRRED125U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6068281311421</id>
+    <published>2020-11-08T21:06:56-05:00</published>
+    <updated>2020-11-08T21:06:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-rosewood-amor"/>
+    <title>Banana Republic Rosewood Amor</title>
+    <s:type>Women</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BANANA-REPUBLIC-ROSEWOOD-AMOR-100ML-EDP-WOMEN.png?v=1613493271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            33.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9NOVV2020</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6068281311421</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">33.95</s:price>
+      <s:sku>BRROSAMO100PW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6068279836861</id>
+    <published>2020-11-08T21:05:33-05:00</published>
+    <updated>2020-11-08T21:05:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-black-walnut-legend"/>
+    <title>Banana Republic Black Walnut Legend</title>
+    <s:type>Men</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BANANA-REPUBLIC-BLACK-WALNUT-LEGEND-LIVE-100ML-EDP-MEN.png?v=1613493262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            43.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9NOVV2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6068279836861</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">43.95</s:price>
+      <s:sku>BRBLAWALLEG100PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4632040702049</id>
+    <published>2020-05-19T06:29:28-04:00</published>
+    <updated>2020-05-19T06:29:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-leather-reserve-83"/>
+    <title>Banana Republic Leather Reserve 83</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Banana-Republic-Leather-Reserve-83.png?v=1606122493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            40.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4632040702049</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">40.95</s:price>
+      <s:sku>BRLEARES8375U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4632040505441</id>
+    <published>2020-05-19T06:29:25-04:00</published>
+    <updated>2020-05-19T06:29:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-cypress-cedar"/>
+    <title>Banana Republic Cypress Cedar</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Banana-Republic-Cypress-Cedar.png?v=1606122488"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            37.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4632040505441</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>BRCYPCED75U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258973220961</id>
+    <published>2019-10-15T07:36:28-04:00</published>
+    <updated>2019-10-15T07:36:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic"/>
+    <title>Banana Republic</title>
+    <s:type>Men</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_d746b6b6-4a2d-43f6-9ae5-8812e1b58d57.png?v=1571610019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            28.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973220961</id>
+      <title>125ML EDT</title>
+      <s:price currency="CAD">28.95</s:price>
+      <s:sku>BR125M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258973286497</id>
+    <published>2019-10-15T07:36:27-04:00</published>
+    <updated>2019-10-15T07:36:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-black-walnut"/>
+    <title>Banana Republic Black Walnut</title>
+    <s:type>Men</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BANANA-REPUBLIC-BLACK-WALNUT-100ML-EDT-MEN.png?v=1571610019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            27.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973286497</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">27.25</s:price>
+      <s:sku>BRBLA100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258973253729</id>
+    <published>2019-10-15T07:36:27-04:00</published>
+    <updated>2019-10-15T07:36:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-alabaster"/>
+    <title>Banana Republic Alabaster</title>
+    <s:type>Women</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_12516b2f-f80f-45d2-88e6-ce54e512998e.png?v=1606122485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973253729</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>BRALA100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258973384801</id>
+    <published>2019-10-15T07:36:26-04:00</published>
+    <updated>2019-10-15T07:36:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-moderen-man"/>
+    <title>Banana Republic Modern Man</title>
+    <s:type>Men</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BANANA-REPUBLIC-MORDEN-MAN-100ML-EDT-MEN.png?v=1571610019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            27.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973384801</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">27.25</s:price>
+      <s:sku>BRMOR100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

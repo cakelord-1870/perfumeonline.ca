@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/biehl.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2019-05-14T03:22:56-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/2116919263329</id>
+    <published>2019-05-14T03:22:56-04:00</published>
+    <updated>2019-05-14T03:22:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/biehl-e001"/>
+    <title>Biehl E001</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BIEHL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ee0135edp.jpg?v=1571609996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BIEHL<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            69.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAYPRODUCT</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2116919263329</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">69.75</s:price>
+      <s:sku>BIEE1100</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/2116919197793</id>
+    <published>2019-05-14T03:22:55-04:00</published>
+    <updated>2019-05-14T03:22:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/biehl-e002"/>
+    <title>Biehl E002</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BIEHL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/EE02W35.jpg?v=1571609996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BIEHL<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            73.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2116919197793</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">73.75</s:price>
+      <s:sku>BIEE2100</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/2116919165025</id>
+    <published>2019-05-14T03:22:54-04:00</published>
+    <updated>2019-05-14T03:22:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/biehlhb01"/>
+    <title>Biehl Hb01</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BIEHL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/700x700.jpg?v=1571609996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BIEHL<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            73.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2116919165025</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">73.75</s:price>
+      <s:sku>BIEHB01100</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/2116919132257</id>
+    <published>2019-05-14T03:22:54-04:00</published>
+    <updated>2019-05-14T03:22:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/biehl-al03"/>
+    <title>Biehl Al03</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BIEHL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/22896472906-1-700.jpg?v=1571609995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BIEHL<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            64.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAYPRODUCT</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2116919132257</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">64.95</s:price>
+      <s:sku>BIEALO3100</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/2116919099489</id>
+    <published>2019-05-14T03:22:54-04:00</published>
+    <updated>2019-05-14T03:22:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/biehl-al02"/>
+    <title>Biehl Al02</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BIEHL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AL02EDW.jpg?v=1571609995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BIEHL<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            67.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAYPRODUCT</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2116919099489</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">67.95</s:price>
+      <s:sku>BIEAL02100</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/2116919066721</id>
+    <published>2019-05-14T03:22:53-04:00</published>
+    <updated>2019-05-14T03:22:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/biehl-e003"/>
+    <title>Biehl E003</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BIEHL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/EE0335W.jpg?v=1571609995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BIEHL<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            73.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAYPRODUCT</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2116919066721</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">73.75</s:price>
+      <s:sku>BIEE03100</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/2116919033953</id>
+    <published>2019-05-14T03:22:53-04:00</published>
+    <updated>2019-05-14T03:22:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/biehl-al01"/>
+    <title>Biehl Al01</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BIEHL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/74191w.jpg?v=1571609995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BIEHL<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            73.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2116919033953</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">73.75</s:price>
+      <s:sku>BIEAL01100</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

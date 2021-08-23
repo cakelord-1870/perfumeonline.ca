@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/bdk-parfums.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-07-30T02:53:04-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6867872841917</id>
+    <published>2021-07-30T02:53:04-04:00</published>
+    <updated>2021-07-30T02:53:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bdk-parfums-french-bouquet"/>
+    <title>Bdk Parfums French Bouquet</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BDK Parfums</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bdk-Parfums-French-Bouquet.png?v=1628707516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BDK Parfums<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            289.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6867872841917</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">289.95</s:price>
+      <s:sku>BDKFREBOU100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6867844202685</id>
+    <published>2021-07-30T02:22:35-04:00</published>
+    <updated>2021-07-30T02:22:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bdk-parfums-gris-charnel"/>
+    <title>Bdk Parfums Gris Charnel</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BDK Parfums</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bdk-Parfums-Gris-Charnel.png?v=1628757727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BDK Parfums<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            230.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6867844202685</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">230.95</s:price>
+      <s:sku>BDKGRICHA100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6867835125949</id>
+    <published>2021-07-30T02:13:47-04:00</published>
+    <updated>2021-07-30T02:13:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bdk-parfums-rouge-smoking"/>
+    <title>Bdk Parfums Rouge Smoking</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BDK Parfums</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bdk-Parfums-Rouge-Smoking.png?v=1628758197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BDK Parfums<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            230.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6867835125949</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">230.95</s:price>
+      <s:sku>BDKROUSMO100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6790194954429</id>
+    <published>2021-06-19T01:47:48-04:00</published>
+    <updated>2021-06-19T01:47:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bdk-parfums-bouquet-de-hongrie"/>
+    <title>Bdk Parfums Bouquet De Hongrie</title>
+    <s:type>Women</s:type>
+    <s:vendor>BDK Parfums</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Bdk-Parfums-Bouquet-De-Hongrie.png?v=1626101612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BDK Parfums<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            184.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="padding-left: 30px;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3JUNN2021</s:tag>
+    <s:tag>NEWITEMS15JULYY21</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6790194954429</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">184.95</s:price>
+      <s:sku>BYRBOU100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6704028844221</id>
+    <published>2021-05-12T07:56:55-04:00</published>
+    <updated>2021-05-12T07:56:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bdk-tabac-rose"/>
+    <title>BDK Tabac Rose</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BDK Parfums</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Byredo-Tabac-Rose.png?v=1626101650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BDK Parfums<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            241.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3MAYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6704028844221</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">241.95</s:price>
+      <s:sku>BYRTAB100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6704026681533</id>
+    <published>2021-05-12T07:54:49-04:00</published>
+    <updated>2021-05-12T07:54:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bdk-nuit-de-sable"/>
+    <title>Bdk Nuit De Sable</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BDK Parfums</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Byredo-Nuit-De-Sable.png?v=1626101629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BDK Parfums<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            187.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3MAYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6704026681533</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">187.95</s:price>
+      <s:sku>BYRNUI100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6096138862781</id>
+    <published>2020-11-25T03:36:32-05:00</published>
+    <updated>2020-11-25T03:36:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bdk-sel-dargent"/>
+    <title>Bdk Sel D&apos;Argent</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BDK Parfums</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Byredo-Sel-D_Argent-Unisex.jpg?v=1613493299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BDK Parfums<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            185.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6096138862781</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">185.95</s:price>
+      <s:sku>BYRCEL100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6096138502333</id>
+    <published>2020-11-25T03:36:01-05:00</published>
+    <updated>2020-11-25T03:36:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bdk-citrus-riviera"/>
+    <title>BDK Citrus Riviera</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BDK Parfums</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Byredo-Citrus-Riviera-Unisex.jpg?v=1613493299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BDK Parfums<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            302.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6096138502333</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">302.95</s:price>
+      <s:sku>BYRCITRIV100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6096138338493</id>
+    <published>2020-11-25T03:35:33-05:00</published>
+    <updated>2020-11-25T03:35:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bdk-creme-de-cuir"/>
+    <title>Bdk Crème De Cuir</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BDK Parfums</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Byredo-Creme-De-Cuir-Unisex.jpg?v=1613493300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BDK Parfums<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            269.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25NOVV2020</s:tag>
+    <s:tag>NEWITEMS15JULYY21</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6096138338493</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">269.95</s:price>
+      <s:sku>BYRCREDE100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6096138043581</id>
+    <published>2020-11-25T03:35:04-05:00</published>
+    <updated>2020-11-25T03:35:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bdk-tubereuse-imperiale"/>
+    <title>Bdk Tubereuse Imperiale</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BDK Parfums</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ByredoTubereuseImperial.jpg?v=1613493304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BDK Parfums<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            333.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6096138043581</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">333.95</s:price>
+      <s:sku>BYRTUBIMP100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6096137650365</id>
+    <published>2020-11-25T03:34:36-05:00</published>
+    <updated>2020-11-25T03:34:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bdk-oud-abramad"/>
+    <title>Bdk Oud Abramad</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BDK Parfums</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Byredo-Oud-Abramad-Unisex.jpg?v=1613493301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BDK Parfums<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            329.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6096137650365</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">329.95</s:price>
+      <s:sku>BYROUDABR100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6096137257149</id>
+    <published>2020-11-25T03:34:06-05:00</published>
+    <updated>2020-11-25T03:34:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bdk-wood-jasmin"/>
+    <title>Bdk Wood Jasmin</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BDK Parfums</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Byredo-Wood-Jasmin-Unisex.jpg?v=1613493305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BDK Parfums<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            329.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6096137257149</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">329.95</s:price>
+      <s:sku>BYRWOOJAS100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6096136437949</id>
+    <published>2020-11-25T03:32:23-05:00</published>
+    <updated>2020-11-25T03:32:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bdk-pas-ce-soir"/>
+    <title>Bdk Pas Ce Soir</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>BDK Parfums</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ByredoPasCesSoidUnisex.jpg?v=1626101779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BDK Parfums<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6096136437949</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">299.95</s:price>
+      <s:sku>BYRPAS100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

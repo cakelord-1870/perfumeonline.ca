@@ -1,0 +1,1099 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/cartier.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-08-06T05:50:38-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6882871247037</id>
+    <published>2021-08-06T05:50:38-04:00</published>
+    <updated>2021-08-06T05:50:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/cartier-declaration-green"/>
+    <title>Cartier Declaration Green</title>
+    <s:type>Men</s:type>
+    <s:vendor>CARTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_dfaca99c-f0e7-4750-9ffa-46f9f132a21f.png?v=1628243439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTIER<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            80.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6882871247037</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">80.95</s:price>
+      <s:sku>CARDECGRE100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6161470259389</id>
+    <published>2021-01-11T15:28:23-05:00</published>
+    <updated>2021-01-11T15:28:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/roadster-sport"/>
+    <title>Roadster Sport</title>
+    <s:type>Men</s:type>
+    <s:vendor>CARTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_f4a2034b-2dfe-4c32-a86b-d49daf0314df.png?v=1613493818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTIER<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11JANN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6161470259389</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku>CARROASPO50M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6109013442749</id>
+    <published>2020-12-05T14:05:18-05:00</published>
+    <updated>2020-12-05T14:05:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/cartier-oud-muse"/>
+    <title>Cartier Oud &amp; Musc</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>CARTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Cartier-Oud-_-Musc-Unisex.jpg?v=1613493316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTIER<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            220.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6109013442749</id>
+      <title>75ML EDP TESTER</title>
+      <s:price currency="CAD">220.95</s:price>
+      <s:sku>TESCAROUD75U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4775680442465</id>
+    <published>2020-09-28T06:09:44-04:00</published>
+    <updated>2020-09-28T06:09:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/cartier-baiser-fou"/>
+    <title>Cartier Baiser Fou</title>
+    <s:type>Women</s:type>
+    <s:vendor>CARTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Cartier-Baiser-Fou-Women.jpg?v=1613493314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTIER<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            95.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>28SEP2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4775680442465</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">95.95</s:price>
+      <s:sku>CARBAIFOU75PW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4749054804065</id>
+    <published>2020-09-03T11:22:27-04:00</published>
+    <updated>2020-09-03T11:22:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/cartier-eau-de-cartier-essence-de-paradise"/>
+    <title>Cartier Eau De Cartier Essence De Paradise</title>
+    <s:type>Women</s:type>
+    <s:vendor>CARTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_7908331f-93eb-4f6e-acba-3742cbd9e684.png?v=1606122571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTIER<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3SEP2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4749054804065</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">69.95</s:price>
+      <s:sku>CARESSPAR100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4637561946209</id>
+    <published>2020-05-21T13:55:26-04:00</published>
+    <updated>2020-05-21T13:55:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/declaration-de-cartier-fraiche"/>
+    <title>Declaration De Cartier Fraiche</title>
+    <s:type>Men</s:type>
+    <s:vendor>CARTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Declaration-De-Cartier-Fraiche.png?v=1601289233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTIER<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4637561946209</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>CARDECFRA100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4604135473249</id>
+    <published>2020-05-05T00:00:26-04:00</published>
+    <updated>2020-05-05T00:00:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/cartier-pasha-edp"/>
+    <title>Cartier Pasha Edp</title>
+    <s:type>Men</s:type>
+    <s:vendor>CARTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Cartier-Pasha-Edp.png?v=1600888827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTIER<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            76.95 - 96.95
+            <a href="https://perfumeonline.ca/products/cartier-pasha-edp">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4MAY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4604135473249</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">76.95</s:price>
+      <s:sku>TESCARPAS100PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4604135473249</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">96.95</s:price>
+      <s:sku>CARPAS100PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4591938109537</id>
+    <published>2020-04-26T23:24:06-04:00</published>
+    <updated>2020-04-26T23:24:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/cartier-la-panthere-edt"/>
+    <title>Cartier La Panthere Edt</title>
+    <s:type>Women</s:type>
+    <s:vendor>CARTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Cartier-La-Panthere-Edt.png?v=1601289207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTIER<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            92.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>26APRIL20</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4591938109537</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">92.95</s:price>
+      <s:sku>CARPAN75TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4424374255713</id>
+    <published>2019-12-10T04:37:36-05:00</published>
+    <updated>2019-12-10T04:37:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/cartier-la-panther-edition-soir"/>
+    <title>Cartier La Panther Edition Soir</title>
+    <s:type>Women</s:type>
+    <s:vendor>CARTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/CARTIER-LA-PANTHER-EDITION-SOIR-50ML-EDP-WOMEN.png?v=1575970808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTIER<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            57.95 - 77.95
+            <a href="https://perfumeonline.ca/products/cartier-la-panther-edition-soir">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10DECC2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4424374255713</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">57.95</s:price>
+      <s:sku>CARPANSOI50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4424374255713</id>
+      <title>75ML EDP TESTER</title>
+      <s:price currency="CAD">77.95</s:price>
+      <s:sku>TESCARPANSOI75PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3998950129761</id>
+    <published>2019-08-24T02:51:41-04:00</published>
+    <updated>2019-08-24T02:51:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/cartier-must-de-cartier-gold"/>
+    <title>Cartier Must De Cartier Gold</title>
+    <s:type>Women</s:type>
+    <s:vendor>CARTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/must-de-gold.png?v=1571945425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTIER<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            57.75 - 92.95
+            <a href="https://perfumeonline.ca/products/cartier-must-de-cartier-gold">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20augg2019</s:tag>
+    <s:tag>25novv2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998950129761</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">57.75</s:price>
+      <s:sku>CARMUSGOL50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998950129761</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">92.95</s:price>
+      <s:sku>CARMUSGOL100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3888780836961</id>
+    <published>2019-07-03T11:24:41-04:00</published>
+    <updated>2019-07-03T11:24:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/eau-de-cartier-edp"/>
+    <title>Eau De Cartier Edp</title>
+    <s:type>Men</s:type>
+    <s:vendor>CARTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/eau_cartier_edp_200.jpg?v=1571610003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTIER<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            86.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3JULY</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3888780836961</id>
+      <title>200ML EDP</title>
+      <s:price currency="CAD">86.95</s:price>
+      <s:sku>CAREAU200PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/2116930535521</id>
+    <published>2019-05-12T21:58:12-04:00</published>
+    <updated>2019-05-12T21:58:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/cartier-le-baiser-du-dragon-edt"/>
+    <title>Cartier Le Baiser Du Dragon Edt</title>
+    <s:type>Women</s:type>
+    <s:vendor>CARTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Cartier-Le-Baiser-Du-Dragon-Edt.png?v=1571609999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTIER<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAYPRODUCT</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2116930535521</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku>CARDAR50TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/2001541628001</id>
+    <published>2019-03-10T07:14:08-04:00</published>
+    <updated>2019-03-10T07:14:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/declaration-de-cartier-1"/>
+    <title>Declaration De Cartier</title>
+    <s:type>Men</s:type>
+    <s:vendor>CARTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Declaration-De-Cartier-100Ml-Edp-Perfume--Men.png?v=1571609994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTIER<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            76.95 - 124.95
+            <a href="https://perfumeonline.ca/products/declaration-de-cartier-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>17MARR21</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2001541628001</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">76.95</s:price>
+      <s:sku>CARDEC100PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2001541628001</id>
+      <title>150ML EDP</title>
+      <s:price currency="CAD">124.95</s:price>
+      <s:sku>CARDEC150PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1447565983841</id>
+    <published>2018-10-30T08:07:22-04:00</published>
+    <updated>2018-10-30T08:07:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/carat-cartier"/>
+    <title>Carat Cartier</title>
+    <s:type>Women</s:type>
+    <s:vendor>CARTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/0093210008-2.jpg?v=1571609988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTIER<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            61.95 - 79.95
+            <a href="https://perfumeonline.ca/products/carat-cartier">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1447565983841</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">61.95</s:price>
+      <s:sku>TESCARCAR100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1447565983841</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>CARCAR100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1392462200929</id>
+    <published>2018-07-21T13:18:29-04:00</published>
+    <updated>2018-07-21T13:18:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/declaration-d-un-soir"/>
+    <title>Cartier Declaration D&apos;un Soir</title>
+    <s:type>Men</s:type>
+    <s:vendor>CARTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/DECLARATION-D-UN-SOIR-CARTIER-100ML-EDT-MEN.jpg?v=1571609974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTIER<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            57.95 - 75.95
+            <a href="https://perfumeonline.ca/products/declaration-d-un-soir">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1392462200929</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">57.95</s:price>
+      <s:sku>TESCARDECSOI100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1392462200929</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">75.95</s:price>
+      <s:sku>CARDECSOI100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9838177419</id>
+    <published>2018-06-25T15:59:11-04:00</published>
+    <updated>2018-06-25T15:59:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/pasha-noir-sport"/>
+    <title>Pasha Noir Sport</title>
+    <s:type>Men</s:type>
+    <s:vendor>CARTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/85404_new.jpg?v=1571609917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTIER<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            45.45 - 60.95
+            <a href="https://perfumeonline.ca/products/pasha-noir-sport">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICESHEET1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838177419</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">45.45</s:price>
+      <s:sku>TESCARPASNOISPO100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838177419</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">60.95</s:price>
+      <s:sku>CARPASNOISPO100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/755372687457</id>
+    <published>2018-05-16T18:59:56-04:00</published>
+    <updated>2018-05-16T18:59:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/cartier-le-baiser-du-dragon"/>
+    <title>Cartier Le Baiser Du Dragon</title>
+    <s:type>Women</s:type>
+    <s:vendor>CARTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Cartier-Le-Baiser-Du-Dragon.png?v=1571609961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTIER<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            77.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/755372687457</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">77.45</s:price>
+      <s:sku>CARDAR100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/755372294241</id>
+    <published>2018-05-16T18:50:28-04:00</published>
+    <updated>2018-05-16T18:50:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/cartier-baiser-vole-1"/>
+    <title>Cartier Baiser Vole Edt</title>
+    <s:type>Women</s:type>
+    <s:vendor>CARTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Cartier-Baiser-Vole-Edt.png?v=1571609961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTIER<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            55.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/755372294241</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">55.95</s:price>
+      <s:sku>CARBAI50TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/12730581771</id>
+    <published>2017-10-05T09:07:53-04:00</published>
+    <updated>2017-10-05T09:07:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/declaration-essence"/>
+    <title>Cartier Declaration Essence</title>
+    <s:type>Men</s:type>
+    <s:vendor>CARTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/DECLARATION-ESSENCE.jpg?v=1571609957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTIER<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            48.45 - 61.95
+            <a href="https://perfumeonline.ca/products/declaration-essence">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/12730581771</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">48.45</s:price>
+      <s:sku>TESCARDECESS100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/12730581771</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">61.95</s:price>
+      <s:sku>CARDECESS100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9852005131</id>
+    <published>2017-08-19T01:54:18-04:00</published>
+    <updated>2017-08-19T01:54:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/leau-declaration-de-cartier"/>
+    <title>Cartier Declaration L&apos;eau</title>
+    <s:type>Men</s:type>
+    <s:vendor>CARTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Leau-Declaration-De-Cartier.jpg?v=1571609944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTIER<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            56.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9852005131</id>
+      <title>100ML EDT MEN</title>
+      <s:price currency="CAD">56.95</s:price>
+      <s:sku>CARDECLEA100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9851989067</id>
+    <published>2017-08-19T01:46:16-04:00</published>
+    <updated>2017-08-19T01:46:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/santos-de-cartier-concentrate"/>
+    <title>Santos De Cartier Concentrate</title>
+    <s:type>Men</s:type>
+    <s:vendor>CARTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Santos-De-Cartier-Concentrate.png?v=1612783985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTIER<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            49.95 - 56.95
+            <a href="https://perfumeonline.ca/products/santos-de-cartier-concentrate">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9851989067</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>TESCARSANCON100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9851989067</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">56.95</s:price>
+      <s:sku>CARSANCON100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9851984907</id>
+    <published>2017-08-19T01:43:53-04:00</published>
+    <updated>2017-08-19T01:43:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/santos-de-cartier"/>
+    <title>Santos De Cartier</title>
+    <s:type>Men</s:type>
+    <s:vendor>CARTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/157340_spo.jpg?v=1571609944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTIER<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            39.95 - 52.75
+            <a href="https://perfumeonline.ca/products/santos-de-cartier">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20julyy2021aj</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9851984907</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">44.95</s:price>
+      <s:sku>CARSAN50M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9851984907</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>TESCARSAN100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9851984907</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">52.75</s:price>
+      <s:sku>CARSAN100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9846543307</id>
+    <published>2017-08-18T08:38:11-04:00</published>
+    <updated>2017-08-18T08:38:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/roadster-cartier"/>
+    <title>Roadster Cartier</title>
+    <s:type>Men</s:type>
+    <s:vendor>CARTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Roadster-Cartier.png?v=1626113466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTIER<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            52.95 - 59.95
+            <a href="https://perfumeonline.ca/products/roadster-cartier">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11JANN2021</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9846543307</id>
+      <title>50ML EDT VINTAGE</title>
+      <s:price currency="CAD">52.95</s:price>
+      <s:sku>CARROA50M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9846543307</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">53.45</s:price>
+      <s:sku>TESCARROA100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9846543307</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku>CARROA100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9846335691</id>
+    <published>2017-08-18T08:21:16-04:00</published>
+    <updated>2017-08-18T08:21:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/declaration-de-cartier"/>
+    <title>Cartier Declaration</title>
+    <s:type>Men</s:type>
+    <s:vendor>CARTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/153911_788e8411-fbf9-4f8e-9917-5ffef27640d8_spo.jpg?v=1571609937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTIER<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            49.95 - 107.95
+            <a href="https://perfumeonline.ca/products/declaration-de-cartier">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9846335691</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">53.75</s:price>
+      <s:sku>CARDEC50M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9846335691</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>TESCARDEC100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9846335691</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">71.95</s:price>
+      <s:sku>CARDEC100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9846335691</id>
+      <title>150ML EDT</title>
+      <s:price currency="CAD">107.95</s:price>
+      <s:sku>CARDEC150M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9846078475</id>
+    <published>2017-08-18T08:03:46-04:00</published>
+    <updated>2017-08-18T08:03:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/cartier-la-panthere"/>
+    <title>Cartier La Panthere</title>
+    <s:type>Women</s:type>
+    <s:vendor>CARTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Cartier-La-Panthere.png?v=1571609936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CARTIER<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            54.95 - 89.95
+            <a href="https://perfumeonline.ca/products/cartier-la-panthere">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11JANN2021</s:tag>
+    <s:tag>Black-Friday</s:tag>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9846078475</id>
+      <title>30ML EDP</title>
+      <s:price currency="CAD">54.95</s:price>
+      <s:sku>CARPAN30PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9846078475</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">75.95</s:price>
+      <s:sku>CARPAN50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9846078475</id>
+      <title>75ML EDP TESTER</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>TESCARPAN75W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9846078475</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">89.95</s:price>
+      <s:sku>CARPAN75PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

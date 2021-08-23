@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/byredo.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-07-30T02:57:19-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6867876118717</id>
+    <published>2021-07-30T02:57:19-04:00</published>
+    <updated>2021-07-30T02:57:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/byredo-inflorenscence"/>
+    <title>Byredo Inflorescence</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Byredo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Byredo-Inflorescence.png?v=1628768655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Byredo<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            285.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6867876118717</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">285.95</s:price>
+      <s:sku>BYRINFLO100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6109013311677</id>
+    <published>2020-12-05T14:04:44-05:00</published>
+    <updated>2020-12-05T14:04:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/byredo-slow-dance"/>
+    <title>Byredo Slow Dance</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Byredo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Byredo-Slow-Dance-Unisex.jpg?v=1613493303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Byredo<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            194.95 - 344.95
+            <a href="https://perfumeonline.ca/products/byredo-slow-dance">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1DECC2020</s:tag>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6109013311677</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">194.95</s:price>
+      <s:sku>BYRSLODAN50U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6109013311677</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">344.95</s:price>
+      <s:sku>BYRSLODAN100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6109013016765</id>
+    <published>2020-12-05T14:03:33-05:00</published>
+    <updated>2020-12-05T14:03:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/byredo-sundazed"/>
+    <title>Byredo Sundazed</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Byredo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Byredo-Sundazed-Unisex.jpg?v=1613493303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Byredo<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            219.95 - 299.95
+            <a href="https://perfumeonline.ca/products/byredo-sundazed">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1DECC2020</s:tag>
+    <s:tag>3MAYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6109013016765</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">219.95</s:price>
+      <s:sku>BYRSUN50U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6109013016765</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">299.95</s:price>
+      <s:sku>BYRSUN100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6096136863933</id>
+    <published>2020-11-25T03:33:22-05:00</published>
+    <updated>2020-11-25T03:33:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/byredo-nuit-de-sebies"/>
+    <title>Byredo Nuit De Sebies</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Byredo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_6954273e-acaa-446f-9708-387472055a4e.png?v=1613493300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Byredo<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6096136863933</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">299.95</s:price>
+      <s:sku>BYRNUIDE100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6096136667325</id>
+    <published>2020-11-25T03:32:58-05:00</published>
+    <updated>2020-11-25T03:32:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/byredo-girs-chamel"/>
+    <title>Byredo Girs Chanel</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Byredo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_d6dcc7f7-5fd9-464b-9ff2-cdf974459688.png?v=1613493300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Byredo<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6096136667325</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">299.95</s:price>
+      <s:sku>BYRGIRCHA100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4787872202849</id>
+    <published>2020-10-10T11:49:00-04:00</published>
+    <updated>2020-10-10T11:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/byredo-velvet-haze"/>
+    <title>Byredo Velvet Haze</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Byredo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_d27d05ed-71a8-4c7f-980c-37d4205e2861.png?v=1606122559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Byredo<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            195.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1OCT2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4787872202849</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">195.75</s:price>
+      <s:sku>BYRVELHAZ50U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4398801551457</id>
+    <published>2019-11-30T09:03:57-05:00</published>
+    <updated>2019-11-30T09:03:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/byredo-rose-of-no-mans-land"/>
+    <title>Byredo Rose Of No Man&apos;S Land</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Byredo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Byredo-Rose-Of-No-Man_S-Land.png?v=1575282027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Byredo<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            319.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>30novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4398801551457</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">319.95</s:price>
+      <s:sku>BYRROS100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4398801518689</id>
+    <published>2019-11-30T09:03:56-05:00</published>
+    <updated>2019-11-30T09:03:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/byredo-oud-immortel"/>
+    <title>Byredo Oud Immortel</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Byredo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Byredo-Oud-Immortel.png?v=1575281929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Byredo<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            265.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>30novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4398801518689</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">265.95</s:price>
+      <s:sku>BYROUDIMM100PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4398801485921</id>
+    <published>2019-11-30T09:03:56-05:00</published>
+    <updated>2019-11-30T09:03:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/byredo-black-saffron"/>
+    <title>Byredo Black Saffron</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Byredo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Byredo-Black-Saffron.png?v=1575281890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Byredo<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            194.95 - 354.95
+            <a href="https://perfumeonline.ca/products/byredo-black-saffron">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:tag>30novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4398801485921</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">194.95</s:price>
+      <s:sku>BYRBLASAF50U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4398801485921</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">354.95</s:price>
+      <s:sku>BYRBLASAF100PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4398801420385</id>
+    <published>2019-11-30T09:03:49-05:00</published>
+    <updated>2019-11-30T09:03:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/byredo-bibliotheque"/>
+    <title>Byredo Bibliotheque</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Byredo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Byredo-Bibliotheque.png?v=1575281788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Byredo<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            359.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>30novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4398801420385</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">359.95</s:price>
+      <s:sku>BYRBIB100PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3998949703777</id>
+    <published>2019-08-24T02:51:45-04:00</published>
+    <updated>2019-08-24T02:51:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/byredo-accord-oud"/>
+    <title>Byredo Accord Oud</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Byredo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Byredo-Accord-Oud.png?v=1571920568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Byredo<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            254.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20augg2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998949703777</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">254.45</s:price>
+      <s:sku>BYRACC100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3998950096993</id>
+    <published>2019-08-24T02:51:42-04:00</published>
+    <updated>2019-08-24T02:51:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/byredo-eleventh-hour"/>
+    <title>Byredo Eleventh Hour</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Byredo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Hour.png?v=1571824609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Byredo<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            218.95 - 258.95
+            <a href="https://perfumeonline.ca/products/byredo-eleventh-hour">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20augg2019</s:tag>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998950096993</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">218.95</s:price>
+      <s:sku>BYRELEHOU50U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998950096993</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">258.95</s:price>
+      <s:sku>BYRELE100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3998950260833</id>
+    <published>2019-08-24T02:51:39-04:00</published>
+    <updated>2019-08-24T02:51:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/byredo-encens-chembur"/>
+    <title>Byredo Encens Chembur</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Byredo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/805994_7340032805994_main_14719031_20190124124835_01_1200.jpg?v=1571610010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Byredo<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            223.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20augg2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998950260833</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">223.95</s:price>
+      <s:sku>BYRENC100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3998950228065</id>
+    <published>2019-08-24T02:51:39-04:00</published>
+    <updated>2019-08-24T02:51:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/byredo-sunday-cologne"/>
+    <title>Byredo Sunday Cologne</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Byredo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/664cc3b7-ae92-4284-bf1d-d955b706b8f9.jpg?v=1571610010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Byredo<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20augg2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998950228065</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">299.95</s:price>
+      <s:sku>BYRSUN100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

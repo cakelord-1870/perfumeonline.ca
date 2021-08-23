@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/atelier-cologne.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-08-06T06:39:47-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6883024699581</id>
+    <published>2021-08-06T06:39:47-04:00</published>
+    <updated>2021-08-06T06:39:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-cedre-atlas-absolue"/>
+    <title>Atelier Cedre Atlas Absolue</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Atelier-Cedre-Atlas-Absolue.png?v=1629311838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Cologne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            98.95 - 165.95
+            <a href="https://perfumeonline.ca/products/atelier-cedre-atlas-absolue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883024699581</id>
+      <title>30ML EDC</title>
+      <s:price currency="CAD">98.95</s:price>
+      <s:sku>ATECEDATL30U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6883024699581</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">165.95</s:price>
+      <s:sku>ATECEDATL100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6617578700989</id>
+    <published>2021-03-29T06:37:42-04:00</published>
+    <updated>2021-03-29T06:37:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-cologne-iris-rebelle"/>
+    <title>Atelier Cologne Iris Rebelle</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_bf296cf3-9039-4106-bc98-b7d8983e75a9.png?v=1626101755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Cologne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            129.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27MARR21</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6617578700989</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">129.95</s:price>
+      <s:sku>ACIRIREB100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6617574473917</id>
+    <published>2021-03-29T06:35:17-04:00</published>
+    <updated>2021-03-29T06:35:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-cologne-cedrat-enivrant"/>
+    <title>Atelier Cologne Cedrat Enivrant</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_4fa3ebca-e497-40ca-8699-f7556997c3a0.png?v=1626101755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Cologne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            129.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27MARR21</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6617574473917</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">129.95</s:price>
+      <s:sku>ACCEDENI100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6617571819709</id>
+    <published>2021-03-29T06:33:52-04:00</published>
+    <updated>2021-03-29T06:33:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-cologne-clementine-california"/>
+    <title>Atelier Cologne Clementine California</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_afed9a64-766c-4081-9f6c-4e7933ff2516.png?v=1626101756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Cologne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            119.95 - 179.95
+            <a href="https://perfumeonline.ca/products/atelier-cologne-clementine-california">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27MARR21</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6617571819709</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">119.95</s:price>
+      <s:sku>ACCLECAL100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6617571819709</id>
+      <title>200ML EDC</title>
+      <s:price currency="CAD">179.95</s:price>
+      <s:sku>ATCLECAL200U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6617570279613</id>
+    <published>2021-03-29T06:33:03-04:00</published>
+    <updated>2021-03-29T06:33:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-cologne-pomelo-paradis"/>
+    <title>Atelier Cologne Pomelo Paradis</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/81NJGDEZGFL._SL1500.jpg?v=1629312833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Cologne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            83.95 - 144.95
+            <a href="https://perfumeonline.ca/products/atelier-cologne-pomelo-paradis">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27MARR21</s:tag>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6617570279613</id>
+      <title>30ML EDC</title>
+      <s:price currency="CAD">83.95</s:price>
+      <s:sku>ATEPOMPAR30U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6617570279613</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">144.95</s:price>
+      <s:sku>ACPOMPAR100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6108315386045</id>
+    <published>2020-12-04T13:46:23-05:00</published>
+    <updated>2020-12-04T13:46:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-cologne-pacific-lime-cologne-absolue"/>
+    <title>Atelier Cologne Pacific Lime Cologne Absolue</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Atelier-Cologne-Pacific-Lime-Cologne-Absolue.png?v=1629312439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Cologne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            83.95 - 159.95
+            <a href="https://perfumeonline.ca/products/atelier-cologne-pacific-lime-cologne-absolue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1DECC2020</s:tag>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6108315386045</id>
+      <title>30ML EDC</title>
+      <s:price currency="CAD">83.95</s:price>
+      <s:sku>ATEPACLIM30U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6108315386045</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">159.95</s:price>
+      <s:sku>ATEPACLIM100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4367567847521</id>
+    <published>2019-11-15T14:52:12-05:00</published>
+    <updated>2019-11-15T14:52:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-cologne-musc-imperial"/>
+    <title>Atelier Cologne Musc Imperial</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Atelier-Cologne-Musc-Imperial.png?v=1573923325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Cologne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            150.95 - 214.95
+            <a href="https://perfumeonline.ca/products/atelier-cologne-musc-imperial">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15novv2019</s:tag>
+    <s:tag>27MARR21</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4367567847521</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">150.95</s:price>
+      <s:sku>ATEMUS100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4367567847521</id>
+      <title>200ML EDC</title>
+      <s:price currency="CAD">214.95</s:price>
+      <s:sku>ACMUSIMP200C</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4367567880289</id>
+    <published>2019-11-15T14:52:11-05:00</published>
+    <updated>2019-11-15T14:52:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-cologne-vanille-insensee-absolue"/>
+    <title>Atelier Cologne Vanille Insensee Absolue</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Atelier-Cologne-Vanille-Insensee-Absolue.png?v=1573923347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Cologne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            83.95 - 207.95
+            <a href="https://perfumeonline.ca/products/atelier-cologne-vanille-insensee-absolue">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15novv2019</s:tag>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4367567880289</id>
+      <title>30ML EDC</title>
+      <s:price currency="CAD">83.95</s:price>
+      <s:sku>ATEVANINS30U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4367567880289</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">160.95</s:price>
+      <s:sku>ATEVANINS100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4367567880289</id>
+      <title>200ML EDC</title>
+      <s:price currency="CAD">207.95</s:price>
+      <s:sku>ATEVANABS200U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1426198200417</id>
+    <published>2018-09-07T10:19:48-04:00</published>
+    <updated>2018-09-07T10:19:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-cologne-sud-magnolia-cologne-absolue"/>
+    <title>Sud Magnolia Cologne Absolue</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Atelier-Cologne-Bon-Voyage-Kollektion-Sud-Magnolia.jpg?v=1571609979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Cologne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            139.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426198200417</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">139.95</s:price>
+      <s:sku>ACSUD100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1426196955233</id>
+    <published>2018-09-07T10:19:48-04:00</published>
+    <updated>2018-09-07T10:19:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-cologne-vetiver-fatal-cologne-absolue"/>
+    <title>Vetiver Fatal Cologne Absolue</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Vetiver-Fatal-by-Atelier-Cologne-Pure-Perfume-Spray-100ml.jpg?v=1571609979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Cologne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            114.95 - 177.45
+            <a href="https://perfumeonline.ca/products/atelier-cologne-vetiver-fatal-cologne-absolue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426196955233</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">114.95</s:price>
+      <s:sku>ACVET100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426196955233</id>
+      <title>200ML EDC</title>
+      <s:price currency="CAD">177.45</s:price>
+      <s:sku>ACVETFAT200U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1426194530401</id>
+    <published>2018-09-07T10:19:47-04:00</published>
+    <updated>2018-09-07T10:19:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-cologne-trefle-pur-cologne-absolue"/>
+    <title>Trefle Pur Cologne Absolue</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/atelier-cologne-trefle-pur-100-ml-pure-perfume-spray-women_DCP1800585_0.15798500_201523035173_0-1024x1024.jpg?v=1571609979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Cologne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            124.95 - 156.95
+            <a href="https://perfumeonline.ca/products/atelier-cologne-trefle-pur-cologne-absolue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426194530401</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">124.95</s:price>
+      <s:sku>ACTRE100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426194530401</id>
+      <title>200ML EDC</title>
+      <s:price currency="CAD">156.95</s:price>
+      <s:sku>ACTREPUR200U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1426193383521</id>
+    <published>2018-09-07T10:19:47-04:00</published>
+    <updated>2018-09-07T10:19:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-cologne-tobacco-nuit-cologne-absolue"/>
+    <title>Tobacco Nuit Cologne Absolue</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/21550339005-700.jpg?v=1571609979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Cologne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            186.95 - 195.95
+            <a href="https://perfumeonline.ca/products/atelier-cologne-tobacco-nuit-cologne-absolue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JUNE</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426193383521</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">186.95</s:price>
+      <s:sku>ACTOB100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426193383521</id>
+      <title>200ML EDC</title>
+      <s:price currency="CAD">195.95</s:price>
+      <s:sku>ACTOBNUI200U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1426192040033</id>
+    <published>2018-09-07T10:19:47-04:00</published>
+    <updated>2018-09-07T10:19:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-cologne-silver-iris-cologne-absolue"/>
+    <title>Silver Iris Cologne Absolue</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/276878.jpg?v=1571609979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Cologne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            148.45 - 203.95
+            <a href="https://perfumeonline.ca/products/atelier-cologne-silver-iris-cologne-absolue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426192040033</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">148.45</s:price>
+      <s:sku>ACSIL100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426192040033</id>
+      <title>200ML EDC</title>
+      <s:price currency="CAD">203.95</s:price>
+      <s:sku>ACSILIRI200U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1426185420897</id>
+    <published>2018-09-07T10:19:47-04:00</published>
+    <updated>2018-09-07T10:19:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-cologne-santal-carmin-cologne-absolue"/>
+    <title>Santal Carmin Cologne Absolue</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Atelier-Cologne_Santal-Carmin_33-oz-Cologne-Absolue-Spray.jpg?v=1571609979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Cologne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            259.95 - 289.95
+            <a href="https://perfumeonline.ca/products/atelier-cologne-santal-carmin-cologne-absolue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27MARR21</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426185420897</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">259.95</s:price>
+      <s:sku>ACSANCAR100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426185420897</id>
+      <title>200ML EDC</title>
+      <s:price currency="CAD">289.95</s:price>
+      <s:sku>ACSANCAR200U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1426182176865</id>
+    <published>2018-09-07T10:19:46-04:00</published>
+    <updated>2018-09-07T10:19:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-cologne-rose-anonyme-extrait-cologne-absolue"/>
+    <title>Rose Anonyme Extrait</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/298035.jpg?v=1571609979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Cologne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            175.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426182176865</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">175.95</s:price>
+      <s:sku>ACROSANO100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1426181292129</id>
+    <published>2018-09-07T10:19:46-04:00</published>
+    <updated>2018-09-07T10:19:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-cologne-rose-anonyme-cologne-absolue"/>
+    <title>Rose Anonyme Cologne Absolue</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/atelier-cologne-rose-anonyme-100-ml-pure-perfume-spray-unisex-women_DCP1800589_0.77419900_201523034657_1-1024x1024.jpg?v=1571609978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Cologne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            116.95 - 166.95
+            <a href="https://perfumeonline.ca/products/atelier-cologne-rose-anonyme-cologne-absolue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>perfume</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426181292129</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">116.95</s:price>
+      <s:sku>ACROS100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426181292129</id>
+      <title>200ML EDC</title>
+      <s:price currency="CAD">166.95</s:price>
+      <s:sku>ACROSANO200U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1426180767841</id>
+    <published>2018-09-07T10:19:46-04:00</published>
+    <updated>2018-09-07T10:19:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-cologne-poivre-electrique-cologne-absolue"/>
+    <title>Poivre Electrique Cologne Absolue</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/22617.jpg?v=1571609978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Cologne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            144.95 - 169.95
+            <a href="https://perfumeonline.ca/products/atelier-cologne-poivre-electrique-cologne-absolue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426180767841</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">144.95</s:price>
+      <s:sku>ACPOI100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426180767841</id>
+      <title>200ML EDC</title>
+      <s:price currency="CAD">169.95</s:price>
+      <s:sku>ACPOI200U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1426179686497</id>
+    <published>2018-09-07T10:19:46-04:00</published>
+    <updated>2018-09-07T10:19:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-cologne-philtre-ceylan-cologne-absolue"/>
+    <title>Philtre Ceylan Cologne Absolue</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/FN298024.jpg?v=1571609978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Cologne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            169.95 - 207.95
+            <a href="https://perfumeonline.ca/products/atelier-cologne-philtre-ceylan-cologne-absolue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426179686497</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">169.95</s:price>
+      <s:sku>ACPHI100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426179686497</id>
+      <title>200ML EDC</title>
+      <s:price currency="CAD">207.95</s:price>
+      <s:sku>ACPHLCEY200U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1426178146401</id>
+    <published>2018-09-07T10:19:46-04:00</published>
+    <updated>2018-09-07T10:19:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-cologne-oud-saphir-cologne-absolue"/>
+    <title>Oud Saphir Cologne Absolue</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/atelier-cologne-oud-saphir-100ml-spray-cologne-absolue-pure-parfume.jpg?v=1571609978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Cologne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            189.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426178146401</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">189.95</s:price>
+      <s:sku>ACOUD100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1426176016481</id>
+    <published>2018-09-07T10:19:45-04:00</published>
+    <updated>2018-09-07T10:19:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-cologne-orange-sanguine-cologne-absolue"/>
+    <title>Orange Sanguine Cologne Absolue</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ORANGE-SANGUINE.png?v=1571609978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Cologne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            134.95 - 204.95
+            <a href="https://perfumeonline.ca/products/atelier-cologne-orange-sanguine-cologne-absolue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>30novv2019</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426176016481</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">134.95</s:price>
+      <s:sku>ACORA100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426176016481</id>
+      <title>200ML EDC</title>
+      <s:price currency="CAD">204.95</s:price>
+      <s:sku>ACORASAN200PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1426173526113</id>
+    <published>2018-09-07T10:19:45-04:00</published>
+    <updated>2018-09-07T10:19:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-cologne-oolang-infini-cologne-absolue"/>
+    <title>Oolang Infini Cologne Absolue</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/s-l1600_1aa94dc1-0f4a-4f68-b2bb-8b691ede664c.jpg?v=1571609978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Cologne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            134.95 - 194.95
+            <a href="https://perfumeonline.ca/products/atelier-cologne-oolang-infini-cologne-absolue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426173526113</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">134.95</s:price>
+      <s:sku>ACOOL100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426173526113</id>
+      <title>200ML EDC</title>
+      <s:price currency="CAD">194.95</s:price>
+      <s:sku>ACOOLINF200U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1426171494497</id>
+    <published>2018-09-07T10:19:45-04:00</published>
+    <updated>2018-09-07T10:19:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-cologne-mistral-patchouli-cologne-absolue"/>
+    <title>Mistral Patchouli Cologne Absolue</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/3700591210006.jpg?v=1571609978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Cologne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            103.95 - 145.95
+            <a href="https://perfumeonline.ca/products/atelier-cologne-mistral-patchouli-cologne-absolue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426171494497</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">103.95</s:price>
+      <s:sku>ACMIS100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426171494497</id>
+      <title>200ML EDC</title>
+      <s:price currency="CAD">145.95</s:price>
+      <s:sku>ACMISPAT200U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1426168676449</id>
+    <published>2018-09-07T10:19:45-04:00</published>
+    <updated>2018-09-07T10:19:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-cologne-mimosa-indigo-cologne-absolue"/>
+    <title>Mimosa Indigo Cologne Absolue</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/21549439006.jpg?v=1571609978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Cologne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            159.95 - 176.75
+            <a href="https://perfumeonline.ca/products/atelier-cologne-mimosa-indigo-cologne-absolue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20julyy2021aj</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426168676449</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">159.95</s:price>
+      <s:sku>ACMIM100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426168676449</id>
+      <title>200ML EDC</title>
+      <s:price currency="CAD">176.75</s:price>
+      <s:sku>ACMIMIND200U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1426165858401</id>
+    <published>2018-09-07T10:19:45-04:00</published>
+    <updated>2018-09-07T10:19:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-cologne-jasmin-angelique-cologne-absolue"/>
+    <title>Jasmin Angelique Cologne Absolue</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/JA67PPPW__95573.1476060875.1280.1280.jpg?v=1571609978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Cologne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            134.95 - 154.95
+            <a href="https://perfumeonline.ca/products/atelier-cologne-jasmin-angelique-cologne-absolue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426165858401</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">134.95</s:price>
+      <s:sku>ACJASANG100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426165858401</id>
+      <title>200ML EDC</title>
+      <s:price currency="CAD">154.95</s:price>
+      <s:sku>ACJASANG200U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1426162974817</id>
+    <published>2018-09-07T10:19:44-04:00</published>
+    <updated>2018-09-07T10:19:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-cologne-grand-neroli-cologne-absolue"/>
+    <title>Grand Neroli Cologne Absolue</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/3700591202001.jpg?v=1571609978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Cologne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            83.95 - 158.95
+            <a href="https://perfumeonline.ca/products/atelier-cologne-grand-neroli-cologne-absolue">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20julyy2021aj</s:tag>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426162974817</id>
+      <title>30ML EDC</title>
+      <s:price currency="CAD">83.95</s:price>
+      <s:sku>ATEGRANER30U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426162974817</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">129.95</s:price>
+      <s:sku>ACGRA100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1426162974817</id>
+      <title>200ML EDC</title>
+      <s:price currency="CAD">158.95</s:price>
+      <s:sku>ACGRANER200U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

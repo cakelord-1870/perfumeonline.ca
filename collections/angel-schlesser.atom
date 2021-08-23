@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/angel-schlesser.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2019-08-24T02:51:50-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/3998948819041</id>
+    <published>2019-08-24T02:51:50-04:00</published>
+    <updated>2019-08-24T02:51:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/angel-schlesser-absolute-oriental"/>
+    <title>Angel Schlesser Absolute Oriental</title>
+    <s:type>Women</s:type>
+    <s:vendor>Angel Schlesser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Angel-Schlesser-Absolute-Oriental.png?v=1571610008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Angel Schlesser<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            35.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20augg2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998948819041</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">35.95</s:price>
+      <s:sku>ASABS100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3998949277793</id>
+    <published>2019-08-24T02:51:49-04:00</published>
+    <updated>2019-08-24T02:51:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/angel-schlesser-oriental-edition-ii"/>
+    <title>Angel Schlesser Oriental Edition Ii</title>
+    <s:type>Women</s:type>
+    <s:vendor>Angel Schlesser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Angel-Schlesser-Oriental-Edition-Ii.png?v=1571824397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Angel Schlesser<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20augg2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998949277793</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>ASORI100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3998949245025</id>
+    <published>2019-08-24T02:51:49-04:00</published>
+    <updated>2019-08-24T02:51:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/angel-schlesser-oriental-edition"/>
+    <title>Angel Schlesser Oriental Edition</title>
+    <s:type>Men</s:type>
+    <s:vendor>Angel Schlesser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Angel-Schlesser-Oriental-Edition.png?v=1571824395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Angel Schlesser<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20augg2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998949245025</id>
+      <title>125ML EDT</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>ASORI125M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3998949212257</id>
+    <published>2019-08-24T02:51:49-04:00</published>
+    <updated>2019-08-24T02:51:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/angel-schlesser-essential"/>
+    <title>Angel Schlesser Essential</title>
+    <s:type>Men</s:type>
+    <s:vendor>Angel Schlesser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Angel-Schlesser-Essential.png?v=1571610009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Angel Schlesser<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            31.95 - 36.95
+            <a href="https://perfumeonline.ca/products/angel-schlesser-essential">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20augg2019</s:tag>
+    <s:tag>3MAYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998949212257</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>TESASESS100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998949212257</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">36.95</s:price>
+      <s:sku>ASESS100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

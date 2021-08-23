@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/aj-arabia.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-07-29T11:18:54-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6866646401213</id>
+    <published>2021-07-29T11:18:54-04:00</published>
+    <updated>2021-07-29T11:18:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/widian-al-wasi-parfum"/>
+    <title>Widian Al Wasi Parfum</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Aj Arabia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_67b46fd5-2483-452d-b4e8-4851da7f2247.png?v=1627571935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aj Arabia<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            206.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6866646401213</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">206.95</s:price>
+      <s:sku>AJAWIDALWAS50U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6866637258941</id>
+    <published>2021-07-29T11:15:09-04:00</published>
+    <updated>2021-07-29T11:15:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/widian-delma-parfum"/>
+    <title>Widian Delma Parfum</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Aj Arabia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_90d15c52-b4c3-4ee4-a720-28eaa4f1cff5.png?v=1627571711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aj Arabia<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            182.95 - 206.95
+            <a href="https://perfumeonline.ca/products/widian-delma-parfum">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6866637258941</id>
+      <title>50ML EDP TESTER</title>
+      <s:price currency="CAD">182.95</s:price>
+      <s:sku>TESAJAWIDDEL50U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6866637258941</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">206.95</s:price>
+      <s:sku>AJAWIDDEL50U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6866627297469</id>
+    <published>2021-07-29T11:12:04-04:00</published>
+    <updated>2021-07-29T11:12:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/widian-gold-ii-sahara-parfum"/>
+    <title>Widian Gold Ii Sahara Parfum</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Aj Arabia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_a7f1ba80-7a22-49d6-bfac-6947acedfe5c.png?v=1627571526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aj Arabia<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            194.95 - 206.95
+            <a href="https://perfumeonline.ca/products/widian-gold-ii-sahara-parfum">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6866627297469</id>
+      <title>50ML EDP TESTER</title>
+      <s:price currency="CAD">194.95</s:price>
+      <s:sku>TESAJAWIDGOLIISAH50U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6866627297469</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">206.95</s:price>
+      <s:sku>AJAWIDGOLIISAH50U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6866619039933</id>
+    <published>2021-07-29T11:07:37-04:00</published>
+    <updated>2021-07-29T11:07:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/widian-black-i-parfum"/>
+    <title>Widian Black I Parfum</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Aj Arabia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_eb73dfa6-3b64-443f-a5ab-97baf602b6e3.png?v=1627571258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aj Arabia<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            171.95 - 194.95
+            <a href="https://perfumeonline.ca/products/widian-black-i-parfum">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6866619039933</id>
+      <title>50ML EDP TESTER</title>
+      <s:price currency="CAD">171.95</s:price>
+      <s:sku>TESAJAWIDBLAI50U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6866619039933</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">194.95</s:price>
+      <s:sku>AJAWIDBLAI50U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6096134930621</id>
+    <published>2020-11-25T03:27:00-05:00</published>
+    <updated>2020-11-25T03:27:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aj-arabia-black-iii"/>
+    <title>Aj Arabia Black III</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Aj Arabia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AjArabiaBlackIiiUnisex.jpg?v=1613493191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aj Arabia<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            186.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25NOVV2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6096134930621</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">186.75</s:price>
+      <s:sku>AJARABLAII50PU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4787830947937</id>
+    <published>2020-10-10T10:35:04-04:00</published>
+    <updated>2020-10-10T10:35:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aj-arabia-widian-rose-lili"/>
+    <title>Aj Arabia Widian Rose Lili</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Aj Arabia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AJ-ARABIA-WIDIAN-ROSE-LILI-100ML-EDP-UNISEX.png?v=1606122394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aj Arabia<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            184.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1OCT2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4787830947937</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">184.95</s:price>
+      <s:sku>AJARAROSTIL100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4787829997665</id>
+    <published>2020-10-10T10:34:12-04:00</published>
+    <updated>2020-10-10T10:34:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aj-arabia-widian-rose-taifi"/>
+    <title>Aj Arabia Widian Rose Taifi</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Aj Arabia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AJ-ARABIA-WIDIAN-ROSE-TAIFI-100ML-EDP-UNISEX.png?v=1606122394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aj Arabia<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            184.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1OCT2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4787829997665</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">184.95</s:price>
+      <s:sku>AJARAROSTAI100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4787829538913</id>
+    <published>2020-10-10T10:33:40-04:00</published>
+    <updated>2020-10-10T10:33:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aj-arabia-widian-rose-almond"/>
+    <title>Aj Arabia Widian Rose Almond</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Aj Arabia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AJ-ARABIA-WIDIAN-ROSE-ALMOND-100ML-EDP-UNISEX.png?v=1606122394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aj Arabia<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            199.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1OCT2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4787829538913</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">199.95</s:price>
+      <s:sku>AJARAWIDROS100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4787828785249</id>
+    <published>2020-10-10T10:33:07-04:00</published>
+    <updated>2020-10-10T10:33:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aj-arabia-widian-hili"/>
+    <title>Aj Arabia Widian Hili</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Aj Arabia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AJ-ARABIA-WIDIAN-HILI-50ML-EDP-UNISEX.png?v=1606122395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aj Arabia<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            229.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1OCT2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4787828785249</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">229.95</s:price>
+      <s:sku>AJARAWIDHIL50U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4787827998817</id>
+    <published>2020-10-10T10:32:20-04:00</published>
+    <updated>2020-10-10T10:32:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aj-arabia-black-v"/>
+    <title>Aj Arabia Black V</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Aj Arabia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AJ-ARABIA-BLACK-V-50ML-EDP-UNISEX.png?v=1606122393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aj Arabia<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            184.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1OCT2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4787827998817</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">184.95</s:price>
+      <s:sku>AJARABLA50U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4484404215905</id>
+    <published>2020-01-25T03:11:11-05:00</published>
+    <updated>2020-01-25T03:11:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aj-arabia-widian-ii-black"/>
+    <title>Aj Arabia Widian Ii Black</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Aj Arabia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Aj-Arabia-Widian-Ii-Black.png?v=1580195686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aj Arabia<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            209.95 - 229.95
+            <a href="https://perfumeonline.ca/products/aj-arabia-widian-ii-black">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JANN2020</s:tag>
+    <s:tag>25NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4484404215905</id>
+      <title>50ML EDP TESTER</title>
+      <s:price currency="CAD">209.95</s:price>
+      <s:sku>TESAJARABLAII50PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4484404215905</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">229.95</s:price>
+      <s:sku>AJARABLAWIDIIBLA50PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4484404183137</id>
+    <published>2020-01-25T03:11:10-05:00</published>
+    <updated>2020-01-25T03:11:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aj-arabia-widian-black-iv"/>
+    <title>Aj Arabia Widian Black Iv</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Aj Arabia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Aj-Arabia-Widian-Black-Iv.png?v=1580195528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aj Arabia<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            182.95 - 219.95
+            <a href="https://perfumeonline.ca/products/aj-arabia-widian-black-iv">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JANN2020</s:tag>
+    <s:tag>29JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4484404183137</id>
+      <title>50ML EDP TESTER</title>
+      <s:price currency="CAD">182.95</s:price>
+      <s:sku>TESAJAWIDBLAIV50U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4484404183137</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">219.95</s:price>
+      <s:sku>AJARAWIDBLAIV50PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4484404150369</id>
+    <published>2020-01-25T03:11:10-05:00</published>
+    <updated>2020-01-25T03:11:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aj-arabia-private-i"/>
+    <title>Aj Arabia Private I</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Aj Arabia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_a7f0ea81-7d7e-469e-a621-d7dc30578ddc.png?v=1579939873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aj Arabia<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            209.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JANN2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4484404150369</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">209.95</s:price>
+      <s:sku>AJARAPRI50PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4484403953761</id>
+    <published>2020-01-25T03:11:01-05:00</published>
+    <updated>2020-01-25T03:11:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aj-arabia-black-i"/>
+    <title>Aj Arabia Black I</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Aj Arabia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_0fbab9b1-8ebe-4741-9097-f28f12a0086a.png?v=1579939869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aj Arabia<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            249.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JANN2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4484403953761</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">249.95</s:price>
+      <s:sku>AJARABLAI50PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

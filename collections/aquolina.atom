@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/aquolina.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2019-11-23T04:31:16-05:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332959498337</id>
+    <published>2019-11-23T04:31:16-05:00</published>
+    <updated>2019-11-23T04:31:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/pink-sugar-gift-set-women"/>
+    <title>Pink Sugar Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>AQUOLINA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_f12069e1-3ed0-4c30-af3a-fd059dc4aa4d.png?v=1572519313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AQUOLINA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332959498337</id>
+      <title>50ML Edt + 50ML Glossy S/G + 50ML Creamy B/L</title>
+      <s:price currency="CAD">26.95</s:price>
+      <s:sku>SET-PINK50W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9844144971</id>
+    <published>2018-11-19T12:40:30-05:00</published>
+    <updated>2018-11-19T12:40:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/pink-sugar"/>
+    <title>Pink Sugar</title>
+    <s:type>Women</s:type>
+    <s:vendor>AQUOLINA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Pink-Sugar.png?v=1571609922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AQUOLINA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            12.95 - 19.75
+            <a href="https://perfumeonline.ca/products/pink-sugar">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:tag>Price170</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844144971</id>
+      <title>30ML EDT</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>PINK30TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844144971</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">16.45</s:price>
+      <s:sku>PINK50TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844144971</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>TESPIN100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844144971</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">19.75</s:price>
+      <s:sku>PINK100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1392321200225</id>
+    <published>2018-11-19T12:37:26-05:00</published>
+    <updated>2018-11-19T12:37:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/pink-sugar-steel"/>
+    <title>PINK SUGAR STEEL</title>
+    <s:type>Women</s:type>
+    <s:vendor>AQUOLINA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/PINK-SUGAR-STEEL.png?v=1571609972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AQUOLINA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1392321200225</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>TESPINSTE100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1392319692897</id>
+    <published>2018-07-21T09:41:43-04:00</published>
+    <updated>2018-07-21T09:41:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/pink-sugar-sensual"/>
+    <title>PINK SUGAR SENSUAL</title>
+    <s:type>Women</s:type>
+    <s:vendor>AQUOLINA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/PINK-SUGAR-SENSUAL-100ML-EDT-WOMEN.jpg?v=1571609972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AQUOLINA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            24.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1392319692897</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">24.45</s:price>
+      <s:sku>PINSEN100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

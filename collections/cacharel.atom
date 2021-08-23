@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/cacharel.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-06-29T13:52:53-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6809404080317</id>
+    <published>2021-06-29T13:52:53-04:00</published>
+    <updated>2021-06-29T13:52:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/cacharel-catch-me"/>
+    <title>Cacharel Catch Me</title>
+    <s:type>Women</s:type>
+    <s:vendor>CACHAREL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/61IG2o_2BrdAL._SL1000.jpg?v=1626101826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CACHAREL<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            63.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6809404080317</id>
+      <title>80ML EDP TESTER</title>
+      <s:price currency="CAD">63.95</s:price>
+      <s:sku>TESCACHCAT80W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332953665633</id>
+    <published>2019-11-23T04:28:00-05:00</published>
+    <updated>2019-11-23T04:28:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/anais-anais-gift-set-women"/>
+    <title>Anais Anais Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>CACHAREL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_8d2fcfc3-1d79-4f24-a6cb-a3c8ae4403bf.png?v=1572519209"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CACHAREL<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            65.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332953665633</id>
+      <title>100ML Edt + 50ML Body Lotion</title>
+      <s:price currency="CAD">65.95</s:price>
+      <s:sku>SET-CACHANA100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3962541310049</id>
+    <published>2019-08-02T11:36:02-04:00</published>
+    <updated>2019-08-02T11:36:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amor-amor-in-a-flash"/>
+    <title>Amor Amor In A Flash</title>
+    <s:type>Women</s:type>
+    <s:vendor>CACHAREL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AMOR-AMOR-IN-A-FLASH--100ML-EDT-WOMEN_b76172ac-1973-49aa-bcb8-050136675237.png?v=1571824374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CACHAREL<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            68.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1augg2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3962541310049</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">68.95</s:price>
+      <s:sku>CACHAMOFLA100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3829759017057</id>
+    <published>2019-06-16T01:38:14-04:00</published>
+    <updated>2019-06-16T01:38:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/yes-i-am-cacharel"/>
+    <title>Yes I Am Cacharel</title>
+    <s:type>Women</s:type>
+    <s:vendor>CACHAREL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/CACHAREL_YESIAM_EDP50.jpg?v=1571610002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CACHAREL<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            48.95 - 72.95
+            <a href="https://perfumeonline.ca/products/yes-i-am-cacharel">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16June</s:tag>
+    <s:tag>1augg2019</s:tag>
+    <s:tag>7OCT2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3829759017057</id>
+      <title>50ML EDP TESTER</title>
+      <s:price currency="CAD">48.95</s:price>
+      <s:sku>TESCACHYES50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3829759017057</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">57.95</s:price>
+      <s:sku>CACHYES50PW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3829759017057</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">72.95</s:price>
+      <s:sku>CACHYES75PW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9852021195</id>
+    <published>2018-10-09T14:58:15-04:00</published>
+    <updated>2018-10-09T14:58:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/liberte"/>
+    <title>Liberte</title>
+    <s:type>Women</s:type>
+    <s:vendor>CACHAREL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/cacharel-liberte-75ml-edt-l-sp_spo.jpg?v=1571609945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CACHAREL<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The design house of Cacharel introduced Liberte perfume for women in 2007, it has citrusy, fruity and floral main accords. The feminine scent opens with notes of freesia, mandarin orange, orange, bitter orange, amalfi lemon and bergamot. the base notes of white honey, heliotrope, frangipani, sugar, marmalade, gardenia, white flowers. The base notes of vetiver, vanilla, patchouli and spices. The nose behind Cacharel Liberte perfume is Olivier Polge and Domitille Bertier.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9852021195</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">26.95</s:price>
+      <s:sku>CACHLIB50W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9851999051</id>
+    <published>2018-10-09T14:58:15-04:00</published>
+    <updated>2018-10-09T14:58:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/scarlett"/>
+    <title>Scarlett</title>
+    <s:type>Women</s:type>
+    <s:vendor>CACHAREL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Scarlett.png?v=1571609944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CACHAREL<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            70.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Scarlett Perfume by Cacharel for Women was created by perfumer Honorine Blanc, Alberto Morillas and Oliver Cresp and It was launched July 2009. The feminine scent opens with notes of pear, tea and amalfi lemon, blended with floral heart of Honeysuckle, African orange flower and jasmine, while the base features white honey, sandalwood and musk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9851999051</id>
+      <title>80ML EDT</title>
+      <s:price currency="CAD">70.95</s:price>
+      <s:sku>CACHSCA80TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9852099851</id>
+    <published>2017-08-19T02:30:06-04:00</published>
+    <updated>2017-08-19T02:30:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/lou-lou"/>
+    <title>Lou Lou</title>
+    <s:type>Women</s:type>
+    <s:vendor>CACHAREL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/CACHLOU30PW_spo.jpg?v=1571609946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CACHAREL<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            40.95 - 56.95
+            <a href="https://perfumeonline.ca/products/lou-lou">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20julyy2021aj</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9852099851</id>
+      <title>30ML EDP</title>
+      <s:price currency="CAD">40.95</s:price>
+      <s:sku>CACHLOU30PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9852099851</id>
+      <title>50ML EDP TESTER</title>
+      <s:price currency="CAD">40.95</s:price>
+      <s:sku>TESCACHLOU50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9852099851</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">56.95</s:price>
+      <s:sku>CACHLOU50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9845405515</id>
+    <published>2017-08-18T06:05:52-04:00</published>
+    <updated>2017-08-18T06:05:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/cacharel"/>
+    <title>Cacharel</title>
+    <s:type>Men</s:type>
+    <s:vendor>CACHAREL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/cacharel.jpg?v=1571609933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CACHAREL<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            59.95 - 63.95
+            <a href="https://perfumeonline.ca/products/cacharel">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20julyy2021aj</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9845405515</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku>TESCACPOU100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9845405515</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">63.95</s:price>
+      <s:sku>CACHPOU100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9837243275</id>
+    <published>2017-08-17T05:42:20-04:00</published>
+    <updated>2017-08-17T05:42:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/eden"/>
+    <title>Eden</title>
+    <s:type>Women</s:type>
+    <s:vendor>CACHAREL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/CACHEDE100TW_spo.jpg?v=1571609912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CACHAREL<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            40.95 - 79.95
+            <a href="https://perfumeonline.ca/products/eden">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black-Friday</s:tag>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837243275</id>
+      <title>30ML EDP</title>
+      <s:price currency="CAD">40.95</s:price>
+      <s:sku>CACHEDE100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837243275</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">45.95</s:price>
+      <s:sku>CACHEDE50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837243275</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>CACHEDE100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836991051</id>
+    <published>2017-08-17T04:15:18-04:00</published>
+    <updated>2017-08-17T04:15:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/noa"/>
+    <title>NOA</title>
+    <s:type>Women</s:type>
+    <s:vendor>CACHAREL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/123028_spo.jpg?v=1571609910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CACHAREL<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            28.45 - 58.95
+            <a href="https://perfumeonline.ca/products/noa">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20julyy2021aj</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836991051</id>
+      <title>30ML EDT</title>
+      <s:price currency="CAD">28.45</s:price>
+      <s:sku>CACHNOA30TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836991051</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">38.45</s:price>
+      <s:sku>CACHNOA50TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836991051</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">58.95</s:price>
+      <s:sku>CACHNOA100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836991051</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">38.95</s:price>
+      <s:sku>TESCACHNOA100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836946315</id>
+    <published>2017-08-17T03:50:04-04:00</published>
+    <updated>2017-08-17T03:50:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/anais-anais"/>
+    <title>Anais Anais</title>
+    <s:type>Women</s:type>
+    <s:vendor>CACHAREL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ANAIS-ANAIS.png?v=1571609909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CACHAREL<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            26.45 - 51.95
+            <a href="https://perfumeonline.ca/products/anais-anais">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:tag>Price170</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836946315</id>
+      <title>30ML EDT</title>
+      <s:price currency="CAD">26.45</s:price>
+      <s:sku>CACHANA30TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836946315</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">33.95</s:price>
+      <s:sku>CACHANA50TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836946315</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">30.75</s:price>
+      <s:sku>TESCACHANA100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836946315</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">51.95</s:price>
+      <s:sku>CACHANA100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836938635</id>
+    <published>2017-08-17T03:45:48-04:00</published>
+    <updated>2017-08-17T03:45:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amor-amor"/>
+    <title>Amor Amor</title>
+    <s:type>Women</s:type>
+    <s:vendor>CACHAREL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AMOR-AMOR.png?v=1571609909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CACHAREL<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            31.95 - 50.95
+            <a href="https://perfumeonline.ca/products/amor-amor">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>Price170</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836938635</id>
+      <title>30ML EDT</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>CACHAMO30TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836938635</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">33.95</s:price>
+      <s:sku>CACHAMO50TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836938635</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">38.95</s:price>
+      <s:sku>TESCACHAMO100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836938635</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">50.95</s:price>
+      <s:sku>CACHAMO100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

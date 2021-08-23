@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/burberry.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2020-11-22T02:01:12-05:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6089150628029</id>
+    <published>2020-11-22T02:01:12-05:00</published>
+    <updated>2020-11-22T02:01:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/burberry-her-blossom"/>
+    <title>Burberry Her Blossom</title>
+    <s:type>Women</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_2d7f456a-26eb-44a7-af2d-7b11f05db32e.png?v=1613493293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            74.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6089150628029</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">74.95</s:price>
+      <s:sku>BURHERBLO50TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4657963237473</id>
+    <published>2020-06-06T13:47:28-04:00</published>
+    <updated>2020-06-06T13:47:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/burberry-sport-ice-edt"/>
+    <title>Burberry Sport Ice Edt</title>
+    <s:type>Women</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Burberry-Sport-Ice-Edt.png?v=1601289191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>31MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4657963237473</id>
+      <title>75ML EDT TESTER</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>TESBURSPOICE75TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4651604508769</id>
+    <published>2020-05-31T02:41:04-04:00</published>
+    <updated>2020-05-31T02:41:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/burberry-her-intense"/>
+    <title>Burberry Her Intense</title>
+    <s:type>Women</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Burberry-Her-Intense.png?v=1600888808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            95.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>31MAYY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4651604508769</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">95.95</s:price>
+      <s:sku>BURHERINT100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332957958241</id>
+    <published>2019-11-23T04:30:33-05:00</published>
+    <updated>2019-11-23T04:30:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/my-burberry-blush-gift-set-women"/>
+    <title>My Burberry Blush Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_a9cb3707-1adf-445e-8710-1b65a433619f.png?v=1572519297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            92.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332957958241</id>
+      <title>90ML Edp + 90ML Body Lotion</title>
+      <s:price currency="CAD">92.95</s:price>
+      <s:sku>SET-BURBLU90W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332957794401</id>
+    <published>2019-11-23T04:30:33-05:00</published>
+    <updated>2019-11-23T04:30:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/mr-burberry-gift-set-men"/>
+    <title>Mr Burberry Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_7057849a-5fdc-464e-afbf-fd97bdf55ef6.png?v=1572519297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            68.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332957794401</id>
+      <title>100ML Edt Deodorant Set</title>
+      <s:price currency="CAD">68.95</s:price>
+      <s:sku>SET-BURMR8767M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332548980833</id>
+    <published>2019-11-23T04:30:26-05:00</published>
+    <updated>2019-11-23T04:30:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/my-burberry-black-gift-set-women"/>
+    <title>My Burberry Black Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-BURMYBLA3043W_spo_86924dd0-86a5-4208-afe5-1972232ed08a.jpg?v=1572433131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            93.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>giftsetisdone</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332548980833</id>
+      <title>90ML Edp + 75ML Body Lotion</title>
+      <s:price currency="CAD">93.95</s:price>
+      <s:sku>SET-BURMYBLA3043W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332548948065</id>
+    <published>2019-11-23T04:30:26-05:00</published>
+    <updated>2019-11-23T04:30:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/my-burberry-gift-set-women"/>
+    <title>My Burberry Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-BURMY2787W_spo_4a79fe3f-99b6-4d0f-ac67-0672eb3c609d.jpg?v=1572433130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            93.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>giftsetisdone</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332548948065</id>
+      <title>90ML Edp + 100ML Deodorant</title>
+      <s:price currency="CAD">93.95</s:price>
+      <s:sku>SET-BURMY2787W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332954648673</id>
+    <published>2019-11-23T04:28:04-05:00</published>
+    <updated>2019-11-23T04:28:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/burberry-mr-burberry-gift-set-men"/>
+    <title>Burberry Mr Burberry Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_902950e2-b002-4aaf-9c56-8d3f7385f67d.png?v=1572519218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            68.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332954648673</id>
+      <title>100ML Edt + 30ML Edt</title>
+      <s:price currency="CAD">68.95</s:price>
+      <s:sku>SET-BURMR100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332954550369</id>
+    <published>2019-11-23T04:28:04-05:00</published>
+    <updated>2019-11-23T04:28:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/burberry-brit-w-gift-set-women-1"/>
+    <title>Burberry Brit W Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_7dffb17b-713b-42f2-af62-829ae063188c.png?v=1572519218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332954550369</id>
+      <title>100ML Edp + 2 X 7.5ML Mini</title>
+      <s:price currency="CAD">69.95</s:price>
+      <s:sku>SET-BURBRI5681W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332954517601</id>
+    <published>2019-11-23T04:28:03-05:00</published>
+    <updated>2019-11-23T04:28:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/burberry-brit-gift-set-men"/>
+    <title>Burberry Brit Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_09ca2e5f-ed53-4201-954b-b3bb7d549a05.png?v=1572519217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            70.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332954517601</id>
+      <title>100ML Edt + 30ML Edt</title>
+      <s:price currency="CAD">70.95</s:price>
+      <s:sku>SET-BURBRI100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332954386529</id>
+    <published>2019-11-23T04:28:03-05:00</published>
+    <updated>2019-11-23T04:28:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/burberry-brit-w-gift-set-women"/>
+    <title>Burberry Brit W Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_66f2cc83-4788-4645-b6bc-277bfeb6c37b.png?v=1572519218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            78.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332954386529</id>
+      <title>100ML Edp + 30ML Edp</title>
+      <s:price currency="CAD">78.95</s:price>
+      <s:sku>SET-BURBRI100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/12287226507</id>
+    <published>2019-11-23T04:27:52-05:00</published>
+    <updated>2019-11-23T04:27:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/burberry-brit-rhythm-gift-set-men"/>
+    <title>Burberry Brit Rhythm Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-BURRHY1654M_spo.jpg?v=1571609954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            48.95 - 60.95
+            <a href="https://perfumeonline.ca/products/burberry-brit-rhythm-gift-set-men">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>Vsets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/12287226507</id>
+      <title>30ML EDT + 30ML EDT</title>
+      <s:price currency="CAD">48.95</s:price>
+      <s:sku>SET-BURRHY30M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/12287226507</id>
+      <title>100ML EDT + 30ML EDT</title>
+      <s:price currency="CAD">57.95</s:price>
+      <s:sku>SET-BURRHY1654M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/12287226507</id>
+      <title>90ML EDT + 30ML EDT</title>
+      <s:price currency="CAD">60.95</s:price>
+      <s:sku>SET-BURRHY8938M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9965373259</id>
+    <published>2019-11-23T04:27:50-05:00</published>
+    <updated>2019-11-23T04:27:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/burberry-brit-splash-gift-set-men"/>
+    <title>Burberry Brit Splash Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-BURBRISPL4629M_spo.jpg?v=1571609953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            52.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>GiftSetReady</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>OLDGIFTSETS</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9965373259</id>
+      <title>100ML EDT + 75GM DEO STICK TRAVEL</title>
+      <s:price currency="CAD">52.95</s:price>
+      <s:sku>SET-BURBRISPL4629M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4341540028513</id>
+    <published>2019-11-04T11:21:21-05:00</published>
+    <updated>2019-11-04T11:21:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/burberry-my-burberry-indigo"/>
+    <title>Burberry Mr Burberry Indigo</title>
+    <s:type>Men</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Burberry-My-Burberry-Indigo.png?v=1572968414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            33.95 - 44.95
+            <a href="https://perfumeonline.ca/products/burberry-my-burberry-indigo">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12FEBB2021</s:tag>
+    <s:tag>3NOVV2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4341540028513</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">33.95</s:price>
+      <s:sku>TESBURMYIND100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4341540028513</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">44.95</s:price>
+      <s:sku>BURMYIND100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4341332050017</id>
+    <published>2019-11-04T05:51:18-05:00</published>
+    <updated>2019-11-04T05:51:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/burberry-body-edt"/>
+    <title>Burberry Body Edt</title>
+    <s:type>Women</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Burberry-Body-Edt.png?v=1572968170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            48.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3NOVV2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4341332050017</id>
+      <title>85ML EDT</title>
+      <s:price currency="CAD">48.95</s:price>
+      <s:sku>BURBOD85TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258973646945</id>
+    <published>2019-10-15T07:36:22-04:00</published>
+    <updated>2019-10-15T07:36:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/burberry-her"/>
+    <title>Burberry Her</title>
+    <s:type>Women</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BURBERRY-HER-50ML-EDP-WOMEN.png?v=1571610019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            62.95 - 89.95
+            <a href="https://perfumeonline.ca/products/burberry-her">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12FEBB2021</s:tag>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973646945</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">67.95</s:price>
+      <s:sku>BURHER50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973646945</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">62.95</s:price>
+      <s:sku>TESBURHER90PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973646945</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">89.95</s:price>
+      <s:sku>BURHER90PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1435233157217</id>
+    <published>2018-09-27T11:57:48-04:00</published>
+    <updated>2018-09-27T11:57:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/mr-burberry-edp"/>
+    <title>Mr. Burberry Edp</title>
+    <s:type>Men</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/mr_burberry_edp_-_2_1024x1024_49b41960-85e0-4766-a927-c87cac2eb8a7.jpg?v=1571609986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            37.95 - 95.95
+            <a href="https://perfumeonline.ca/products/mr-burberry-edp">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1435233157217</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>BURMR50PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1435233157217</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">43.95</s:price>
+      <s:sku>TESBURMR100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1435233157217</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">58.95</s:price>
+      <s:sku>BURMR100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1435233157217</id>
+      <title>150ML EDP</title>
+      <s:price currency="CAD">95.95</s:price>
+      <s:sku>BURMRBUR150PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9844241547</id>
+    <published>2018-07-03T15:12:03-04:00</published>
+    <updated>2018-07-03T15:12:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/body-intense"/>
+    <title>Burberry Body Intense</title>
+    <s:type>Women</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Burberry-Body-Intense.png?v=1571609925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            38.55 - 75.45
+            <a href="https://perfumeonline.ca/products/body-intense">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844241547</id>
+      <title>60ML EDP TESTER</title>
+      <s:price currency="CAD">38.55</s:price>
+      <s:sku>TESBURBODINT60PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844241547</id>
+      <title>60ML EDP</title>
+      <s:price currency="CAD">58.95</s:price>
+      <s:sku>BURBODINT60PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844241547</id>
+      <title>85ML EDP</title>
+      <s:price currency="CAD">75.45</s:price>
+      <s:sku>BURBODINT85PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9865047755</id>
+    <published>2018-06-22T14:35:46-04:00</published>
+    <updated>2018-06-22T14:35:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/burberry-summer-women"/>
+    <title>Burberry Summer</title>
+    <s:type>Women</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Burberry-Summer.png?v=1571609951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Burberry Summer Perfume by Burberry is a feminine fragrance that known fresh fruit and fragrant flower. Launched in 2013, the refreshing fragrance combines with top notes of green leaves, mandarin orange a d pomegranate with flowery heart notes of rose, lily of the valley and freesia. The base contains notes of white musk, sandalwood and cedar.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9865047755</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">34.95</s:price>
+      <s:sku>BURSUM100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/756079886433</id>
+    <published>2018-05-19T11:15:27-04:00</published>
+    <updated>2018-05-19T11:15:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/burberry-rhythm-floral"/>
+    <title>Burberry Brit Rhythm Floral</title>
+    <s:type>Women</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Burberry_Rhythm_Floral_Perfume_for_Women.jpg?v=1571609964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            26.95 - 42.95
+            <a href="https://perfumeonline.ca/products/burberry-rhythm-floral">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/756079886433</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">26.95</s:price>
+      <s:sku>BURRHYFLO50TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/756079886433</id>
+      <title>90ML EDT</title>
+      <s:price currency="CAD">42.95</s:price>
+      <s:sku>BURRHYFLO100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/755340017761</id>
+    <published>2018-05-16T15:50:35-04:00</published>
+    <updated>2018-05-16T15:50:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/burberry-brit"/>
+    <title>Burberry Brit Edp</title>
+    <s:type>Women</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Burberry_brit_her_edp.jpg?v=1620065880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            33.95 - 54.75
+            <a href="https://perfumeonline.ca/products/burberry-brit">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3MAYY2021</s:tag>
+    <s:tag>Black-Friday</s:tag>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/755340017761</id>
+      <title>30ML EDP</title>
+      <s:price currency="CAD">34.95</s:price>
+      <s:sku>BURBRI30PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/755340017761</id>
+      <title>50ML EDP  (New Packaging)</title>
+      <s:price currency="CAD">33.95</s:price>
+      <s:sku>BURBRI50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/755340017761</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">38.95</s:price>
+      <s:sku>TESBURBRI100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/755340017761</id>
+      <title>100ML EDP  (New Packaging)</title>
+      <s:price currency="CAD">54.75</s:price>
+      <s:sku>BURBRI100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/296307785768</id>
+    <published>2017-11-23T10:58:15-05:00</published>
+    <updated>2017-11-23T10:58:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/my-burberry-blush"/>
+    <title>My Burberry Blush</title>
+    <s:type>Women</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/My-Burberry-Blush.png?v=1571609960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            42.95 - 83.95
+            <a href="https://perfumeonline.ca/products/my-burberry-blush">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>24octt2019</s:tag>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/296307785768</id>
+      <title>30ML EDP</title>
+      <s:price currency="CAD">42.95</s:price>
+      <s:sku>BURMYBLU30PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/296307785768</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">63.95</s:price>
+      <s:sku>BURMYBLU50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/296307785768</id>
+      <title>90ML EDP TESTER</title>
+      <s:price currency="CAD">74.95</s:price>
+      <s:sku>TESBURMYBLU90W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/296307785768</id>
+      <title>90ML EDP</title>
+      <s:price currency="CAD">83.95</s:price>
+      <s:sku>BURMYBLU90PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9844336779</id>
+    <published>2017-11-19T19:10:37-05:00</published>
+    <updated>2017-11-19T19:10:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/burberry-sport"/>
+    <title>Burberry Sport</title>
+    <s:type>Men</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Burberry_Sport_Cologne_for_Men.jpg?v=1571609927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            29.25 - 43.95
+            <a href="https://perfumeonline.ca/products/burberry-sport">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844336779</id>
+      <title>50ML EDT TESTER</title>
+      <s:price currency="CAD">29.25</s:price>
+      <s:sku>TESBURSPO50M</s:sku>
+      <s:grams>458</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844336779</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">36.95</s:price>
+      <s:sku>BURSPO50M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844336779</id>
+      <title>75ML EDT TESTER</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>TESBURSPO75TM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844336779</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">43.95</s:price>
+      <s:sku>BURSPO75M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9844346507</id>
+    <published>2017-11-10T15:31:38-05:00</published>
+    <updated>2017-11-10T15:31:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/burberry-summer"/>
+    <title>Burberry Summer</title>
+    <s:type>Men</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Burberry_Summer_Cologne_for_Men_by_Burberry.jpg?v=1571609927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Burberry Summer Cologne was created by perfumer Emilie Cooperman and launched in 2013 by the house of Burberry. Burberry Summer is a charming scent that opens with rich and fresh notes of petitgrain, yuzu, mint, juniper berries and mandarin orange. Middle notes follow with gorse, driftwood and thyme. In the base are notes of amber, cedar, amyris and white musk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844346507</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>BURSUM100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9844378187</id>
+    <published>2017-08-18T03:25:10-04:00</published>
+    <updated>2017-08-18T03:25:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/burberry-weekend-women"/>
+    <title>Burberry Weekend</title>
+    <s:type>Men</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Burberry_Weekend_for_Men_by_Burberry.jpg?v=1571609928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            24.45 - 37.45
+            <a href="https://perfumeonline.ca/products/burberry-weekend-women">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844378187</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">24.45</s:price>
+      <s:sku>TESBURWEE100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844378187</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">37.45</s:price>
+      <s:sku>BURWEE100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/atelier-des-ors.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2020-10-10T10:38:12-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/4787834224737</id>
+    <published>2020-10-10T10:38:12-04:00</published>
+    <updated>2020-10-10T10:38:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-des-ors-musc-immortel"/>
+    <title>Atelier Des Ors Musc Immortel</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Des Ors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ATELIER-DES-ORS-MUSC-IMMORTEL-100ML-EDP-UNISEX.png?v=1606122471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Des Ors<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            187.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1OCT2020</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4787834224737</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">187.45</s:price>
+      <s:sku>ATEMUSIMM100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4787833307233</id>
+    <published>2020-10-10T10:37:14-04:00</published>
+    <updated>2020-10-10T10:37:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-des-ors-cuir-sacre"/>
+    <title>Atelier Des Ors Cuir Sacre</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Des Ors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ATELIER-DES-ORS-CUIR-SACRE-100ML-EDP-UNISEX.png?v=1606122471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Des Ors<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            229.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1OCT2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4787833307233</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">229.95</s:price>
+      <s:sku>ATECUISAC100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3936742735969</id>
+    <published>2019-07-16T11:52:24-04:00</published>
+    <updated>2019-07-16T11:52:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-des-ors-bois-sikar"/>
+    <title>Atelier Des Ors Bois Sikar</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Des Ors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Atelier-Des-Ors-Bois-Sikar-100Ml-Edp-Unisex.png?v=1571610004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Des Ors<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            174.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>13JULYY</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3936742735969</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">174.95</s:price>
+      <s:sku>ATEBOI100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3936742703201</id>
+    <published>2019-07-16T11:52:24-04:00</published>
+    <updated>2019-07-16T11:52:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-des-ors-coer-des-anges"/>
+    <title>Atelier Des Ors Choeur Des Anges</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Des Ors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Atelier-Des-Ors-Coer-Des-Anges-100Ml-Edp-Unisex.png?v=1571610004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Des Ors<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            172.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>13JULYY</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3936742703201</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">172.95</s:price>
+      <s:sku>ATEANG100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3936742670433</id>
+    <published>2019-07-16T11:52:24-04:00</published>
+    <updated>2019-07-16T11:52:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-des-ors-coer-des-ames"/>
+    <title>Atelier Des Ors Crepuscule Des Ames</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Des Ors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/687367-2.jpg?v=1571610004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Des Ors<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            162.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>13JULYY</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3936742670433</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">162.95</s:price>
+      <s:sku>ATEAME100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3936742801505</id>
+    <published>2019-07-16T11:52:23-04:00</published>
+    <updated>2019-07-16T11:52:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-des-ors-iris-fauve"/>
+    <title>Atelier Des Ors Iris Fauve</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Des Ors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Atelier-Des-Ors-Iris-Fauve-100Ml-Edp-Unisex.png?v=1571610004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Des Ors<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            187.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>13JULYY</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3936742801505</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">187.95</s:price>
+      <s:sku>ATEFAU100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3936742768737</id>
+    <published>2019-07-16T11:52:23-04:00</published>
+    <updated>2019-07-16T11:52:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-des-ors-aube-rubis"/>
+    <title>Atelier Des Ors Aube Rubis</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Des Ors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Atelier-Des-Ors-Aube-Rubis-100Ml-Edp-Unisex.png?v=1571610004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Des Ors<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            199.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>13JULYY</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3936742768737</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">199.95</s:price>
+      <s:sku>ATEAUB100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3936742867041</id>
+    <published>2019-07-16T11:52:22-04:00</published>
+    <updated>2019-07-16T11:52:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-des-ors-rose-omeyyade"/>
+    <title>Atelier Des Ors Rose Omeyyade</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Des Ors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Atelier-Des-Ors-Rose-Omeyyade-100Ml-Edp-Unisex.png?v=1571610004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Des Ors<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            195.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>13JULYY</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3936742867041</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">195.95</s:price>
+      <s:sku>ATEOME100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3936742834273</id>
+    <published>2019-07-16T11:52:22-04:00</published>
+    <updated>2019-07-16T11:52:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/atelier-des-ors-nuda-veritas"/>
+    <title>Atelier Des Ors Nuda Veritas</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Atelier Des Ors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Atelier-Des-Ors-Nuda-Veritas-100Ml-Edp-Unisex.png?v=1571610004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Des Ors<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            199.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>13JULYY</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3936742834273</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">199.95</s:price>
+      <s:sku>ATENUD100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/balenciaga.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-06-22T00:50:31-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794777100477</id>
+    <published>2021-06-22T00:50:31-04:00</published>
+    <updated>2021-06-22T00:50:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/balenciaga-talisman"/>
+    <title>Balenciaga Talisman</title>
+    <s:type>Women</s:type>
+    <s:vendor>BALENCIAGA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_2cc9576e-f392-4ea6-9971-0c6dd5fa4a9a.png?v=1624337435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BALENCIAGA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            124.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794777100477</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">124.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6218642063549</id>
+    <published>2021-02-12T11:35:21-05:00</published>
+    <updated>2021-02-12T11:35:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/balenciaga-paris"/>
+    <title>Balenciaga Paris</title>
+    <s:type>Women</s:type>
+    <s:vendor>BALENCIAGA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_5c04b820-e2e9-4be0-846b-81c6d24f8fa9.png?v=1626101770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BALENCIAGA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            115.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12FEBB2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6218642063549</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">115.95</s:price>
+      <s:sku>BALPAR75W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9838289099</id>
+    <published>2018-10-09T14:58:30-04:00</published>
+    <updated>2018-10-09T14:58:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/balenciaga-leau-rose"/>
+    <title>Balenciaga Paris L&apos;eau Rose</title>
+    <s:type>Women</s:type>
+    <s:vendor>BALENCIAGA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Balenciaga-Paris-L_eau-Rose.png?v=1571609918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BALENCIAGA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            64.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Balenciaga Paris L'eau Rose is an aromatic floral fragrance for women introduced in 2013 by fashion house Balenciaga. The feminine scent opens with the top note of blackberry with the heart of patchouli, rose and violet while the base contains cedar, cypress and musk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838289099</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">64.95</s:price>
+      <s:sku>BALROS50TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1410655060065</id>
+    <published>2018-08-08T07:56:54-04:00</published>
+    <updated>2018-08-08T07:56:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/balenciaga-florabotanica"/>
+    <title>BALENCIAGA FLORABOTANICA</title>
+    <s:type>Women</s:type>
+    <s:vendor>BALENCIAGA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/FLORABOTANICA.png?v=1571609977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BALENCIAGA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            85.95 - 108.95
+            <a href="https://perfumeonline.ca/products/balenciaga-florabotanica">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1410655060065</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">85.95</s:price>
+      <s:sku>BALFLO50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1410655060065</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">108.95</s:price>
+      <s:sku>BALFLO100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1392384180321</id>
+    <published>2018-07-21T11:20:41-04:00</published>
+    <updated>2018-07-21T11:20:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/cristobal-homme-by-balenciaga"/>
+    <title>CRISTOBAL HOMME BY BALENCIAGA</title>
+    <s:type>Men</s:type>
+    <s:vendor>BALENCIAGA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/CRISTOBAL-HOMME-BY-BALENCIAGA-100ML-EDT-MEN.jpg?v=1571609973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BALENCIAGA<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            86.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1392384180321</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">86.95</s:price>
+      <s:sku>BALCRI100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1392348364897</id>
+    <published>2018-07-21T10:24:41-04:00</published>
+    <updated>2018-07-21T10:24:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/prelude-by-balenciaga"/>
+    <title>PRELUDE BY BALENCIAGA</title>
+    <s:type>Women</s:type>
+    <s:vendor>BALENCIAGA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BALENCIAGA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            38.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1392348364897</id>
+      <title>30ML EDT</title>
+      <s:price currency="CAD">38.95</s:price>
+      <s:sku>BALPRE30TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1392286105697</id>
+    <published>2018-07-21T08:46:46-04:00</published>
+    <updated>2018-07-21T08:46:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/michelle-by-balenciaga"/>
+    <title>MICHELLE BY BALENCIAGA</title>
+    <s:type>Women</s:type>
+    <s:vendor>BALENCIAGA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_928bb3bf-c069-4702-99d0-e266c920bc34.png?v=1571609971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BALENCIAGA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1392286105697</id>
+      <title>30ML EDT</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>BALMIC30W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1391172124769</id>
+    <published>2018-07-20T15:11:15-04:00</published>
+    <updated>2018-07-20T15:11:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/le-dix-by-balenciaga"/>
+    <title>LE DIX BY BALENCIAGA</title>
+    <s:type>Women</s:type>
+    <s:vendor>BALENCIAGA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/1695210.jpg?v=1571609971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BALENCIAGA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1391172124769</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">69.95</s:price>
+      <s:sku>BALLED50W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

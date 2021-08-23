@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/adidas.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-06-22T00:50:06-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794776576189</id>
+    <published>2021-06-22T00:50:06-04:00</published>
+    <updated>2021-06-22T00:50:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-moves-for-her"/>
+    <title>Adidas Moves For Her</title>
+    <s:type>Women</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_f8b8363a-6012-4201-b5a6-363e1589dfda.png?v=1624337409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794776576189</id>
+      <title>30ML EDT</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794776543421</id>
+    <published>2021-06-22T00:50:06-04:00</published>
+    <updated>2021-06-22T00:50:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-sport-fever-vintage-packaging"/>
+    <title>Adidas Sport Fever Vintage Packaging</title>
+    <s:type>Men</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_5bcdb876-6bfa-45e2-9940-c539226bdac7.png?v=1624337440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794776543421</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">34.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794776510653</id>
+    <published>2021-06-22T00:50:04-04:00</published>
+    <updated>2021-06-22T00:50:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-sport-field-vintage-packaging"/>
+    <title>Adidas Sport Field Vintage Packaging</title>
+    <s:type>Men</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_a0842537-b22a-4256-908c-ccb31cc8ffec.png?v=1624337409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794776510653</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">34.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6772899053757</id>
+    <published>2021-06-14T03:41:26-04:00</published>
+    <updated>2021-06-14T03:41:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-get-ready-1"/>
+    <title>Adidas Get Ready</title>
+    <s:type>Men</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/81cPmNKHKKL._SL1500.jpg?v=1626101699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6772899053757</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku>ADIGET100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6772895580349</id>
+    <published>2021-06-14T03:39:58-04:00</published>
+    <updated>2021-06-14T03:39:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-team-five-special-edition"/>
+    <title>Adidas Team Five Special Edition</title>
+    <s:type>Men</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/81ffJVzIAFS._SL1500.jpg?v=1626101701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6772895580349</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku>ADITEAFIV100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4604078948449</id>
+    <published>2020-05-04T23:50:51-04:00</published>
+    <updated>2020-05-04T23:50:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-get-ready"/>
+    <title>Adidas Get Ready</title>
+    <s:type>Women</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Adidas-Get-Ready.png?v=1600888743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4MAY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4604078948449</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>ADIGETREA50TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4603387412577</id>
+    <published>2020-05-04T13:33:09-04:00</published>
+    <updated>2020-05-04T13:33:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-fun-sensation"/>
+    <title>Adidas Fun Sensation</title>
+    <s:type>Women</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Adidas-Fun-Sensation.png?v=1600888743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4MAY2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4603387412577</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku>ADIFUNSES50TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4385349664865</id>
+    <published>2019-11-25T06:02:57-05:00</published>
+    <updated>2019-11-25T06:02:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-moves-men"/>
+    <title>Adidas Moves Men</title>
+    <s:type>Men</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Adidas-Moves-Men.png?v=1574709005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            15.95 - 23.95
+            <a href="https://perfumeonline.ca/products/adidas-moves-men">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10MAY2020</s:tag>
+    <s:tag>25novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4385349664865</id>
+      <title>30ML EDT</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku>ADIMOV30TM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4385349664865</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>ADIMOV50TM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4338909872225</id>
+    <published>2019-11-02T10:13:19-04:00</published>
+    <updated>2019-11-02T10:13:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-floral-dream"/>
+    <title>Adidas Floral Dream</title>
+    <s:type>Women</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ADIDAS-FLORAL-DREAM-50ML-EDT-WOMEN.png?v=1572705238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4338909872225</id>
+      <title>50ML EDT (Slightly Damaged box)</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>ADIFLO50W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/786463031393</id>
+    <published>2018-12-01T09:19:30-05:00</published>
+    <updated>2018-12-01T09:19:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-moves"/>
+    <title>ADIDAS MOVES</title>
+    <s:type>Women</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ADIDAS-MOVES-50ML-EDT-WOMEN.jpg?v=1571609970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/786463031393</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>ADIMOV50W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836556555</id>
+    <published>2018-12-01T09:19:30-05:00</published>
+    <updated>2018-12-01T09:19:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-victory-league"/>
+    <title>Adidas Victory League</title>
+    <s:type>Men</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/142088_spo.jpg?v=1571609907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            6.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836556555</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">6.45</s:price>
+      <s:sku>ADIVIC100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836532427</id>
+    <published>2018-12-01T09:19:29-05:00</published>
+    <updated>2018-12-01T09:19:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-team-force"/>
+    <title>Adidas Team Force</title>
+    <s:type>Men</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/128802_spo.jpg?v=1571609907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            6.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836532427</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">6.45</s:price>
+      <s:sku>ADITEA100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836509387</id>
+    <published>2018-12-01T09:19:29-05:00</published>
+    <updated>2018-12-01T09:19:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-pure-lightness"/>
+    <title>ADIDAS PURE LIGHTNESS</title>
+    <s:type>Women</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ADIDAS-PURE-LIGHTNESS.png?v=1571609907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            8.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836509387</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku>ADIPUR50TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836483275</id>
+    <published>2018-12-01T09:19:29-05:00</published>
+    <updated>2018-12-01T09:19:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-pure-game"/>
+    <title>Adidas Pure Game</title>
+    <s:type>Men</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/210907_spo.jpg?v=1571609907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836483275</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>ADIPUR100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836453387</id>
+    <published>2018-12-01T09:19:28-05:00</published>
+    <updated>2018-12-01T09:19:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-natural-vitality"/>
+    <title>ADIDAS NATURAL VITALITY</title>
+    <s:type>Women</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ADIDAS-NATURAL-VITALITY.png?v=1571609907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836453387</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>ADINATU50TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836424267</id>
+    <published>2018-12-01T09:19:28-05:00</published>
+    <updated>2018-12-01T09:19:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-intense-touch"/>
+    <title>Adidas Intense Touch</title>
+    <s:type>Men</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Adidas-Intense-Touch.png?v=1571609907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836424267</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>ADIINT100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836392843</id>
+    <published>2018-12-01T09:19:28-05:00</published>
+    <updated>2018-12-01T09:19:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-ice-dive"/>
+    <title>Adidas Ice Dive</title>
+    <s:type>Men</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/127840_spo.jpg?v=1571609907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836392843</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>ADIICE100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836357387</id>
+    <published>2018-12-01T09:19:27-05:00</published>
+    <updated>2018-12-01T09:19:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-fruity-rythm"/>
+    <title>ADIDAS FRUITY RYTHM</title>
+    <s:type>Women</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ADIDAS-FRUITY-RYTHM.png?v=1571609907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            7.95 - 14.95
+            <a href="https://perfumeonline.ca/products/adidas-fruity-rythm">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4MAY2020</s:tag>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836357387</id>
+      <title>50ML EDT(slightly damaged box)</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>ADIFRU50TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836357387</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>ADIFRU75TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836297291</id>
+    <published>2018-12-01T09:19:27-05:00</published>
+    <updated>2018-12-01T09:19:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-fresh-impact"/>
+    <title>Adidas Fresh Impact</title>
+    <s:type>Men</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Adidas-Fresh-Impact.png?v=1571609907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836297291</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>ADIFRE100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836247435</id>
+    <published>2018-12-01T09:19:27-05:00</published>
+    <updated>2018-12-01T09:19:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-free-emotion"/>
+    <title>ADIDAS FREE EMOTION</title>
+    <s:type>Women</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ADIDAS-FREE-EMOTION.png?v=1571609907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            11.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836247435</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">11.45</s:price>
+      <s:sku>ADIFRE50TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836205579</id>
+    <published>2018-12-01T09:19:26-05:00</published>
+    <updated>2018-12-01T09:19:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-fair-play"/>
+    <title>Adidas Fair Play</title>
+    <s:type>Men</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ADIFAI100M_spo.jpg?v=1571609906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836205579</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>ADIFAI100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9835471051</id>
+    <published>2018-12-01T09:19:26-05:00</published>
+    <updated>2018-12-01T09:19:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-extreme-power"/>
+    <title>Adidas Extreme Power</title>
+    <s:type>Men</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/adidas_extreme_power_1024x1024_7896bfd6-2609-48c1-bcfe-9fe2f3379a4a.jpg?v=1571609905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9835471051</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">6.75</s:price>
+      <s:sku>ADIEXT100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9835406411</id>
+    <published>2018-12-01T09:19:26-05:00</published>
+    <updated>2018-12-01T09:19:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-dynamic-pulse"/>
+    <title>Adidas Dynamic Pulse</title>
+    <s:type>Men</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/128803_spo.jpg?v=1571609904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            7.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9835406411</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">7.45</s:price>
+      <s:sku>ADIDYN100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9835371083</id>
+    <published>2018-12-01T09:19:25-05:00</published>
+    <updated>2018-12-01T09:19:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/adidas-deep-energy"/>
+    <title>Adidas Deep Energy</title>
+    <s:type>Men</s:type>
+    <s:vendor>ADIDAS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/158523_spo.jpg?v=1571609904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADIDAS<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            39.99 - 59.99
+            <a href="https://perfumeonline.ca/products/adidas-deep-energy">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22OCCT2020</s:tag>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9835371083</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>TESADIDEE100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9835371083</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>ADIDEE100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

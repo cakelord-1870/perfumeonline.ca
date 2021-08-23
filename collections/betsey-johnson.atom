@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/betsey-johnson.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2018-11-19T12:40:09-05:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/9838418123</id>
+    <published>2018-11-19T12:40:09-05:00</published>
+    <updated>2018-11-19T12:40:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/betsey-johnson"/>
+    <title>Betsey Johnson Eau De Parfum</title>
+    <s:type>Women</s:type>
+    <s:vendor>BETSEY JOHNSON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Betsey-Johnson-Eau-De-Parfum.png?v=1571609919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BETSEY JOHNSON<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            17.45 - 24.95
+            <a href="https://perfumeonline.ca/products/betsey-johnson">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838418123</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">17.45</s:price>
+      <s:sku>BET50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838418123</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>BET100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

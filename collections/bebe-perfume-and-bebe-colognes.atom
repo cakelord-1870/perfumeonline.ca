@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/bebe-perfume-and-bebe-colognes.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2018-10-09T14:58:29-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/9838331275</id>
+    <published>2018-10-09T14:58:29-04:00</published>
+    <updated>2018-10-09T14:58:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bebe"/>
+    <title>BEBE Eau De Parfume</title>
+    <s:type>Women</s:type>
+    <s:vendor>Bebe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BEBE-Eau-De-Parfume.png?v=1571609919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bebe<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bebe Perfume for women was introduced in 2013, it is an alluring scent from design house Bebe. The top notes are a blend of sweet pea, tuberose and mango while the heart fresh and floral with notes of rose, jasmine and peony. The base of the scent features musk, Virginia cedar and sandalwood.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838331275</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>BEBE100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9838351435</id>
+    <published>2017-11-26T17:22:01-05:00</published>
+    <updated>2017-11-26T17:22:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bebe-nouveau"/>
+    <title>BEBE NOUVEAU</title>
+    <s:type>Women</s:type>
+    <s:vendor>Bebe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BEBE-NOUVEAU.png?v=1571609919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bebe<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bebe Nouveau Perfume is a floral fruity fragrance for women’s presented in 2013. The nose behind this feminine perfume is Patricia Choux. The scent starts with the sparkling freshness of grapefruit, quince and citron blended with the floral notes of black orchid, jasmine and frangipani. The base contains warm and soft notes of amber, musk, ebony wood and vanilla.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838351435</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">22.95</s:price>
+      <s:sku>BEBNOU100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9838374347</id>
+    <published>2017-08-17T09:56:18-04:00</published>
+    <updated>2017-08-17T09:56:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bebe-nouveau-chic"/>
+    <title>BEBE NOUVEAU CHIC</title>
+    <s:type>Women</s:type>
+    <s:vendor>Bebe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BEBE-NOUVEAU-CHIC.png?v=1571609919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bebe<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Bebe Nouveau Chic Perfume for women was introduced in 2013 by design house Bebe. The scent’s starting notes includes Anjou pear and fresh tangerine with the heart of pink jasmine, magnolia and orchid. the base of the scent is warm and soft with amber, sandalwood and musk.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838374347</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">21.95</s:price>
+      <s:sku>BEBNOUCHI100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9838337803</id>
+    <published>2017-08-17T09:47:39-04:00</published>
+    <updated>2017-08-17T09:47:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bebe-desire"/>
+    <title>BEBE DESIRE</title>
+    <s:type>Women</s:type>
+    <s:vendor>Bebe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BEBE-DESIRE.png?v=1571609919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bebe<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            22.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Bebe Desire perfume for women was introduced in 2011, this women’s scent proudly shows its modern character from start with bottle and packaging. The scent begins with tempting citrus accords with a blend of sweet and refreshing notes of lemon, wild berries and kumquat. The heart is beautiful with floral notes of violet, frangipani and violet. Musk, sandalwood, praline, amber and woody notes create a strong base that invigorates the wearer.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838337803</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">22.45</s:price>
+      <s:sku>BEBDES100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

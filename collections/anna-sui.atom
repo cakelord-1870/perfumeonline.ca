@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/anna-sui.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-06-22T00:50:15-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794776838333</id>
+    <published>2021-06-22T00:50:15-04:00</published>
+    <updated>2021-06-22T00:50:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/anna-sui"/>
+    <title>Anna Sui</title>
+    <s:type>Women</s:type>
+    <s:vendor>ANNA SUI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_d77c8d5b-0a56-4790-a4b7-266e78a19e59.png?v=1624337419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANNA SUI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            164.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794776838333</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">164.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/12405699915</id>
+    <published>2019-11-23T04:27:53-05:00</published>
+    <updated>2019-11-23T04:27:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/anna-sui-secret-wish-gift-set-women"/>
+    <title>Anna Sui Secret Wish Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>ANNA SUI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-ASSEC6709W_spo.jpg?v=1571609956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANNA SUI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>GiftSetReady</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>OLDGIFTSETS</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/12405699915</id>
+      <title>50ML EDT + 90ML B/L + 90ML S/G</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku>SET-ASSEC6709W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9837079947</id>
+    <published>2018-10-09T14:58:35-04:00</published>
+    <updated>2018-10-09T14:58:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/secret-wish-magic-romance"/>
+    <title>SECRET WISH MAGIC ROMANCE</title>
+    <s:type>Women</s:type>
+    <s:vendor>ANNA SUI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SECRET-WISH-MAGIC-ROMANCE.png?v=1571609911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANNA SUI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            61.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837079947</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">61.95</s:price>
+      <s:sku>ANASECMAG75TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9852061515</id>
+    <published>2018-06-21T16:53:08-04:00</published>
+    <updated>2018-06-21T16:53:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/secret-wish"/>
+    <title>SECRET WISH</title>
+    <s:type>Women</s:type>
+    <s:vendor>ANNA SUI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SECRET-WISH.png?v=1571609946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANNA SUI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            40.95 - 57.95
+            <a href="https://perfumeonline.ca/products/secret-wish">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9852061515</id>
+      <title>75ML EDT TESTER</title>
+      <s:price currency="CAD">40.95</s:price>
+      <s:sku>TESANASUI75PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9852061515</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">57.95</s:price>
+      <s:sku>ANASEC75TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9844201803</id>
+    <published>2017-08-18T01:40:05-04:00</published>
+    <updated>2017-08-18T01:40:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/sui-love"/>
+    <title>SUI LOVE</title>
+    <s:type>Women</s:type>
+    <s:vendor>ANNA SUI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/4_aff0e592-2cfb-4d7e-a6fe-ce4df5937a89_spo.png?v=1571609924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANNA SUI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            49.95 - 55.95
+            <a href="https://perfumeonline.ca/products/sui-love">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICESHEET1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844201803</id>
+      <title>50ML EDT (No Cellophane)</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>ANALOV50TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844201803</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">55.95</s:price>
+      <s:sku>ANALOV75TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9838136843</id>
+    <published>2017-08-17T08:17:47-04:00</published>
+    <updated>2017-08-17T08:17:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/sui-dreams"/>
+    <title>SUI DREAMS</title>
+    <s:type>Women</s:type>
+    <s:vendor>ANNA SUI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SUI-DREAMS.png?v=1571609917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANNA SUI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            46.95 - 79.95
+            <a href="https://perfumeonline.ca/products/sui-dreams">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black-Friday</s:tag>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838136843</id>
+      <title>30ML EDT</title>
+      <s:price currency="CAD">46.95</s:price>
+      <s:sku>ANASUI30TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838136843</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>ANASUI50TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838136843</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">71.95</s:price>
+      <s:sku>ANASUI75TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9837206539</id>
+    <published>2017-08-17T05:33:45-04:00</published>
+    <updated>2017-08-17T05:33:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/anna-sui-dolly-girl"/>
+    <title>ANNA SUI DOLLY GIRL</title>
+    <s:type>Women</s:type>
+    <s:vendor>ANNA SUI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ANNA-SUI-DOLLY-GIRL.png?v=1571609912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ANNA SUI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            29.95 - 41.95
+            <a href="https://perfumeonline.ca/products/anna-sui-dolly-girl">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837206539</id>
+      <title>30ML EDT TESTER</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>TESANNDOL30W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837206539</id>
+      <title>30ML EDT</title>
+      <s:price currency="CAD">41.95</s:price>
+      <s:sku>ANADOL30TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

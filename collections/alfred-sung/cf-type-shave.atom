@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/alfred-sung.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-06-22T00:50:10-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794776707261</id>
+    <published>2021-06-22T00:50:10-04:00</published>
+    <updated>2021-06-22T00:50:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/alfred-sung-sha"/>
+    <title>Alfred Sung Sha</title>
+    <s:type>Women</s:type>
+    <s:vendor>ALFRED SUNG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_6eb7c1e7-386e-4166-bf6f-505f84081793.png?v=1624337419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALFRED SUNG<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794776707261</id>
+      <title>100ML EDT (SLIGHTLY DAMAGED BOX)</title>
+      <s:price currency="CAD">69.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9845177227</id>
+    <published>2018-11-19T12:41:23-05:00</published>
+    <updated>2018-11-19T12:41:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/hei"/>
+    <title>Sung Hei</title>
+    <s:type>Men</s:type>
+    <s:vendor>ALFRED SUNG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Alfred_Sung_Hei_Women.jpg?v=1571609930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALFRED SUNG<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            15.45 - 20.25
+            <a href="https://perfumeonline.ca/products/hei">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sung Hei by Alfred is a fresh aromatic fragrance for men’s created by perfumer David Apel and launched in 2002. This masculine scent contains top notes of spearmint, bergamot, violet leaf and bamboo; heart notes are cardamom, neroli, dill, jasmine and water notes; base notes include Tonka bean, amber, musk and cedar.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9845177227</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">17.45</s:price>
+      <s:sku>ASHEI50M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9845177227</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">15.45</s:price>
+      <s:sku>TESASHEI100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9845177227</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">20.25</s:price>
+      <s:sku>ASHEI100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9838166411</id>
+    <published>2018-11-19T12:40:01-05:00</published>
+    <updated>2018-11-19T12:40:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/sung"/>
+    <title>Sung Homme</title>
+    <s:type>Men</s:type>
+    <s:vendor>ALFRED SUNG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Sung-men.jpg?v=1571609917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALFRED SUNG<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            13.25 - 18.45
+            <a href="https://perfumeonline.ca/products/sung">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>Price170</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838166411</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">13.25</s:price>
+      <s:sku>ASSUN50M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838166411</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>TESASSUN100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838166411</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku>ASSUN100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9837842955</id>
+    <published>2018-11-19T12:39:44-05:00</published>
+    <updated>2018-11-19T12:39:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/paradise-alfred-sung-men"/>
+    <title>Paradise Alfred Sung</title>
+    <s:type>Men</s:type>
+    <s:vendor>ALFRED SUNG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Paradise-Alfred-Sung-Men.jpg?v=1571609916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALFRED SUNG<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Paradise Homme for men by Alfred Sung came in 2003 and this masculine fragrance was composed by perfumer David Apel. The top notes bring anise, papaya, sea notes, rosemary and cardamom. The heart unites the floral notes of rose and amber. The base is beautiful with patchouli, sandalwood and musk. Alfred Sung Forever classified as a flowery and refreshing perfume and it is recommended for daytime wear.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837842955</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>ASPRA100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9837673611</id>
+    <published>2018-11-19T12:39:39-05:00</published>
+    <updated>2018-11-19T12:39:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/shi"/>
+    <title>Shi</title>
+    <s:type>Women</s:type>
+    <s:vendor>ALFRED SUNG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Alfred_Sung_Shi_for_Women.jpg?v=1571609914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALFRED SUNG<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            18.95 - 24.25
+            <a href="https://perfumeonline.ca/products/shi">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J1</s:tag>
+    <s:tag>Price170</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837673611</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku>ASSHI50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837673611</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku>TESASSHI100T</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837673611</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">24.25</s:price>
+      <s:sku>ASSHI100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9844308619</id>
+    <published>2017-11-26T17:22:00-05:00</published>
+    <updated>2017-11-26T17:22:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/jewel"/>
+    <title>Jewel</title>
+    <s:type>Women</s:type>
+    <s:vendor>ALFRED SUNG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Jewel.png?v=1571609926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALFRED SUNG<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            20.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844308619</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku>ASJEW100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9844209867</id>
+    <published>2017-11-10T15:30:29-05:00</published>
+    <updated>2017-11-10T15:30:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/sung-women"/>
+    <title>Sung</title>
+    <s:type>Women</s:type>
+    <s:vendor>ALFRED SUNG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Sung.png?v=1571609924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALFRED SUNG<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            16.95 - 26.95
+            <a href="https://perfumeonline.ca/products/sung-women">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J1</s:tag>
+    <s:tag>Price170</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844209867</id>
+      <title>30ML EDT</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>ASSUN30TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844209867</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku>ASSUN50W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844209867</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">17.45</s:price>
+      <s:sku>TESASSUN100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844209867</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">26.95</s:price>
+      <s:sku>ASSUN100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9845491467</id>
+    <published>2017-08-18T06:34:31-04:00</published>
+    <updated>2017-08-18T06:34:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/pure-alfred-sung"/>
+    <title>Pure Alfred Sung</title>
+    <s:type>Women</s:type>
+    <s:vendor>ALFRED SUNG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Pure-Alfred-Sung.png?v=1571609934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALFRED SUNG<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            21.95 - 24.25
+            <a href="https://perfumeonline.ca/products/pure-alfred-sung">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>The nose behind Pure Perfume by Alfred Sung is James Krivda and it was introduced in 1997. The scent comes with top notes of tagets, tangerine and orchid; heart notes include lily, peony, freesia, Osmanthus, pineapple and gardenia with base notes of amber, woody notes and cinnamon.  Alfred sung pure is a feminine fragrance that classified as a flowery and refreshing scent.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9MARR21</s:tag>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9845491467</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">21.95</s:price>
+      <s:sku>TESASPUR100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9845491467</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">24.25</s:price>
+      <s:sku>ASPUR100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9837824907</id>
+    <published>2017-08-17T07:36:11-04:00</published>
+    <updated>2017-08-17T07:36:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/paradise-alfred-sung"/>
+    <title>Paradise Alfred Sung</title>
+    <s:type>Women</s:type>
+    <s:vendor>ALFRED SUNG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Paradise-Alfred-Sung.png?v=1571609915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALFRED SUNG<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            28.95 - 39.95
+            <a href="https://perfumeonline.ca/products/paradise-alfred-sung">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Design house Alfred Sung introduced Paradise for women in 2003. This fragrance was created by perfumer David Apel. This scent contains top notes of tagetes, tropical fruits, peach and green notes; middle notes are jasmine, gardenia and rose; base includes musk, vanilla, orchid and sandalwood. Alfred sung paradise for women is a fruity, exotic feminine fragrance that sure to please any men and women.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1FEBB20</s:tag>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837824907</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">28.95</s:price>
+      <s:sku>ASPRA50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837824907</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>ASPRA100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836674443</id>
+    <published>2017-08-17T03:19:07-04:00</published>
+    <updated>2017-08-17T03:19:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/alfred-sung-forever"/>
+    <title>Alfred Sung Forever</title>
+    <s:type>Women</s:type>
+    <s:vendor>ALFRED SUNG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Alfred-Sung-Forever.png?v=1571609908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALFRED SUNG<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            19.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Forever Perfume by Alfred Sung is an aromatic fragrance for women introduced in 1995 with the corporation of Dragoco house. This perfume opens with top notes of plum, peony and tayberry. Heart notes bring rose, lily of the valley, freesia and narcissus. The base note contains amber and sandalwood. Alfred Sung Forever edp is a light dreamy feminine perfume that suitable for the most romantic occasions in your life.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICESHEET1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836674443</id>
+      <title>125ML EDP</title>
+      <s:price currency="CAD">19.45</s:price>
+      <s:sku>ASFOR125PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

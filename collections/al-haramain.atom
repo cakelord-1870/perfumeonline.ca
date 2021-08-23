@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/al-haramain.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-07-08T14:52:25-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6817198047421</id>
+    <published>2021-07-08T14:52:25-04:00</published>
+    <updated>2021-07-08T14:52:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/laventure-femme"/>
+    <title>L&apos;Aventure Femme</title>
+    <s:type>Women</s:type>
+    <s:vendor>AL HARAMAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/61H54S7MigL._SL1500.jpg?v=1626102154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AL HARAMAIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            42.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1JULYY2021</s:tag>
+    <s:tag>NEWITEMS15JULYY21</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6817198047421</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">42.95</s:price>
+      <s:sku>ALHLAVE100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6817201815741</id>
+    <published>2021-07-05T06:33:58-04:00</published>
+    <updated>2021-07-05T06:33:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/olc-oud-saffron"/>
+    <title>Olc Oud Saffron</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>AL HARAMAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_99f000ae-00bd-4cae-984f-4cf5d274c5ec.png?v=1626102315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AL HARAMAIN<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            90.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6817201815741</id>
+      <title>90ML EDP</title>
+      <s:price currency="CAD">90.95</s:price>
+      <s:sku>ALHORIOUD80U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6817201356989</id>
+    <published>2021-07-05T06:33:32-04:00</published>
+    <updated>2021-07-05T06:33:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/cuir-de-orientica"/>
+    <title>Cuir De Orientica</title>
+    <s:type>Women</s:type>
+    <s:vendor>AL HARAMAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Cuir-De-Orientica.png?v=1626101876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AL HARAMAIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            90.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6817201356989</id>
+      <title>90ML EDP</title>
+      <s:price currency="CAD">90.95</s:price>
+      <s:sku>ALHORICUI90W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6817200668861</id>
+    <published>2021-07-05T06:32:59-04:00</published>
+    <updated>2021-07-05T06:32:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/fleur-de-orientica"/>
+    <title>Fleur De Orientica</title>
+    <s:type>Women</s:type>
+    <s:vendor>AL HARAMAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Fleur-De-Orientica.png?v=1626101926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AL HARAMAIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            90.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6817200668861</id>
+      <title>90ML EDP</title>
+      <s:price currency="CAD">90.95</s:price>
+      <s:sku>ALHORIFLE90W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6817200177341</id>
+    <published>2021-07-05T06:32:26-04:00</published>
+    <updated>2021-07-05T06:32:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/portfolio-stallion"/>
+    <title>Portfolio Stallion</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>AL HARAMAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/51gD2utn-7L._SL1000.jpg?v=1626102354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AL HARAMAIN<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            97.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1JULYY2021</s:tag>
+    <s:tag>NEWITEMS15JULYY21</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6817200177341</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">97.95</s:price>
+      <s:sku>ALHPORSTA75U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6817199325373</id>
+    <published>2021-07-05T06:31:35-04:00</published>
+    <updated>2021-07-05T06:31:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/portfolio-euphoric-roots"/>
+    <title>Portfolio Euphoric Roots</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>AL HARAMAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_971aeacd-5997-49c2-a326-3276cc4103b1.png?v=1626102352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AL HARAMAIN<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            116.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1JULYY2021</s:tag>
+    <s:tag>NEWITEMS15JULYY21</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6817199325373</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">116.95</s:price>
+      <s:sku>ALHPOREUP75U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6129429545149</id>
+    <published>2020-12-17T07:58:49-05:00</published>
+    <updated>2020-12-17T07:58:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/junoon"/>
+    <title>Junoon</title>
+    <s:type>Women</s:type>
+    <s:vendor>AL HARAMAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/71a1h_2BQ2pHL._SL1500.jpg?v=1626102039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AL HARAMAIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            92.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6129429545149</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">92.95</s:price>
+      <s:sku>ALHJUN75W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6129428562109</id>
+    <published>2020-12-17T07:57:18-05:00</published>
+    <updated>2020-12-17T07:57:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amber-oud-rouge"/>
+    <title>Amber Oud Rouge</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>AL HARAMAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Amber-Oud-Rouge-Unisex.jpg?v=1613493199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AL HARAMAIN<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            68.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6129428562109</id>
+      <title>60ML EDP</title>
+      <s:price currency="CAD">68.25</s:price>
+      <s:sku>ALHAMBROU60U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4385351008353</id>
+    <published>2019-11-25T06:03:17-05:00</published>
+    <updated>2019-11-25T06:03:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amber-oud-gold-edition"/>
+    <title>Amber Oud Gold Edition</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>AL HARAMAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Amber-Oud-Gold-Edition.png?v=1574709551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AL HARAMAIN<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            54.95 - 81.45
+            <a href="https://perfumeonline.ca/products/amber-oud-gold-edition">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>02JULY2020</s:tag>
+    <s:tag>12DECC2020</s:tag>
+    <s:tag>25novv2019</s:tag>
+    <s:tag>28jun2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4385351008353</id>
+      <title>60ML EDP TESTER</title>
+      <s:price currency="CAD">54.95</s:price>
+      <s:sku>TESALHOUDGOL60U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4385351008353</id>
+      <title>60ML EDP</title>
+      <s:price currency="CAD">65.95</s:price>
+      <s:sku>ALHOUDGOL60TU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4385351008353</id>
+      <title>120ML EDP</title>
+      <s:price currency="CAD">81.45</s:price>
+      <s:sku>ALHOUDGOL120U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4385350910049</id>
+    <published>2019-11-25T06:03:16-05:00</published>
+    <updated>2019-11-25T06:03:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/oud-36-nuit"/>
+    <title>Oud 36 Nuit</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>AL HARAMAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Oud-36-Nuit.png?v=1574755072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AL HARAMAIN<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            90.95 - 96.75
+            <a href="https://perfumeonline.ca/products/oud-36-nuit">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20julyy2021aj</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4385350910049</id>
+      <title>75ML EDP TESTER</title>
+      <s:price currency="CAD">90.95</s:price>
+      <s:sku>TESALHOUD36NUIPU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4385350910049</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">96.75</s:price>
+      <s:sku>ALHOUD36NUIPU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4385350877281</id>
+    <published>2019-11-25T06:03:16-05:00</published>
+    <updated>2019-11-25T06:03:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/oud-36-elixir"/>
+    <title>Oud 36 Elixir</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>AL HARAMAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_96e5a1ef-683f-4d96-90bc-637029afe271.png?v=1574755050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AL HARAMAIN<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            179.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4385350877281</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">179.95</s:price>
+      <s:sku>ALHOUD36ELI75PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4385350746209</id>
+    <published>2019-11-25T06:03:14-05:00</published>
+    <updated>2019-11-25T06:03:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/oud-36"/>
+    <title>Oud 36</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>AL HARAMAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Oud-36.png?v=1574755028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AL HARAMAIN<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            86.95 - 95.75
+            <a href="https://perfumeonline.ca/products/oud-36">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>02JULY2020</s:tag>
+    <s:tag>25novv2019</s:tag>
+    <s:tag>28jun2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4385350746209</id>
+      <title>75ML EDP TESTER</title>
+      <s:price currency="CAD">86.95</s:price>
+      <s:sku>TESALHOUD3675PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4385350746209</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">95.75</s:price>
+      <s:sku>ALHOUD3675PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4385350680673</id>
+    <published>2019-11-25T06:03:14-05:00</published>
+    <updated>2019-11-25T06:03:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/opulent-sapphire"/>
+    <title>Opulent Sapphire</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>AL HARAMAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_72b96a0e-8237-4f92-8aec-1e599cb108ff.png?v=1600889070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AL HARAMAIN<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            77.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25novv2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4385350680673</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">77.75</s:price>
+      <s:sku>ALHOPUSAP100PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4385350647905</id>
+    <published>2019-11-25T06:03:14-05:00</published>
+    <updated>2019-11-25T06:03:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/opulent-saffron"/>
+    <title>Opulent Saffron</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>AL HARAMAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_0a74e06d-12b9-4b92-954b-126903a75b9e.png?v=1600889071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AL HARAMAIN<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            77.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25novv2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4385350647905</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">77.75</s:price>
+      <s:sku>ALHOPUSAF100PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4385350615137</id>
+    <published>2019-11-25T06:03:13-05:00</published>
+    <updated>2019-11-25T06:03:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/portfolio-neroli-canvas"/>
+    <title>Portfolio Neroli Canvas</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>AL HARAMAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Portfolio-Neroli-Canvas.png?v=1574755346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AL HARAMAIN<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            97.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4385350615137</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">97.95</s:price>
+      <s:sku>ALHNERCAN75PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4385350516833</id>
+    <published>2019-11-25T06:03:12-05:00</published>
+    <updated>2019-11-25T06:03:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/junoon-rose"/>
+    <title>Junoon Rose</title>
+    <s:type>Women</s:type>
+    <s:vendor>AL HARAMAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_10e290fb-b307-41ac-b044-6b1f7197cb2f.png?v=1600888986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AL HARAMAIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            94.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4385350516833</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">94.95</s:price>
+      <s:sku>ALHJUNROS75PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4385350451297</id>
+    <published>2019-11-25T06:03:11-05:00</published>
+    <updated>2019-11-25T06:03:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/junoon-noir"/>
+    <title>Junoon Noir</title>
+    <s:type>Women</s:type>
+    <s:vendor>AL HARAMAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Junoon-Noir.png?v=1574752555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AL HARAMAIN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            94.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4385350451297</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">94.95</s:price>
+      <s:sku>ALHJUNNOI75PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4385350385761</id>
+    <published>2019-11-25T06:03:10-05:00</published>
+    <updated>2019-11-25T06:03:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/portfolio-floral-sculpture"/>
+    <title>Portfolio Floral Sculpture</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>AL HARAMAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Portfolio-Floral-Sculpture.png?v=1574755320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AL HARAMAIN<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            139.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4385350385761</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">139.95</s:price>
+      <s:sku>ALHFLOSCU75PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4385350352993</id>
+    <published>2019-11-25T06:03:10-05:00</published>
+    <updated>2019-11-25T06:03:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/dazzle-intense"/>
+    <title>Dazzle Intense</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>AL HARAMAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Dazzle-Intense.png?v=1574711926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AL HARAMAIN<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            40.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4385350352993</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">40.95</s:price>
+      <s:sku>ALHDAZINT75PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4385350287457</id>
+    <published>2019-11-25T06:03:09-05:00</published>
+    <updated>2019-11-25T06:03:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amber-oud"/>
+    <title>Amber Oud</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>AL HARAMAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Amber-Oud.png?v=1574709054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AL HARAMAIN<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 JULY 2020</s:tag>
+    <s:tag>25novv2019</s:tag>
+    <s:tag>28jun2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4385350287457</id>
+      <title>60ML EDP</title>
+      <s:price currency="CAD">69.95</s:price>
+      <s:sku>ALHAMBOUD60PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972631137</id>
+    <published>2019-10-15T07:36:38-04:00</published>
+    <updated>2019-10-15T07:36:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/al-haramain-laventure"/>
+    <title>Al Haramain L&apos;Aventure</title>
+    <s:type>Men</s:type>
+    <s:vendor>AL HARAMAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AL-HARAMAIN-L_AVENTURE-100ML-EDP-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AL HARAMAIN<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            24.25 - 63.45
+            <a href="https://perfumeonline.ca/products/al-haramain-laventure">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12DECC2020</s:tag>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>25novv2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972631137</id>
+      <title>30ML EDP</title>
+      <s:price currency="CAD">24.25</s:price>
+      <s:sku>ALHLAVE30PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972631137</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">32.25</s:price>
+      <s:sku>TESALHLAV100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972631137</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">40.75</s:price>
+      <s:sku>ALHLAV100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972631137</id>
+      <title>200ML EDP</title>
+      <s:price currency="CAD">63.45</s:price>
+      <s:sku>ALHLAV200PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972598369</id>
+    <published>2019-10-15T07:36:38-04:00</published>
+    <updated>2019-10-15T07:36:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/al-haramain-knight"/>
+    <title>Al Haramain Knight</title>
+    <s:type>Men</s:type>
+    <s:vendor>AL HARAMAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AL-HARAMAIN-KNIGHT-100ML-EDP-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AL HARAMAIN<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            36.95 - 42.95
+            <a href="https://perfumeonline.ca/products/al-haramain-knight">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>25novv2019</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972598369</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">36.95</s:price>
+      <s:sku>TESALHLAVKNI100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972598369</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">42.95</s:price>
+      <s:sku>ALHKNI100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972532833</id>
+    <published>2019-10-15T07:36:38-04:00</published>
+    <updated>2019-10-15T07:36:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/al-haramain-laventure-blanche"/>
+    <title>Al Haramain L&apos;Aventure Blanche</title>
+    <s:type>Men</s:type>
+    <s:vendor>AL HARAMAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AL-HARAMAIN-L_AVENTURE-BLANCHE-100ML-EDP-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AL HARAMAIN<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            23.45 - 43.95
+            <a href="https://perfumeonline.ca/products/al-haramain-laventure-blanche">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>02JULY2020</s:tag>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>1JULYY2021</s:tag>
+    <s:tag>28jun2020</s:tag>
+    <s:tag>NEWITEMS15JULYY21</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972532833</id>
+      <title>30ML EDP</title>
+      <s:price currency="CAD">23.45</s:price>
+      <s:sku>ALHALVBLA30PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972532833</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">39.45</s:price>
+      <s:sku>TESALHALVBLA100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972532833</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">43.95</s:price>
+      <s:sku>ALHALVBLA100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

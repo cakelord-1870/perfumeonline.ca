@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/women-s-perfume-featured.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2020-10-10T08:07:11-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/4787778551905</id>
+    <published>2020-10-10T08:07:11-04:00</published>
+    <updated>2020-10-10T08:07:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/molinard-patchouli"/>
+    <title>Molinard Patchouli</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Molinard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_00fbfa52-f33e-4ecd-8902-b835d1986c92.png?v=1624298153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Molinard<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            55.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>1OCT2020</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4787778551905</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">55.95</s:price>
+      <s:sku>MOLPAT75PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332961235041</id>
+    <published>2019-11-23T04:32:02-05:00</published>
+    <updated>2019-11-23T04:32:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/versage-collection-gift-set-men"/>
+    <title>Versace Miniature Collection Gift Set for Men and Women</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Versaceminiset.jpg?v=1600889166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            53.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332961235041</id>
+      <title>5ML(Bright Crystal W/Dylan Blue W/Eros M/Dylan Blue M/Eros W)</title>
+      <s:price currency="CAD">53.95</s:price>
+      <s:sku>SET-VERMINW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4259827318881</id>
+    <published>2019-10-19T01:09:43-04:00</published>
+    <updated>2019-10-19T01:09:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/guess-gold-w"/>
+    <title>Guess Gold</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/GUESS-GOLD-75ML-EDP-WOMEN.png?v=1571610023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUESS<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            34.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4259827318881</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">34.45</s:price>
+      <s:sku>GUESGOL75PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258970861665</id>
+    <published>2019-10-15T07:36:42-04:00</published>
+    <updated>2019-10-15T07:36:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/paco-by-paco-rabanne"/>
+    <title>Paco By Paco Rabanne</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/PACO-BY-PACO-RABANNE-100ML-EDT-UNISEX.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258970861665</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>PRPAC100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258970959969</id>
+    <published>2019-10-15T07:36:40-04:00</published>
+    <updated>2019-10-15T07:36:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/les-monstres-de-nina-by-nina-ricci"/>
+    <title>Les Monstres De Nina By Nina Ricci</title>
+    <s:type>Women</s:type>
+    <s:vendor>NINA RICCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/LES-MONSTRES-DE-NINA-BY-NINA-RICCI-75ML-EDT-WOMEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NINA RICCI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            49.95 - 62.95
+            <a href="https://perfumeonline.ca/products/les-monstres-de-nina-by-nina-ricci">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258970959969</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>NRLESMONNIN50TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258970959969</id>
+      <title>80ML EDT</title>
+      <s:price currency="CAD">62.95</s:price>
+      <s:sku>NRLESMONNIN75TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972434529</id>
+    <published>2019-10-15T07:36:39-04:00</published>
+    <updated>2019-10-15T07:36:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/alaia-paris-blanche"/>
+    <title>Alaia Paris Blanche</title>
+    <s:type>Women</s:type>
+    <s:vendor>ALAIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ALAIA-PARIS-BLANCHE-100ML-EDP-WOMEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALAIA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972434529</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>ALAIA100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972696673</id>
+    <published>2019-10-15T07:36:37-04:00</published>
+    <updated>2019-10-15T07:36:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/acqua-di-parma-cedro"/>
+    <title>Acqua Di Parma Cedro</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>ACQUA DI PARMA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ACQUA-DI-PARMA-CEDRO-75ML-EDT-UNISEX.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ACQUA DI PARMA<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            96.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972696673</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">96.95</s:price>
+      <s:sku>APCED75U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972762209</id>
+    <published>2019-10-15T07:36:35-04:00</published>
+    <updated>2019-10-15T07:36:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/armani-diamond-rose"/>
+    <title>Armani Diamond Rose</title>
+    <s:type>Women</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ARMANI-DIAMOND-ROSE-50ML-EDT-WOMEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972762209</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>ARMDIAROS50W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972860513</id>
+    <published>2019-10-15T07:36:32-04:00</published>
+    <updated>2019-10-15T07:36:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/benetton-colors-blue"/>
+    <title>Benetton Colors Blue</title>
+    <s:type>Women</s:type>
+    <s:vendor>BENETTON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BENETON-COLORS-BLUE-80ML-EDT-WOMEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BENETTON<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972860513</id>
+      <title>80ML EDT</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku>BENCOL80W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258973122657</id>
+    <published>2019-10-15T07:36:29-04:00</published>
+    <updated>2019-10-15T07:36:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/bora-bora-women"/>
+    <title>Bora Bora</title>
+    <s:type>Women</s:type>
+    <s:vendor>Liz Claiborne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BORA-BORA-100ML-EDP-WOMEN.png?v=1571610019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liz Claiborne<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            23.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973122657</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">23.45</s:price>
+      <s:sku>BOR100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258973253729</id>
+    <published>2019-10-15T07:36:27-04:00</published>
+    <updated>2019-10-15T07:36:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-alabaster"/>
+    <title>Banana Republic Alabaster</title>
+    <s:type>Women</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_12516b2f-f80f-45d2-88e6-ce54e512998e.png?v=1606122485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973253729</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>BRALA100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258973417569</id>
+    <published>2019-10-15T07:36:25-04:00</published>
+    <updated>2019-10-15T07:36:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-moderen-woman"/>
+    <title>Banana Republic Moderen</title>
+    <s:type>Women</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BANANA-REPUBLIC-MORDEN-WOMAN-100ML-EDP-WOMEN.png?v=1571610019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            27.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973417569</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">27.25</s:price>
+      <s:sku>BRMOR100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258973515873</id>
+    <published>2019-10-15T07:36:24-04:00</published>
+    <updated>2019-10-15T07:36:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-rosewood"/>
+    <title>Banana Republic Rosewood</title>
+    <s:type>Women</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BANANA-REPUBLIC-ROSEWOOD-100ML-EDP-WOMEN.png?v=1571610019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            26.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973515873</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">26.25</s:price>
+      <s:sku>BRROS100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258973450337</id>
+    <published>2019-10-15T07:36:24-04:00</published>
+    <updated>2019-10-15T07:36:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-malachite"/>
+    <title>Banana Republic Malachite</title>
+    <s:type>Women</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BANANA-REPUBLIC-MORDEN-MALACHITE-100ML-EDP-WOMEN.png?v=1571610019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            29.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973450337</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">29.25</s:price>
+      <s:sku>BRMORMAL100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258973581409</id>
+    <published>2019-10-15T07:36:23-04:00</published>
+    <updated>2019-10-15T07:36:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-wildbloom-vert"/>
+    <title>Banana Republic Wildbloom Vert</title>
+    <s:type>Women</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BANANA-REPUBLIC-WILDBLOOM-VERT-100ML-EDP-WOMEN.png?v=1571610019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            30.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973581409</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">30.95</s:price>
+      <s:sku>BRWIL100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258973646945</id>
+    <published>2019-10-15T07:36:22-04:00</published>
+    <updated>2019-10-15T07:36:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/burberry-her"/>
+    <title>Burberry Her</title>
+    <s:type>Women</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BURBERRY-HER-50ML-EDP-WOMEN.png?v=1571610019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            62.95 - 89.95
+            <a href="https://perfumeonline.ca/products/burberry-her">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12FEBB2021</s:tag>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973646945</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">67.95</s:price>
+      <s:sku>BURHER50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973646945</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">62.95</s:price>
+      <s:sku>TESBURHER90PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973646945</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">89.95</s:price>
+      <s:sku>BURHER90PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258973614177</id>
+    <published>2019-10-15T07:36:22-04:00</published>
+    <updated>2019-10-15T07:36:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/banana-republic-wildbloom"/>
+    <title>Banana Republic Wildbloom</title>
+    <s:type>Women</s:type>
+    <s:vendor>BANANA REPUBLIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BANANA-REPUBLIC-WILDBLOOM-100ML-EDP-WOMEN.png?v=1571610019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BANANA REPUBLIC<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            24.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973614177</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">24.45</s:price>
+      <s:sku>BRWILBLO100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258973810785</id>
+    <published>2019-10-15T07:36:20-04:00</published>
+    <updated>2019-10-15T07:36:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/clean-original"/>
+    <title>Clean Original</title>
+    <s:type>Women</s:type>
+    <s:vendor>CLEAN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/CLEAN-ORIGINAL-60ML-EDP-WOMEN.png?v=1571610019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CLEAN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            41.95 - 49.45
+            <a href="https://perfumeonline.ca/products/clean-original">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>25JANN2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973810785</id>
+      <title>60ML EDP TESTER</title>
+      <s:price currency="CAD">41.95</s:price>
+      <s:sku>TESCLEORI60PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973810785</id>
+      <title>60ML EDP</title>
+      <s:price currency="CAD">49.45</s:price>
+      <s:sku>CLE60W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258973941857</id>
+    <published>2019-10-15T07:36:19-04:00</published>
+    <updated>2019-10-15T07:36:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/creed-acqua-originale-aberdeen-lavander"/>
+    <title>Creed Acqua Originale Aberdeen Lavander</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Creed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/CREED-ACQUA-ORIGINALE-ABERDEEN-LAVANDER-100ML-EDP-UNISEX.png?v=1571610019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creed<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            182.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973941857</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">182.95</s:price>
+      <s:sku>CREACQABE100P</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258973876321</id>
+    <published>2019-10-15T07:36:19-04:00</published>
+    <updated>2019-10-15T07:36:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/clean-ultimate"/>
+    <title>Clean Ultimate</title>
+    <s:type>Women</s:type>
+    <s:vendor>CLEAN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/CLEAN-ULTIMATE-60ML-EDP-WOMEN.png?v=1571610019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CLEAN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            34.95 - 54.95
+            <a href="https://perfumeonline.ca/products/clean-ultimate">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>25JANN2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973876321</id>
+      <title>30ML EDP</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>CLEULT30PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973876321</id>
+      <title>60ML EDP TESTER</title>
+      <s:price currency="CAD">34.95</s:price>
+      <s:sku>TESCLEULT60PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973876321</id>
+      <title>60ML EDP</title>
+      <s:price currency="CAD">54.95</s:price>
+      <s:sku>CLEULT60W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258975023201</id>
+    <published>2019-10-15T07:36:18-04:00</published>
+    <updated>2019-10-15T07:36:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/creed-acqua-originale-cedre-blanc"/>
+    <title>Creed Acqua Originale Cedre Blanc</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Creed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/CREED-ACQUA-ORIGINALE-CEDRE-BLANC-100ML-EDP-UNISEX.png?v=1571610019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creed<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            185.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258975023201</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">185.95</s:price>
+      <s:sku>CREACQCED100P</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258975449185</id>
+    <published>2019-10-15T07:36:16-04:00</published>
+    <updated>2019-10-15T07:36:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/cuba-classic-oud"/>
+    <title>New Brand Classic Oud</title>
+    <s:type>Women</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/CUBA-CLASSIC-OUD-100ML-EDP-WOMEN.png?v=1571610019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            7.95 - 11.95
+            <a href="https://perfumeonline.ca/products/cuba-classic-oud">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10DECC2019</s:tag>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258975449185</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>TESNBCUBOUD100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258975449185</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>CUBOUD100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258975842401</id>
+    <published>2019-10-15T07:36:12-04:00</published>
+    <updated>2019-10-15T07:36:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ed-hardy-femme"/>
+    <title>Ed Hardy Femme</title>
+    <s:type>Women</s:type>
+    <s:vendor>Ed Hardy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ED-HARDY-FEMME-100ML-EDP-WOMEN.png?v=1571610020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ed Hardy<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            30.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258975842401</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">30.95</s:price>
+      <s:sku>EHFEM100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258976104545</id>
+    <published>2019-10-15T07:36:09-04:00</published>
+    <updated>2019-10-15T07:36:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/etro-marquetry"/>
+    <title>Etro Marquetry</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>ETRO JACQUARD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ETRO-MARQUETRY-100ML-EDP-UNISEX.png?v=1571610020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ETRO JACQUARD<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            77.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258976104545</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">77.95</s:price>
+      <s:sku>ETRMAR100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258976235617</id>
+    <published>2019-10-15T07:36:07-04:00</published>
+    <updated>2019-10-15T07:36:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/floris-honey-oud"/>
+    <title>Floris Honey Oud</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>FLORIS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/FLORIS-HONEY-OUD-100ML-EDP-UNISEX.png?v=1571610020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FLORIS<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            163.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258976235617</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">163.95</s:price>
+      <s:sku>FLOHONOUD100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

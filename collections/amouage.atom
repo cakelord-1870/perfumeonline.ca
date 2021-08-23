@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/amouage.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-07-12T12:45:54-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6830321303741</id>
+    <published>2021-07-12T12:45:54-04:00</published>
+    <updated>2021-07-12T12:45:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amouage-opus-xi"/>
+    <title>Amouage Opus XI</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>AMOUAGE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Amouage-Opus-XI.png?v=1626275945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AMOUAGE<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            254.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6830321303741</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">254.95</s:price>
+      <s:sku>AMOOPUXI100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6830318026941</id>
+    <published>2021-07-12T12:43:23-04:00</published>
+    <updated>2021-07-12T12:43:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amouage-opus-iii"/>
+    <title>Amouage Opus III</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>AMOUAGE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Amouage-Opus-III.png?v=1626275078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AMOUAGE<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            235.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6830318026941</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">235.95</s:price>
+      <s:sku>AMOOPUIII100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6830314684605</id>
+    <published>2021-07-12T12:41:07-04:00</published>
+    <updated>2021-07-12T12:41:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amouage-opus-v"/>
+    <title>Amouage Opus V</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>AMOUAGE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Amouage-Opus-V.png?v=1626274441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AMOUAGE<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            252.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6830314684605</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">252.95</s:price>
+      <s:sku>AMOOPUV100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6830292467901</id>
+    <published>2021-07-12T12:23:13-04:00</published>
+    <updated>2021-07-12T12:23:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amouage-portrayal-edp"/>
+    <title>Amouage Portrayal Edp</title>
+    <s:type>Women</s:type>
+    <s:vendor>AMOUAGE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Amouage-Portrayal-Edp.png?v=1626275559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AMOUAGE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            184.95 - 245.95
+            <a href="https://perfumeonline.ca/products/amouage-portrayal-edp">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6830292467901</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">184.95</s:price>
+      <s:sku>TESAMOPOR100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6830292467901</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">245.95</s:price>
+      <s:sku>AMOPOR100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6830287519933</id>
+    <published>2021-07-12T12:19:11-04:00</published>
+    <updated>2021-07-12T12:19:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amouage-portrayal"/>
+    <title>Amouage Portrayal</title>
+    <s:type>Men</s:type>
+    <s:vendor>AMOUAGE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Amouage-Portrayal.png?v=1626275805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AMOUAGE<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            193.95 - 235.95
+            <a href="https://perfumeonline.ca/products/amouage-portrayal">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6830287519933</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">193.95</s:price>
+      <s:sku>TESAMOPOR100PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6830287519933</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">235.95</s:price>
+      <s:sku>AMOPOR100PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6830264484029</id>
+    <published>2021-07-12T11:57:58-04:00</published>
+    <updated>2021-07-12T11:57:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amouage-honour-edp"/>
+    <title>Amouage Honour Edp</title>
+    <s:type>Women</s:type>
+    <s:vendor>AMOUAGE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Amouage-Honour-Edp.png?v=1626275178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AMOUAGE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            209.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6830264484029</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">209.95</s:price>
+      <s:sku>TESAMOHON100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6829927628989</id>
+    <published>2021-07-12T08:04:47-04:00</published>
+    <updated>2021-07-12T08:04:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amouage-fat-edp"/>
+    <title>Amouage Fat Edp</title>
+    <s:type>Men</s:type>
+    <s:vendor>AMOUAGE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Amouage-Fat-Edp.png?v=1626452833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AMOUAGE<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            205.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12JULYY2021</s:tag>
+    <s:tag>NEWITEMS15JULYY21</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6829927628989</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">205.95</s:price>
+      <s:sku>AMOFAT100PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6829927235773</id>
+    <published>2021-07-12T08:03:47-04:00</published>
+    <updated>2021-07-12T08:03:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amouage-blossom-love"/>
+    <title>Amouage Blossom Love</title>
+    <s:type>Women</s:type>
+    <s:vendor>AMOUAGE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Amouage-Blossom-Love.png?v=1626275484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AMOUAGE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            196.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6829927235773</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">196.95</s:price>
+      <s:sku>TESAMOBLO100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6772950040765</id>
+    <published>2021-06-14T04:12:46-04:00</published>
+    <updated>2021-06-14T04:12:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amouage-memoir-w"/>
+    <title>Amouage Memoir W</title>
+    <s:type>Women</s:type>
+    <s:vendor>AMOUAGE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Amouage-Memoir-W.png?v=1626101720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AMOUAGE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            275.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6772950040765</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">275.95</s:price>
+      <s:sku>AMOMEM100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6125402620093</id>
+    <published>2020-12-14T02:01:48-05:00</published>
+    <updated>2020-12-14T02:01:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amouage-love-tuberose"/>
+    <title>Amouage Love Tuberose</title>
+    <s:type>Women</s:type>
+    <s:vendor>AMOUAGE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Amouage-Love-Tuberose-Women.jpg?v=1613493202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AMOUAGE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            279.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6125402620093</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">279.95</s:price>
+      <s:sku>AMOLOVTUB100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6125402128573</id>
+    <published>2020-12-14T02:01:00-05:00</published>
+    <updated>2020-12-14T02:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amouage-figment-1"/>
+    <title>Amouage Figment</title>
+    <s:type>Women</s:type>
+    <s:vendor>AMOUAGE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Amouage-Figment-Women.jpg?v=1613493201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AMOUAGE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            239.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6125402128573</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">239.95</s:price>
+      <s:sku>AMOFIG100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6125401931965</id>
+    <published>2020-12-14T02:00:37-05:00</published>
+    <updated>2020-12-14T02:00:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amouage-fate"/>
+    <title>Amouage Fate</title>
+    <s:type>Women</s:type>
+    <s:vendor>AMOUAGE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_61038aae-bb3d-456c-8127-28e30286eaa9.png?v=1613493201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AMOUAGE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            269.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6125401931965</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">269.95</s:price>
+      <s:sku>AMOFAT10W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6125401702589</id>
+    <published>2020-12-14T02:00:00-05:00</published>
+    <updated>2020-12-14T02:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amouage-epic"/>
+    <title>Amouage Epic</title>
+    <s:type>Women</s:type>
+    <s:vendor>AMOUAGE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AmouageEpicWomen.jpg?v=1613493200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AMOUAGE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            269.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6125401702589</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">269.95</s:price>
+      <s:sku>AMOEPI100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6125401538749</id>
+    <published>2020-12-14T01:59:01-05:00</published>
+    <updated>2020-12-14T01:59:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amouage-epic-edp"/>
+    <title>Amouage Epic Edp</title>
+    <s:type>Men</s:type>
+    <s:vendor>AMOUAGE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Amouage-Epic-Edp-Men.jpg?v=1613493215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AMOUAGE<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            274.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6125401538749</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">274.95</s:price>
+      <s:sku>AMOEPI100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6125392265405</id>
+    <published>2020-12-14T01:46:42-05:00</published>
+    <updated>2020-12-14T01:46:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amouage-love-mimosa"/>
+    <title>Amouage Love Mimosa</title>
+    <s:type>Women</s:type>
+    <s:vendor>AMOUAGE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Amouage-Love-Mimosa-Women.jpg?v=1613493202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AMOUAGE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            199.95 - 255.95
+            <a href="https://perfumeonline.ca/products/amouage-love-mimosa">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12DECC2020</s:tag>
+    <s:tag>12JULYY2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6125392265405</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">199.95</s:price>
+      <s:sku>TESAMOLOVMIM100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6125392265405</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">255.95</s:price>
+      <s:sku>AMOLOVMIS100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4484407820385</id>
+    <published>2020-01-25T03:17:57-05:00</published>
+    <updated>2020-01-25T03:17:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amouage-imitation-m"/>
+    <title>Amouage Imitation</title>
+    <s:type>Men</s:type>
+    <s:vendor>AMOUAGE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Amouage-Imitation.png?v=1580206551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AMOUAGE<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            192.95 - 254.95
+            <a href="https://perfumeonline.ca/products/amouage-imitation-m">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12JULYY2021</s:tag>
+    <s:tag>25JANN2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4484407820385</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">192.95</s:price>
+      <s:sku>TESAMOIMI100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4484407820385</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">254.95</s:price>
+      <s:sku>AMOIMI100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972663905</id>
+    <published>2019-10-15T07:36:37-04:00</published>
+    <updated>2019-10-15T07:36:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amouage-journey-men"/>
+    <title>Amouage Journey</title>
+    <s:type>Men</s:type>
+    <s:vendor>AMOUAGE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AMOUAGE-JOURNEY-100ML-EDP-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AMOUAGE<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            219.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972663905</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">219.95</s:price>
+      <s:sku>AMOJOU100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1902241251425</id>
+    <published>2019-10-14T19:32:01-04:00</published>
+    <updated>2019-10-14T19:32:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amouage-journey"/>
+    <title>Amouage Journey</title>
+    <s:type>Women</s:type>
+    <s:vendor>AMOUAGE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/JOURNEY-WOMEN.png?v=1571609991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AMOUAGE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            189.95 - 225.95
+            <a href="https://perfumeonline.ca/products/amouage-journey">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1902241251425</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">189.95</s:price>
+      <s:sku>TESAMOJOR100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1902241251425</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">225.95</s:price>
+      <s:sku>AMOJOU100PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3998948753505</id>
+    <published>2019-08-24T02:51:51-04:00</published>
+    <updated>2019-08-24T02:51:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amouage-library-collection-opus-ii"/>
+    <title>Amouage Library Collection Opus Ii</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>AMOUAGE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AMOUAGE-LIBRARY-COLLECTION-OPUS-II-100ML-EDP-UNISEX.png?v=1571824381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AMOUAGE<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            194.95 - 209.95
+            <a href="https://perfumeonline.ca/products/amouage-library-collection-opus-ii">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20augg2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998948753505</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">194.95</s:price>
+      <s:sku>TESAMOLIB11100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998948753505</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">209.95</s:price>
+      <s:sku>AMOLIB11100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3998948720737</id>
+    <published>2019-08-24T02:51:51-04:00</published>
+    <updated>2019-08-24T02:51:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amouage-jubilation-25-xxv"/>
+    <title>Amouage Jubilation 25(Xxv)</title>
+    <s:type>Women</s:type>
+    <s:vendor>AMOUAGE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AMOUAGE-JUBILATION-25_XXV_-100ML-EDP-WOMEN.png?v=1571824379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AMOUAGE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            196.95 - 249.95
+            <a href="https://perfumeonline.ca/products/amouage-jubilation-25-xxv">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20augg2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998948720737</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">196.95</s:price>
+      <s:sku>TESAMOJUBXXV100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998948720737</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">249.95</s:price>
+      <s:sku>AMOJUBXXV100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3998948786273</id>
+    <published>2019-08-24T02:51:50-04:00</published>
+    <updated>2019-08-24T02:51:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amouage-library-collection-opus-i"/>
+    <title>Amouage Library Collection Opus I</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>AMOUAGE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Amouage-Library-Collection-Opus-I.png?v=1571824381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AMOUAGE<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            178.95 - 195.75
+            <a href="https://perfumeonline.ca/products/amouage-library-collection-opus-i">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20augg2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998948786273</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">178.95</s:price>
+      <s:sku>TESAMOLIBCOL100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998948786273</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">195.75</s:price>
+      <s:sku>AMOLIBCOL100U</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3998997184609</id>
+    <published>2019-08-24T02:50:37-04:00</published>
+    <updated>2019-08-24T02:50:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amouage-myths-women"/>
+    <title>Amouage Myths</title>
+    <s:type>Women</s:type>
+    <s:vendor>AMOUAGE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Amouage-Myths-Women.png?v=1571824382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AMOUAGE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            166.95 - 172.75
+            <a href="https://perfumeonline.ca/products/amouage-myths-women">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20augg2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998997184609</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">166.95</s:price>
+      <s:sku>TESAMOMYT100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998997184609</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">172.75</s:price>
+      <s:sku>AMOMYT100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3936742506593</id>
+    <published>2019-07-16T11:52:27-04:00</published>
+    <updated>2019-07-16T11:52:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amouage-beloved-men"/>
+    <title>Amouage Beloved Men</title>
+    <s:type>Men</s:type>
+    <s:vendor>AMOUAGE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Amouage-Beloved-100Ml-Edp-Men.png?v=1571610004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AMOUAGE<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            207.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>13JULYY</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3936742506593</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">207.95</s:price>
+      <s:sku>AMOBEL100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3936742572129</id>
+    <published>2019-07-16T11:52:26-04:00</published>
+    <updated>2019-07-16T11:52:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amouage-beloved"/>
+    <title>Amouage Beloved</title>
+    <s:type>Women</s:type>
+    <s:vendor>AMOUAGE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Amouage-Beloved-100Ml-Edp-Women.png?v=1571610004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AMOUAGE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            196.95 - 209.95
+            <a href="https://perfumeonline.ca/products/amouage-beloved">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>13JULYY</s:tag>
+    <s:tag>20augg2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3936742572129</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">196.95</s:price>
+      <s:sku>TESAMOBEL100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3936742572129</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">209.95</s:price>
+      <s:sku>AMOBEL100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3936742637665</id>
+    <published>2019-07-16T11:52:25-04:00</published>
+    <updated>2019-07-16T11:52:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/amouage-lilac-love"/>
+    <title>Amouage Lilac Love</title>
+    <s:type>Women</s:type>
+    <s:vendor>AMOUAGE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Amouage-Lilac-Love-100Ml-Edp-Women.png?v=1571610004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AMOUAGE<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            219.95 - 267.95
+            <a href="https://perfumeonline.ca/products/amouage-lilac-love">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12JULYY2021</s:tag>
+    <s:tag>13JULYY</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3936742637665</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">219.95</s:price>
+      <s:sku>TESAMOLILLOV100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3936742637665</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">267.95</s:price>
+      <s:sku>AMOLL100</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

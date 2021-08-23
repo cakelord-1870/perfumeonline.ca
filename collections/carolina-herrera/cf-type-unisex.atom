@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/carolina-herrera.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-08-06T05:47:15-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6882859942077</id>
+    <published>2021-08-06T05:47:15-04:00</published>
+    <updated>2021-08-06T05:47:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ch-beauties"/>
+    <title>Ch Beauties</title>
+    <s:type>Women</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ch-Beauties.png?v=1629384490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            96.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6882859942077</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">96.95</s:price>
+      <s:sku>TESCHBEAUTIES100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6882857681085</id>
+    <published>2021-08-06T05:46:28-04:00</published>
+    <updated>2021-08-06T05:46:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ch-beasts"/>
+    <title>Ch Beasts</title>
+    <s:type>Men</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ch-Beasts.png?v=1629384318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6882857681085</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku>TESCHBEATS100PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6882789392573</id>
+    <published>2021-08-06T05:20:55-04:00</published>
+    <updated>2021-08-06T05:20:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ch-212-vip-are-you-on-the-list"/>
+    <title>Ch 212 Vip Are You On The List</title>
+    <s:type>Women</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ch-212-Vip-Are-You-On-The-List.png?v=1629384157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            93.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6AUGG2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6882789392573</id>
+      <title>80ML EDP</title>
+      <s:price currency="CAD">93.95</s:price>
+      <s:sku>CH212VIPARE80W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6809393823933</id>
+    <published>2021-06-29T13:42:18-04:00</published>
+    <updated>2021-06-29T13:42:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ch-212-vip-red-rose"/>
+    <title>Ch 212 Vip Red Rose</title>
+    <s:type>Women</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ch-212-Vip-Red-Rose.png?v=1626101844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            104.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6809393823933</id>
+      <title>80ML EDP</title>
+      <s:price currency="CAD">104.95</s:price>
+      <s:sku>CH212VIPRED80W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6809385631933</id>
+    <published>2021-06-29T13:33:53-04:00</published>
+    <updated>2021-06-29T13:33:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ch-212-summer"/>
+    <title>Ch 212 Summer</title>
+    <s:type>Men</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ch-212-Summer.png?v=1626101844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            82.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6809385631933</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">82.95</s:price>
+      <s:sku>CH212SUM100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6218590290109</id>
+    <published>2021-02-12T11:00:57-05:00</published>
+    <updated>2021-02-12T11:00:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/212-vip-black-red"/>
+    <title>212 Vip Black Red</title>
+    <s:type>Men</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/212VipBlackRedMen.png?v=1626101682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            67.95 - 72.95
+            <a href="https://perfumeonline.ca/products/212-vip-black-red">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12FEBB2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6218590290109</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">67.95</s:price>
+      <s:sku>TESCH212VIPBLAREDPM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6218590290109</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">72.95</s:price>
+      <s:sku>CH212VIPBLAREDPM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4687075410017</id>
+    <published>2020-06-28T23:48:21-04:00</published>
+    <updated>2020-06-28T23:48:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ch-good-girl-fantastic"/>
+    <title>Ch Good Girl Fantastic Pink</title>
+    <s:type>Women</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ch-Good-Girl-Fantastic-Pink.png?v=1600888830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            86.95 - 129.95
+            <a href="https://perfumeonline.ca/products/ch-good-girl-fantastic">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>28jun2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICECHECk</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4687075410017</id>
+      <title>80ML EDP TESTER</title>
+      <s:price currency="CAD">86.95</s:price>
+      <s:sku>TESCHGOOGIRFAN80W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4687075410017</id>
+      <title>80ML EDP</title>
+      <s:price currency="CAD">129.95</s:price>
+      <s:sku>CHGOOFAN80W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4591931490401</id>
+    <published>2020-04-26T23:16:10-04:00</published>
+    <updated>2020-04-26T23:16:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ch-king"/>
+    <title>Ch Kings</title>
+    <s:type>Men</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ch-King.png?v=1600888831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            97.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>26APRIL20</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4591931490401</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">97.45</s:price>
+      <s:sku>CHKIN100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332954878049</id>
+    <published>2019-11-23T04:28:35-05:00</published>
+    <updated>2019-11-23T04:28:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ch-good-girl-gift-set-women"/>
+    <title>Ch Good Girl Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_8b7eec72-828f-4562-92a8-38f9151d7351.png?v=1572519223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            120.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332954878049</id>
+      <title>80ML Edp + 100ML B/L Hard Box</title>
+      <s:price currency="CAD">120.95</s:price>
+      <s:sku>SET-CHGOO80PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1449458270305</id>
+    <published>2019-11-23T04:28:26-05:00</published>
+    <updated>2019-11-23T04:28:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ch-212-vip-gift-set-men"/>
+    <title>CH 212 Vip Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_34449210-d264-47de-b832-db60a0ccd2e0.png?v=1571609991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            96.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetReady</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>newgiftsets</s:tag>
+    <s:tag>OLDGIFTSETS</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1449458270305</id>
+      <title>100Ml EDT + 100Ml Shower Gel</title>
+      <s:price currency="CAD">96.95</s:price>
+      <s:sku>SET-CH212VIP1656M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/12402625995</id>
+    <published>2019-11-23T04:28:24-05:00</published>
+    <updated>2019-11-23T04:28:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ch-men-prive-gift-set"/>
+    <title>Ch Men Prive Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-CHPRI9622M_spo.jpg?v=1571609955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            103.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>GiftSetReady</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>OLDGIFTSETS</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/12402625995</id>
+      <title>100ML + 100ML A/S Balm</title>
+      <s:price currency="CAD">103.95</s:price>
+      <s:sku>SET-CHPRI9622M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/12392392523</id>
+    <published>2019-11-23T04:28:24-05:00</published>
+    <updated>2019-11-23T04:28:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ch-212-vip-gift-set-women"/>
+    <title>CH 212 Vip Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-CH212VIP1717W_spo.jpg?v=1571609955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>GiftSetReady</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>OLDGIFTSETS</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/12392392523</id>
+      <title>80ML EDP + 100ML Body Lotion</title>
+      <s:price currency="CAD">99.95</s:price>
+      <s:sku>SET-CH212VIP1717W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/12392370187</id>
+    <published>2019-11-23T04:28:23-05:00</published>
+    <updated>2019-11-23T04:28:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ch-carolina-herrera-men-gift-set"/>
+    <title>CH Carolina Herrera Men Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-CHCH1526M_spo.jpg?v=1571609955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            106.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>GiftSetReady</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>OLDGIFTSETS</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/12392370187</id>
+      <title>100ML EDT + 100ML A/S Balm</title>
+      <s:price currency="CAD">106.95</s:price>
+      <s:sku>SET-CHCH1526M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332953567329</id>
+    <published>2019-11-23T04:27:59-05:00</published>
+    <updated>2019-11-23T04:27:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ch-212-sexy-gift-set-women"/>
+    <title>Ch 212 Sexy Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_47818147-8a2e-44aa-a237-106762d43745.png?v=1572519221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332953567329</id>
+      <title>100ML Edp + 100ML Body Lotion</title>
+      <s:price currency="CAD">99.95</s:price>
+      <s:sku>SET-CH212SEX1700W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1449458499681</id>
+    <published>2019-11-23T04:27:57-05:00</published>
+    <updated>2019-11-23T04:27:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ch-212-gift-set-men"/>
+    <title>CH 212 Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_afcf3efb-2a3d-4f8e-809d-c69c8c99bb08.png?v=1571609991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            95.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetReady</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>newgiftsets</s:tag>
+    <s:tag>OLDGIFTSETS</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1449458499681</id>
+      <title>100Ml EDT + 100Ml Shower Gel</title>
+      <s:price currency="CAD">95.95</s:price>
+      <s:sku>SET-CH212100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1449457254497</id>
+    <published>2019-11-23T04:27:56-05:00</published>
+    <updated>2019-11-23T04:27:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ch-212-gift-set-women"/>
+    <title>CH 212 Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_5bb5c190-cc34-44b4-9e80-d75a40adf91d.png?v=1571609990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetReady</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>newgiftsets</s:tag>
+    <s:tag>OLDGIFTSETS</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1449457254497</id>
+      <title>100Ml EDT + 100Ml Body Lotion</title>
+      <s:price currency="CAD">99.95</s:price>
+      <s:sku>SET-CH2124523W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4341356888161</id>
+    <published>2019-11-04T05:51:18-05:00</published>
+    <updated>2019-11-04T05:51:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ch-good-girl-dot-drama"/>
+    <title>Ch Good Girl Dot Drama</title>
+    <s:type>Women</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ch-Good-Girl-Dot-Drama.png?v=1572968638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            138.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3NOVV2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4341356888161</id>
+      <title>80ML EDP</title>
+      <s:price currency="CAD">138.45</s:price>
+      <s:sku>CHGOODOT80PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258973712481</id>
+    <published>2019-10-15T07:36:21-04:00</published>
+    <updated>2019-10-15T07:36:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ch-bad-boy"/>
+    <title>Ch Bad Boy</title>
+    <s:type>Men</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/CH_BAD_BOY_100ML_EDP_MEN.png?v=1571610019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            79.75 - 96.75
+            <a href="https://perfumeonline.ca/products/ch-bad-boy">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>02JULY2020</s:tag>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:tag>28jun2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973712481</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">79.75</s:price>
+      <s:sku>CHBAD50M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973712481</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">81.95</s:price>
+      <s:sku>TESCHBAD100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258973712481</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">96.75</s:price>
+      <s:sku>CHBAD100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1915085258849</id>
+    <published>2018-12-17T05:14:13-05:00</published>
+    <updated>2018-12-17T05:14:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/212-party-fever-w"/>
+    <title>212 Party Fever</title>
+    <s:type>Women</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/IMG_1291.jpg?v=1571609994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            104.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1915085258849</id>
+      <title>80ML EDT</title>
+      <s:price currency="CAD">104.95</s:price>
+      <s:sku>CH212PAR80W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1915083292769</id>
+    <published>2018-12-17T05:14:13-05:00</published>
+    <updated>2018-12-17T05:14:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/212-party-fever"/>
+    <title>212 Party Fever</title>
+    <s:type>Men</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/100584.jpg?v=1571609994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            89.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1915083292769</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">89.45</s:price>
+      <s:sku>CH212PAR100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1904962338913</id>
+    <published>2018-11-19T12:37:59-05:00</published>
+    <updated>2018-11-19T12:37:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/212-vip-black"/>
+    <title>212 VIP Black</title>
+    <s:type>Men</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ch-212vip-black.jpg?v=1571609993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            64.95 - 112.95
+            <a href="https://perfumeonline.ca/products/212-vip-black">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15july2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1904962338913</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">64.95</s:price>
+      <s:sku>TESCH212VIPBLA100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1904962338913</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">94.95</s:price>
+      <s:sku>CH212VIPBLA100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1904962338913</id>
+      <title>200ML EDP</title>
+      <s:price currency="CAD">112.95</s:price>
+      <s:sku>CH212VIPBLA200M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1424900227169</id>
+    <published>2018-09-02T04:54:47-04:00</published>
+    <updated>2018-09-02T04:54:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/212-aqua"/>
+    <title>212 Aqua</title>
+    <s:type>Men</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/212-AQUA.png?v=1571609978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            83.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1424900227169</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">83.95</s:price>
+      <s:sku>CH212AQU100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1392369729633</id>
+    <published>2018-07-21T10:58:22-04:00</published>
+    <updated>2018-07-21T10:58:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ch-leau-carolina-herrera"/>
+    <title>Ch L&apos;Eau Carolina Herrera</title>
+    <s:type>Women</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ch-L_Eau-Carolina-Herrera.png?v=1571609973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            89.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1392369729633</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">89.95</s:price>
+      <s:sku>CHCHLEA100TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/1392368353377</id>
+    <published>2018-07-21T10:55:52-04:00</published>
+    <updated>2018-07-21T10:55:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ch-good-girl-legere"/>
+    <title>Ch Good Girl Legere</title>
+    <s:type>Women</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ch-Good-Girl-Legere.png?v=1571609973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            79.45 - 109.95
+            <a href="https://perfumeonline.ca/products/ch-good-girl-legere">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1392368353377</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>CHGOOLEG50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1392368353377</id>
+      <title>80ML EDP TESTER</title>
+      <s:price currency="CAD">79.45</s:price>
+      <s:sku>TESCHGOOLEG80PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/1392368353377</id>
+      <title>80ML EDP</title>
+      <s:price currency="CAD">109.95</s:price>
+      <s:sku>CHGOOLEG80PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9828703563</id>
+    <published>2018-06-11T14:05:41-04:00</published>
+    <updated>2018-06-11T14:05:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/212-wild-party"/>
+    <title>212 Vip Wild Party</title>
+    <s:type>Men</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/283272_spo.jpg?v=1571609901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            78.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9828703563</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">78.95</s:price>
+      <s:sku>CH212VIPWIL100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

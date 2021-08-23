@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/agatha-ruiz-de-la-prada.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2020-08-26T11:49:17-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/4742187679841</id>
+    <published>2020-08-26T11:49:17-04:00</published>
+    <updated>2020-08-26T11:49:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/oh-la-la-by-agatha-ruiz-de-la-prada"/>
+    <title>Oh La La By Agatha Ruiz De La Prada</title>
+    <s:type>Women</s:type>
+    <s:vendor>Agatha Ruiz De La Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Oh-La-La-By-Agatha-Ruiz-De-La-Prada.png?v=1606123044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Agatha Ruiz De La Prada<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22AUG2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4742187679841</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>TESAROHLOV100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4742187516001</id>
+    <published>2020-08-26T11:48:38-04:00</published>
+    <updated>2020-08-26T11:48:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/love-love-love-by-agatha-ruiz-de-la-prada"/>
+    <title>Love Love Love By Agatha Ruiz De La Prada</title>
+    <s:type>Women</s:type>
+    <s:vendor>Agatha Ruiz De La Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_ace0665f-19fa-4d70-bcff-86c8f0f8f2c9.png?v=1606122941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Agatha Ruiz De La Prada<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22AUG2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4742187516001</id>
+      <title>80ML EDT TESTER</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>TESARLOVLOV80TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4742187057249</id>
+    <published>2020-08-26T11:47:18-04:00</published>
+    <updated>2020-08-26T11:47:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/love-glam-love-by-agatha-ruiz-de-la-prada"/>
+    <title>Love Glam Love By Agatha Ruiz De La Prada</title>
+    <s:type>Women</s:type>
+    <s:vendor>Agatha Ruiz De La Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/LoveGlamLoveByAgathaRuizDeLaPradaWomen.jpg?v=1626102180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Agatha Ruiz De La Prada<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22AUG2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4742187057249</id>
+      <title>80ML EDT TESTER</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>TESARLOVGLA80TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4742186532961</id>
+    <published>2020-08-26T11:45:31-04:00</published>
+    <updated>2020-08-26T11:45:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/love-forever-by-agatha-ruiz-de-la-prada"/>
+    <title>Love Forever By Agatha Ruiz De La Prada</title>
+    <s:type>Women</s:type>
+    <s:vendor>Agatha Ruiz De La Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Love-Forever-By-Agatha-Ruiz-De-La-Prada-Women.jpg?v=1626102180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Agatha Ruiz De La Prada<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22AUG2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4742186532961</id>
+      <title>80ML EDT TESTER</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>TESARLOVFOR80TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4742186172513</id>
+    <published>2020-08-26T11:44:50-04:00</published>
+    <updated>2020-08-26T11:44:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/gotas-de-color-by-agatha-ruiz-de-la-prada"/>
+    <title>Gotas De Color By Agatha Ruiz De La Prada</title>
+    <s:type>Women</s:type>
+    <s:vendor>Agatha Ruiz De La Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Gotas-De-Color-By-Agatha-Ruiz-De-La-Prada-Women.jpg?v=1626101956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Agatha Ruiz De La Prada<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22AUG2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4742186172513</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>TESARCOL100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4742185746529</id>
+    <published>2020-08-26T11:43:51-04:00</published>
+    <updated>2020-08-26T11:43:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/florever-by-agatha-ruiz-de-la-prada"/>
+    <title>Florever By Agatha Ruiz De La Prada</title>
+    <s:type>Women</s:type>
+    <s:vendor>Agatha Ruiz De La Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_1d723453-12f5-44dc-b575-9447577a72cc.png?v=1613493455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Agatha Ruiz De La Prada<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22AUG2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4742185746529</id>
+      <title>80ML EDT TESTER</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>TESARFLOEVE80TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4742184304737</id>
+    <published>2020-08-26T11:41:37-04:00</published>
+    <updated>2020-08-26T11:41:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/flor-by-agatha-ruiz-de-la-prada"/>
+    <title>Flor By Agatha Ruiz De La Prada</title>
+    <s:type>Women</s:type>
+    <s:vendor>Agatha Ruiz De La Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_a749065c-88a5-4882-ba13-49af1e7913b2.png?v=1613493453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Agatha Ruiz De La Prada<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22AUG2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4742184304737</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>TESARFLO100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4742151962721</id>
+    <published>2020-08-26T10:52:08-04:00</published>
+    <updated>2020-08-26T10:52:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/beso-by-agatha-ruiz-de-la-prada"/>
+    <title>Beso By Agatha Ruiz De La Prada</title>
+    <s:type>Men</s:type>
+    <s:vendor>Agatha Ruiz De La Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BesoByAgathaRuizDeLaPradaMen.jpg?v=1613493274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Agatha Ruiz De La Prada<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22AUG2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4742151962721</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku>TESARBES100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

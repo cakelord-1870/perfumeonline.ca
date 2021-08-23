@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/baldessarini.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2020-05-19T06:29:25-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/4632040439905</id>
+    <published>2020-05-19T06:29:25-04:00</published>
+    <updated>2020-05-19T06:29:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/baldessarini-black"/>
+    <title>Baldessarini Black</title>
+    <s:type>Men</s:type>
+    <s:vendor>BALDESSARINI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Baldessarini-Black.png?v=1601289170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BALDESSARINI<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            39.95 - 44.95
+            <a href="https://perfumeonline.ca/products/baldessarini-black">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:tag>3JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4632040439905</id>
+      <title>75ML EDT TESTER</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>TESBALBLA75M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4632040439905</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">44.95</s:price>
+      <s:sku>BALBLA75M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9965274507</id>
+    <published>2019-11-23T04:27:49-05:00</published>
+    <updated>2019-11-23T04:27:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/baldessarini-gift-set-men"/>
+    <title>Baldessarini Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>BALDESSARINI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-BAL2163M_2d71985a-7732-4787-8811-b44a481c03c5_spo.jpg?v=1571609952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BALDESSARINI<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            60.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>GiftSetReady</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>OLDGIFTSETS</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9965274507</id>
+      <title>75ML EDC + 50ML S/G + 40ML Deo</title>
+      <s:price currency="CAD">60.95</s:price>
+      <s:sku>SET-BAL2163M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312165777505</id>
+    <published>2019-10-25T04:38:13-04:00</published>
+    <updated>2019-10-25T04:38:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/baldessarini-ultimate"/>
+    <title>Baldessarini Ultimate</title>
+    <s:type>Men</s:type>
+    <s:vendor>BALDESSARINI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Baldessarini-Ultimate.png?v=1572289696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BALDESSARINI<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            36.95 - 42.95
+            <a href="https://perfumeonline.ca/products/baldessarini-ultimate">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19MAYY2020</s:tag>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312165777505</id>
+      <title>90ML EDT TESTER</title>
+      <s:price currency="CAD">36.95</s:price>
+      <s:sku>TESBALULT90M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312165777505</id>
+      <title>90ML EDT</title>
+      <s:price currency="CAD">42.95</s:price>
+      <s:sku>BALULT90M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258981347425</id>
+    <published>2019-10-15T07:35:40-04:00</published>
+    <updated>2019-10-15T07:35:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/baldessarini-secret-mission"/>
+    <title>Baldessarini Secret Mission</title>
+    <s:type>Men</s:type>
+    <s:vendor>BALDESSARINI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BALDESSARINI-SECRET-MISSION-90ML-EDT-TESTER-_NO-CAP_-MEN.png?v=1571610022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BALDESSARINI<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            30.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258981347425</id>
+      <title>90ML EDT TESTER (NO CAP)</title>
+      <s:price currency="CAD">30.95</s:price>
+      <s:sku>TESBALSEC90M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/2132564115553</id>
+    <published>2019-06-03T10:13:50-04:00</published>
+    <updated>2019-06-03T10:13:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/baldessarini-ambre-oud"/>
+    <title>Baldessarini Ambre Oud</title>
+    <s:type>Men</s:type>
+    <s:vendor>BALDESSARINI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/golden_scent_perfume_baldessarini_perfumes_amber_oud_for_men_eau_de_perfum_4011700906208_2.jpg?v=1571609999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BALDESSARINI<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            43.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mayy19</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2132564115553</id>
+      <title>90ML EDP</title>
+      <s:price currency="CAD">43.95</s:price>
+      <s:sku>BALAMBOUD100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/2116919001185</id>
+    <published>2019-05-14T03:22:53-04:00</published>
+    <updated>2019-05-14T03:22:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/baldessari-private-affairs"/>
+    <title>Baldessarini Private Affairs</title>
+    <s:type>Men</s:type>
+    <s:vendor>BALDESSARINI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Baldessari-Private-Affairs.png?v=1571609995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BALDESSARINI<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            28.45 - 35.45
+            <a href="https://perfumeonline.ca/products/baldessari-private-affairs">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>MAYPRODUCT</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2116919001185</id>
+      <title>90ML EDT TESTER (NO CAP)</title>
+      <s:price currency="CAD">28.45</s:price>
+      <s:sku>TESBALPRI90M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2116919001185</id>
+      <title>90ML EDT</title>
+      <s:price currency="CAD">35.45</s:price>
+      <s:sku>BALPRI90M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9838272779</id>
+    <published>2018-07-18T15:46:06-04:00</published>
+    <updated>2018-07-18T15:46:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/baldessarini-concentrate"/>
+    <title>Baldessarini Concentrate</title>
+    <s:type>Men</s:type>
+    <s:vendor>BALDESSARINI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/concentre.png?v=1571609918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BALDESSARINI<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            55.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838272779</id>
+      <title>75ML EDC</title>
+      <s:price currency="CAD">55.95</s:price>
+      <s:sku>BALCON90M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9838239947</id>
+    <published>2018-07-03T15:12:02-04:00</published>
+    <updated>2018-07-03T15:12:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/baldessarini-ambre"/>
+    <title>Baldessarini Ambre</title>
+    <s:type>Men</s:type>
+    <s:vendor>BALDESSARINI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ambre.png?v=1571609918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BALDESSARINI<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            36.95 - 43.45
+            <a href="https://perfumeonline.ca/products/baldessarini-ambre">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Baldessarini Ambre Cologne for men was introduced in 2007. This distinctive scent starts with fruity notes of red apple and mandarin orange with the heart of violet and leather. The base of the scent contains vanilla, oak, labdanum and amber. Baldessarini Ambre is seductive, masculine scent by Baldessarini sure to captivate anyone who smells it. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:tag>Price170</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838239947</id>
+      <title>90ML EDT TESTER</title>
+      <s:price currency="CAD">36.95</s:price>
+      <s:sku>TESBALAMB90M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838239947</id>
+      <title>90ML EDT</title>
+      <s:price currency="CAD">43.45</s:price>
+      <s:sku>BALAMB90M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9838278731</id>
+    <published>2017-08-17T09:19:00-04:00</published>
+    <updated>2017-08-17T09:19:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/baldessarini-delmar"/>
+    <title>Baldessarini Delmar</title>
+    <s:type>Men</s:type>
+    <s:vendor>BALDESSARINI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Baldessarini_Delmar_Cologne_for_Men.jpg?v=1571609918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BALDESSARINI<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            37.95 - 47.95
+            <a href="https://perfumeonline.ca/products/baldessarini-delmar">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838278731</id>
+      <title>90ML EDT TESTER</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>TESDEL90M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838278731</id>
+      <title>90ML EDT</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku>BALDEL90M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9838223371</id>
+    <published>2017-08-17T09:08:58-04:00</published>
+    <updated>2017-08-17T09:08:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/baldessarini"/>
+    <title>Baldessarini</title>
+    <s:type>Men</s:type>
+    <s:vendor>BALDESSARINI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Baldessarini_Cologne_for_Men.jpg?v=1571609918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BALDESSARINI<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            42.95 - 57.95
+            <a href="https://perfumeonline.ca/products/baldessarini">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>a casual but distinctive fragrance from famous perfume maker, Baldessarini cologne for men was introduced in 2007. The scent opens with rich notes of mint, orange blended with heart notes of chamomile and clove. The base of scent is made up of juniper, tobacco, musk, patchouli and amber.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838223371</id>
+      <title>75ML EDC TESTER</title>
+      <s:price currency="CAD">42.95</s:price>
+      <s:sku>TESBAL75M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9838223371</id>
+      <title>75ML EDC</title>
+      <s:price currency="CAD">57.95</s:price>
+      <s:sku>BAL75M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

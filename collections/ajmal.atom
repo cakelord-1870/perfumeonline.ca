@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/ajmal.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-06-17T14:04:00-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6787446964413</id>
+    <published>2021-06-17T14:04:00-04:00</published>
+    <updated>2021-06-17T14:04:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/armaf-q-uomo"/>
+    <title>Armaf Q Uomo</title>
+    <s:type>Men</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Armaf-Q-Uomo.png?v=1626101744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            33.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6787446964413</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">33.95</s:price>
+      <s:sku>AFQUOM100PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6787443949757</id>
+    <published>2021-06-17T14:00:20-04:00</published>
+    <updated>2021-06-17T14:00:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ajmal-aqua"/>
+    <title>Ajmal Aqua</title>
+    <s:type>Men</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ajmal-Aqua.png?v=1626101710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            35.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6787443949757</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">35.95</s:price>
+      <s:sku>AJMAQU100PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6787435626685</id>
+    <published>2021-06-17T13:49:28-04:00</published>
+    <updated>2021-06-17T13:49:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ajmal-oath"/>
+    <title>Ajmal Oath</title>
+    <s:type>Men</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_5dc35489-1072-4028-b8da-6a20cbfe5ed2.png?v=1626101712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            42.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3JUNN2021</s:tag>
+    <s:tag>NEWITEMS15JULYY21</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6787435626685</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">42.45</s:price>
+      <s:sku>AJMOAT100PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6787434971325</id>
+    <published>2021-06-17T13:48:33-04:00</published>
+    <updated>2021-06-17T13:48:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ajmal-aristocrat-platinum"/>
+    <title>Ajmal Aristocrat Platinum</title>
+    <s:type>Men</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ajmal-Aristocrat-Platinum.png?v=1626101712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            81.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3JUNN2021</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6787434971325</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">81.95</s:price>
+      <s:sku>AJMARIPLA75PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6096134176957</id>
+    <published>2020-11-25T03:24:36-05:00</published>
+    <updated>2020-11-25T03:24:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ajmal-ambre-pimente-1"/>
+    <title>Ajmal Ambre Pimente</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Coming-Soon_194d3a4d-27ec-4db8-b4eb-ccd2ab3d4f2a.png?v=1613493195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25NOVV2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6096134176957</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">34.95</s:price>
+      <s:sku>AJMAMBPIM100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4736861864033</id>
+    <published>2020-08-20T11:59:12-04:00</published>
+    <updated>2020-08-20T11:59:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ajmal-blue-femme"/>
+    <title>Ajmal Blue Femme</title>
+    <s:type>Women</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_191d9748-7e0b-4cee-9f6a-8b236ce1a76f.png?v=1606122396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            37.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20AUG2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4736861864033</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>AJBLUFEM50W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4736860160097</id>
+    <published>2020-08-20T11:58:10-04:00</published>
+    <updated>2020-08-20T11:58:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ajmal-silver-shade"/>
+    <title>Ajmal Silver Shade</title>
+    <s:type>Men</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ajmal-Silver-Shade-Men.jpg?v=1613493196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20AUG2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4736860160097</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>AJSILSHA100PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4484404576353</id>
+    <published>2020-01-25T03:11:21-05:00</published>
+    <updated>2020-01-25T03:11:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ajmla-black-onyx"/>
+    <title>Ajmla Black Onyx</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ajmla-Black-Onyx.png?v=1580206491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            29.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JANN2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4484404576353</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">29.25</s:price>
+      <s:sku>AJMBLAONY100PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4484404543585</id>
+    <published>2020-01-25T03:11:21-05:00</published>
+    <updated>2020-01-25T03:11:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ajmal-viva-viola"/>
+    <title>Ajmal Viva Viola</title>
+    <s:type>Women</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_3c457873-b17c-4ed9-b4e3-4d9541f4eee8.png?v=1579939884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JANN2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4484404543585</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">26.95</s:price>
+      <s:sku>AJMVIVVIO75PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4484404510817</id>
+    <published>2020-01-25T03:11:19-05:00</published>
+    <updated>2020-01-25T03:11:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ajmal-violet-musc"/>
+    <title>Ajmal Violet Musc</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ajmal-Violet-Musc.png?v=1580206351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            96.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JANN2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4484404510817</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">96.75</s:price>
+      <s:sku>AJVIOMUS100PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4484404478049</id>
+    <published>2020-01-25T03:11:17-05:00</published>
+    <updated>2020-01-25T03:11:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ajmal-viola"/>
+    <title>Ajmal Viola</title>
+    <s:type>Women</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ajmal-Viola.png?v=1580206277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            28.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JANN2020</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4484404478049</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">28.25</s:price>
+      <s:sku>AJMVIO75PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4484404445281</id>
+    <published>2020-01-25T03:11:17-05:00</published>
+    <updated>2020-01-25T03:11:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ajmal-incense-wood"/>
+    <title>Ajmal Incense Wood</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_e2218d68-2b44-4160-9978-be617b57a7e1.png?v=1579939880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            145.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JANN2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4484404445281</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">145.75</s:price>
+      <s:sku>AJMINCWOO100PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4484404412513</id>
+    <published>2020-01-25T03:11:17-05:00</published>
+    <updated>2020-01-25T03:11:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ajmal-hatkora-wood"/>
+    <title>Ajmal Hatkora Wood</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ajmal-Hatkora-Wood.png?v=1580206082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            135.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JANN2020</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4484404412513</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">135.75</s:price>
+      <s:sku>AJMHATWOO100PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4484404379745</id>
+    <published>2020-01-25T03:11:16-05:00</published>
+    <updated>2020-01-25T03:11:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ajmal-cashmere-musc"/>
+    <title>Ajmal Cashmere Musc</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ajmal-Cashmere-Musc.png?v=1580206004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            114.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JANN2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4484404379745</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">114.95</s:price>
+      <s:sku>AJMCASMUS100PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4484404346977</id>
+    <published>2020-01-25T03:11:14-05:00</published>
+    <updated>2020-01-25T03:11:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ajmal-ambre-pimente"/>
+    <title>Ajmal Ambre Pimente</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/61Nk83-vV-L._SL1000.jpg?v=1580196142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JANN2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4484404346977</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">34.95</s:price>
+      <s:sku>AJMAMBPIM100PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4484404314209</id>
+    <published>2020-01-25T03:11:13-05:00</published>
+    <updated>2020-01-25T03:11:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ajmal-amber-wood"/>
+    <title>Ajmal Amber Wood</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ajmal-Amber-Wood.png?v=1580196078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            116.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JANN2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4484404314209</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">116.95</s:price>
+      <s:sku>AJMAMBWOO100PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4484404281441</id>
+    <published>2020-01-25T03:11:13-05:00</published>
+    <updated>2020-01-25T03:11:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ajmal-amber-santal"/>
+    <title>Ajmal Amber Santal</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_f51729a3-0808-4045-8ff5-ee3d8fcd507d.png?v=1579939876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            116.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JANN2020</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4484404281441</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">116.95</s:price>
+      <s:sku>AJMAMBSAN100PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4484404248673</id>
+    <published>2020-01-25T03:11:12-05:00</published>
+    <updated>2020-01-25T03:11:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ajmal-amber-poivre"/>
+    <title>Ajmal Amber Poivre</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ajmal-Amber-Poivre.png?v=1580195903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            116.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25JANN2020</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4484404248673</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">116.95</s:price>
+      <s:sku>AJMAMBPOI100PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4370226905185</id>
+    <published>2019-11-18T05:10:59-05:00</published>
+    <updated>2019-11-18T05:10:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ajmal-avid"/>
+    <title>Ajmal Avid</title>
+    <s:type>Men</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ajmal-Avid.png?v=1574175735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>18novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4370226905185</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">26.95</s:price>
+      <s:sku>AJMAVI75PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4370226839649</id>
+    <published>2019-11-18T05:10:59-05:00</published>
+    <updated>2019-11-18T05:10:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ajmal-amber-musc"/>
+    <title>Ajmal Amber Musc</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ajmal-Amber-Musc.png?v=1574173806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            96.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>18novv2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4370226839649</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">96.75</s:price>
+      <s:sku>AJMAMBMUS100PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4370227003489</id>
+    <published>2019-11-18T05:10:58-05:00</published>
+    <updated>2019-11-18T05:10:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ajmal-patchouli-wood"/>
+    <title>Ajmal Patchouli Wood</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ajmal-Patchouli-Wood.png?v=1574176048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            143.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>18novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4370227003489</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">143.95</s:price>
+      <s:sku>AJMPATWOO100PU</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4370226970721</id>
+    <published>2019-11-18T05:10:58-05:00</published>
+    <updated>2019-11-18T05:10:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ajmal-extreme"/>
+    <title>Ajmal Extreme</title>
+    <s:type>Men</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/extreme-ajaml.jpg?v=1574175968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>18novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4370226970721</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">26.95</s:price>
+      <s:sku>AJMEXT100PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4355924230241</id>
+    <published>2019-11-11T05:56:55-05:00</published>
+    <updated>2019-11-11T05:56:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ajmal-evoke-gold-edition"/>
+    <title>Ajmal Evoke Gold Edition</title>
+    <s:type>Men</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ajmal-Evoke-Gold-Edition.png?v=1573500756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            52.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4355924230241</id>
+      <title>90ML EDP</title>
+      <s:price currency="CAD">52.95</s:price>
+      <s:sku>AJEVOGOL90M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4355924197473</id>
+    <published>2019-11-11T05:56:55-05:00</published>
+    <updated>2019-11-11T05:56:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ajmal-kuro"/>
+    <title>Ajmal Kuro</title>
+    <s:type>Men</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ajmal-Kuro.png?v=1573500914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            26.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11novv2019</s:tag>
+    <s:tag>PM21J1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4355924197473</id>
+      <title>90ML EDP</title>
+      <s:price currency="CAD">26.25</s:price>
+      <s:sku>AJMKUR90PM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4355924164705</id>
+    <published>2019-11-11T05:56:54-05:00</published>
+    <updated>2019-11-11T05:56:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/ajmal-evoke-silver-edition"/>
+    <title>Ajmal Evoke Silver Edition</title>
+    <s:type>Men</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Ajmal-Evoke-Silver-Edition.png?v=1573500888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11novv2019</s:tag>
+    <s:tag>PM21J</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4355924164705</id>
+      <title>90ML EDP</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>AJEVOSIL90M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

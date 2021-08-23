@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/aramis.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2021-06-22T00:50:21-04:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794776936637</id>
+    <published>2021-06-22T00:50:21-04:00</published>
+    <updated>2021-06-22T00:50:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aramis-havana-pour-elle-vintage-packaging"/>
+    <title>Aramis Havana Pour Elle Vintage Packaging</title>
+    <s:type>Women</s:type>
+    <s:vendor>Aramis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_9f776ab2-2ae4-493e-83e7-970678fcfbce.png?v=1624337426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aramis<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            94.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794776936637</id>
+      <title>50ML EDP (WITHOUT CELLOPHANE)</title>
+      <s:price currency="CAD">94.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6794776903869</id>
+    <published>2021-06-22T00:50:20-04:00</published>
+    <updated>2021-06-22T00:50:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aramis-havana-vintage-packaging"/>
+    <title>Aramis Havana Vintage Packaging</title>
+    <s:type>Men</s:type>
+    <s:vendor>Aramis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_221adcea-b946-437e-bedb-9844473a3fc1.png?v=1624337425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aramis<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            84.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Vintage fragrances are final sales (No Exchanges/ No Returns). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintagecoll</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6794776903869</id>
+      <title>50ML EDT (WITHOUT CELLOPHANE)</title>
+      <s:price currency="CAD">84.95</s:price>
+      <s:sku>VINTAGECOLL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/6108314632381</id>
+    <published>2020-12-04T13:44:01-05:00</published>
+    <updated>2020-12-04T13:44:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aramis-calligraphy-rose"/>
+    <title>Aramis Calligraphy Rose</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Aramis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Aramis-Calligraphy-Rose-Unisex.jpg?v=1613493236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aramis<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            106.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1DECC2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/6108314632381</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">106.95</s:price>
+      <s:sku>ARACALROS100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4741146476641</id>
+    <published>2020-08-25T13:40:53-04:00</published>
+    <updated>2020-08-25T13:40:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aramis-gentleman"/>
+    <title>Aramis Gentleman</title>
+    <s:type>Men</s:type>
+    <s:vendor>Aramis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/AramisGentlemanMen.jpg?v=1613493239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aramis<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            53.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22AUG2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4741146476641</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">53.95</s:price>
+      <s:sku>ARAGEN100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4706495397985</id>
+    <published>2020-07-16T11:29:24-04:00</published>
+    <updated>2020-07-16T11:29:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aramis-high-performance"/>
+    <title>Aramis High Performance</title>
+    <s:type>Men</s:type>
+    <s:vendor>Aramis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_c12a6146-22c6-4e9a-acda-d7c499fd7e95.png?v=1601289164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aramis<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            35.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15july2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4706495397985</id>
+      <title>75GM DEOSTICK</title>
+      <s:price currency="CAD">35.95</s:price>
+      <s:sku>ARAHIGPER75DEOM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4704712523873</id>
+    <published>2020-07-15T12:46:24-04:00</published>
+    <updated>2020-07-15T12:46:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aramis-adventurer"/>
+    <title>Aramis Adventurer</title>
+    <s:type>Men</s:type>
+    <s:vendor>Aramis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image_Coming_Soon_8238c0f1-41ef-4b99-b60d-8bd462493a3a.png?v=1601289163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aramis<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            25.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15july2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4704712523873</id>
+      <title>60ML EDT</title>
+      <s:price currency="CAD">25.95</s:price>
+      <s:sku>ARAADV60M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4685541703777</id>
+    <published>2020-06-27T06:24:55-04:00</published>
+    <updated>2020-06-27T06:24:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aramis-calligraphy-saffron"/>
+    <title>Aramis Calligraphy Saffron</title>
+    <s:type>Women</s:type>
+    <s:vendor>Aramis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Aramis-Calligraphy-Saffron.png?v=1601289163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aramis<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            93.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27JUN2020</s:tag>
+    <s:tag>28JUN2020</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4685541703777</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">93.95</s:price>
+      <s:sku>ARACALSAF100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4312165613665</id>
+    <published>2019-10-25T04:38:12-04:00</published>
+    <updated>2019-10-25T04:38:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aramis-special-blend"/>
+    <title>Aramis Special Blend</title>
+    <s:type>Men</s:type>
+    <s:vendor>Aramis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Aramis-Special-Blend.png?v=1572289489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aramis<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            53.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24octt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4312165613665</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">53.95</s:price>
+      <s:sku>ARASPC100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4258972729441</id>
+    <published>2019-10-15T07:36:35-04:00</published>
+    <updated>2019-10-15T07:36:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aramis-havana"/>
+    <title>Aramis Havana</title>
+    <s:type>Men</s:type>
+    <s:vendor>Aramis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ARAMIS-HAVANA-100ML-EDT-MEN.png?v=1571610018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aramis<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            32.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14octt2019</s:tag>
+    <s:tag>14octtt2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4258972729441</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">32.95</s:price>
+      <s:sku>ARAHAV100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/3998949572705</id>
+    <published>2019-08-24T02:51:47-04:00</published>
+    <updated>2019-08-24T02:51:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aramis-adventure-110ml-edt-men"/>
+    <title>Aramis Adventure</title>
+    <s:type>Men</s:type>
+    <s:vendor>Aramis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Aramis-Adventure.png?v=1571824400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aramis<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            36.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20augg2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/3998949572705</id>
+      <title>110ML EDT</title>
+      <s:price currency="CAD">36.95</s:price>
+      <s:sku>ARAADV100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/2001502044257</id>
+    <published>2019-03-10T06:17:33-04:00</published>
+    <updated>2019-03-10T06:17:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aramis-life"/>
+    <title>Aramis Life</title>
+    <s:type>Men</s:type>
+    <s:vendor>Aramis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Aramis-life.png?v=1571609994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aramis<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            32.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/2001502044257</id>
+      <title>30ML EDT</title>
+      <s:price currency="CAD">32.95</s:price>
+      <s:sku>ARALIF30M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9837342347</id>
+    <published>2018-10-09T14:58:33-04:00</published>
+    <updated>2018-10-09T14:58:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aramis-always"/>
+    <title>Aramis Always for Her</title>
+    <s:type>Women</s:type>
+    <s:vendor>Aramis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Aramis-Always-for-Her.png?v=1571609913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aramis<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aramis Always for her was introduced in 2006 by design house of Aramis. The scent opens with notes watercress and mandarin orange. The middle notes are hibiscus, magnolia and mignonette with base of incense, exotic woods, labdanum and milk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-women</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837342347</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">34.95</s:price>
+      <s:sku>ARAALW50TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/755307151457</id>
+    <published>2018-05-16T13:56:38-04:00</published>
+    <updated>2018-05-16T13:56:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aramis-voyager"/>
+    <title>Aramis Voyager</title>
+    <s:type>Men</s:type>
+    <s:vendor>Aramis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/ARAMIS-VOYAGER-100ML-EDT-MEN.jpg?v=1571609960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aramis<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aramis Voyager is the new scent for daring and energetic individual. This aromatic masculine cologne was launched in 2016. The sensual and powerful scent opens with top notes of black pepper, ginger and fresh juniper berries while heart notes also contain spicy nutmeg with flowery lavender and sage where Tonka bean anchors base of Aramis Voyager.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/755307151457</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>ARAVOY100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9852302603</id>
+    <published>2017-08-19T03:41:36-04:00</published>
+    <updated>2017-08-19T03:41:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/tuscany-by-aramis"/>
+    <title>Aramis Tuscany</title>
+    <s:type>Men</s:type>
+    <s:vendor>Aramis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Tuscany-By-Aramis.jpg?v=1571609947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aramis<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            65.95 - 105.95
+            <a href="https://perfumeonline.ca/products/tuscany-by-aramis">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Tuscany by Aramis is a citrus aromatic perfume for men that was introduced in 1984. The Aramis Tuscany opens with top notes lavender, lime, bergamot and lemon while heart notes contain anise, orange blossom, caraway and tarragon. Base notes are patchouli, tonka bean, leather, oakmoss, basil and sandalwood.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9MARR21</s:tag>
+    <s:tag>PRICE2SEP</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9852302603</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">65.95</s:price>
+      <s:sku>TESARATUSPER100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9852302603</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">105.95</s:price>
+      <s:sku>ARATUS100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9837354187</id>
+    <published>2017-08-17T06:10:30-04:00</published>
+    <updated>2017-08-17T06:10:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aramis-devin"/>
+    <title>Aramis Devin</title>
+    <s:type>Men</s:type>
+    <s:vendor>Aramis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/211187_spo.jpg?v=1571609913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aramis<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            28.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price170</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837354187</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">28.75</s:price>
+      <s:sku>ARADEV100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9837311179</id>
+    <published>2017-08-17T06:02:19-04:00</published>
+    <updated>2017-08-17T06:02:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aramis-900"/>
+    <title>Aramis 900</title>
+    <s:type>Men</s:type>
+    <s:vendor>Aramis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Aramis-900.jpg?v=1571609913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aramis<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            32.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Aramis 900 herbal cologne was created by perfumer Bernard Chant and launched by the house of Aramis in 1973. Aramis 900 is a woody scent for masculine men. This unique scent combines the green notes alongside coriander, bergamot, lemon, rosewood and Brazilian rosewood while heart notes are geranium, lily of the valley, vetiver, sandalwood, carnation, rose, jasmine and orris root. The base is made up of amber, oakmoss, patchouli, sandalwood, civet and vetiver. Aramis 900 cologne is suitable for evening no matter what you planned for that evening.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRICESHEET1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837311179</id>
+      <title>100ML EDC</title>
+      <s:price currency="CAD">32.95</s:price>
+      <s:sku>ARA900100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9837303563</id>
+    <published>2017-08-17T05:58:38-04:00</published>
+    <updated>2017-08-17T05:58:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aramis-after-shave"/>
+    <title>Aramis After Shave</title>
+    <s:type>Men</s:type>
+    <s:vendor>Aramis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Aramis-After-Shave.jpg?v=1571609913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aramis<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            36.95 - 44.95
+            <a href="https://perfumeonline.ca/products/aramis-after-shave">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837303563</id>
+      <title>120ML AFTER SHAVE</title>
+      <s:price currency="CAD">36.95</s:price>
+      <s:sku>ARA120A/SMx</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837303563</id>
+      <title>240ML AFTER SHAVE</title>
+      <s:price currency="CAD">44.95</s:price>
+      <s:sku>ARA240A/SM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9837289035</id>
+    <published>2017-08-17T05:53:43-04:00</published>
+    <updated>2017-08-17T05:53:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/aramis"/>
+    <title>Aramis</title>
+    <s:type>Men</s:type>
+    <s:vendor>Aramis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/118857_spo.jpg?v=1571609912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aramis<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            22.95 - 73.95
+            <a href="https://perfumeonline.ca/products/aramis">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20julyy2021aj</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837289035</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>ARA50M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837289035</id>
+      <title>110ML EDT TESTER</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>TESARA100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837289035</id>
+      <title>110ML EDT</title>
+      <s:price currency="CAD">33.95</s:price>
+      <s:sku>ARA110M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837289035</id>
+      <title>100ML AFTER SHAVE BALM (UNBOXED)</title>
+      <s:price currency="CAD">22.95</s:price>
+      <s:sku>ARA120A/SBALM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837289035</id>
+      <title>240ML EDT Spray</title>
+      <s:price currency="CAD">73.95</s:price>
+      <s:sku>ARA240TM</s:sku>
+      <s:grams>458</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9837289035</id>
+      <title>240ML EDT Splash Men</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>ARA240M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9836758027</id>
+    <published>2017-08-17T03:27:15-04:00</published>
+    <updated>2017-08-17T03:27:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/new-west"/>
+    <title>Aramis New West</title>
+    <s:type>Men</s:type>
+    <s:vendor>Aramis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Aramis_New_West_Cologne_Men.jpg?v=1571609908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aramis<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            31.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Aramis New West is a masculine perfume that was introduced in 1988 by Aramis. This aromatic fragrance for men opens with top notes of caraway, bergamot, lavender, aldehydes, mint and artemisia. While in middle notes you will find aromas of juniper barriers, watermelon, jasmine, geranium, pine tree, bay leaf and coriander and pine tree with base notes of oak mass, sandalwood, musk, patchouli, cedar, musk, leather and amber.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PM21J</s:tag>
+    <s:tag>PRICESHEET1</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9836758027</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>ARANEW100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

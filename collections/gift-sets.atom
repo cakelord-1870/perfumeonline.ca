@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/gift-sets.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2019-11-23T04:32:05-05:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332961824865</id>
+    <published>2019-11-23T04:32:05-05:00</published>
+    <updated>2019-11-23T04:32:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/wonderstruck-gift-set-women"/>
+    <title>Wonderstruck Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Taylor Swift</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_21021c50-f3c0-4ae3-8c01-a55ac5bb2c28.png?v=1572519341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Taylor Swift<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            76.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332961824865</id>
+      <title>100ML Edp + 100ML B/L + 100ML S/G</title>
+      <s:price currency="CAD">76.95</s:price>
+      <s:sku>SET-TSWON4796W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332961792097</id>
+    <published>2019-11-23T04:32:05-05:00</published>
+    <updated>2019-11-23T04:32:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/woman-by-ralph-lauren-gift-set-women"/>
+    <title>Woman By Ralph Lauren Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>RALPH LAUREN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_cd1638c6-ffac-45c4-8b21-d1d8b1c21379.png?v=1572519341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RALPH LAUREN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            103.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332961792097</id>
+      <title>50ML Edp + 30ML Edp</title>
+      <s:price currency="CAD">103.95</s:price>
+      <s:sku>SET-RLWOM50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332961497185</id>
+    <published>2019-11-23T04:32:04-05:00</published>
+    <updated>2019-11-23T04:32:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/white-diamond-gift-set-women"/>
+    <title>White Diamond Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>ELIZABETH TAYLOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_6070b90f-1ce1-4d03-a385-d4cdb7381d25.png?v=1572519339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ELIZABETH TAYLOR<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332961497185</id>
+      <title>100ML Edp + 10ML + 100ML B/L + 100 S/G</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>SET-ETWHI1254W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332961431649</id>
+    <published>2019-11-23T04:32:04-05:00</published>
+    <updated>2019-11-23T04:32:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/viva-la-juicy-gift-set-women"/>
+    <title>Viva La Juicy Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Juicy Couture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_372ba744-fc47-4ac5-817a-1378516dc95f.png?v=1572519338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juicy Couture<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            60.95 - 76.95
+            <a href="https://perfumeonline.ca/products/viva-la-juicy-gift-set-women">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332961431649</id>
+      <title>50ML Edp + 10ML Edp + 125ML B/L</title>
+      <s:price currency="CAD">60.95</s:price>
+      <s:sku>SET-JCVIV50W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332961431649</id>
+      <title>100ML Edp + 10ML Edp + 125ML B/L</title>
+      <s:price currency="CAD">76.95</s:price>
+      <s:sku>SET-JCVIV100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332961398881</id>
+    <published>2019-11-23T04:32:03-05:00</published>
+    <updated>2019-11-23T04:32:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/versage-collection-m-w-gift-set-unisex"/>
+    <title>Versage Collection M/W Gift Set</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_2a4ae53f-9640-439a-97fc-021df9663800.png?v=1572519336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            53.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332961398881</id>
+      <title>5 X 5ML(Eros M/Eros W/Bright Crystal/Dylan Blue M/Dylan Blue W)</title>
+      <s:price currency="CAD">53.95</s:price>
+      <s:sku>SET-VERMIN</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332961333345</id>
+    <published>2019-11-23T04:32:03-05:00</published>
+    <updated>2019-11-23T04:32:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/versage-collection-w-gift-set-women"/>
+    <title>Versage Collection W Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_bb90a864-07f9-4ecd-b5e3-e4327800a323.png?v=1572519337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            55.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332961333345</id>
+      <title>5 X 5ML(Dylan Blue/Eros/Crystal Noir/Bright Crystal/Yellow Diamond)</title>
+      <s:price currency="CAD">55.95</s:price>
+      <s:sku>SET-VERMINC</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332961235041</id>
+    <published>2019-11-23T04:32:02-05:00</published>
+    <updated>2019-11-23T04:32:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/versage-collection-gift-set-men"/>
+    <title>Versace Miniature Collection Gift Set for Men and Women</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Versaceminiset.jpg?v=1600889166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            53.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332961235041</id>
+      <title>5ML(Bright Crystal W/Dylan Blue W/Eros M/Dylan Blue M/Eros W)</title>
+      <s:price currency="CAD">53.95</s:price>
+      <s:sku>SET-VERMINW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332961202273</id>
+    <published>2019-11-23T04:32:02-05:00</published>
+    <updated>2019-11-23T04:32:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/versace-dylan-blue-gift-set-women"/>
+    <title>Versace Dylan Blue Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_eb1cf9fb-a354-41e9-a5c1-1904d538ab9f.png?v=1572519332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            71.95 - 125.95
+            <a href="https://perfumeonline.ca/products/versace-dylan-blue-gift-set-women">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332961202273</id>
+      <title>50ML Edp + 50ML S/G + 50ML B/L</title>
+      <s:price currency="CAD">71.95</s:price>
+      <s:sku>SET-VERDYL50PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332961202273</id>
+      <title>100ML Edp + 30ML Edp</title>
+      <s:price currency="CAD">114.95</s:price>
+      <s:sku>SET-VERDYL9030W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332961202273</id>
+      <title>100ML Edp + 10ML Edp + 150ML B/L</title>
+      <s:price currency="CAD">125.95</s:price>
+      <s:sku>SET-VERDYL100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332961103969</id>
+    <published>2019-11-23T04:32:02-05:00</published>
+    <updated>2019-11-23T04:32:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/versace-crystal-noir-gift-set-women"/>
+    <title>Versace Crystal Noir Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_0f6687cf-3f02-4f71-b087-7eb5ee28b8e4.png?v=1572519331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            96.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332961103969</id>
+      <title>90ML Edt + 10ML Edt + BAG</title>
+      <s:price currency="CAD">96.95</s:price>
+      <s:sku>SET-VERCRY7878W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332551569505</id>
+    <published>2019-11-23T04:32:00-05:00</published>
+    <updated>2019-11-23T04:32:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/wonderstruck-enchanted-gift-set-women"/>
+    <title>Wonderstruck Enchanted Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Taylor Swift</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-WONENC0383W_spo_3b93798b-eb25-48bb-9c63-51f3472e2b3c.jpg?v=1572433180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Taylor Swift<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            76.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>Vsets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332551569505</id>
+      <title>100ML Edp + 100ML B/L + 5ML Mini</title>
+      <s:price currency="CAD">76.95</s:price>
+      <s:sku>SET-TSENC100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332551503969</id>
+    <published>2019-11-23T04:31:59-05:00</published>
+    <updated>2019-11-23T04:31:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/very-sexual-pour-homme-gift-set-men"/>
+    <title>Very Sexual Pour Homme Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>MICHEL GERMAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_6812e90e-e169-4618-8052-b4505f39d80d.png?v=1572433176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MICHEL GERMAIN<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            57.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>giftsetisdone</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332551503969</id>
+      <title>125ML Edt + 125ML A/S + 80ML Deodorant</title>
+      <s:price currency="CAD">57.95</s:price>
+      <s:sku>SET-SEXVER6544M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332551471201</id>
+    <published>2019-11-23T04:31:59-05:00</published>
+    <updated>2019-11-23T04:31:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/givenchy-very-irresistible-gift-set-women"/>
+    <title>Very Irresistible Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>GIVENCHY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_37c33687-7727-4a44-803f-f12b8448c9fd.png?v=1572519260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GIVENCHY<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            68.95 - 84.95
+            <a href="https://perfumeonline.ca/products/givenchy-very-irresistible-gift-set-women">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>Vsets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332551471201</id>
+      <title>50ML EDT + 75ML B/L + POUCH</title>
+      <s:price currency="CAD">68.95</s:price>
+      <s:sku>SET-GIVVEY50W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332551471201</id>
+      <title>50ML Edt + 15ML Mini</title>
+      <s:price currency="CAD">71.95</s:price>
+      <s:sku>SET-GIVVER502PCW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332551471201</id>
+      <title>50ML Edt + 75ML B/L + Noir Mascara</title>
+      <s:price currency="CAD">76.95</s:price>
+      <s:sku>SET-GIVVER5796W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332551471201</id>
+      <title>75ML Edt + 12.5ML Mini + 75ML B/S/G</title>
+      <s:price currency="CAD">84.95</s:price>
+      <s:sku>SET-GIVVER1954W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332551372897</id>
+    <published>2019-11-23T04:31:59-05:00</published>
+    <updated>2019-11-23T04:31:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/versace-yellow-diamond-gift-set-women"/>
+    <title>Versace Yellow Diamond Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-VERYEL8463W_spo_95cefdec-c17a-4735-a399-94f5a48784db.jpg?v=1572433175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            95.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>giftsetisdone</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332551372897</id>
+      <title>90ML Edt + 100ML B/L + Key Chain</title>
+      <s:price currency="CAD">95.95</s:price>
+      <s:sku>SET-VERYEL8463W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332551307361</id>
+    <published>2019-11-23T04:31:58-05:00</published>
+    <updated>2019-11-23T04:31:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/versace-pour-homme-gift-set-men"/>
+    <title>Versace Pour Homme Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_444ad6ce-1a23-444d-bba9-09d81f662345.png?v=1572519335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            57.95 - 84.95
+            <a href="https://perfumeonline.ca/products/versace-pour-homme-gift-set-men">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:tag>Vsets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332551307361</id>
+      <title>50ML Edt + 50ML S/G + 50ML B/S</title>
+      <s:price currency="CAD">57.95</s:price>
+      <s:sku>SET-VERPOU2744M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332551307361</id>
+      <title>100ML EDT + 7.5 ML EDT + Pouch</title>
+      <s:price currency="CAD">84.95</s:price>
+      <s:sku>SET-VERPOU6246M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332551241825</id>
+    <published>2019-11-23T04:31:58-05:00</published>
+    <updated>2019-11-23T04:31:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/versace-eros-gift-set-men"/>
+    <title>Versace Eros Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-VERERO4557M_spo_b625c274-68d2-41e6-8216-70bbd2a69b4c.jpg?v=1572433173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            58.95 - 90.95
+            <a href="https://perfumeonline.ca/products/versace-eros-gift-set-men">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>giftsetisdone</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332551241825</id>
+      <title>50ML Edt + 50ML S/G + 50ML A/S Balm</title>
+      <s:price currency="CAD">58.95</s:price>
+      <s:sku>SET-VERERO4557M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332551241825</id>
+      <title>100ML Edt + 100ML S/G</title>
+      <s:price currency="CAD">88.95</s:price>
+      <s:sku>SET-VERER3865M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332551241825</id>
+      <title>100ML Edt + 10ML Edt + 100ML A/S + 100ML S/G</title>
+      <s:price currency="CAD">90.95</s:price>
+      <s:sku>SET-VERERO6284M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332551110753</id>
+    <published>2019-11-23T04:31:57-05:00</published>
+    <updated>2019-11-23T04:31:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/versace-eau-fraiche-gift-set-men"/>
+    <title>Versace Eau Fraiche Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-VERFRA4458M_spo_41b0237c-419f-4605-8eb9-1d653c605982.jpg?v=1572433170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            57.95 - 82.95
+            <a href="https://perfumeonline.ca/products/versace-eau-fraiche-gift-set-men">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>giftsetisdone</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332551110753</id>
+      <title>50ML Edt + 50ML S/G + 50ML A/S Balm</title>
+      <s:price currency="CAD">57.95</s:price>
+      <s:sku>SET-VERFRA4458M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332551110753</id>
+      <title>100ML Edt + 100ML A/S + 100ML S/G + Key Chain</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>SET-VERFRA8586M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332551110753</id>
+      <title>100ML Edt + 10ML Edt + 100ML A/S + 100ML S/G</title>
+      <s:price currency="CAD">82.95</s:price>
+      <s:sku>SET-VERFRE6222M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332551077985</id>
+    <published>2019-11-23T04:31:57-05:00</published>
+    <updated>2019-11-23T04:31:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/versace-eros-women-gift-set"/>
+    <title>Versace Eros Women Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-VERERO6346W_spo_9b0de97c-77da-4aeb-ae10-5754b09095ae.jpg?v=1583512635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            78.95 - 101.95
+            <a href="https://perfumeonline.ca/products/versace-eros-women-gift-set">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>giftsetisdone</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332551077985</id>
+      <title>50ML Edp + 50ML B/L + 50ML S/G</title>
+      <s:price currency="CAD">78.95</s:price>
+      <s:sku>SET-VERERO6346W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332551077985</id>
+      <title>100ML Edp + 10ML Edp + POUCH</title>
+      <s:price currency="CAD">101.95</s:price>
+      <s:sku>SET-VERERO6185W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332550946913</id>
+    <published>2019-11-23T04:31:57-05:00</published>
+    <updated>2019-11-23T04:31:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/versace-dylan-blue-gift-set-men"/>
+    <title>Versace Dylan Blue Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/SET-VERDYL6260M_spo_6d8180bb-9f7a-4d18-aad8-f7d79dfb48e9.jpg?v=1572433165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            96.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>giftsetisdone</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332550946913</id>
+      <title>100ML Edt + 10ML Edt + 100ML S/G + 100ML A/S</title>
+      <s:price currency="CAD">96.95</s:price>
+      <s:sku>SET-VERDYL6260M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332550914145</id>
+    <published>2019-11-23T04:31:56-05:00</published>
+    <updated>2019-11-23T04:31:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/versace-bright-crystal-gift-set-women"/>
+    <title>Versace Bright Crystal Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/VERSACE_BRIGHT_CRYSTAL_3PC_SET_50ML_EDT_50ML_SHOWER_GEL_50ML_BODY_LOTION_WOMEN_spo_d93525de-5144-4eb0-a98c-ad82bbef3d94.jpg?v=1572433166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            79.95 - 96.95
+            <a href="https://perfumeonline.ca/products/versace-bright-crystal-gift-set-women">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>giftsetisdone</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332550914145</id>
+      <title>50ML Edt + 50ML S/G + 50ML B/L</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>SET-VERBRI1067W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332550914145</id>
+      <title>90ML Edt + 10ML Edt + Cosmetic bag</title>
+      <s:price currency="CAD">96.95</s:price>
+      <s:sku>SET-VERBRI6093W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332961038433</id>
+    <published>2019-11-23T04:31:21-05:00</published>
+    <updated>2019-11-23T04:31:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/vera-wang-gift-set-men"/>
+    <title>Vera Wang Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>VERA WANG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_e55d8aec-849c-4138-9852-5e9c503574c6.png?v=1572519330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VERA WANG<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            50.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332961038433</id>
+      <title>100ML Edt + 100ML A/S</title>
+      <s:price currency="CAD">50.95</s:price>
+      <s:sku>SET-VW1274M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332960940129</id>
+    <published>2019-11-23T04:31:21-05:00</published>
+    <updated>2019-11-23T04:31:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/v-r-spicebomb-gift-set-men"/>
+    <title>V&amp;R Spicebomb Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>VIKTOR &amp; ROLF</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_a624b229-2ac7-44ca-a0d2-96a81034276a.png?v=1572519329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VIKTOR &amp; ROLF<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            137.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332960940129</id>
+      <title>100ML Edt + 30ML Edt</title>
+      <s:price currency="CAD">137.95</s:price>
+      <s:sku>SET-VRSPI9030M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332960841825</id>
+    <published>2019-11-23T04:31:20-05:00</published>
+    <updated>2019-11-23T04:31:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/v-r-flowerbomb-gift-set-women"/>
+    <title>V&amp;R Flowerbomb Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>VIKTOR &amp; ROLF</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_9ecfc39b-e59d-4787-8855-1429ce02a7a4.png?v=1572519328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VIKTOR &amp; ROLF<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            222.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332960841825</id>
+      <title>100ML Edp + 20ML Edp</title>
+      <s:price currency="CAD">222.95</s:price>
+      <s:sku>SET-VRFLO10020W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332960743521</id>
+    <published>2019-11-23T04:31:20-05:00</published>
+    <updated>2019-11-23T04:31:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/unforgiveable-gift-set-women"/>
+    <title>Unforgiveable Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>SEAN JOHN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_cb20f005-fb6b-441b-89c8-4e3a2af9aa02.png?v=1572519326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEAN JOHN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            20.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332960743521</id>
+      <title>75ML Edp + 75ML B/L + 100ML S/G</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku>SET-SJUNF75PW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332960710753</id>
+    <published>2019-11-23T04:31:20-05:00</published>
+    <updated>2019-11-23T04:31:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/sucre-viva-la-juicy-gift-set-women"/>
+    <title>Sucre Viva La Juicy Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Juicy Couture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_941658b4-4019-4fde-8860-522a8aade8bc.png?v=1572519325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juicy Couture<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            76.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332960710753</id>
+      <title>100ML Edp + 5ML Edp</title>
+      <s:price currency="CAD">76.95</s:price>
+      <s:sku>SET-JCSUC100W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/4332960677985</id>
+    <published>2019-11-23T04:31:19-05:00</published>
+    <updated>2019-11-23T04:31:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/rl-romance-tendre-gift-set-women"/>
+    <title>Rl Romance Tendre Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>RALPH LAUREN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Image-coming-soon2_85a67e20-faac-41bb-9266-417212fad402.png?v=1572519322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RALPH LAUREN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            107.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume online at best prices. 100% authentic product. Fast delivery. Easy free returns. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GiftSetNew1</s:tag>
+    <s:tag>GiftSets</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4332960677985</id>
+      <title>100ML Edp + 75ML B/L + 75ML S/G</title>
+      <s:price currency="CAD">107.95</s:price>
+      <s:sku>SET-RLROMTEN4587W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

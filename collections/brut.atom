@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumeonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumeonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumeonline.ca/collections/brut.atom"/>
+  <title>Perfumeonline.ca</title>
+  <updated>2019-11-11T05:56:57-05:00</updated>
+  <author>
+    <name>Perfumeonline.ca</name>
+  </author>
+  <entry>
+    <id>https://perfumeonline.ca/products/4355924426849</id>
+    <published>2019-11-11T05:56:57-05:00</published>
+    <updated>2019-11-11T05:56:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/brut-black"/>
+    <title>Brut Black</title>
+    <s:type>Men</s:type>
+    <s:vendor>Brut</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/Brut-Black.png?v=1573501068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brut<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11novv2019</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/4355924426849</id>
+      <title>90ML EDC</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>BRUTBLA90M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumeonline.ca/products/9844229579</id>
+    <published>2018-11-19T12:40:39-05:00</published>
+    <updated>2018-11-19T12:40:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumeonline.ca/products/brut"/>
+    <title>Brut for Men</title>
+    <s:type>Men</s:type>
+    <s:vendor>Brut</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2170/5343/products/BrutSquareBox.jpg?v=1612782065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brut<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            13.25 - 32.45
+            <a href="https://perfumeonline.ca/products/brut">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Perfumes and Colognes for Men and Women from Canada's #1 Online Perfume Store at Lowest Prices. All Products are 100% authentic, we do not sell knock off or imitations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black-Friday</s:tag>
+    <s:tag>cf-type-men</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844229579</id>
+      <title>100ML EDT Spray</title>
+      <s:price currency="CAD">13.25</s:price>
+      <s:sku>BRUT88M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumeonline.ca/products/9844229579</id>
+      <title>800ML EDC Splash</title>
+      <s:price currency="CAD">32.45</s:price>
+      <s:sku>BRUT800M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>
